@@ -151,15 +151,15 @@ class TGLP:
     self.image_width: int = image_width
     self.image_height: int = image_height
     self.image_offset: int = image_offset
-    self.tiles_data: list[bytes] = []
+    self.image_data: list[bytes] = []
 
     for i in range(self.image_count):
-      self.tiles_data.append(data[image_offset + i * self.image_size : image_offset + (i + 1) * self.image_size])
+      self.image_data.append(data[image_offset + i * self.image_size : image_offset + (i + 1) * self.image_size])
 
   def get_bytes(self, magic_endinaness: Endianess = "<", endianess: Endianess = "<") -> bytes:
     body = bytearray()
     for i in range(self.image_count):
-      body.extend(self.tiles_data[i])
+      body.extend(self.image_data[i])
     head = (
       struct.pack(
         f"{endianess}4sI4BI6HI",
@@ -400,3 +400,59 @@ class BRFNT:
       0x02 + len(cwdhs) + len(cmaps),
     )
     return bytes(head + body)
+
+  @staticmethod
+  def compress_cmap(char_map: dict[int, int]) -> list[CMAP]:
+    cmaps = []
+    type_2_index_map = {}
+
+    char_index = 0
+    char_map_len = len(char_map)
+    while char_index < len(char_map):
+      char_code = char_map[char_index]
+
+      code_index_diff = char_code - char_index
+      window = 0x20
+      while (
+        char_index + window < char_map_len and char_map[char_index + window] - (char_index + window) == code_index_diff
+      ):
+        window += 1
+      if window > 0x20:
+        cmap = CMAP.get_blank()
+        cmap.type_section = 0
+        cmap.first_char_code = char_code
+        cmap.last_char_code = char_map[char_index + window - 1]
+        cmap.index_map = {char_map[index]: index for index in range(char_index, char_index + window)}
+        cmaps.append(cmap)
+        char_index += window
+        continue
+
+      window = 0
+      while char_index + window < char_map_len and char_map[char_index + window] - char_code <= window * 2:
+        if char_index + window > 0 and char_map[char_index + window] - char_map[char_index + window - 1] > 0x10:
+          break
+        window += 1
+
+      if window > 0x20:
+        cmap = CMAP.get_blank()
+        cmap.type_section = 1
+        cmap.first_char_code = char_code
+        cmap.last_char_code = char_map[char_index + window - 1]
+        cmap.index_map = {char_map[index]: index for index in range(char_index, char_index + window)}
+        cmaps.append(cmap)
+
+        char_index += window
+        continue
+
+      type_2_index_map[char_code] = char_index
+      char_index += 1
+      continue
+
+    cmap = CMAP.get_blank()
+    cmap.type_section = 2
+    cmap.first_char_code = min(type_2_index_map.values())
+    cmap.last_char_code = 0xFFFF
+    cmap.index_map = type_2_index_map
+    cmaps.append(cmap)
+
+    return cmaps

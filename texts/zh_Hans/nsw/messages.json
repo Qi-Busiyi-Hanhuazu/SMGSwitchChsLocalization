@@ -62,7 +62,7 @@
   {
     "key": "AstroGalaxy_SignBoard004",
     "original": "もし　お休みしたい時は\n[icon:0040]を　押しましょう\\f\n[color:01]「セーブしてやめる」[color:00]を選ぶと　[color:01]冒険を記録[color:00]して、\nお休みすることが　できます\\f\n操作に迷った時は\n[icon:0041]を　押しましょう\\f\n基本的な操作や特別なアクションを\n確認することができます",
-    "translation": "如果需要休息，请按[icon:0040]。\\f\n可以选择[color:01]“保存后退出”[color:00]来[color:01]保存冒险进度[color:00]，\n并休息一会儿。\\f\n不知道该怎么操作的时候，\n请按[icon:0041]\\f\n可以确认基本操作和特别动作。",
+    "translation": "如果需要休息，请按[icon:0040]。\\f\n可以选择[color:01]“保存后退出”[color:00]来[color:01]保存冒险进度[color:00]，\n并休息一会儿。\\f\n不知道该怎么操作的时候，\n请按[icon:0041]\\f\n可以确认基本操作和特殊动作。",
     "untranslated": true
   },
   {
@@ -450,13 +450,13 @@
   {
     "key": "PeachCastleFinalGalaxy_Kinopio061",
     "original": "あれ？　お写真がついていたので、\n[color:01]本体のアルバム[color:00]に[color:03]　送っておきました！\\f\nどんな内容か　楽しみですね～♪",
-    "translation": "哎呀？有一张照片，\n已经[color:03]发送到[color:01]主机[color:00]里了！\\f\n会是什么内容呢？敬请期待～♪",
+    "translation": "哎呀？有一张照片，\n已经[color:03]发送到[color:01]主机的相册[color:00]里了！\\f\n会是什么内容呢？敬请期待～♪",
     "untranslated": true
   },
   {
     "key": "PeachCastleFinalGalaxy_Kinopio062",
     "original": "あれれ？　お写真もあったのですが、\n[color:01]本体のアルバム[color:00]の　　調子が悪いみたいです…",
-    "translation": "哎呀呀？好像有照片，但是\n[color:01]主机[color:00]貌似有问题……",
+    "translation": "哎呀呀？好像有照片，但是\n[color:01]主机的相册[color:00]貌似有问题……",
     "untranslated": true
   },
   {

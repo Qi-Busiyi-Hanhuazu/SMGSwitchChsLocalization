@@ -111,32 +111,32 @@
   {
     "index": 18,
     "key": "AstroDome_Butler001",
-    "original": "这些星星是从这个[color:01]圆顶[color:00]能观测到的[color:01]银河[color:00]。\f\n上面的[color:01]数字[color:00]表明了它们与[color:03]天文台\n[color:00]之间的距离和到达那里所需的[color:01]动力[color:00]。\f\n在救出更多的[icon:0007][color:01]力量之星[color:00]，\n得到更多的动力之后，\f\n我们就可以去[color:03]更远的银河[color:00]了。",
-    "translation": "这些星星是从这个[color:01]圆顶[color:00]能观测到的[color:01]银河[color:00]。\f\n上面的[color:01]数字[color:00]表明了它们与[color:03]天文台\n[color:00]之间的距离和到达那里所需的[color:01]动力[color:00]。\f\n在救出更多的[icon:0007][color:01]力量之星[color:00]，\n得到更多的动力之后，\f\n我们就可以去[color:03]更远的银河[color:00]了。"
+    "original": "这些星星是从这个[color:01]圆顶[color:00]能观测到的[color:01]银河[color:00]。\\f\n上面的[color:01]数字[color:00]表明了它们与[color:03]天文台\n[color:00]之间的距离和到达那里所需的[color:01]动力[color:00]。\\f\n在救出更多的[icon:0007][color:01]力量之星[color:00]，\n得到更多的动力之后，\\f\n我们就可以去[color:03]更远的银河[color:00]了。",
+    "translation": "这些星星是从这个[color:01]圆顶[color:00]能观测到的[color:01]银河[color:00]。\\f\n上面的[color:01]数字[color:00]表明了它们与[color:03]天文台\n[color:00]之间的距离和到达那里所需的[color:01]动力[color:00]。\\f\n在救出更多的[icon:0007][color:01]力量之星[color:00]，\n得到更多的动力之后，\\f\n我们就可以去[color:03]更远的银河[color:00]了。"
   },
   {
     "index": 19,
     "key": "AstroDome_Butler002",
-    "original": "我们在最近的[color:03]银河[color:00]里\n侦测到了[icon:0007][color:01]力量之星[color:00]。\f\n但邪恶的力量是非同一般的强大！[wait:001e]\n请务必小心……",
-    "translation": "我们在最近的[color:03]银河[color:00]里\n侦测到了[icon:0007][color:01]力量之星[color:00]。\f\n但邪恶的力量是非同一般的强大！[wait:001e]\n请务必小心……"
+    "original": "我们在最近的[color:03]银河[color:00]里\n侦测到了[icon:0007][color:01]力量之星[color:00]。\\f\n但邪恶的力量是非同一般的强大！[wait:001e]\n请务必小心……",
+    "translation": "我们在最近的[color:03]银河[color:00]里\n侦测到了[icon:0007][color:01]力量之星[color:00]。\\f\n但邪恶的力量是非同一般的强大！[wait:001e]\n请务必小心……"
   },
   {
     "index": 20,
     "key": "AstroDome_Butler003",
-    "original": "干得好！勇敢的冒险者！[wait:001e]\n你发现了新的[color:01]银河[color:00]！\f\n收集[icon:0007][color:01]力量之星[color:00]可以扩大我们的视野，\n或许还能发现[color:03]敌人根据地[color:00]……",
-    "translation": "干得好！勇敢的冒险者！[wait:001e]\n你发现了新的[color:01]银河[color:00]！\f\n收集[icon:0007][color:01]力量之星[color:00]可以扩大我们的视野，\n或许还能发现[color:03]敌人根据地[color:00]……"
+    "original": "干得好！勇敢的冒险者！[wait:001e]\n你发现了新的[color:01]银河[color:00]！\\f\n收集[icon:0007][color:01]力量之星[color:00]可以扩大我们的视野，\n或许还能发现[color:03]敌人根据地[color:00]……",
+    "translation": "干得好！勇敢的冒险者！[wait:001e]\n你发现了新的[color:01]银河[color:00]！\\f\n收集[icon:0007][color:01]力量之星[color:00]可以扩大我们的视野，\n或许还能发现[color:03]敌人根据地[color:00]……"
   },
   {
     "index": 21,
     "key": "AstroDome_Butler006",
-    "original": "我们发现了[color:03]前线基地[color:00]！\f\n希望他们还没有将[icon:001b][color:01]崇高之星[color:00]的力量\n用在邪恶之处……",
-    "translation": "我们发现了[color:03]前线基地[color:00]！\f\n希望他们还没有将[icon:001b][color:01]崇高之星[color:00]的力量\n用在邪恶之处……"
+    "original": "我们发现了[color:03]前线基地[color:00]！\\f\n希望他们还没有将[icon:001b][color:01]崇高之星[color:00]的力量\n用在邪恶之处……",
+    "translation": "我们发现了[color:03]前线基地[color:00]！\\f\n希望他们还没有将[icon:001b][color:01]崇高之星[color:00]的力量\n用在邪恶之处……"
   },
   {
     "index": 22,
     "key": "AstroDome_Butler007",
-    "original": "发现[color:03]敌人基地[color:00]！\n我们侦测到那里存在着极强的[color:01]能量[color:00]！\f\n他们究竟在做什么？",
-    "translation": "发现[color:03]敌人基地[color:00]！\n我们侦测到那里存在着极强的[color:01]能量[color:00]！\f\n他们究竟在做什么？"
+    "original": "发现[color:03]敌人基地[color:00]！\n我们侦测到那里存在着极强的[color:01]能量[color:00]！\\f\n他们究竟在做什么？",
+    "translation": "发现[color:03]敌人基地[color:00]！\n我们侦测到那里存在着极强的[color:01]能量[color:00]！\\f\n他们究竟在做什么？"
   },
   {
     "index": 23,
@@ -160,8 +160,8 @@
   {
     "index": 26,
     "key": "AstroDome_Butler012",
-    "original": "注意到那些发光的[icon:000b][color:01]星屑[color:00]了吗？\f\n它们被称为[icon:000b][color:01]星之碎屑[color:00]，\n是琪琪[color:03]最喜爱的食物[color:00]，也是力量的来源。\f\n用[icon:000a][color:01]点示[color:00]拾取。\n用[icon:000a]瞄准目标，按[icon:0001][color:01]射击[color:00]对方。",
-    "translation": "注意到那些发光的[icon:000b][color:01]星屑[color:00]了吗？\f\n它们被称为[icon:000b][color:01]星之碎屑[color:00]，\n是琪琪[color:03]最喜爱的食物[color:00]，也是力量的来源。\f\n用[icon:000a][color:01]点示[color:00]拾取。\n用[icon:000a]瞄准目标，按[icon:0001][color:01]射击[color:00]对方。"
+    "original": "注意到那些发光的[icon:000b][color:01]星屑[color:00]了吗？\\f\n它们被称为[icon:000b][color:01]星之碎屑[color:00]，\n是琪琪[color:03]最喜爱的食物[color:00]，也是力量的来源。\\f\n用[icon:000a][color:01]点示[color:00]拾取。\n用[icon:000a]瞄准目标，按[icon:0001][color:01]射击[color:00]对方。",
+    "translation": "注意到那些发光的[icon:000b][color:01]星屑[color:00]了吗？\\f\n它们被称为[icon:000b][color:01]星之碎屑[color:00]，\n是琪琪[color:03]最喜爱的食物[color:00]，也是力量的来源。\\f\n用[icon:000a][color:01]点示[color:00]拾取。\n用[icon:000a]瞄准目标，按[icon:0001][color:01]射击[color:00]对方。"
   },
   {
     "index": 27,
@@ -185,8 +185,8 @@
   {
     "index": 30,
     "key": "AstroDome_Butler016",
-    "original": "你既可以[color:03]向敌人射击[color:00][icon:000b][color:01]星之碎屑[color:00]，\n也可以分一些给[color:03]贪吃琪琪[color:00]。\f\n不管怎样，在今后的冒险中，\n它们一定会对你有所帮助的！",
-    "translation": "你既可以[color:03]向敌人射击[color:00][icon:000b][color:01]星之碎屑[color:00]，\n也可以分一些给[color:03]贪吃琪琪[color:00]。\f\n不管怎样，在今后的冒险中，\n它们一定会对你有所帮助的！"
+    "original": "你既可以[color:03]向敌人射击[color:00][icon:000b][color:01]星之碎屑[color:00]，\n也可以分一些给[color:03]贪吃琪琪[color:00]。\\f\n不管怎样，在今后的冒险中，\n它们一定会对你有所帮助的！",
+    "translation": "你既可以[color:03]向敌人射击[color:00][icon:000b][color:01]星之碎屑[color:00]，\n也可以分一些给[color:03]贪吃琪琪[color:00]。\\f\n不管怎样，在今后的冒险中，\n它们一定会对你有所帮助的！"
   },
   {
     "index": 31,
@@ -228,14 +228,14 @@
   {
     "index": 37,
     "key": "AstroDome_Butler023",
-    "original": "欢迎光临！[wait:001e]这个[color:01]圆顶[color:00]如同天文台的眼睛，\n我们可以从这里看到远处的[color:03]银河[color:00]。\f\n当这个琪琪变成[color:01][icon:0009]牵引星[color:00]之后，\n它将指引你前往那些遥远的[color:03]银河[color:00]。\f\n方法很简单，用[icon:000a]瞄准[color:01][icon:0009]牵引星[color:00]，[color:01]\n[color:00]按[icon:0000]就可以了。",
-    "translation": "欢迎光临！[wait:001e]这个[color:01]圆顶[color:00]如同天文台的眼睛，\n我们可以从这里看到远处的[color:03]银河[color:00]。\f\n当这个琪琪变成[color:01][icon:0009]牵引星[color:00]之后，\n它将指引你前往那些遥远的[color:03]银河[color:00]。\f\n方法很简单，用[icon:000a]瞄准[color:01][icon:0009]牵引星[color:00]，[color:01]\n[color:00]按[icon:0000]就可以了。"
+    "original": "欢迎光临！[wait:001e]这个[color:01]圆顶[color:00]如同天文台的眼睛，\n我们可以从这里看到远处的[color:03]银河[color:00]。\\f\n当这个琪琪变成[color:01][icon:0009]牵引星[color:00]之后，\n它将指引你前往那些遥远的[color:03]银河[color:00]。\\f\n方法很简单，用[icon:000a]瞄准[color:01][icon:0009]牵引星[color:00]，[color:01]\n[color:00]按[icon:0000]就可以了。",
+    "translation": "欢迎光临！[wait:001e]这个[color:01]圆顶[color:00]如同天文台的眼睛，\n我们可以从这里看到远处的[color:03]银河[color:00]。\\f\n当这个琪琪变成[color:01][icon:0009]牵引星[color:00]之后，\n它将指引你前往那些遥远的[color:03]银河[color:00]。\\f\n方法很简单，用[icon:000a]瞄准[color:01][icon:0009]牵引星[color:00]，[color:01]\n[color:00]按[icon:0000]就可以了。"
   },
   {
     "index": 38,
     "key": "AstroDome_Butler025",
-    "original": "这个琪琪变身后将指引你前往银河。\f\n方法很简单，用[icon:000a]瞄准[color:01][icon:0009]牵引星[color:00]，[color:01]\n[color:00]按[icon:0000]就可以了。",
-    "translation": "这个琪琪变身后将指引你前往银河。\f\n方法很简单，用[icon:000a]瞄准[color:01][icon:0009]牵引星[color:00]，[color:01]\n[color:00]按[icon:0000]就可以了。"
+    "original": "这个琪琪变身后将指引你前往银河。\\f\n方法很简单，用[icon:000a]瞄准[color:01][icon:0009]牵引星[color:00]，[color:01]\n[color:00]按[icon:0000]就可以了。",
+    "translation": "这个琪琪变身后将指引你前往银河。\\f\n方法很简单，用[icon:000a]瞄准[color:01][icon:0009]牵引星[color:00]，[color:01]\n[color:00]按[icon:0000]就可以了。"
   },
   {
     "index": 39,
@@ -340,8 +340,8 @@
   {
     "index": 55,
     "key": "AstroGalaxy_Butler011",
-    "original": "你知道[icon:0007][color:02]绿色力量之星\n[color:00]有着[color:03]特别的力量[color:00]吗？\f\n去问问[icon:0007][color:02]绿色力量之星[color:00]的化身[color:02]绿琪琪[color:00]吧。",
-    "translation": "你知道[icon:0007][color:02]绿色力量之星\n[color:00]有着[color:03]特别的力量[color:00]吗？\f\n去问问[icon:0007][color:02]绿色力量之星[color:00]的化身[color:02]绿琪琪[color:00]吧。"
+    "original": "你知道[icon:0007][color:02]绿色力量之星\n[color:00]有着[color:03]特别的力量[color:00]吗？\\f\n去问问[icon:0007][color:02]绿色力量之星[color:00]的化身[color:02]绿琪琪[color:00]吧。",
+    "translation": "你知道[icon:0007][color:02]绿色力量之星\n[color:00]有着[color:03]特别的力量[color:00]吗？\\f\n去问问[icon:0007][color:02]绿色力量之星[color:00]的化身[color:02]绿琪琪[color:00]吧。"
   },
   {
     "index": 56,
@@ -359,14 +359,14 @@
   {
     "index": 58,
     "key": "AstroGalaxy_ButlerExplain011",
-    "original": "嚯……天文台的[color:01]灯塔[color:00]又亮起来了！\f\n虽然光线还只有六等星的亮度，\n但至少琪琪们能安心地住下去了。",
-    "translation": "嚯……天文台的[color:01]灯塔[color:00]又亮起来了！\f\n虽然光线还只有六等星的亮度，\n但至少琪琪们能安心地住下去了。"
+    "original": "嚯……天文台的[color:01]灯塔[color:00]又亮起来了！\\f\n虽然光线还只有六等星的亮度，\n但至少琪琪们能安心地住下去了。",
+    "translation": "嚯……天文台的[color:01]灯塔[color:00]又亮起来了！\\f\n虽然光线还只有六等星的亮度，\n但至少琪琪们能安心地住下去了。"
   },
   {
     "index": 59,
     "key": "AstroGalaxy_ButlerExplain012",
-    "original": "这样的话，我们就能恢复\n[color:03]长尾星天文台[color:00]作为[color:03]星船[color:00]的功能。\f\n然后，我们就可以追查夺走\n[icon:0007][color:04]力量之星[color:00]的敌人的行踪了。",
-    "translation": "这样的话，我们就能恢复\n[color:03]长尾星天文台[color:00]作为[color:03]星船[color:00]的功能。\f\n然后，我们就可以追查夺走\n[icon:0007][color:04]力量之星[color:00]的敌人的行踪了。"
+    "original": "这样的话，我们就能恢复\n[color:03]长尾星天文台[color:00]作为[color:03]星船[color:00]的功能。\\f\n然后，我们就可以追查夺走\n[icon:0007][color:04]力量之星[color:00]的敌人的行踪了。",
+    "translation": "这样的话，我们就能恢复\n[color:03]长尾星天文台[color:00]作为[color:03]星船[color:00]的功能。\\f\n然后，我们就可以追查夺走\n[icon:0007][color:04]力量之星[color:00]的敌人的行踪了。"
   },
   {
     "index": 60,
@@ -390,8 +390,8 @@
   {
     "index": 63,
     "key": "AstroGalaxy_ButlerMap003",
-    "original": "新开启的[color:01]圆顶[color:00]叫[color:01]浴室[color:00]，\n一个让人放松的地方。\f\n对了，你看过[color:01]地图[color:00]了吗？\f\n上面除了[color:01]圆顶[color:00]之外，\n还有发现的[color:03]银河[color:00]及各种信息。\f\n如果你忘了[color:01]圆顶[color:00]的位置，\n就尽管来找[color:03]我[color:00]好了。",
-    "translation": "新开启的[color:01]圆顶[color:00]叫[color:01]浴室[color:00]，\n一个让人放松的地方。\f\n对了，你看过[color:01]地图[color:00]了吗？\f\n上面除了[color:01]圆顶[color:00]之外，\n还有发现的[color:03]银河[color:00]及各种信息。\f\n如果你忘了[color:01]圆顶[color:00]的位置，\n就尽管来找[color:03]我[color:00]好了。"
+    "original": "新开启的[color:01]圆顶[color:00]叫[color:01]浴室[color:00]，\n一个让人放松的地方。\\f\n对了，你看过[color:01]地图[color:00]了吗？\\f\n上面除了[color:01]圆顶[color:00]之外，\n还有发现的[color:03]银河[color:00]及各种信息。\\f\n如果你忘了[color:01]圆顶[color:00]的位置，\n就尽管来找[color:03]我[color:00]好了。",
+    "translation": "新开启的[color:01]圆顶[color:00]叫[color:01]浴室[color:00]，\n一个让人放松的地方。\\f\n对了，你看过[color:01]地图[color:00]了吗？\\f\n上面除了[color:01]圆顶[color:00]之外，\n还有发现的[color:03]银河[color:00]及各种信息。\\f\n如果你忘了[color:01]圆顶[color:00]的位置，\n就尽管来找[color:03]我[color:00]好了。"
   },
   {
     "index": 64,
@@ -402,8 +402,8 @@
   {
     "index": 65,
     "key": "AstroGalaxy_ButlerMap005",
-    "original": "这张[color:01]地图[color:00]不仅标明了圆顶的位置，\n也记录了你所发现的[color:03]银河[color:00]。\f\n在上面还能观察异常的空间状况。\n真是太棒了！",
-    "translation": "这张[color:01]地图[color:00]不仅标明了圆顶的位置，\n也记录了你所发现的[color:03]银河[color:00]。\f\n在上面还能观察异常的空间状况。\n真是太棒了！"
+    "original": "这张[color:01]地图[color:00]不仅标明了圆顶的位置，\n也记录了你所发现的[color:03]银河[color:00]。\\f\n在上面还能观察异常的空间状况。\n真是太棒了！",
+    "translation": "这张[color:01]地图[color:00]不仅标明了圆顶的位置，\n也记录了你所发现的[color:03]银河[color:00]。\\f\n在上面还能观察异常的空间状况。\n真是太棒了！"
   },
   {
     "index": 66,
@@ -449,8 +449,8 @@
   {
     "index": 72,
     "key": "AstroGalaxy_Kinopio006",
-    "original": "[unk5:00]先生！我们总算赶到了！\f\n我们会帮助你拿到[icon:0007][color:01]力量之星[color:00]，\n并拯救[color:01]桃花公主[color:00]！\f\n相信我们好了，[unk5:00]先生！\n你就等着胜利的消息吧！",
-    "translation": "[unk5:00]先生！我们总算赶到了！\f\n我们会帮助你拿到[icon:0007][color:01]力量之星[color:00]，\n并拯救[color:01]桃花公主[color:00]！\f\n相信我们好了，[unk5:00]先生！\n你就等着胜利的消息吧！"
+    "original": "[unk5:00]先生！我们总算赶到了！\\f\n我们会帮助你拿到[icon:0007][color:01]力量之星[color:00]，\n并拯救[color:01]桃花公主[color:00]！\\f\n相信我们好了，[unk5:00]先生！\n你就等着胜利的消息吧！",
+    "translation": "[unk5:00]先生！我们总算赶到了！\\f\n我们会帮助你拿到[icon:0007][color:01]力量之星[color:00]，\n并拯救[color:01]桃花公主[color:00]！\\f\n相信我们好了，[unk5:00]先生！\n你就等着胜利的消息吧！"
   },
   {
     "index": 73,
@@ -461,8 +461,8 @@
   {
     "index": 74,
     "key": "AstroGalaxy_Kinopio008",
-    "original": "我们刚刚造好了[color:03]蘑菇飞船[color:00]，\n可以用它来寻找[icon:0007][color:01]力量之星[color:00]！\f\n而驾驶这艘船的自然是，\n勇敢的[color:01]奇诺比奥探险队[color:00]！\f\n这支探险队需要一名无畏的[color:01]队长[color:00]。\n我将提名……[wait:000f]嗯……[wait:000f]那个……[wait:000f]我自己！\f\n在我的指挥下，整个[color:03]银河[color:00]都将\n见证[color:01]奇诺比奥探险队[color:00]的勇气！",
-    "translation": "我们刚刚造好了[color:03]蘑菇飞船[color:00]，\n可以用它来寻找[icon:0007][color:01]力量之星[color:00]！\f\n而驾驶这艘船的自然是，\n勇敢的[color:01]奇诺比奥探险队[color:00]！\f\n这支探险队需要一名无畏的[color:01]队长[color:00]。\n我将提名……[wait:000f]嗯……[wait:000f]那个……[wait:000f]我自己！\f\n在我的指挥下，整个[color:03]银河[color:00]都将\n见证[color:01]奇诺比奥探险队[color:00]的勇气！"
+    "original": "我们刚刚造好了[color:03]蘑菇飞船[color:00]，\n可以用它来寻找[icon:0007][color:01]力量之星[color:00]！\\f\n而驾驶这艘船的自然是，\n勇敢的[color:01]奇诺比奥探险队[color:00]！\\f\n这支探险队需要一名无畏的[color:01]队长[color:00]。\n我将提名……[wait:000f]嗯……[wait:000f]那个……[wait:000f]我自己！\\f\n在我的指挥下，整个[color:03]银河[color:00]都将\n见证[color:01]奇诺比奥探险队[color:00]的勇气！",
+    "translation": "我们刚刚造好了[color:03]蘑菇飞船[color:00]，\n可以用它来寻找[icon:0007][color:01]力量之星[color:00]！\\f\n而驾驶这艘船的自然是，\n勇敢的[color:01]奇诺比奥探险队[color:00]！\\f\n这支探险队需要一名无畏的[color:01]队长[color:00]。\n我将提名……[wait:000f]嗯……[wait:000f]那个……[wait:000f]我自己！\\f\n在我的指挥下，整个[color:03]银河[color:00]都将\n见证[color:01]奇诺比奥探险队[color:00]的勇气！"
   },
   {
     "index": 75,
@@ -473,8 +473,8 @@
   {
     "index": 76,
     "key": "AstroGalaxy_Kinopio012",
-    "original": "[color:03]天文台[color:00]变得更明亮了，\n能去的地方也增加了！\f\n接下来会更忙——喽！",
-    "translation": "[color:03]天文台[color:00]变得更明亮了，\n能去的地方也增加了！\f\n接下来会更忙——喽！"
+    "original": "[color:03]天文台[color:00]变得更明亮了，\n能去的地方也增加了！\\f\n接下来会更忙——喽！",
+    "translation": "[color:03]天文台[color:00]变得更明亮了，\n能去的地方也增加了！\\f\n接下来会更忙——喽！"
   },
   {
     "index": 77,
@@ -521,8 +521,8 @@
   {
     "index": 84,
     "key": "AstroGalaxy_Kinopio020",
-    "original": "[unk5:00]先生！\n你找到最后一颗[icon:001b][color:01]崇高之星[color:00]了？\f\n那我们可以直捣[color:01]酷霸王[color:00]的老巢了！",
-    "translation": "[unk5:00]先生！\n你找到最后一颗[icon:001b][color:01]崇高之星[color:00]了？\f\n那我们可以直捣[color:01]酷霸王[color:00]的老巢了！"
+    "original": "[unk5:00]先生！\n你找到最后一颗[icon:001b][color:01]崇高之星[color:00]了？\\f\n那我们可以直捣[color:01]酷霸王[color:00]的老巢了！",
+    "translation": "[unk5:00]先生！\n你找到最后一颗[icon:001b][color:01]崇高之星[color:00]了？\\f\n那我们可以直捣[color:01]酷霸王[color:00]的老巢了！"
   },
   {
     "index": 85,
@@ -533,8 +533,8 @@
   {
     "index": 86,
     "key": "AstroGalaxy_Kinopio022",
-    "original": "是时候了！[color:01]酷霸王[color:00]！[wait:001e]\n英勇的[color:01]奇诺比奥队长[color:00]来讨伐你了！\f\n……[wait:000f]哎哟[wait:000f]……[wait:000f]头怎么痛起来了？[wait:001e]\n……[wait:000f]哎呀[wait:000f]……[wait:000f]难道是感冒了？\f\n别管我了！现在的我只会拖大家的后腿！\n与[color:01]酷霸王[color:00]决战只能交给你了，[unk5:00]先生！",
-    "translation": "是时候了！[color:01]酷霸王[color:00]！[wait:001e]\n英勇的[color:01]奇诺比奥队长[color:00]来讨伐你了！\f\n……[wait:000f]哎哟[wait:000f]……[wait:000f]头怎么痛起来了？[wait:001e]\n……[wait:000f]哎呀[wait:000f]……[wait:000f]难道是感冒了？\f\n别管我了！现在的我只会拖大家的后腿！\n与[color:01]酷霸王[color:00]决战只能交给你了，[unk5:00]先生！"
+    "original": "是时候了！[color:01]酷霸王[color:00]！[wait:001e]\n英勇的[color:01]奇诺比奥队长[color:00]来讨伐你了！\\f\n……[wait:000f]哎哟[wait:000f]……[wait:000f]头怎么痛起来了？[wait:001e]\n……[wait:000f]哎呀[wait:000f]……[wait:000f]难道是感冒了？\\f\n别管我了！现在的我只会拖大家的后腿！\n与[color:01]酷霸王[color:00]决战只能交给你了，[unk5:00]先生！",
+    "translation": "是时候了！[color:01]酷霸王[color:00]！[wait:001e]\n英勇的[color:01]奇诺比奥队长[color:00]来讨伐你了！\\f\n……[wait:000f]哎哟[wait:000f]……[wait:000f]头怎么痛起来了？[wait:001e]\n……[wait:000f]哎呀[wait:000f]……[wait:000f]难道是感冒了？\\f\n别管我了！现在的我只会拖大家的后腿！\n与[color:01]酷霸王[color:00]决战只能交给你了，[unk5:00]先生！"
   },
   {
     "index": 87,
@@ -545,8 +545,8 @@
   {
     "index": 88,
     "key": "AstroGalaxy_Kinopio025",
-    "original": "这里好像是那个[color:01]罗莎塔[color:00]控制的\n[color:03]移动基地[color:00]。\f\n但说回来，她到底是谁？[wait:001e]\n难道是……女巫？！\f\n不……这太荒谬了。",
-    "translation": "这里好像是那个[color:01]罗莎塔[color:00]控制的\n[color:03]移动基地[color:00]。\f\n但说回来，她到底是谁？[wait:001e]\n难道是……女巫？！\f\n不……这太荒谬了。"
+    "original": "这里好像是那个[color:01]罗莎塔[color:00]控制的\n[color:03]移动基地[color:00]。\\f\n但说回来，她到底是谁？[wait:001e]\n难道是……女巫？！\\f\n不……这太荒谬了。",
+    "translation": "这里好像是那个[color:01]罗莎塔[color:00]控制的\n[color:03]移动基地[color:00]。\\f\n但说回来，她到底是谁？[wait:001e]\n难道是……女巫？！\\f\n不……这太荒谬了。"
   },
   {
     "index": 89,
@@ -557,8 +557,8 @@
   {
     "index": 90,
     "key": "AstroGalaxy_Kinopio029",
-    "original": "你从[color:01]酷霸王Jr.[color:00]机器人那里\n夺回了一颗[icon:001b][color:01]崇高之星[color:00]？！\f\n这就是说，[color:01]酷霸王[color:00]也是罗莎塔的[color:03]敌人[color:00]。\f\n好吧，看来必须借助罗莎塔的力量，\n找出[color:01]酷霸王的藏身之处[color:00]！",
-    "translation": "你从[color:01]酷霸王Jr.[color:00]机器人那里\n夺回了一颗[icon:001b][color:01]崇高之星[color:00]？！\f\n这就是说，[color:01]酷霸王[color:00]也是罗莎塔的[color:03]敌人[color:00]。\f\n好吧，看来必须借助罗莎塔的力量，\n找出[color:01]酷霸王的藏身之处[color:00]！"
+    "original": "你从[color:01]酷霸王Jr.[color:00]机器人那里\n夺回了一颗[icon:001b][color:01]崇高之星[color:00]？！\\f\n这就是说，[color:01]酷霸王[color:00]也是罗莎塔的[color:03]敌人[color:00]。\\f\n好吧，看来必须借助罗莎塔的力量，\n找出[color:01]酷霸王的藏身之处[color:00]！",
+    "translation": "你从[color:01]酷霸王Jr.[color:00]机器人那里\n夺回了一颗[icon:001b][color:01]崇高之星[color:00]？！\\f\n这就是说，[color:01]酷霸王[color:00]也是罗莎塔的[color:03]敌人[color:00]。\\f\n好吧，看来必须借助罗莎塔的力量，\n找出[color:01]酷霸王的藏身之处[color:00]！"
   },
   {
     "index": 91,
@@ -581,26 +581,26 @@
   {
     "index": 94,
     "key": "AstroGalaxy_Kinopio034",
-    "original": "如果你拿到[icon:001b][color:04]崇高之星[color:00]，\n天文台能量就会恢复，[color:01]圆顶[color:00]就会开启……\f\n那样我们就能观测到[color:03]新的银河[color:00]，\n寻找到更多的[icon:0007][color:04]力量之星[color:00]……\f\n当你依次从[color:01]圆顶[color:00]眺望宇宙时，\n或许还能发现[color:01]酷霸王[color:00]的下落。",
-    "translation": "如果你拿到[icon:001b][color:04]崇高之星[color:00]，\n天文台能量就会恢复，[color:01]圆顶[color:00]就会开启……\f\n那样我们就能观测到[color:03]新的银河[color:00]，\n寻找到更多的[icon:0007][color:04]力量之星[color:00]……\f\n当你依次从[color:01]圆顶[color:00]眺望宇宙时，\n或许还能发现[color:01]酷霸王[color:00]的下落。"
+    "original": "如果你拿到[icon:001b][color:04]崇高之星[color:00]，\n天文台能量就会恢复，[color:01]圆顶[color:00]就会开启……\\f\n那样我们就能观测到[color:03]新的银河[color:00]，\n寻找到更多的[icon:0007][color:04]力量之星[color:00]……\\f\n当你依次从[color:01]圆顶[color:00]眺望宇宙时，\n或许还能发现[color:01]酷霸王[color:00]的下落。",
+    "translation": "如果你拿到[icon:001b][color:04]崇高之星[color:00]，\n天文台能量就会恢复，[color:01]圆顶[color:00]就会开启……\\f\n那样我们就能观测到[color:03]新的银河[color:00]，\n寻找到更多的[icon:0007][color:04]力量之星[color:00]……\\f\n当你依次从[color:01]圆顶[color:00]眺望宇宙时，\n或许还能发现[color:01]酷霸王[color:00]的下落。"
   },
   {
     "index": 95,
     "key": "AstroGalaxy_Kinopio035",
-    "original": "再拿到一颗[icon:001b][color:01]崇高之星[color:00]，\n就可以观测到[color:03]更广阔的宇宙[color:00]了……\f\n然后我们就能访问更多的[color:03]银河[color:00]了！",
-    "translation": "再拿到一颗[icon:001b][color:01]崇高之星[color:00]，\n就可以观测到[color:03]更广阔的宇宙[color:00]了……\f\n然后我们就能访问更多的[color:03]银河[color:00]了！"
+    "original": "再拿到一颗[icon:001b][color:01]崇高之星[color:00]，\n就可以观测到[color:03]更广阔的宇宙[color:00]了……\\f\n然后我们就能访问更多的[color:03]银河[color:00]了！",
+    "translation": "再拿到一颗[icon:001b][color:01]崇高之星[color:00]，\n就可以观测到[color:03]更广阔的宇宙[color:00]了……\\f\n然后我们就能访问更多的[color:03]银河[color:00]了！"
   },
   {
     "index": 96,
     "key": "AstroGalaxy_Kinopio036",
-    "original": "从现在开始，[icon:001c][color:02]路易吉[color:00]先生也会\n帮忙寻找[color:01]力量之星[color:00]了！\f\n这可真是帮了大忙啊～！[wait:001e]\n喔哟，你就是[icon:001c][color:02]本人[color:00]啊！",
-    "translation": "从现在开始，[icon:001c][color:02]路易吉[color:00]先生也会\n帮忙寻找[color:01]力量之星[color:00]了！\f\n这可真是帮了大忙啊～！[wait:001e]\n喔哟，你就是[icon:001c][color:02]本人[color:00]啊！"
+    "original": "从现在开始，[icon:001c][color:02]路易吉[color:00]先生也会\n帮忙寻找[color:01]力量之星[color:00]了！\\f\n这可真是帮了大忙啊～！[wait:001e]\n喔哟，你就是[icon:001c][color:02]本人[color:00]啊！",
+    "translation": "从现在开始，[icon:001c][color:02]路易吉[color:00]先生也会\n帮忙寻找[color:01]力量之星[color:00]了！\\f\n这可真是帮了大忙啊～！[wait:001e]\n喔哟，你就是[icon:001c][color:02]本人[color:00]啊！"
   },
   {
     "index": 97,
     "key": "AstroGalaxy_Kinopio037",
-    "original": "从现在开始，[icon:001c][color:02]路易吉[color:00]先生也会\n帮忙寻找[color:01]力量之星[color:00]了！\f\n这可真是帮了大忙啊～！[wait:001e]\n毕竟他是[color:01]马力欧[color:00]的[icon:001c][color:02]弟弟[color:00]嘛！",
-    "translation": "从现在开始，[icon:001c][color:02]路易吉[color:00]先生也会\n帮忙寻找[color:01]力量之星[color:00]了！\f\n这可真是帮了大忙啊～！[wait:001e]\n毕竟他是[color:01]马力欧[color:00]的[icon:001c][color:02]弟弟[color:00]嘛！"
+    "original": "从现在开始，[icon:001c][color:02]路易吉[color:00]先生也会\n帮忙寻找[color:01]力量之星[color:00]了！\\f\n这可真是帮了大忙啊～！[wait:001e]\n毕竟他是[color:01]马力欧[color:00]的[icon:001c][color:02]弟弟[color:00]嘛！",
+    "translation": "从现在开始，[icon:001c][color:02]路易吉[color:00]先生也会\n帮忙寻找[color:01]力量之星[color:00]了！\\f\n这可真是帮了大忙啊～！[wait:001e]\n毕竟他是[color:01]马力欧[color:00]的[icon:001c][color:02]弟弟[color:00]嘛！"
   },
   {
     "index": 98,
@@ -611,8 +611,8 @@
   {
     "index": 99,
     "key": "AstroGalaxy_Kinopio039",
-    "original": "[color:01]酷霸王[color:00]正在收集[icon:0007][color:01]力量之星[color:00]，\n企图成为[color:03]宇宙霸主[color:00]！\f\n我们绝不能让这一切发生！",
-    "translation": "[color:01]酷霸王[color:00]正在收集[icon:0007][color:01]力量之星[color:00]，\n企图成为[color:03]宇宙霸主[color:00]！\f\n我们绝不能让这一切发生！"
+    "original": "[color:01]酷霸王[color:00]正在收集[icon:0007][color:01]力量之星[color:00]，\n企图成为[color:03]宇宙霸主[color:00]！\\f\n我们绝不能让这一切发生！",
+    "translation": "[color:01]酷霸王[color:00]正在收集[icon:0007][color:01]力量之星[color:00]，\n企图成为[color:03]宇宙霸主[color:00]！\\f\n我们绝不能让这一切发生！"
   },
   {
     "index": 100,
@@ -623,8 +623,8 @@
   {
     "index": 101,
     "key": "AstroGalaxy_Kinopio041",
-    "original": "拿到[icon:001b][color:01]崇高之星[color:00]后，\n这里变得明亮多了！\f\n你不打算去[color:01]上层[color:00]看看吗？",
-    "translation": "拿到[icon:001b][color:01]崇高之星[color:00]后，\n这里变得明亮多了！\f\n你不打算去[color:01]上层[color:00]看看吗？"
+    "original": "拿到[icon:001b][color:01]崇高之星[color:00]后，\n这里变得明亮多了！\\f\n你不打算去[color:01]上层[color:00]看看吗？",
+    "translation": "拿到[icon:001b][color:01]崇高之星[color:00]后，\n这里变得明亮多了！\\f\n你不打算去[color:01]上层[color:00]看看吗？"
   },
   {
     "index": 102,
@@ -635,8 +635,8 @@
   {
     "index": 103,
     "key": "AstroGalaxy_Kinopio043",
-    "original": "看来我们还需要更多的[icon:0007][color:01]力量之星\n[color:00]来寻找[color:01]酷霸王根据地[color:00]。\f\n回到之前去过的[color:03]银河[color:00]看看吧，\n也许会有遗漏的[icon:0007][color:01]力量之星[color:00]！",
-    "translation": "看来我们还需要更多的[icon:0007][color:01]力量之星\n[color:00]来寻找[color:01]酷霸王根据地[color:00]。\f\n回到之前去过的[color:03]银河[color:00]看看吧，\n也许会有遗漏的[icon:0007][color:01]力量之星[color:00]！"
+    "original": "看来我们还需要更多的[icon:0007][color:01]力量之星\n[color:00]来寻找[color:01]酷霸王根据地[color:00]。\\f\n回到之前去过的[color:03]银河[color:00]看看吧，\n也许会有遗漏的[icon:0007][color:01]力量之星[color:00]！",
+    "translation": "看来我们还需要更多的[icon:0007][color:01]力量之星\n[color:00]来寻找[color:01]酷霸王根据地[color:00]。\\f\n回到之前去过的[color:03]银河[color:00]看看吧，\n也许会有遗漏的[icon:0007][color:01]力量之星[color:00]！"
   },
   {
     "index": 104,
@@ -647,8 +647,8 @@
   {
     "index": 105,
     "key": "AstroGalaxy_Kinopio045",
-    "original": "天文台的动力恢复了，\n我们也找到了[color:01]酷霸王根据地[color:00]！\f\n[unk5:00]先生……[wait:001e]\n[color:01]桃花公主[color:00]和[color:03]宇宙[color:00]就全靠你了！",
-    "translation": "天文台的动力恢复了，\n我们也找到了[color:01]酷霸王根据地[color:00]！\f\n[unk5:00]先生……[wait:001e]\n[color:01]桃花公主[color:00]和[color:03]宇宙[color:00]就全靠你了！"
+    "original": "天文台的动力恢复了，\n我们也找到了[color:01]酷霸王根据地[color:00]！\\f\n[unk5:00]先生……[wait:001e]\n[color:01]桃花公主[color:00]和[color:03]宇宙[color:00]就全靠你了！",
+    "translation": "天文台的动力恢复了，\n我们也找到了[color:01]酷霸王根据地[color:00]！\\f\n[unk5:00]先生……[wait:001e]\n[color:01]桃花公主[color:00]和[color:03]宇宙[color:00]就全靠你了！"
   },
   {
     "index": 106,
@@ -713,8 +713,8 @@
   {
     "index": 116,
     "key": "AstroGalaxy_Kinopio060",
-    "original": "琪琪们打算给我们造一艘[color:03]飞船[color:00]！\f\n等飞船完工后，我们就一起去找\n[color:01]桃花公主[color:00]和[icon:0007][color:01]力量之星[color:00]吧！",
-    "translation": "琪琪们打算给我们造一艘[color:03]飞船[color:00]！\f\n等飞船完工后，我们就一起去找\n[color:01]桃花公主[color:00]和[icon:0007][color:01]力量之星[color:00]吧！"
+    "original": "琪琪们打算给我们造一艘[color:03]飞船[color:00]！\\f\n等飞船完工后，我们就一起去找\n[color:01]桃花公主[color:00]和[icon:0007][color:01]力量之星[color:00]吧！",
+    "translation": "琪琪们打算给我们造一艘[color:03]飞船[color:00]！\\f\n等飞船完工后，我们就一起去找\n[color:01]桃花公主[color:00]和[icon:0007][color:01]力量之星[color:00]吧！"
   },
   {
     "index": 117,
@@ -737,8 +737,8 @@
   {
     "index": 120,
     "key": "AstroGalaxy_Kinopio066",
-    "original": "据说宇宙中有从天文台的[color:01]圆顶[color:00]里\n也[color:03]看不见的银河[color:00]！\f\n要怎样才能去那里呢？",
-    "translation": "据说宇宙中有从天文台的[color:01]圆顶[color:00]里\n也[color:03]看不见的银河[color:00]！\f\n要怎样才能去那里呢？"
+    "original": "据说宇宙中有从天文台的[color:01]圆顶[color:00]里\n也[color:03]看不见的银河[color:00]！\\f\n要怎样才能去那里呢？",
+    "translation": "据说宇宙中有从天文台的[color:01]圆顶[color:00]里\n也[color:03]看不见的银河[color:00]！\\f\n要怎样才能去那里呢？"
   },
   {
     "index": 121,
@@ -749,8 +749,8 @@
   {
     "index": 122,
     "key": "AstroGalaxy_Kinopio068",
-    "original": "一个很珍稀的[color:02]琪琪[color:00]来访了！\f\n那个[color:02]琪琪[color:00]……[wait:001e][color:03]\n[color:00]有着[color:03]不可思议的力量[color:00]！",
-    "translation": "一个很珍稀的[color:02]琪琪[color:00]来访了！\f\n那个[color:02]琪琪[color:00]……[wait:001e][color:03]\n[color:00]有着[color:03]不可思议的力量[color:00]！"
+    "original": "一个很珍稀的[color:02]琪琪[color:00]来访了！\\f\n那个[color:02]琪琪[color:00]……[wait:001e][color:03]\n[color:00]有着[color:03]不可思议的力量[color:00]！",
+    "translation": "一个很珍稀的[color:02]琪琪[color:00]来访了！\\f\n那个[color:02]琪琪[color:00]……[wait:001e][color:03]\n[color:00]有着[color:03]不可思议的力量[color:00]！"
   },
   {
     "index": 123,
@@ -761,8 +761,8 @@
   {
     "index": 124,
     "key": "AstroGalaxy_Kinopio070",
-    "original": "嗯？那些[color:02]琪琪[color:00]在说什么？\n怎么一句也听不懂！\f\n试练……重新开启……\n莫非和[color:01]圆顶[color:00]里[color:03]看不见的银河[color:00]有关系吗？",
-    "translation": "嗯？那些[color:02]琪琪[color:00]在说什么？\n怎么一句也听不懂！\f\n试练……重新开启……\n莫非和[color:01]圆顶[color:00]里[color:03]看不见的银河[color:00]有关系吗？"
+    "original": "嗯？那些[color:02]琪琪[color:00]在说什么？\n怎么一句也听不懂！\\f\n试练……重新开启……\n莫非和[color:01]圆顶[color:00]里[color:03]看不见的银河[color:00]有关系吗？",
+    "translation": "嗯？那些[color:02]琪琪[color:00]在说什么？\n怎么一句也听不懂！\\f\n试练……重新开启……\n莫非和[color:01]圆顶[color:00]里[color:03]看不见的银河[color:00]有关系吗？"
   },
   {
     "index": 125,
@@ -773,14 +773,14 @@
   {
     "index": 126,
     "key": "AstroGalaxy_Kinopio072",
-    "original": "那些[color:02]琪琪[color:00]会指引你前往\n圆顶里看不见的[color:01]挑战银河[color:00]！\f\n但是，[color:01]挑战银河[color:00]距离这儿太遥远，\n[color:03]蘑菇飞船[color:00]没法飞到那里……\f\n[unk5:00]先生……[wait:001e]\n你只能自己努力加油了！",
-    "translation": "那些[color:02]琪琪[color:00]会指引你前往\n圆顶里看不见的[color:01]挑战银河[color:00]！\f\n但是，[color:01]挑战银河[color:00]距离这儿太遥远，\n[color:03]蘑菇飞船[color:00]没法飞到那里……\f\n[unk5:00]先生……[wait:001e]\n你只能自己努力加油了！"
+    "original": "那些[color:02]琪琪[color:00]会指引你前往\n圆顶里看不见的[color:01]挑战银河[color:00]！\\f\n但是，[color:01]挑战银河[color:00]距离这儿太遥远，\n[color:03]蘑菇飞船[color:00]没法飞到那里……\\f\n[unk5:00]先生……[wait:001e]\n你只能自己努力加油了！",
+    "translation": "那些[color:02]琪琪[color:00]会指引你前往\n圆顶里看不见的[color:01]挑战银河[color:00]！\\f\n但是，[color:01]挑战银河[color:00]距离这儿太遥远，\n[color:03]蘑菇飞船[color:00]没法飞到那里……\\f\n[unk5:00]先生……[wait:001e]\n你只能自己努力加油了！"
   },
   {
     "index": 127,
     "key": "AstroGalaxy_Kinopio073",
-    "original": "[color:01]挑战银河[color:00]离这里太远了，\n[color:03]蘑菇飞船[color:00]无法飞到那里……\f\n[unk5:00]先生……[wait:001e]\n你只能自己努力加油了！",
-    "translation": "[color:01]挑战银河[color:00]离这里太远了，\n[color:03]蘑菇飞船[color:00]无法飞到那里……\f\n[unk5:00]先生……[wait:001e]\n你只能自己努力加油了！"
+    "original": "[color:01]挑战银河[color:00]离这里太远了，\n[color:03]蘑菇飞船[color:00]无法飞到那里……\\f\n[unk5:00]先生……[wait:001e]\n你只能自己努力加油了！",
+    "translation": "[color:01]挑战银河[color:00]离这里太远了，\n[color:03]蘑菇飞船[color:00]无法飞到那里……\\f\n[unk5:00]先生……[wait:001e]\n你只能自己努力加油了！"
   },
   {
     "index": 128,
@@ -815,8 +815,8 @@
   {
     "index": 133,
     "key": "AstroGalaxy_Kinopio085",
-    "original": "唔……这是什么地方？[wait:001e]\n看上去很眼熟，但是又……\f\n这张照片就给你吧，\n免得忘记[icon:001c][color:02]路易吉[color:00]先生在哪里。",
-    "translation": "唔……这是什么地方？[wait:001e]\n看上去很眼熟，但是又……\f\n这张照片就给你吧，\n免得忘记[icon:001c][color:02]路易吉[color:00]先生在哪里。"
+    "original": "唔……这是什么地方？[wait:001e]\n看上去很眼熟，但是又……\\f\n这张照片就给你吧，\n免得忘记[icon:001c][color:02]路易吉[color:00]先生在哪里。",
+    "translation": "唔……这是什么地方？[wait:001e]\n看上去很眼熟，但是又……\\f\n这张照片就给你吧，\n免得忘记[icon:001c][color:02]路易吉[color:00]先生在哪里。"
   },
   {
     "index": 134,
@@ -857,14 +857,14 @@
   {
     "index": 140,
     "key": "AstroGalaxy_Kinopio092",
-    "original": "哇……公主虽然被绑架了，\n但还是这么体贴周到！\f\n那么，下次有信时再见喽。",
-    "translation": "哇……公主虽然被绑架了，\n但还是这么体贴周到！\f\n那么，下次有信时再见喽。"
+    "original": "哇……公主虽然被绑架了，\n但还是这么体贴周到！\\f\n那么，下次有信时再见喽。",
+    "translation": "哇……公主虽然被绑架了，\n但还是这么体贴周到！\\f\n那么，下次有信时再见喽。"
   },
   {
     "index": 141,
     "key": "AstroGalaxy_Kinopio093",
-    "original": "那么，这些就留作\n探险队的备用粮吧♪\f\n下次有信时再见喽！",
-    "translation": "那么，这些就留作\n探险队的备用粮吧♪\f\n下次有信时再见喽！"
+    "original": "那么，这些就留作\n探险队的备用粮吧♪\\f\n下次有信时再见喽！",
+    "translation": "那么，这些就留作\n探险队的备用粮吧♪\\f\n下次有信时再见喽！"
   },
   {
     "index": 142,
@@ -887,14 +887,14 @@
   {
     "index": 145,
     "key": "AstroGalaxy_Kinopio097",
-    "original": "对了……当我送信的时候，\n可以发出[color:03]蓝光[color:00]喔！\f\n现在正在发光……\f\n当我送信的时候，\n要发出[color:03]蓝光[color:00]吗？",
-    "translation": "对了……当我送信的时候，\n可以发出[color:03]蓝光[color:00]喔！\f\n现在正在发光……\f\n当我送信的时候，\n要发出[color:03]蓝光[color:00]吗？"
+    "original": "对了……当我送信的时候，\n可以发出[color:03]蓝光[color:00]喔！\\f\n现在正在发光……\\f\n当我送信的时候，\n要发出[color:03]蓝光[color:00]吗？",
+    "translation": "对了……当我送信的时候，\n可以发出[color:03]蓝光[color:00]喔！\\f\n现在正在发光……\\f\n当我送信的时候，\n要发出[color:03]蓝光[color:00]吗？"
   },
   {
     "index": 146,
     "key": "AstroGalaxy_Kinopio098",
-    "original": "对了……当我送信的时候，\n可以发出[color:03]蓝光[color:00]喔！\f\n现在没有发光……\f\n当我送信的时候，\n要发出[color:03]蓝光[color:00]吗？",
-    "translation": "对了……当我送信的时候，\n可以发出[color:03]蓝光[color:00]喔！\f\n现在没有发光……\f\n当我送信的时候，\n要发出[color:03]蓝光[color:00]吗？"
+    "original": "对了……当我送信的时候，\n可以发出[color:03]蓝光[color:00]喔！\\f\n现在没有发光……\\f\n当我送信的时候，\n要发出[color:03]蓝光[color:00]吗？",
+    "translation": "对了……当我送信的时候，\n可以发出[color:03]蓝光[color:00]喔！\\f\n现在没有发光……\\f\n当我送信的时候，\n要发出[color:03]蓝光[color:00]吗？"
   },
   {
     "index": 147,
@@ -925,14 +925,14 @@
   {
     "index": 151,
     "key": "AstroGalaxy_LuigiEvent001",
-    "original": "哥哥！你在寻找[icon:0007][color:04]力量之星[color:00]吧？\n让[color:02]我[color:00]来帮忙吧！\f\n[color:01]蛋蛋星银河[color:00]里似乎[color:03]遗漏[color:00]了\n一颗力量之星……\f\n我找到后就写[color:01]信[color:00]给你，\n要留心喔！",
-    "translation": "哥哥！你在寻找[icon:0007][color:04]力量之星[color:00]吧？\n让[color:02]我[color:00]来帮忙吧！\f\n[color:01]蛋蛋星银河[color:00]里似乎[color:03]遗漏[color:00]了\n一颗力量之星……\f\n我找到后就写[color:01]信[color:00]给你，\n要留心喔！"
+    "original": "哥哥！你在寻找[icon:0007][color:04]力量之星[color:00]吧？\n让[color:02]我[color:00]来帮忙吧！\\f\n[color:01]蛋蛋星银河[color:00]里似乎[color:03]遗漏[color:00]了\n一颗力量之星……\\f\n我找到后就写[color:01]信[color:00]给你，\n要留心喔！",
+    "translation": "哥哥！你在寻找[icon:0007][color:04]力量之星[color:00]吧？\n让[color:02]我[color:00]来帮忙吧！\\f\n[color:01]蛋蛋星银河[color:00]里似乎[color:03]遗漏[color:00]了\n一颗力量之星……\\f\n我找到后就写[color:01]信[color:00]给你，\n要留心喔！"
   },
   {
     "index": 152,
     "key": "AstroGalaxy_LuigiEvent002",
-    "original": "嗨，我！你在寻找[icon:0007][color:04]力量之星[color:00]吧？\n让[color:02]我[color:00]来帮忙吧！\f\n[color:01]蛋蛋星银河[color:00]里似乎[color:03]遗漏[color:00]了\n一颗力量之星……\f\n我找到后就写[color:01]信[color:00]给你，\n要留心喔！",
-    "translation": "嗨，我！你在寻找[icon:0007][color:04]力量之星[color:00]吧？\n让[color:02]我[color:00]来帮忙吧！\f\n[color:01]蛋蛋星银河[color:00]里似乎[color:03]遗漏[color:00]了\n一颗力量之星……\f\n我找到后就写[color:01]信[color:00]给你，\n要留心喔！"
+    "original": "嗨，我！你在寻找[icon:0007][color:04]力量之星[color:00]吧？\n让[color:02]我[color:00]来帮忙吧！\\f\n[color:01]蛋蛋星银河[color:00]里似乎[color:03]遗漏[color:00]了\n一颗力量之星……\\f\n我找到后就写[color:01]信[color:00]给你，\n要留心喔！",
+    "translation": "嗨，我！你在寻找[icon:0007][color:04]力量之星[color:00]吧？\n让[color:02]我[color:00]来帮忙吧！\\f\n[color:01]蛋蛋星银河[color:00]里似乎[color:03]遗漏[color:00]了\n一颗力量之星……\\f\n我找到后就写[color:01]信[color:00]给你，\n要留心喔！"
   },
   {
     "index": 153,
@@ -943,8 +943,8 @@
   {
     "index": 154,
     "key": "AstroGalaxy_LuigiEvent005",
-    "original": "寻找[color:01][icon:0007][color:04]力量之星[color:00]\n比想象中更困难……\f\n但是，如果[color:02]我[color:00]放弃了，\n[color:03]宇宙[color:00]就会落入[color:01]酷霸王[color:00]的魔爪！",
-    "translation": "寻找[color:01][icon:0007][color:04]力量之星[color:00]\n比想象中更困难……\f\n但是，如果[color:02]我[color:00]放弃了，\n[color:03]宇宙[color:00]就会落入[color:01]酷霸王[color:00]的魔爪！"
+    "original": "寻找[color:01][icon:0007][color:04]力量之星[color:00]\n比想象中更困难……\\f\n但是，如果[color:02]我[color:00]放弃了，\n[color:03]宇宙[color:00]就会落入[color:01]酷霸王[color:00]的魔爪！",
+    "translation": "寻找[color:01][icon:0007][color:04]力量之星[color:00]\n比想象中更困难……\\f\n但是，如果[color:02]我[color:00]放弃了，\n[color:03]宇宙[color:00]就会落入[color:01]酷霸王[color:00]的魔爪！"
   },
   {
     "index": 155,
@@ -974,20 +974,20 @@
   {
     "index": 159,
     "key": "AstroGalaxy_Rosetta011",
-    "original": "你应该先去[color:01]占星露台[color:00]。\f\n请救出你能看见的\n[color:03]银河[color:00]中的[icon:0007][color:04]力量之星[color:00]吧。",
-    "translation": "你应该先去[color:01]占星露台[color:00]。\f\n请救出你能看见的\n[color:03]银河[color:00]中的[icon:0007][color:04]力量之星[color:00]吧。"
+    "original": "你应该先去[color:01]占星露台[color:00]。\\f\n请救出你能看见的\n[color:03]银河[color:00]中的[icon:0007][color:04]力量之星[color:00]吧。",
+    "translation": "你应该先去[color:01]占星露台[color:00]。\\f\n请救出你能看见的\n[color:03]银河[color:00]中的[icon:0007][color:04]力量之星[color:00]吧。"
   },
   {
     "index": 160,
     "key": "AstroGalaxy_Rosetta020",
-    "original": "那个火焰代表[color:03]天文台的动力[color:00]，\n我们称之为[color:01]灯塔[color:00]。\f\n救回[icon:0007][color:04]力量之星[color:00]就能恢复[icon:0007][color:04]星之力量[color:00]，\n让灯塔变得更加明亮。",
-    "translation": "那个火焰代表[color:03]天文台的动力[color:00]，\n我们称之为[color:01]灯塔[color:00]。\f\n救回[icon:0007][color:04]力量之星[color:00]就能恢复[icon:0007][color:04]星之力量[color:00]，\n让灯塔变得更加明亮。"
+    "original": "那个火焰代表[color:03]天文台的动力[color:00]，\n我们称之为[color:01]灯塔[color:00]。\\f\n救回[icon:0007][color:04]力量之星[color:00]就能恢复[icon:0007][color:04]星之力量[color:00]，\n让灯塔变得更加明亮。",
+    "translation": "那个火焰代表[color:03]天文台的动力[color:00]，\n我们称之为[color:01]灯塔[color:00]。\\f\n救回[icon:0007][color:04]力量之星[color:00]就能恢复[icon:0007][color:04]星之力量[color:00]，\n让灯塔变得更加明亮。"
   },
   {
     "index": 161,
     "key": "AstroGalaxy_Rosetta021",
-    "original": "在[color:01]灯塔[color:00]得到足够的动力后，\n飞船就能飞到[color:03]银河中心[color:00]。\f\n看来，[color:03]你的朋友们\n[color:00]打算助你一臂之力了。\f\n请先拯救[color:01]圆顶[color:00]里能看见的[color:03]银河[color:00]中的\n[icon:0007][color:04]力量之星[color:00]吧。",
-    "translation": "在[color:01]灯塔[color:00]得到足够的动力后，\n飞船就能飞到[color:03]银河中心[color:00]。\f\n看来，[color:03]你的朋友们\n[color:00]打算助你一臂之力了。\f\n请先拯救[color:01]圆顶[color:00]里能看见的[color:03]银河[color:00]中的\n[icon:0007][color:04]力量之星[color:00]吧。"
+    "original": "在[color:01]灯塔[color:00]得到足够的动力后，\n飞船就能飞到[color:03]银河中心[color:00]。\\f\n看来，[color:03]你的朋友们\n[color:00]打算助你一臂之力了。\\f\n请先拯救[color:01]圆顶[color:00]里能看见的[color:03]银河[color:00]中的\n[icon:0007][color:04]力量之星[color:00]吧。",
+    "translation": "在[color:01]灯塔[color:00]得到足够的动力后，\n飞船就能飞到[color:03]银河中心[color:00]。\\f\n看来，[color:03]你的朋友们\n[color:00]打算助你一臂之力了。\\f\n请先拯救[color:01]圆顶[color:00]里能看见的[color:03]银河[color:00]中的\n[icon:0007][color:04]力量之星[color:00]吧。"
   },
   {
     "index": 162,
@@ -1010,20 +1010,20 @@
   {
     "index": 165,
     "key": "AstroGalaxy_Rosetta031",
-    "original": "[color:01]淘气彗星[color:00]会让[color:03]银河[color:00]变成\n[color:01]完全不同的世界[color:00]……\f\n想知道更多关于这些淘气彗星的事，\n不妨去问问那边的[color:01]彗星琪琪[color:00]。",
-    "translation": "[color:01]淘气彗星[color:00]会让[color:03]银河[color:00]变成\n[color:01]完全不同的世界[color:00]……\f\n想知道更多关于这些淘气彗星的事，\n不妨去问问那边的[color:01]彗星琪琪[color:00]。"
+    "original": "[color:01]淘气彗星[color:00]会让[color:03]银河[color:00]变成\n[color:01]完全不同的世界[color:00]……\\f\n想知道更多关于这些淘气彗星的事，\n不妨去问问那边的[color:01]彗星琪琪[color:00]。",
+    "translation": "[color:01]淘气彗星[color:00]会让[color:03]银河[color:00]变成\n[color:01]完全不同的世界[color:00]……\\f\n想知道更多关于这些淘气彗星的事，\n不妨去问问那边的[color:01]彗星琪琪[color:00]。"
   },
   {
     "index": 166,
     "key": "AstroGalaxy_Rosetta032",
-    "original": "[color:01]淘气彗星[color:00]会让[color:03]银河[color:00]变成\n[color:01]完全不同的世界[color:00]……\f\n想知道更多关于这些淘气彗星的事，\n不妨去问问那边的[color:01]彗星琪琪[color:00]。",
-    "translation": "[color:01]淘气彗星[color:00]会让[color:03]银河[color:00]变成\n[color:01]完全不同的世界[color:00]……\f\n想知道更多关于这些淘气彗星的事，\n不妨去问问那边的[color:01]彗星琪琪[color:00]。"
+    "original": "[color:01]淘气彗星[color:00]会让[color:03]银河[color:00]变成\n[color:01]完全不同的世界[color:00]……\\f\n想知道更多关于这些淘气彗星的事，\n不妨去问问那边的[color:01]彗星琪琪[color:00]。",
+    "translation": "[color:01]淘气彗星[color:00]会让[color:03]银河[color:00]变成\n[color:01]完全不同的世界[color:00]……\\f\n想知道更多关于这些淘气彗星的事，\n不妨去问问那边的[color:01]彗星琪琪[color:00]。"
   },
   {
     "index": 167,
     "key": "AstroGalaxy_Rosetta040",
-    "original": "你救出了另一颗[icon:001b][color:04]崇高之星[color:00]，\n天文台后面的[color:01]圆顶[color:00]也开启了！\f\n但是，我们还没有获得足够的[icon:0007][color:04]星之力量[color:00]\n让[color:03]天文台[color:00]在宇宙中翱翔……",
-    "translation": "你救出了另一颗[icon:001b][color:04]崇高之星[color:00]，\n天文台后面的[color:01]圆顶[color:00]也开启了！\f\n但是，我们还没有获得足够的[icon:0007][color:04]星之力量[color:00]\n让[color:03]天文台[color:00]在宇宙中翱翔……"
+    "original": "你救出了另一颗[icon:001b][color:04]崇高之星[color:00]，\n天文台后面的[color:01]圆顶[color:00]也开启了！\\f\n但是，我们还没有获得足够的[icon:0007][color:04]星之力量[color:00]\n让[color:03]天文台[color:00]在宇宙中翱翔……",
+    "translation": "你救出了另一颗[icon:001b][color:04]崇高之星[color:00]，\n天文台后面的[color:01]圆顶[color:00]也开启了！\\f\n但是，我们还没有获得足够的[icon:0007][color:04]星之力量[color:00]\n让[color:03]天文台[color:00]在宇宙中翱翔……"
   },
   {
     "index": 168,
@@ -1034,14 +1034,14 @@
   {
     "index": 169,
     "key": "AstroGalaxy_Rosetta042",
-    "original": "等我们的[color:04][icon:0007]星之力量[color:00]恢复了，\n[color:03]天文台[color:00]就能飞到[color:03]银河中心[color:00]了。\f\n你也可以和你[color:01]重要的人[color:00]团聚了……",
-    "translation": "等我们的[color:04][icon:0007]星之力量[color:00]恢复了，\n[color:03]天文台[color:00]就能飞到[color:03]银河中心[color:00]了。\f\n你也可以和你[color:01]重要的人[color:00]团聚了……"
+    "original": "等我们的[color:04][icon:0007]星之力量[color:00]恢复了，\n[color:03]天文台[color:00]就能飞到[color:03]银河中心[color:00]了。\\f\n你也可以和你[color:01]重要的人[color:00]团聚了……",
+    "translation": "等我们的[color:04][icon:0007]星之力量[color:00]恢复了，\n[color:03]天文台[color:00]就能飞到[color:03]银河中心[color:00]了。\\f\n你也可以和你[color:01]重要的人[color:00]团聚了……"
   },
   {
     "index": 170,
     "key": "AstroGalaxy_Rosetta045",
-    "original": "等我们的[icon:0007][color:04]星之力量[color:00]恢复了，\n[color:03]天文台[color:00]就能到达[color:03]银河中心[color:00]了。\f\n请去后面的[color:01]圆顶[color:00]看看，\n拯救更多的[color:04][icon:0007]力量之星[color:00]吧！",
-    "translation": "等我们的[icon:0007][color:04]星之力量[color:00]恢复了，\n[color:03]天文台[color:00]就能到达[color:03]银河中心[color:00]了。\f\n请去后面的[color:01]圆顶[color:00]看看，\n拯救更多的[color:04][icon:0007]力量之星[color:00]吧！"
+    "original": "等我们的[icon:0007][color:04]星之力量[color:00]恢复了，\n[color:03]天文台[color:00]就能到达[color:03]银河中心[color:00]了。\\f\n请去后面的[color:01]圆顶[color:00]看看，\n拯救更多的[color:04][icon:0007]力量之星[color:00]吧！",
+    "translation": "等我们的[icon:0007][color:04]星之力量[color:00]恢复了，\n[color:03]天文台[color:00]就能到达[color:03]银河中心[color:00]了。\\f\n请去后面的[color:01]圆顶[color:00]看看，\n拯救更多的[color:04][icon:0007]力量之星[color:00]吧！"
   },
   {
     "index": 171,
@@ -1052,8 +1052,8 @@
   {
     "index": 172,
     "key": "AstroGalaxy_Rosetta051",
-    "original": "一旦更[color:03]上层[color:00]的[color:01]机械屋[color:00]恢复动力，\n整个[color:03]天文台[color:00]都将启动。\f\n[color:03]长尾星天文台[color:00]将可以\n再次作为[color:03]星船[color:00]飞行。",
-    "translation": "一旦更[color:03]上层[color:00]的[color:01]机械屋[color:00]恢复动力，\n整个[color:03]天文台[color:00]都将启动。\f\n[color:03]长尾星天文台[color:00]将可以\n再次作为[color:03]星船[color:00]飞行。"
+    "original": "一旦更[color:03]上层[color:00]的[color:01]机械屋[color:00]恢复动力，\n整个[color:03]天文台[color:00]都将启动。\\f\n[color:03]长尾星天文台[color:00]将可以\n再次作为[color:03]星船[color:00]飞行。",
+    "translation": "一旦更[color:03]上层[color:00]的[color:01]机械屋[color:00]恢复动力，\n整个[color:03]天文台[color:00]都将启动。\\f\n[color:03]长尾星天文台[color:00]将可以\n再次作为[color:03]星船[color:00]飞行。"
   },
   {
     "index": 173,
@@ -1064,8 +1064,8 @@
   {
     "index": 174,
     "key": "AstroGalaxy_Rosetta053",
-    "original": "等[color:03]上层[color:00]的[color:01]机械屋[color:00]恢复动力后，\n[color:03]天文台[color:00]将可以恢复[color:03]星船[color:00]的功能。\f\n你也能飞到[color:03]宇宙中心\n[color:00]去寻找你[color:01]重要的人[color:00]了……",
-    "translation": "等[color:03]上层[color:00]的[color:01]机械屋[color:00]恢复动力后，\n[color:03]天文台[color:00]将可以恢复[color:03]星船[color:00]的功能。\f\n你也能飞到[color:03]宇宙中心\n[color:00]去寻找你[color:01]重要的人[color:00]了……"
+    "original": "等[color:03]上层[color:00]的[color:01]机械屋[color:00]恢复动力后，\n[color:03]天文台[color:00]将可以恢复[color:03]星船[color:00]的功能。\\f\n你也能飞到[color:03]宇宙中心\n[color:00]去寻找你[color:01]重要的人[color:00]了……",
+    "translation": "等[color:03]上层[color:00]的[color:01]机械屋[color:00]恢复动力后，\n[color:03]天文台[color:00]将可以恢复[color:03]星船[color:00]的功能。\\f\n你也能飞到[color:03]宇宙中心\n[color:00]去寻找你[color:01]重要的人[color:00]了……"
   },
   {
     "index": 175,
@@ -1082,14 +1082,14 @@
   {
     "index": 177,
     "key": "AstroGalaxy_Rosetta056",
-    "original": "我看到你的[icon:001c][color:02]弟弟[color:00]在那边。\f\n他说愿意和你一起\n寻找[icon:0007][color:04]力量之星[color:00]……",
-    "translation": "我看到你的[icon:001c][color:02]弟弟[color:00]在那边。\f\n他说愿意和你一起\n寻找[icon:0007][color:04]力量之星[color:00]……"
+    "original": "我看到你的[icon:001c][color:02]弟弟[color:00]在那边。\\f\n他说愿意和你一起\n寻找[icon:0007][color:04]力量之星[color:00]……",
+    "translation": "我看到你的[icon:001c][color:02]弟弟[color:00]在那边。\\f\n他说愿意和你一起\n寻找[icon:0007][color:04]力量之星[color:00]……"
   },
   {
     "index": 178,
     "key": "AstroGalaxy_Rosetta057",
-    "original": "我看到你的[icon:001c][color:02]翻版[color:00]在那边。\f\n他说愿意和你一起\n寻找[icon:0007][color:04]力量之星[color:00]……",
-    "translation": "我看到你的[icon:001c][color:02]翻版[color:00]在那边。\f\n他说愿意和你一起\n寻找[icon:0007][color:04]力量之星[color:00]……"
+    "original": "我看到你的[icon:001c][color:02]翻版[color:00]在那边。\\f\n他说愿意和你一起\n寻找[icon:0007][color:04]力量之星[color:00]……",
+    "translation": "我看到你的[icon:001c][color:02]翻版[color:00]在那边。\\f\n他说愿意和你一起\n寻找[icon:0007][color:04]力量之星[color:00]……"
   },
   {
     "index": 179,
@@ -1100,14 +1100,14 @@
   {
     "index": 180,
     "key": "AstroGalaxy_Rosetta061",
-    "original": "上面的数字代表飞到[color:03]银河中心\n[color:00]所需要的[icon:0007][color:04]力量之星[color:00]。\f\n每找到一颗[icon:0007][color:04]力量之星[color:00]，\n上面的[color:03]数字[color:00]就会减少。",
-    "translation": "上面的数字代表飞到[color:03]银河中心\n[color:00]所需要的[icon:0007][color:04]力量之星[color:00]。\f\n每找到一颗[icon:0007][color:04]力量之星[color:00]，\n上面的[color:03]数字[color:00]就会减少。"
+    "original": "上面的数字代表飞到[color:03]银河中心\n[color:00]所需要的[icon:0007][color:04]力量之星[color:00]。\\f\n每找到一颗[icon:0007][color:04]力量之星[color:00]，\n上面的[color:03]数字[color:00]就会减少。",
+    "translation": "上面的数字代表飞到[color:03]银河中心\n[color:00]所需要的[icon:0007][color:04]力量之星[color:00]。\\f\n每找到一颗[icon:0007][color:04]力量之星[color:00]，\n上面的[color:03]数字[color:00]就会减少。"
   },
   {
     "index": 181,
     "key": "AstroGalaxy_Rosetta062",
-    "original": "当数字到达０时，\n[color:03]长尾星天文台[color:00]将恢复[color:03]星船[color:00]的功能。\f\n我们就能前往[color:03]银河中心[color:00]了！",
-    "translation": "当数字到达０时，\n[color:03]长尾星天文台[color:00]将恢复[color:03]星船[color:00]的功能。\f\n我们就能前往[color:03]银河中心[color:00]了！"
+    "original": "当数字到达０时，\n[color:03]长尾星天文台[color:00]将恢复[color:03]星船[color:00]的功能。\\f\n我们就能前往[color:03]银河中心[color:00]了！",
+    "translation": "当数字到达０时，\n[color:03]长尾星天文台[color:00]将恢复[color:03]星船[color:00]的功能。\\f\n我们就能前往[color:03]银河中心[color:00]了！"
   },
   {
     "index": 182,
@@ -1118,32 +1118,32 @@
   {
     "index": 183,
     "key": "AstroGalaxy_Rosetta071",
-    "original": "一旦你拿到了剩下的[color:04][icon:0007]力量之星[color:00]，[color:04]\n[color:03]天文台[color:00]就能再次作为[color:03]星船[color:00]飞行。\f\n我们可以将你带到[color:03]银河中心[color:00]，\n你[color:01]重要的人[color:00]的身边。",
-    "translation": "一旦你拿到了剩下的[color:04][icon:0007]力量之星[color:00]，[color:04]\n[color:03]天文台[color:00]就能再次作为[color:03]星船[color:00]飞行。\f\n我们可以将你带到[color:03]银河中心[color:00]，\n你[color:01]重要的人[color:00]的身边。"
+    "original": "一旦你拿到了剩下的[color:04][icon:0007]力量之星[color:00]，[color:04]\n[color:03]天文台[color:00]就能再次作为[color:03]星船[color:00]飞行。\\f\n我们可以将你带到[color:03]银河中心[color:00]，\n你[color:01]重要的人[color:00]的身边。",
+    "translation": "一旦你拿到了剩下的[color:04][icon:0007]力量之星[color:00]，[color:04]\n[color:03]天文台[color:00]就能再次作为[color:03]星船[color:00]飞行。\\f\n我们可以将你带到[color:03]银河中心[color:00]，\n你[color:01]重要的人[color:00]的身边。"
   },
   {
     "index": 184,
     "key": "AstroGalaxy_Rosetta072",
-    "original": "当你救出了剩下的[color:04][icon:0007]力量之星[color:00]，\n星盘上的数字会下降至０。\f\n[color:03]长尾星天文台[color:00]就能够到达\n你[color:01]重要的人[color:00]所在的[color:03]银河中心[color:00]了。",
-    "translation": "当你救出了剩下的[color:04][icon:0007]力量之星[color:00]，\n星盘上的数字会下降至０。\f\n[color:03]长尾星天文台[color:00]就能够到达\n你[color:01]重要的人[color:00]所在的[color:03]银河中心[color:00]了。"
+    "original": "当你救出了剩下的[color:04][icon:0007]力量之星[color:00]，\n星盘上的数字会下降至０。\\f\n[color:03]长尾星天文台[color:00]就能够到达\n你[color:01]重要的人[color:00]所在的[color:03]银河中心[color:00]了。",
+    "translation": "当你救出了剩下的[color:04][icon:0007]力量之星[color:00]，\n星盘上的数字会下降至０。\\f\n[color:03]长尾星天文台[color:00]就能够到达\n你[color:01]重要的人[color:00]所在的[color:03]银河中心[color:00]了。"
   },
   {
     "index": 185,
     "key": "AstroGalaxy_Rosetta080",
-    "original": "[unk5:00]先生……[wait:001e]\n你是[unk5:00]先生吧？\f\n我是从[color:03]你的朋友[color:00]那儿听来的，\n他们刚来到这里。\f\n[unk5:00]……[wait:001e]\n真是个响亮的名字，令人怀念。",
-    "translation": "[unk5:00]先生……[wait:001e]\n你是[unk5:00]先生吧？\f\n我是从[color:03]你的朋友[color:00]那儿听来的，\n他们刚来到这里。\f\n[unk5:00]……[wait:001e]\n真是个响亮的名字，令人怀念。"
+    "original": "[unk5:00]先生……[wait:001e]\n你是[unk5:00]先生吧？\\f\n我是从[color:03]你的朋友[color:00]那儿听来的，\n他们刚来到这里。\\f\n[unk5:00]……[wait:001e]\n真是个响亮的名字，令人怀念。",
+    "translation": "[unk5:00]先生……[wait:001e]\n你是[unk5:00]先生吧？\\f\n我是从[color:03]你的朋友[color:00]那儿听来的，\n他们刚来到这里。\\f\n[unk5:00]……[wait:001e]\n真是个响亮的名字，令人怀念。"
   },
   {
     "index": 186,
     "key": "AstroGalaxy_Rosetta081",
-    "original": "[color:03]你的朋友[color:00]在[color:01]修理间[color:00]等着你。\f\n我想他们[color:01]有事[color:00]要告诉你，\n快点去那边看看吧。",
-    "translation": "[color:03]你的朋友[color:00]在[color:01]修理间[color:00]等着你。\f\n我想他们[color:01]有事[color:00]要告诉你，\n快点去那边看看吧。"
+    "original": "[color:03]你的朋友[color:00]在[color:01]修理间[color:00]等着你。\\f\n我想他们[color:01]有事[color:00]要告诉你，\n快点去那边看看吧。",
+    "translation": "[color:03]你的朋友[color:00]在[color:01]修理间[color:00]等着你。\\f\n我想他们[color:01]有事[color:00]要告诉你，\n快点去那边看看吧。"
   },
   {
     "index": 187,
     "key": "AstroGalaxy_Rosetta082",
-    "original": "[color:03]你的朋友[color:00]在[color:01]修理间[color:00]等着你。\f\n我想他们[color:01]有事[color:00]要告诉你，\n快去那边看看吧。",
-    "translation": "[color:03]你的朋友[color:00]在[color:01]修理间[color:00]等着你。\f\n我想他们[color:01]有事[color:00]要告诉你，\n快去那边看看吧。"
+    "original": "[color:03]你的朋友[color:00]在[color:01]修理间[color:00]等着你。\\f\n我想他们[color:01]有事[color:00]要告诉你，\n快去那边看看吧。",
+    "translation": "[color:03]你的朋友[color:00]在[color:01]修理间[color:00]等着你。\\f\n我想他们[color:01]有事[color:00]要告诉你，\n快去那边看看吧。"
   },
   {
     "index": 188,
@@ -1154,8 +1154,8 @@
   {
     "index": 189,
     "key": "AstroGalaxy_Rosetta085",
-    "original": "一旦[color:03]天文台[color:00]可以作为[color:03]星船[color:00]飞行，\n我们将带你到[color:03]银河中心[color:00]寻找你[color:01]重要的人[color:00]。\f\n只需要再多一些的[icon:0007][color:04]力量之星[color:00]……[wait:001e]\n你一定要帮帮我们！",
-    "translation": "一旦[color:03]天文台[color:00]可以作为[color:03]星船[color:00]飞行，\n我们将带你到[color:03]银河中心[color:00]寻找你[color:01]重要的人[color:00]。\f\n只需要再多一些的[icon:0007][color:04]力量之星[color:00]……[wait:001e]\n你一定要帮帮我们！"
+    "original": "一旦[color:03]天文台[color:00]可以作为[color:03]星船[color:00]飞行，\n我们将带你到[color:03]银河中心[color:00]寻找你[color:01]重要的人[color:00]。\\f\n只需要再多一些的[icon:0007][color:04]力量之星[color:00]……[wait:001e]\n你一定要帮帮我们！",
+    "translation": "一旦[color:03]天文台[color:00]可以作为[color:03]星船[color:00]飞行，\n我们将带你到[color:03]银河中心[color:00]寻找你[color:01]重要的人[color:00]。\\f\n只需要再多一些的[icon:0007][color:04]力量之星[color:00]……[wait:001e]\n你一定要帮帮我们！"
   },
   {
     "index": 190,
@@ -1167,8 +1167,8 @@
   {
     "index": 191,
     "key": "AstroGalaxy_Rosetta101",
-    "original": "谢谢你救出了[icon:001b][color:01]崇高之星[color:00]。\f\n这些星星居民都是我亲爱的家人。",
-    "translation": "谢谢你救出了[icon:001b][color:01]崇高之星[color:00]。\f\n这些星星居民都是我亲爱的家人。"
+    "original": "谢谢你救出了[icon:001b][color:01]崇高之星[color:00]。\\f\n这些星星居民都是我亲爱的家人。",
+    "translation": "谢谢你救出了[icon:001b][color:01]崇高之星[color:00]。\\f\n这些星星居民都是我亲爱的家人。"
   },
   {
     "index": 192,
@@ -1197,14 +1197,14 @@
   {
     "index": 196,
     "key": "AstroGalaxy_Rosetta106",
-    "original": "你应该先去[color:01]占星露台[color:00]。\f\n请救出你能看见的\n[color:03]银河[color:00]中的[icon:0007][color:04]力量之星[color:00]吧。",
-    "translation": "你应该先去[color:01]占星露台[color:00]。\f\n请救出你能看见的\n[color:03]银河[color:00]中的[icon:0007][color:04]力量之星[color:00]吧。"
+    "original": "你应该先去[color:01]占星露台[color:00]。\\f\n请救出你能看见的\n[color:03]银河[color:00]中的[icon:0007][color:04]力量之星[color:00]吧。",
+    "translation": "你应该先去[color:01]占星露台[color:00]。\\f\n请救出你能看见的\n[color:03]银河[color:00]中的[icon:0007][color:04]力量之星[color:00]吧。"
   },
   {
     "index": 197,
     "key": "AstroGalaxy_Rosetta107",
-    "original": "这些圆形的房间叫作[color:01]圆顶[color:00]，\n平时我们就在里面观测[color:03]银河[color:00]。\f\n但是，现在只有一个还在运转。\f\n那就是依靠你夺回的[color:04][icon:0007]星之力量\n[color:00]维持运行的[color:01]占星露台[color:00]……",
-    "translation": "这些圆形的房间叫作[color:01]圆顶[color:00]，\n平时我们就在里面观测[color:03]银河[color:00]。\f\n但是，现在只有一个还在运转。\f\n那就是依靠你夺回的[color:04][icon:0007]星之力量\n[color:00]维持运行的[color:01]占星露台[color:00]……"
+    "original": "这些圆形的房间叫作[color:01]圆顶[color:00]，\n平时我们就在里面观测[color:03]银河[color:00]。\\f\n但是，现在只有一个还在运转。\\f\n那就是依靠你夺回的[color:04][icon:0007]星之力量\n[color:00]维持运行的[color:01]占星露台[color:00]……",
+    "translation": "这些圆形的房间叫作[color:01]圆顶[color:00]，\n平时我们就在里面观测[color:03]银河[color:00]。\\f\n但是，现在只有一个还在运转。\\f\n那就是依靠你夺回的[color:04][icon:0007]星之力量\n[color:00]维持运行的[color:01]占星露台[color:00]……"
   },
   {
     "index": 198,
@@ -1234,8 +1234,8 @@
   {
     "index": 202,
     "key": "AstroGalaxy_Rosetta210",
-    "original": "我们现在有足够的[icon:0007][color:04]星之力量[color:00]\n飞去[color:02]异世界[color:00]了。\f\n但是在那之前，\n我们要先救出你[color:01]重要的人[color:00]。",
-    "translation": "我们现在有足够的[icon:0007][color:04]星之力量[color:00]\n飞去[color:02]异世界[color:00]了。\f\n但是在那之前，\n我们要先救出你[color:01]重要的人[color:00]。"
+    "original": "我们现在有足够的[icon:0007][color:04]星之力量[color:00]\n飞去[color:02]异世界[color:00]了。\\f\n但是在那之前，\n我们要先救出你[color:01]重要的人[color:00]。",
+    "translation": "我们现在有足够的[icon:0007][color:04]星之力量[color:00]\n飞去[color:02]异世界[color:00]了。\\f\n但是在那之前，\n我们要先救出你[color:01]重要的人[color:00]。"
   },
   {
     "index": 203,
@@ -1271,8 +1271,8 @@
   {
     "index": 208,
     "key": "AstroGalaxy_Rosetta402",
-    "original": "你所看见的[color:03]数字[color:00]表示进入[color:02]异世界\n[color:00]所需[color:04][icon:0007]星之力量[color:00]的数量。\f\n所谓的[color:02]异世界[color:00]……\n就是你遇见另一个你的世界。",
-    "translation": "你所看见的[color:03]数字[color:00]表示进入[color:02]异世界\n[color:00]所需[color:04][icon:0007]星之力量[color:00]的数量。\f\n所谓的[color:02]异世界[color:00]……\n就是你遇见另一个你的世界。"
+    "original": "你所看见的[color:03]数字[color:00]表示进入[color:02]异世界\n[color:00]所需[color:04][icon:0007]星之力量[color:00]的数量。\\f\n所谓的[color:02]异世界[color:00]……\n就是你遇见另一个你的世界。",
+    "translation": "你所看见的[color:03]数字[color:00]表示进入[color:02]异世界\n[color:00]所需[color:04][icon:0007]星之力量[color:00]的数量。\\f\n所谓的[color:02]异世界[color:00]……\n就是你遇见另一个你的世界。"
   },
   {
     "index": 209,
@@ -1283,8 +1283,8 @@
   {
     "index": 210,
     "key": "AstroGalaxy_SignBoard004",
-    "original": "如果需要休息，请按[icon:0017]或[icon:0018]。\f\n可以选择[color:01]“保存后退出”[color:00]来[color:01]保存冒险进度[color:00]，\n并休息一会儿。",
-    "translation": "如果需要休息，请按[icon:0017]或[icon:0018]。\f\n可以选择[color:01]“保存后退出”[color:00]来[color:01]保存冒险进度[color:00]，\n并休息一会儿。"
+    "original": "如果需要休息，请按[icon:0017]或[icon:0018]。\\f\n可以选择[color:01]“保存后退出”[color:00]来[color:01]保存冒险进度[color:00]，\n并休息一会儿。",
+    "translation": "如果需要休息，请按[icon:0017]或[icon:0018]。\\f\n可以选择[color:01]“保存后退出”[color:00]来[color:01]保存冒险进度[color:00]，\n并休息一会儿。"
   },
   {
     "index": 211,
@@ -1310,26 +1310,26 @@
   {
     "index": 214,
     "key": "AstroGalaxy_Tico003",
-    "original": "[icon:0008][color:02]试练之门[color:00]开启了！\f\n愿宇宙之光与你同在，勇敢的挑战者。",
-    "translation": "[icon:0008][color:02]试练之门[color:00]开启了！\f\n愿宇宙之光与你同在，勇敢的挑战者。"
+    "original": "[icon:0008][color:02]试练之门[color:00]开启了！\\f\n愿宇宙之光与你同在，勇敢的挑战者。",
+    "translation": "[icon:0008][color:02]试练之门[color:00]开启了！\\f\n愿宇宙之光与你同在，勇敢的挑战者。"
   },
   {
     "index": 215,
     "key": "AstroGalaxy_Tico004",
-    "original": "[color:01]挑战银河[color:00]位于宇宙的边缘。\f\n那是超越常识、想象与极限的世界……",
-    "translation": "[color:01]挑战银河[color:00]位于宇宙的边缘。\f\n那是超越常识、想象与极限的世界……"
+    "original": "[color:01]挑战银河[color:00]位于宇宙的边缘。\\f\n那是超越常识、想象与极限的世界……",
+    "translation": "[color:01]挑战银河[color:00]位于宇宙的边缘。\\f\n那是超越常识、想象与极限的世界……"
   },
   {
     "index": 216,
     "key": "AstroGalaxy_Tico005",
-    "original": "你可以尝试这[color:01]３[color:00]项[color:01]挑战[color:00]。\f\n如果你真是拯救[color:03]银河[color:00]的人，\n一定会全部通过的……",
-    "translation": "你可以尝试这[color:01]３[color:00]项[color:01]挑战[color:00]。\f\n如果你真是拯救[color:03]银河[color:00]的人，\n一定会全部通过的……"
+    "original": "你可以尝试这[color:01]３[color:00]项[color:01]挑战[color:00]。\\f\n如果你真是拯救[color:03]银河[color:00]的人，\n一定会全部通过的……",
+    "translation": "你可以尝试这[color:01]３[color:00]项[color:01]挑战[color:00]。\\f\n如果你真是拯救[color:03]银河[color:00]的人，\n一定会全部通过的……"
   },
   {
     "index": 217,
     "key": "AstroGalaxy_Tico006",
-    "original": "谢谢你的帮助……\n我是[color:01]挑战银河[color:00]的守护者。\f\n要开启[icon:0008][color:02]试练之门[color:00]，\n还需要另外[color:01]两个[color:00]琪琪的力量。",
-    "translation": "谢谢你的帮助……\n我是[color:01]挑战银河[color:00]的守护者。\f\n要开启[icon:0008][color:02]试练之门[color:00]，\n还需要另外[color:01]两个[color:00]琪琪的力量。"
+    "original": "谢谢你的帮助……\n我是[color:01]挑战银河[color:00]的守护者。\\f\n要开启[icon:0008][color:02]试练之门[color:00]，\n还需要另外[color:01]两个[color:00]琪琪的力量。",
+    "translation": "谢谢你的帮助……\n我是[color:01]挑战银河[color:00]的守护者。\\f\n要开启[icon:0008][color:02]试练之门[color:00]，\n还需要另外[color:01]两个[color:00]琪琪的力量。"
   },
   {
     "index": 218,
@@ -1340,8 +1340,8 @@
   {
     "index": 219,
     "key": "AstroGalaxy_Tico008",
-    "original": "我们是[color:01]挑战银河[color:00]的守护者。\f\n要开启[icon:0008][color:02]试练之门[color:00]，\n还需要另外[color:01]一个[color:00]琪琪的力量。",
-    "translation": "我们是[color:01]挑战银河[color:00]的守护者。\f\n要开启[icon:0008][color:02]试练之门[color:00]，\n还需要另外[color:01]一个[color:00]琪琪的力量。"
+    "original": "我们是[color:01]挑战银河[color:00]的守护者。\\f\n要开启[icon:0008][color:02]试练之门[color:00]，\n还需要另外[color:01]一个[color:00]琪琪的力量。",
+    "translation": "我们是[color:01]挑战银河[color:00]的守护者。\\f\n要开启[icon:0008][color:02]试练之门[color:00]，\n还需要另外[color:01]一个[color:00]琪琪的力量。"
   },
   {
     "index": 220,
@@ -1377,8 +1377,8 @@
   {
     "index": 225,
     "key": "AstroGalaxy_Tico015",
-    "original": "看见这颗[color:01]红色星星[color:00]了吗？[wait:001e]\n你想什么时候用都可以。\f\n没错，没错，这是妈妈说的。",
-    "translation": "看见这颗[color:01]红色星星[color:00]了吗？[wait:001e]\n你想什么时候用都可以。\f\n没错，没错，这是妈妈说的。"
+    "original": "看见这颗[color:01]红色星星[color:00]了吗？[wait:001e]\n你想什么时候用都可以。\\f\n没错，没错，这是妈妈说的。",
+    "translation": "看见这颗[color:01]红色星星[color:00]了吗？[wait:001e]\n你想什么时候用都可以。\\f\n没错，没错，这是妈妈说的。"
   },
   {
     "index": 226,
@@ -1644,14 +1644,14 @@
   {
     "index": 268,
     "key": "AstroGalaxy_TicoComet001",
-    "original": "卟铃♪　卟铃♪　卟铃♪[wait:001e]\n[color:01]淘气彗星[color:00]的事情就交 ・ 给 ・ 我 ・ 吧！\f\n今天想知道些什么吗？",
-    "translation": "卟铃♪　卟铃♪　卟铃♪[wait:001e]\n[color:01]淘气彗星[color:00]的事情就交 ・ 给 ・ 我 ・ 吧！\f\n今天想知道些什么吗？"
+    "original": "卟铃♪　卟铃♪　卟铃♪[wait:001e]\n[color:01]淘气彗星[color:00]的事情就交 ・ 给 ・ 我 ・ 吧！\\f\n今天想知道些什么吗？",
+    "translation": "卟铃♪　卟铃♪　卟铃♪[wait:001e]\n[color:01]淘气彗星[color:00]的事情就交 ・ 给 ・ 我 ・ 吧！\\f\n今天想知道些什么吗？"
   },
   {
     "index": 269,
     "key": "AstroGalaxy_TicoComet002",
-    "original": "卟铃♪　卟铃♪　卟铃♪\n是不是在想[color:01]淘气彗星滚吧[color:00]？\f\n只要[color:01][placeholder6:0001,00000000]个[color:00][icon:000b]星之碎屑，\n卟铃卟铃～～滚吧～～咚！",
-    "translation": "卟铃♪　卟铃♪　卟铃♪\n是不是在想[color:01]淘气彗星滚吧[color:00]？\f\n只要[color:01][placeholder6:0001,00000000]个[color:00][icon:000b]星之碎屑，\n卟铃卟铃～～滚吧～～咚！"
+    "original": "卟铃♪　卟铃♪　卟铃♪\n是不是在想[color:01]淘气彗星滚吧[color:00]？\\f\n只要[color:01][placeholder6:0001,00000000]个[color:00][icon:000b]星之碎屑，\n卟铃卟铃～～滚吧～～咚！",
+    "translation": "卟铃♪　卟铃♪　卟铃♪\n是不是在想[color:01]淘气彗星滚吧[color:00]？\\f\n只要[color:01][placeholder6:0001,00000000]个[color:00][icon:000b]星之碎屑，\n卟铃卟铃～～滚吧～～咚！"
   },
   {
     "index": 270,
@@ -1662,8 +1662,8 @@
   {
     "index": 271,
     "key": "AstroGalaxy_TicoComet004",
-    "original": "耶耶耶～！好饱啊～！[wait:001e]\n我现在心满意足，浑身是劲！\f\n滚吧滚吧……\f\n[unk1][color:01][unk4:0002]滚吧～～[wait:000f][2:000000530045005f00530056005f005400490043004f0043004f004d00450054005f00540041004c004b005f0044004f004e]咚～～～～！！",
-    "translation": "耶耶耶～！好饱啊～！[wait:001e]\n我现在心满意足，浑身是劲！\f\n滚吧滚吧……\f\n[unk1][color:01][unk4:0002]滚吧～～[wait:000f][2:000000530045005f00530056005f005400490043004f0043004f004d00450054005f00540041004c004b005f0044004f004e]咚～～～～！！"
+    "original": "耶耶耶～！好饱啊～！[wait:001e]\n我现在心满意足，浑身是劲！\\f\n滚吧滚吧……\\f\n[unk1][color:01][unk4:0002]滚吧～～[wait:000f][2:000000530045005f00530056005f005400490043004f0043004f004d00450054005f00540041004c004b005f0044004f004e]咚～～～～！！",
+    "translation": "耶耶耶～！好饱啊～！[wait:001e]\n我现在心满意足，浑身是劲！\\f\n滚吧滚吧……\\f\n[unk1][color:01][unk4:0002]滚吧～～[wait:000f][2:000000530045005f00530056005f005400490043004f0043004f004d00450054005f00540041004c004b005f0044004f004e]咚～～～～！！"
   },
   {
     "index": 272,
@@ -1674,20 +1674,20 @@
   {
     "index": 273,
     "key": "AstroGalaxy_TicoComet006",
-    "original": "哎呀，看来你现在\n没有足够的[icon:000b]星之碎屑！\f\n如果想移动淘气彗星，\n就要喂我[color:01][placeholder6:0001,00000000]个[color:00][icon:000b]星之碎屑喔！",
-    "translation": "哎呀，看来你现在\n没有足够的[icon:000b]星之碎屑！\f\n如果想移动淘气彗星，\n就要喂我[color:01][placeholder6:0001,00000000]个[color:00][icon:000b]星之碎屑喔！"
+    "original": "哎呀，看来你现在\n没有足够的[icon:000b]星之碎屑！\\f\n如果想移动淘气彗星，\n就要喂我[color:01][placeholder6:0001,00000000]个[color:00][icon:000b]星之碎屑喔！",
+    "translation": "哎呀，看来你现在\n没有足够的[icon:000b]星之碎屑！\\f\n如果想移动淘气彗星，\n就要喂我[color:01][placeholder6:0001,00000000]个[color:00][icon:000b]星之碎屑喔！"
   },
   {
     "index": 274,
     "key": "AstroGalaxy_TicoComet007",
-    "original": "[color:01]淘气彗星[color:00]总是到处捣乱，\n把[color:03]银河[color:00]弄得一团糟～\f\n[color:01]“红色彗星”[color:00]限制你在银河停留的时间。[wait:001e]\n“死神彗星”只让你保留1格体力。\f\n[color:03]“影子彗星”[color:00]让你和分身一决胜负。[wait:001e]\n[color:04]“极速彗星”[color:00]让敌人加快移动速度。\f\n体验不同的彗星正是乐 ・ 趣 ・ 所 ・ 在 ♪",
-    "translation": "[color:01]淘气彗星[color:00]总是到处捣乱，\n把[color:03]银河[color:00]弄得一团糟～\f\n[color:01]“红色彗星”[color:00]限制你在银河停留的时间。[wait:001e]\n“死神彗星”只让你保留1格体力。\f\n[color:03]“影子彗星”[color:00]让你和分身一决胜负。[wait:001e]\n[color:04]“极速彗星”[color:00]让敌人加快移动速度。\f\n体验不同的彗星正是乐 ・ 趣 ・ 所 ・ 在 ♪"
+    "original": "[color:01]淘气彗星[color:00]总是到处捣乱，\n把[color:03]银河[color:00]弄得一团糟～\\f\n[color:01]“红色彗星”[color:00]限制你在银河停留的时间。[wait:001e]\n“死神彗星”只让你保留1格体力。\\f\n[color:03]“影子彗星”[color:00]让你和分身一决胜负。[wait:001e]\n[color:04]“极速彗星”[color:00]让敌人加快移动速度。\\f\n体验不同的彗星正是乐 ・ 趣 ・ 所 ・ 在 ♪",
+    "translation": "[color:01]淘气彗星[color:00]总是到处捣乱，\n把[color:03]银河[color:00]弄得一团糟～\\f\n[color:01]“红色彗星”[color:00]限制你在银河停留的时间。[wait:001e]\n“死神彗星”只让你保留1格体力。\\f\n[color:03]“影子彗星”[color:00]让你和分身一决胜负。[wait:001e]\n[color:04]“极速彗星”[color:00]让敌人加快移动速度。\\f\n体验不同的彗星正是乐 ・ 趣 ・ 所 ・ 在 ♪"
   },
   {
     "index": 275,
     "key": "AstroGalaxy_TicoComet008",
-    "original": "[color:01]淘气彗星[color:00]总是到处捣乱，\n把[color:03]银河[color:00]弄得一团糟～\f\n[color:01]“红色彗星”[color:00]限制你在银河停留的时间。[wait:001e]\n“死神彗星”只让你保留1格体力。\f\n[color:03]“影子彗星”[color:00]让你和分身一决胜负。[wait:001e]\n[color:04]“极速彗星”[color:00]让敌人加快移动速度。\f\n[color:05]“紫色彗星”[color:00]让你收集[color:01]100[color:00]枚[color:05][icon:001e]紫色硬币[color:00]。\f\n体验不同的彗星正是乐 ・ 趣 ・ 所 ・ 在 ♪",
-    "translation": "[color:01]淘气彗星[color:00]总是到处捣乱，\n把[color:03]银河[color:00]弄得一团糟～\f\n[color:01]“红色彗星”[color:00]限制你在银河停留的时间。[wait:001e]\n“死神彗星”只让你保留1格体力。\f\n[color:03]“影子彗星”[color:00]让你和分身一决胜负。[wait:001e]\n[color:04]“极速彗星”[color:00]让敌人加快移动速度。\f\n[color:05]“紫色彗星”[color:00]让你收集[color:01]100[color:00]枚[color:05][icon:001e]紫色硬币[color:00]。\f\n体验不同的彗星正是乐 ・ 趣 ・ 所 ・ 在 ♪"
+    "original": "[color:01]淘气彗星[color:00]总是到处捣乱，\n把[color:03]银河[color:00]弄得一团糟～\\f\n[color:01]“红色彗星”[color:00]限制你在银河停留的时间。[wait:001e]\n“死神彗星”只让你保留1格体力。\\f\n[color:03]“影子彗星”[color:00]让你和分身一决胜负。[wait:001e]\n[color:04]“极速彗星”[color:00]让敌人加快移动速度。\\f\n[color:05]“紫色彗星”[color:00]让你收集[color:01]100[color:00]枚[color:05][icon:001e]紫色硬币[color:00]。\\f\n体验不同的彗星正是乐 ・ 趣 ・ 所 ・ 在 ♪",
+    "translation": "[color:01]淘气彗星[color:00]总是到处捣乱，\n把[color:03]银河[color:00]弄得一团糟～\\f\n[color:01]“红色彗星”[color:00]限制你在银河停留的时间。[wait:001e]\n“死神彗星”只让你保留1格体力。\\f\n[color:03]“影子彗星”[color:00]让你和分身一决胜负。[wait:001e]\n[color:04]“极速彗星”[color:00]让敌人加快移动速度。\\f\n[color:05]“紫色彗星”[color:00]让你收集[color:01]100[color:00]枚[color:05][icon:001e]紫色硬币[color:00]。\\f\n体验不同的彗星正是乐 ・ 趣 ・ 所 ・ 在 ♪"
   },
   {
     "index": 276,
@@ -1802,8 +1802,8 @@
   {
     "index": 294,
     "key": "BombTimeAttack2Zone_Caretaker002",
-    "original": "谢谢！谢谢哦！\n总算打扫干净了！\f\n呐！[color:01]这个[color:00]是我捡来的！\n也许能帮上你的忙！",
-    "translation": "谢谢！谢谢哦！\n总算打扫干净了！\f\n呐！[color:01]这个[color:00]是我捡来的！\n也许能帮上你的忙！"
+    "original": "谢谢！谢谢哦！\n总算打扫干净了！\\f\n呐！[color:01]这个[color:00]是我捡来的！\n也许能帮上你的忙！",
+    "translation": "谢谢！谢谢哦！\n总算打扫干净了！\\f\n呐！[color:01]这个[color:00]是我捡来的！\n也许能帮上你的忙！"
   },
   {
     "index": 295,
@@ -1814,8 +1814,8 @@
   {
     "index": 296,
     "key": "BombTimeAttack2Zone_Caretaker004",
-    "original": "这里是[color:01]垃圾场[color:00]，[color:03]禁止进入[color:00]！\f\n……这是谁干的？\n在这里乱丢[color:03]不可燃垃圾[color:00]！",
-    "translation": "这里是[color:01]垃圾场[color:00]，[color:03]禁止进入[color:00]！\f\n……这是谁干的？\n在这里乱丢[color:03]不可燃垃圾[color:00]！"
+    "original": "这里是[color:01]垃圾场[color:00]，[color:03]禁止进入[color:00]！\\f\n……这是谁干的？\n在这里乱丢[color:03]不可燃垃圾[color:00]！",
+    "translation": "这里是[color:01]垃圾场[color:00]，[color:03]禁止进入[color:00]！\\f\n……这是谁干的？\n在这里乱丢[color:03]不可燃垃圾[color:00]！"
   },
   {
     "index": 297,
@@ -1863,8 +1863,8 @@
   {
     "index": 304,
     "key": "BombTimeAttackZone_Caretaker002",
-    "original": "谢谢！谢谢哦！\n总算打扫干净了！\f\n呐！[color:01]这个[color:00]是我捡来的！\n也许能帮上你的忙！",
-    "translation": "谢谢！谢谢哦！\n总算打扫干净了！\f\n呐！[color:01]这个[color:00]是我捡来的！\n也许能帮上你的忙！"
+    "original": "谢谢！谢谢哦！\n总算打扫干净了！\\f\n呐！[color:01]这个[color:00]是我捡来的！\n也许能帮上你的忙！",
+    "translation": "谢谢！谢谢哦！\n总算打扫干净了！\\f\n呐！[color:01]这个[color:00]是我捡来的！\n也许能帮上你的忙！"
   },
   {
     "index": 305,
@@ -1875,8 +1875,8 @@
   {
     "index": 306,
     "key": "BombTimeAttackZone_Caretaker004",
-    "original": "这里是[color:01]垃圾场[color:00]，[color:03]禁止进入[color:00]！\f\n……这是谁干的？\n在这里乱丢[color:03]不可燃垃圾[color:00]！",
-    "translation": "这里是[color:01]垃圾场[color:00]，[color:03]禁止进入[color:00]！\f\n……这是谁干的？\n在这里乱丢[color:03]不可燃垃圾[color:00]！"
+    "original": "这里是[color:01]垃圾场[color:00]，[color:03]禁止进入[color:00]！\\f\n……这是谁干的？\n在这里乱丢[color:03]不可燃垃圾[color:00]！",
+    "translation": "这里是[color:01]垃圾场[color:00]，[color:03]禁止进入[color:00]！\\f\n……这是谁干的？\n在这里乱丢[color:03]不可燃垃圾[color:00]！"
   },
   {
     "index": 307,
@@ -1924,8 +1924,8 @@
   {
     "index": 314,
     "key": "BombheiLectureZone_Tico002",
-    "original": "谢谢！我会给你造一条近路！\f\n[unk1][unk4:0002][color:01]变——[color:00][wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041][color:01]身——！！",
-    "translation": "谢谢！我会给你造一条近路！\f\n[unk1][unk4:0002][color:01]变——[color:00][wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041][color:01]身——！！"
+    "original": "谢谢！我会给你造一条近路！\\f\n[unk1][unk4:0002][color:01]变——[color:00][wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041][color:01]身——！！",
+    "translation": "谢谢！我会给你造一条近路！\\f\n[unk1][unk4:0002][color:01]变——[color:00][wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041][color:01]身——！！"
   },
   {
     "index": 315,
@@ -1979,38 +1979,38 @@
   {
     "index": 323,
     "key": "CannonFleetGalaxy_Caretaker002",
-    "original": "0枚？你……[wait:001e]\n你一定是故意的！\f\n这虽然很了不起，\n但老太婆我可不吃你这套！",
-    "translation": "0枚？你……[wait:001e]\n你一定是故意的！\f\n这虽然很了不起，\n但老太婆我可不吃你这套！"
+    "original": "0枚？你……[wait:001e]\n你一定是故意的！\\f\n这虽然很了不起，\n但老太婆我可不吃你这套！",
+    "translation": "0枚？你……[wait:001e]\n你一定是故意的！\\f\n这虽然很了不起，\n但老太婆我可不吃你这套！"
   },
   {
     "index": 324,
     "key": "CannonFleetGalaxy_Caretaker003",
-    "original": "[placeholder6:0001,00000000]枚啊，太～糟了……[wait:001e]\n老太婆我不是说过了吗？\f\n脑子里不要总是担心失败，[wait:001e]\n要抛弃杂念，信心满满地去[color:03]嘭[color:00]！",
-    "translation": "[placeholder6:0001,00000000]枚啊，太～糟了……[wait:001e]\n老太婆我不是说过了吗？\f\n脑子里不要总是担心失败，[wait:001e]\n要抛弃杂念，信心满满地去[color:03]嘭[color:00]！"
+    "original": "[placeholder6:0001,00000000]枚啊，太～糟了……[wait:001e]\n老太婆我不是说过了吗？\\f\n脑子里不要总是担心失败，[wait:001e]\n要抛弃杂念，信心满满地去[color:03]嘭[color:00]！",
+    "translation": "[placeholder6:0001,00000000]枚啊，太～糟了……[wait:001e]\n老太婆我不是说过了吗？\\f\n脑子里不要总是担心失败，[wait:001e]\n要抛弃杂念，信心满满地去[color:03]嘭[color:00]！"
   },
   {
     "index": 325,
     "key": "CannonFleetGalaxy_Caretaker004",
-    "original": "[placeholder6:0001,00000000]枚啊！勉勉强强！[wait:001e]\n老太婆我不是说过了吗？\f\n过于紧张的话，最后吃亏的是自己！",
-    "translation": "[placeholder6:0001,00000000]枚啊！勉勉强强！[wait:001e]\n老太婆我不是说过了吗？\f\n过于紧张的话，最后吃亏的是自己！"
+    "original": "[placeholder6:0001,00000000]枚啊！勉勉强强！[wait:001e]\n老太婆我不是说过了吗？\\f\n过于紧张的话，最后吃亏的是自己！",
+    "translation": "[placeholder6:0001,00000000]枚啊！勉勉强强！[wait:001e]\n老太婆我不是说过了吗？\\f\n过于紧张的话，最后吃亏的是自己！"
   },
   {
     "index": 326,
     "key": "CannonFleetGalaxy_Caretaker005",
-    "original": "拿了[placeholder6:0001,00000000]枚啊！很不错！\f\n接下来挑战自己吧！[wait:001e]\n再接再厉加把劲！",
-    "translation": "拿了[placeholder6:0001,00000000]枚啊！很不错！\f\n接下来挑战自己吧！[wait:001e]\n再接再厉加把劲！"
+    "original": "拿了[placeholder6:0001,00000000]枚啊！很不错！\\f\n接下来挑战自己吧！[wait:001e]\n再接再厉加把劲！",
+    "translation": "拿了[placeholder6:0001,00000000]枚啊！很不错！\\f\n接下来挑战自己吧！[wait:001e]\n再接再厉加把劲！"
   },
   {
     "index": 327,
     "key": "CannonFleetGalaxy_Caretaker006",
-    "original": "[placeholder6:0001,00000000]枚呀～～！可惜啊～！\f\n不过真正的挑战才刚刚开始！[wait:001e]\n要有耐心，继续加油！",
-    "translation": "[placeholder6:0001,00000000]枚呀～～！可惜啊～！\f\n不过真正的挑战才刚刚开始！[wait:001e]\n要有耐心，继续加油！"
+    "original": "[placeholder6:0001,00000000]枚呀～～！可惜啊～！\\f\n不过真正的挑战才刚刚开始！[wait:001e]\n要有耐心，继续加油！",
+    "translation": "[placeholder6:0001,00000000]枚呀～～！可惜啊～！\\f\n不过真正的挑战才刚刚开始！[wait:001e]\n要有耐心，继续加油！"
   },
   {
     "index": 328,
     "key": "CannonFleetGalaxy_Caretaker007",
-    "original": "[placeholder6:0001,00000000]枚？！只差一点啊～！\f\n虽然我很同情你，不过不行就是不行！[wait:001e]\n规矩就是规矩！",
-    "translation": "[placeholder6:0001,00000000]枚？！只差一点啊～！\f\n虽然我很同情你，不过不行就是不行！[wait:001e]\n规矩就是规矩！"
+    "original": "[placeholder6:0001,00000000]枚？！只差一点啊～！\\f\n虽然我很同情你，不过不行就是不行！[wait:001e]\n规矩就是规矩！",
+    "translation": "[placeholder6:0001,00000000]枚？！只差一点啊～！\\f\n虽然我很同情你，不过不行就是不行！[wait:001e]\n规矩就是规矩！"
   },
   {
     "index": 329,
@@ -2053,8 +2053,8 @@
   {
     "index": 335,
     "key": "CoCoTwinZone_Kinopio014",
-    "original": "谢谢你，[unk5:00]先生！[wait:001e]\n作为回报，我告诉你一个秘密！\f\n挥动[color:01][icon:0003]旋转[color:03][icon:000c]椰子[color:00]，\n来[color:01]撞击[color:00]那些[color:03]带刺的玩意[color:00]！",
-    "translation": "谢谢你，[unk5:00]先生！[wait:001e]\n作为回报，我告诉你一个秘密！\f\n挥动[color:01][icon:0003]旋转[color:03][icon:000c]椰子[color:00]，\n来[color:01]撞击[color:00]那些[color:03]带刺的玩意[color:00]！"
+    "original": "谢谢你，[unk5:00]先生！[wait:001e]\n作为回报，我告诉你一个秘密！\\f\n挥动[color:01][icon:0003]旋转[color:03][icon:000c]椰子[color:00]，\n来[color:01]撞击[color:00]那些[color:03]带刺的玩意[color:00]！",
+    "translation": "谢谢你，[unk5:00]先生！[wait:001e]\n作为回报，我告诉你一个秘密！\\f\n挥动[color:01][icon:0003]旋转[color:03][icon:000c]椰子[color:00]，\n来[color:01]撞击[color:00]那些[color:03]带刺的玩意[color:00]！"
   },
   {
     "index": 336,
@@ -2143,8 +2143,8 @@
   {
     "index": 350,
     "key": "Common_SurfingTutorial007",
-    "original": "[color:01]按住[color:00][icon:0000]可以[color:01]加速[color:00]。\f\n以上就是所有说明了。\n那么先练习一圈吧！",
-    "translation": "[color:01]按住[color:00][icon:0000]可以[color:01]加速[color:00]。\f\n以上就是所有说明了。\n那么先练习一圈吧！"
+    "original": "[color:01]按住[color:00][icon:0000]可以[color:01]加速[color:00]。\\f\n以上就是所有说明了。\n那么先练习一圈吧！",
+    "translation": "[color:01]按住[color:00][icon:0000]可以[color:01]加速[color:00]。\\f\n以上就是所有说明了。\n那么先练习一圈吧！"
   },
   {
     "index": 351,
@@ -2186,8 +2186,8 @@
   {
     "index": 357,
     "key": "Common_TamakoroTutorial006",
-    "original": "[color:01]倾斜[icon:0003][color:00]，控制[color:03]星星球[color:00]移动。\f\n然后，[color:01]按[color:00][icon:0000][color:01]跳跃[color:00]！[wait:001e]\n要是有东西挡了你的道，跳上去碾平它！\f\n在实践中你会学到更多。[wait:001e]\n祝你好运！",
-    "translation": "[color:01]倾斜[icon:0003][color:00]，控制[color:03]星星球[color:00]移动。\f\n然后，[color:01]按[color:00][icon:0000][color:01]跳跃[color:00]！[wait:001e]\n要是有东西挡了你的道，跳上去碾平它！\f\n在实践中你会学到更多。[wait:001e]\n祝你好运！"
+    "original": "[color:01]倾斜[icon:0003][color:00]，控制[color:03]星星球[color:00]移动。\\f\n然后，[color:01]按[color:00][icon:0000][color:01]跳跃[color:00]！[wait:001e]\n要是有东西挡了你的道，跳上去碾平它！\\f\n在实践中你会学到更多。[wait:001e]\n祝你好运！",
+    "translation": "[color:01]倾斜[icon:0003][color:00]，控制[color:03]星星球[color:00]移动。\\f\n然后，[color:01]按[color:00][icon:0000][color:01]跳跃[color:00]！[wait:001e]\n要是有东西挡了你的道，跳上去碾平它！\\f\n在实践中你会学到更多。[wait:001e]\n祝你好运！"
   },
   {
     "index": 358,
@@ -2255,14 +2255,14 @@
   {
     "index": 368,
     "key": "Common_TicoFat001",
-    "original": "晶铃♪　晶铃♪　晶铃♪\n嗨嗨～那边那个人！\f\n有没有[color:01][icon:000b]星之碎屑[color:00]啊？\f\n好想吃[color:01][icon:000b]星之碎屑[color:00]喔♪[wait:001e]\n想吃好多好多，吃得饱饱的♪",
-    "translation": "晶铃♪　晶铃♪　晶铃♪\n嗨嗨～那边那个人！\f\n有没有[color:01][icon:000b]星之碎屑[color:00]啊？\f\n好想吃[color:01][icon:000b]星之碎屑[color:00]喔♪[wait:001e]\n想吃好多好多，吃得饱饱的♪"
+    "original": "晶铃♪　晶铃♪　晶铃♪\n嗨嗨～那边那个人！\\f\n有没有[color:01][icon:000b]星之碎屑[color:00]啊？\\f\n好想吃[color:01][icon:000b]星之碎屑[color:00]喔♪[wait:001e]\n想吃好多好多，吃得饱饱的♪",
+    "translation": "晶铃♪　晶铃♪　晶铃♪\n嗨嗨～那边那个人！\\f\n有没有[color:01][icon:000b]星之碎屑[color:00]啊？\\f\n好想吃[color:01][icon:000b]星之碎屑[color:00]喔♪[wait:001e]\n想吃好多好多，吃得饱饱的♪"
   },
   {
     "index": 369,
     "key": "Common_TicoFat002",
-    "original": "晶铃♪　晶铃♪　晶铃♪\n我想要吃[icon:000b][color:01]星之碎屑[color:00]♪\f\n吃到[color:01][placeholder6:0003,00000000]个[color:00]，就能大 ・ 变 ・ 身♪",
-    "translation": "晶铃♪　晶铃♪　晶铃♪\n我想要吃[icon:000b][color:01]星之碎屑[color:00]♪\f\n吃到[color:01][placeholder6:0003,00000000]个[color:00]，就能大 ・ 变 ・ 身♪"
+    "original": "晶铃♪　晶铃♪　晶铃♪\n我想要吃[icon:000b][color:01]星之碎屑[color:00]♪\\f\n吃到[color:01][placeholder6:0003,00000000]个[color:00]，就能大 ・ 变 ・ 身♪",
+    "translation": "晶铃♪　晶铃♪　晶铃♪\n我想要吃[icon:000b][color:01]星之碎屑[color:00]♪\\f\n吃到[color:01][placeholder6:0003,00000000]个[color:00]，就能大 ・ 变 ・ 身♪"
   },
   {
     "index": 370,
@@ -2297,8 +2297,8 @@
   {
     "index": 375,
     "key": "Common_TicoFat008",
-    "original": "饱啦饱啦饱啦～！肚皮圆滚滚！[wait:001e]\n好了，该干活啦～！\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！",
-    "translation": "饱啦饱啦饱啦～！肚皮圆滚滚！[wait:001e]\n好了，该干活啦～！\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！"
+    "original": "饱啦饱啦饱啦～！肚皮圆滚滚！[wait:001e]\n好了，该干活啦～！\\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！",
+    "translation": "饱啦饱啦饱啦～！肚皮圆滚滚！[wait:001e]\n好了，该干活啦～！\\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！"
   },
   {
     "index": 376,
@@ -2323,8 +2323,8 @@
   {
     "index": 379,
     "key": "Common_TicoShop001",
-    "original": "哔铃♪　哔铃♪　哔铃♪[wait:001e]\n欢迎来到[color:03]琪琪商店[color:00]～～\f\n我会给你[color:03]很有用的东西[color:00]！\n只要[color:01][placeholder6:0002,00000000]个[color:00][icon:000b]星之碎屑喔～～",
-    "translation": "哔铃♪　哔铃♪　哔铃♪[wait:001e]\n欢迎来到[color:03]琪琪商店[color:00]～～\f\n我会给你[color:03]很有用的东西[color:00]！\n只要[color:01][placeholder6:0002,00000000]个[color:00][icon:000b]星之碎屑喔～～"
+    "original": "哔铃♪　哔铃♪　哔铃♪[wait:001e]\n欢迎来到[color:03]琪琪商店[color:00]～～\\f\n我会给你[color:03]很有用的东西[color:00]！\n只要[color:01][placeholder6:0002,00000000]个[color:00][icon:000b]星之碎屑喔～～",
+    "translation": "哔铃♪　哔铃♪　哔铃♪[wait:001e]\n欢迎来到[color:03]琪琪商店[color:00]～～\\f\n我会给你[color:03]很有用的东西[color:00]！\n只要[color:01][placeholder6:0002,00000000]个[color:00][icon:000b]星之碎屑喔～～"
   },
   {
     "index": 380,
@@ -2353,8 +2353,8 @@
   {
     "index": 384,
     "key": "Common_TicoShop007",
-    "original": "真饱啊～！感觉真棒～！！[wait:001e]\n那看好啦～～！\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！",
-    "translation": "真饱啊～！感觉真棒～！！[wait:001e]\n那看好啦～～！\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！"
+    "original": "真饱啊～！感觉真棒～！！[wait:001e]\n那看好啦～～！\\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！",
+    "translation": "真饱啊～！感觉真棒～！！[wait:001e]\n那看好啦～～！\\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！"
   },
   {
     "index": 385,
@@ -2403,8 +2403,8 @@
   {
     "index": 392,
     "key": "CubeBubbleExAZone_SignBoard001",
-    "original": "嘿！有一点我忘了说！\f\n如果你乘[color:03]大气泡[color:00]时想要回到地面，\n只要按[icon:0019]就能[color:01]降落[color:00]了！\f\n还有，如果你被[color:01]移动墙壁[color:00]夹到，\n[color:03]大气泡[color:00]就会[color:01]破裂[color:00]！[wait:001e]当心啊！",
-    "translation": "嘿！有一点我忘了说！\f\n如果你乘[color:03]大气泡[color:00]时想要回到地面，\n只要按[icon:0019]就能[color:01]降落[color:00]了！\f\n还有，如果你被[color:01]移动墙壁[color:00]夹到，\n[color:03]大气泡[color:00]就会[color:01]破裂[color:00]！[wait:001e]当心啊！"
+    "original": "嘿！有一点我忘了说！\\f\n如果你乘[color:03]大气泡[color:00]时想要回到地面，\n只要按[icon:0019]就能[color:01]降落[color:00]了！\\f\n还有，如果你被[color:01]移动墙壁[color:00]夹到，\n[color:03]大气泡[color:00]就会[color:01]破裂[color:00]！[wait:001e]当心啊！",
+    "translation": "嘿！有一点我忘了说！\\f\n如果你乘[color:03]大气泡[color:00]时想要回到地面，\n只要按[icon:0019]就能[color:01]降落[color:00]了！\\f\n还有，如果你被[color:01]移动墙壁[color:00]夹到，\n[color:03]大气泡[color:00]就会[color:01]破裂[color:00]！[wait:001e]当心啊！"
   },
   {
     "index": 393,
@@ -2428,8 +2428,8 @@
   {
     "index": 396,
     "key": "CubeBubbleExBZone_SignBoard001",
-    "original": "嘿！是我啊！[color:03]板留言[color:00]呀！\f\n你得乘[color:03]大气泡[color:00]才能通过这里。\n别说你忘了[color:01]大气泡的操作[color:00]！\f\n还有，[color:03]电击栏[color:00]可不是糊弄人的……\n千万别碰到它！",
-    "translation": "嘿！是我啊！[color:03]板留言[color:00]呀！\f\n你得乘[color:03]大气泡[color:00]才能通过这里。\n别说你忘了[color:01]大气泡的操作[color:00]！\f\n还有，[color:03]电击栏[color:00]可不是糊弄人的……\n千万别碰到它！"
+    "original": "嘿！是我啊！[color:03]板留言[color:00]呀！\\f\n你得乘[color:03]大气泡[color:00]才能通过这里。\n别说你忘了[color:01]大气泡的操作[color:00]！\\f\n还有，[color:03]电击栏[color:00]可不是糊弄人的……\n千万别碰到它！",
+    "translation": "嘿！是我啊！[color:03]板留言[color:00]呀！\\f\n你得乘[color:03]大气泡[color:00]才能通过这里。\n别说你忘了[color:01]大气泡的操作[color:00]！\\f\n还有，[color:03]电击栏[color:00]可不是糊弄人的……\n千万别碰到它！"
   },
   {
     "index": 397,
@@ -2484,8 +2484,8 @@
   {
     "index": 405,
     "key": "CubeBubbleExSZone_Kinopio007",
-    "original": "这里的风真～大！\f\n如果能乘风而去，\n那该有多美妙啊！",
-    "translation": "这里的风真～大！\f\n如果能乘风而去，\n那该有多美妙啊！"
+    "original": "这里的风真～大！\\f\n如果能乘风而去，\n那该有多美妙啊！",
+    "translation": "这里的风真～大！\\f\n如果能乘风而去，\n那该有多美妙啊！"
   },
   {
     "index": 406,
@@ -2497,14 +2497,14 @@
   {
     "index": 407,
     "key": "CubeBubbleExSZone_SignBoard001",
-    "original": "嘿！[wait:001e]在你乘坐[color:01]大气泡[color:00]前，\n听你真诚的朋友，[color:03]板留言[color:00]说句话吧！\f\n乘上[color:03]大气泡[color:00]后按[icon:0000]，[wait:001e]\n[color:03][icon:000a][color:01]光标[color:00]里会有[color:03]空气出来[color:00]！\f\n利用空气从[color:01]一侧吹动[color:03]大气泡[color:00]！[wait:001e]\n这是很细微的操作，你会适应的。",
-    "translation": "嘿！[wait:001e]在你乘坐[color:01]大气泡[color:00]前，\n听你真诚的朋友，[color:03]板留言[color:00]说句话吧！\f\n乘上[color:03]大气泡[color:00]后按[icon:0000]，[wait:001e]\n[color:03][icon:000a][color:01]光标[color:00]里会有[color:03]空气出来[color:00]！\f\n利用空气从[color:01]一侧吹动[color:03]大气泡[color:00]！[wait:001e]\n这是很细微的操作，你会适应的。"
+    "original": "嘿！[wait:001e]在你乘坐[color:01]大气泡[color:00]前，\n听你真诚的朋友，[color:03]板留言[color:00]说句话吧！\\f\n乘上[color:03]大气泡[color:00]后按[icon:0000]，[wait:001e]\n[color:03][icon:000a][color:01]光标[color:00]里会有[color:03]空气出来[color:00]！\\f\n利用空气从[color:01]一侧吹动[color:03]大气泡[color:00]！[wait:001e]\n这是很细微的操作，你会适应的。",
+    "translation": "嘿！[wait:001e]在你乘坐[color:01]大气泡[color:00]前，\n听你真诚的朋友，[color:03]板留言[color:00]说句话吧！\\f\n乘上[color:03]大气泡[color:00]后按[icon:0000]，[wait:001e]\n[color:03][icon:000a][color:01]光标[color:00]里会有[color:03]空气出来[color:00]！\\f\n利用空气从[color:01]一侧吹动[color:03]大气泡[color:00]！[wait:001e]\n这是很细微的操作，你会适应的。"
   },
   {
     "index": 408,
     "key": "CubeBubbleExSZone_SignBoard002",
-    "original": "乘上[color:03]大气泡[color:00]后按[icon:0000]，[wait:001e]\n[color:03][icon:000a][color:01]光标[color:00]里会有[color:03]空气出来[color:00]！\f\n利用空气从[color:01]一侧吹动[color:03]大气泡[color:00]！[wait:001e]\n这是很细微的操作，你会适应的。",
-    "translation": "乘上[color:03]大气泡[color:00]后按[icon:0000]，[wait:001e]\n[color:03][icon:000a][color:01]光标[color:00]里会有[color:03]空气出来[color:00]！\f\n利用空气从[color:01]一侧吹动[color:03]大气泡[color:00]！[wait:001e]\n这是很细微的操作，你会适应的。"
+    "original": "乘上[color:03]大气泡[color:00]后按[icon:0000]，[wait:001e]\n[color:03][icon:000a][color:01]光标[color:00]里会有[color:03]空气出来[color:00]！\\f\n利用空气从[color:01]一侧吹动[color:03]大气泡[color:00]！[wait:001e]\n这是很细微的操作，你会适应的。",
+    "translation": "乘上[color:03]大气泡[color:00]后按[icon:0000]，[wait:001e]\n[color:03][icon:000a][color:01]光标[color:00]里会有[color:03]空气出来[color:00]！\\f\n利用空气从[color:01]一侧吹动[color:03]大气泡[color:00]！[wait:001e]\n这是很细微的操作，你会适应的。"
   },
   {
     "index": 409,
@@ -2541,8 +2541,8 @@
   {
     "index": 414,
     "key": "DesertDiskZone_Kinopio001",
-    "original": "[unk5:00]先生！\n利用[color:01]龙卷风[color:00]拿高处的[color:05][icon:001e]紫色硬币[color:00]吧！\f\n走进[color:01]龙卷风[color:00]，[color:01]挥动[color:00][icon:0003]！",
-    "translation": "[unk5:00]先生！\n利用[color:01]龙卷风[color:00]拿高处的[color:05][icon:001e]紫色硬币[color:00]吧！\f\n走进[color:01]龙卷风[color:00]，[color:01]挥动[color:00][icon:0003]！"
+    "original": "[unk5:00]先生！\n利用[color:01]龙卷风[color:00]拿高处的[color:05][icon:001e]紫色硬币[color:00]吧！\\f\n走进[color:01]龙卷风[color:00]，[color:01]挥动[color:00][icon:0003]！",
+    "translation": "[unk5:00]先生！\n利用[color:01]龙卷风[color:00]拿高处的[color:05][icon:001e]紫色硬币[color:00]吧！\\f\n走进[color:01]龙卷风[color:00]，[color:01]挥动[color:00][icon:0003]！"
   },
   {
     "index": 415,
@@ -2584,26 +2584,26 @@
   {
     "index": 421,
     "key": "DiskGardenZone_LuigiEvent001",
-    "original": "你又来救我啦！[wait:001e]\n我就知道哥哥最可靠！\f\n什么？[icon:0007][color:01]力量之星[color:00]？[wait:001e]\n我找到了喔！给！",
-    "translation": "你又来救我啦！[wait:001e]\n我就知道哥哥最可靠！\f\n什么？[icon:0007][color:01]力量之星[color:00]？[wait:001e]\n我找到了喔！给！"
+    "original": "你又来救我啦！[wait:001e]\n我就知道哥哥最可靠！\\f\n什么？[icon:0007][color:01]力量之星[color:00]？[wait:001e]\n我找到了喔！给！",
+    "translation": "你又来救我啦！[wait:001e]\n我就知道哥哥最可靠！\\f\n什么？[icon:0007][color:01]力量之星[color:00]？[wait:001e]\n我找到了喔！给！"
   },
   {
     "index": 422,
     "key": "DiskGardenZone_LuigiEvent002",
-    "original": "你又来救我啦！[wait:001e]\n我就知道[color:02]我[color:00]最可靠！\f\n什么？[icon:0007][color:01]力量之星[color:00]？[wait:001e]\n我找到了喔！给！",
-    "translation": "你又来救我啦！[wait:001e]\n我就知道[color:02]我[color:00]最可靠！\f\n什么？[icon:0007][color:01]力量之星[color:00]？[wait:001e]\n我找到了喔！给！"
+    "original": "你又来救我啦！[wait:001e]\n我就知道[color:02]我[color:00]最可靠！\\f\n什么？[icon:0007][color:01]力量之星[color:00]？[wait:001e]\n我找到了喔！给！",
+    "translation": "你又来救我啦！[wait:001e]\n我就知道[color:02]我[color:00]最可靠！\\f\n什么？[icon:0007][color:01]力量之星[color:00]？[wait:001e]\n我找到了喔！给！"
   },
   {
     "index": 423,
     "key": "DiskGardenZone_LuigiEvent003",
-    "original": "哥哥，你在做什么！[wait:001e]\n[color:03]宇宙[color:00]的命运危在旦夕！\f\n给！快把这颗[color:01][icon:0007]力量之星[color:00]带回去吧！",
-    "translation": "哥哥，你在做什么！[wait:001e]\n[color:03]宇宙[color:00]的命运危在旦夕！\f\n给！快把这颗[color:01][icon:0007]力量之星[color:00]带回去吧！"
+    "original": "哥哥，你在做什么！[wait:001e]\n[color:03]宇宙[color:00]的命运危在旦夕！\\f\n给！快把这颗[color:01][icon:0007]力量之星[color:00]带回去吧！",
+    "translation": "哥哥，你在做什么！[wait:001e]\n[color:03]宇宙[color:00]的命运危在旦夕！\\f\n给！快把这颗[color:01][icon:0007]力量之星[color:00]带回去吧！"
   },
   {
     "index": 424,
     "key": "DiskGardenZone_LuigiEvent004",
-    "original": "[color:02]我[color:00]在做什么呀！[wait:001e]\n[color:03]宇宙[color:00]的命运危在旦夕！\f\n给！快把这颗[color:01][icon:0007]力量之星[color:00]带回去吧！",
-    "translation": "[color:02]我[color:00]在做什么呀！[wait:001e]\n[color:03]宇宙[color:00]的命运危在旦夕！\f\n给！快把这颗[color:01][icon:0007]力量之星[color:00]带回去吧！"
+    "original": "[color:02]我[color:00]在做什么呀！[wait:001e]\n[color:03]宇宙[color:00]的命运危在旦夕！\\f\n给！快把这颗[color:01][icon:0007]力量之星[color:00]带回去吧！",
+    "translation": "[color:02]我[color:00]在做什么呀！[wait:001e]\n[color:03]宇宙[color:00]的命运危在旦夕！\\f\n给！快把这颗[color:01][icon:0007]力量之星[color:00]带回去吧！"
   },
   {
     "index": 425,
@@ -2620,8 +2620,8 @@
   {
     "index": 427,
     "key": "DiskGardenZone_SignBoard001",
-    "original": "如果觉得疲劳，想回到[color:03]天文台[color:00]，\n就按[icon:0017]或[icon:0018]。\f\n选择[color:03]“返回天文台”[color:00]就能回去，但要注意，[wait:001e]\n所收集的[icon:000b][color:01]星之碎屑[color:00]将[color:01]不能带回[color:00]！",
-    "translation": "如果觉得疲劳，想回到[color:03]天文台[color:00]，\n就按[icon:0017]或[icon:0018]。\f\n选择[color:03]“返回天文台”[color:00]就能回去，但要注意，[wait:001e]\n所收集的[icon:000b][color:01]星之碎屑[color:00]将[color:01]不能带回[color:00]！"
+    "original": "如果觉得疲劳，想回到[color:03]天文台[color:00]，\n就按[icon:0017]或[icon:0018]。\\f\n选择[color:03]“返回天文台”[color:00]就能回去，但要注意，[wait:001e]\n所收集的[icon:000b][color:01]星之碎屑[color:00]将[color:01]不能带回[color:00]！",
+    "translation": "如果觉得疲劳，想回到[color:03]天文台[color:00]，\n就按[icon:0017]或[icon:0018]。\\f\n选择[color:03]“返回天文台”[color:00]就能回去，但要注意，[wait:001e]\n所收集的[icon:000b][color:01]星之碎屑[color:00]将[color:01]不能带回[color:00]！"
   },
   {
     "index": 428,
@@ -2633,8 +2633,8 @@
   {
     "index": 429,
     "key": "DiskGardenZone_Tico001",
-    "original": "要捡起散落在银河中的[icon:000b][color:01]星之碎屑[color:00]，\n只要用[icon:000a][color:01]光标[color:03]接触[color:00]就可收集它们。\f\n每收集满[color:01]50个[color:00]会获得[color:02]1UP[color:00]，\n所以多收集一些总没坏处。\f\n尽可能的收集[color:01]星之碎屑[color:00]吧！",
-    "translation": "要捡起散落在银河中的[icon:000b][color:01]星之碎屑[color:00]，\n只要用[icon:000a][color:01]光标[color:03]接触[color:00]就可收集它们。\f\n每收集满[color:01]50个[color:00]会获得[color:02]1UP[color:00]，\n所以多收集一些总没坏处。\f\n尽可能的收集[color:01]星之碎屑[color:00]吧！"
+    "original": "要捡起散落在银河中的[icon:000b][color:01]星之碎屑[color:00]，\n只要用[icon:000a][color:01]光标[color:03]接触[color:00]就可收集它们。\\f\n每收集满[color:01]50个[color:00]会获得[color:02]1UP[color:00]，\n所以多收集一些总没坏处。\\f\n尽可能的收集[color:01]星之碎屑[color:00]吧！",
+    "translation": "要捡起散落在银河中的[icon:000b][color:01]星之碎屑[color:00]，\n只要用[icon:000a][color:01]光标[color:03]接触[color:00]就可收集它们。\\f\n每收集满[color:01]50个[color:00]会获得[color:02]1UP[color:00]，\n所以多收集一些总没坏处。\\f\n尽可能的收集[color:01]星之碎屑[color:00]吧！"
   },
   {
     "index": 430,
@@ -2664,8 +2664,8 @@
   {
     "index": 434,
     "key": "DiskGardenZone_Tico006",
-    "original": "你知道吗？！[wait:001e]\n按[icon:0001]可以发射[icon:000b][color:01]星之碎屑[color:00]！\f\n只要用[icon:000a][color:01]光标[color:00]瞄准目标，按[icon:0001]！\f\n当敌人[color:03]晕眩[color:00]时，[color:01]冲向[color:00]他们结束战斗！",
-    "translation": "你知道吗？！[wait:001e]\n按[icon:0001]可以发射[icon:000b][color:01]星之碎屑[color:00]！\f\n只要用[icon:000a][color:01]光标[color:00]瞄准目标，按[icon:0001]！\f\n当敌人[color:03]晕眩[color:00]时，[color:01]冲向[color:00]他们结束战斗！"
+    "original": "你知道吗？！[wait:001e]\n按[icon:0001]可以发射[icon:000b][color:01]星之碎屑[color:00]！\\f\n只要用[icon:000a][color:01]光标[color:00]瞄准目标，按[icon:0001]！\\f\n当敌人[color:03]晕眩[color:00]时，[color:01]冲向[color:00]他们结束战斗！",
+    "translation": "你知道吗？！[wait:001e]\n按[icon:0001]可以发射[icon:000b][color:01]星之碎屑[color:00]！\\f\n只要用[icon:000a][color:01]光标[color:00]瞄准目标，按[icon:0001]！\\f\n当敌人[color:03]晕眩[color:00]时，[color:01]冲向[color:00]他们结束战斗！"
   },
   {
     "index": 435,
@@ -2714,8 +2714,8 @@
   {
     "index": 442,
     "key": "ElectricBegomanSpikeZone_Tico006",
-    "original": "谢，谢谢你了！\n作为回报，我给你指条[color:03]近路[color:00]吧。\f\n[color:01][unk1][unk4:0002]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！",
-    "translation": "谢，谢谢你了！\n作为回报，我给你指条[color:03]近路[color:00]吧。\f\n[color:01][unk1][unk4:0002]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！"
+    "original": "谢，谢谢你了！\n作为回报，我给你指条[color:03]近路[color:00]吧。\\f\n[color:01][unk1][unk4:0002]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！",
+    "translation": "谢，谢谢你了！\n作为回报，我给你指条[color:03]近路[color:00]吧。\\f\n[color:01][unk1][unk4:0002]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！"
   },
   {
     "index": 443,
@@ -2727,14 +2727,14 @@
   {
     "index": 444,
     "key": "EpilogueDemoStage_Rosetta001",
-    "original": "你听见星星宝贝的哭声了吗？\f\n总有一天宝贝们会成长为新的银河。",
-    "translation": "你听见星星宝贝的哭声了吗？\f\n总有一天宝贝们会成长为新的银河。"
+    "original": "你听见星星宝贝的哭声了吗？\\f\n总有一天宝贝们会成长为新的银河。",
+    "translation": "你听见星星宝贝的哭声了吗？\\f\n总有一天宝贝们会成长为新的银河。"
   },
   {
     "index": 445,
     "key": "EpilogueDemoStage_Rosetta002",
-    "original": "当星星消逝时，\n它们会化为星屑散落在宇宙中。\f\n这些星屑会重新组合成一颗新星……\n这就是生命的轨迹，周而复始。",
-    "translation": "当星星消逝时，\n它们会化为星屑散落在宇宙中。\f\n这些星屑会重新组合成一颗新星……\n这就是生命的轨迹，周而复始。"
+    "original": "当星星消逝时，\n它们会化为星屑散落在宇宙中。\\f\n这些星屑会重新组合成一颗新星……\n这就是生命的轨迹，周而复始。",
+    "translation": "当星星消逝时，\n它们会化为星屑散落在宇宙中。\\f\n这些星屑会重新组合成一颗新星……\n这就是生命的轨迹，周而复始。"
   },
   {
     "index": 446,
@@ -2813,8 +2813,8 @@
   {
     "index": 458,
     "key": "FloaterLandZone_Caretaker001",
-    "original": "这里曾经是一个水上要塞，\n我们称之为[color:03]浮游要塞[color:00]。\f\n现在已经被废弃了，\n只剩下我们在维持基本运作。",
-    "translation": "这里曾经是一个水上要塞，\n我们称之为[color:03]浮游要塞[color:00]。\f\n现在已经被废弃了，\n只剩下我们在维持基本运作。"
+    "original": "这里曾经是一个水上要塞，\n我们称之为[color:03]浮游要塞[color:00]。\\f\n现在已经被废弃了，\n只剩下我们在维持基本运作。",
+    "translation": "这里曾经是一个水上要塞，\n我们称之为[color:03]浮游要塞[color:00]。\\f\n现在已经被废弃了，\n只剩下我们在维持基本运作。"
   },
   {
     "index": 459,
@@ -2893,8 +2893,8 @@
   {
     "index": 471,
     "key": "FloaterOtaKingGalaxy_KoopaJr000",
-    "original": "如果我再弄丢一颗[icon:001b][color:01]崇高之星[color:00]，\n老爸就要抓狂了……\f\n让你看看我的最终兵器！\n去吧——！我的[color:01]八爪王[color:00]！！",
-    "translation": "如果我再弄丢一颗[icon:001b][color:01]崇高之星[color:00]，\n老爸就要抓狂了……\f\n让你看看我的最终兵器！\n去吧——！我的[color:01]八爪王[color:00]！！"
+    "original": "如果我再弄丢一颗[icon:001b][color:01]崇高之星[color:00]，\n老爸就要抓狂了……\\f\n让你看看我的最终兵器！\n去吧——！我的[color:01]八爪王[color:00]！！",
+    "translation": "如果我再弄丢一颗[icon:001b][color:01]崇高之星[color:00]，\n老爸就要抓狂了……\\f\n让你看看我的最终兵器！\n去吧——！我的[color:01]八爪王[color:00]！！"
   },
   {
     "index": 472,
@@ -3229,8 +3229,8 @@
   {
     "index": 525,
     "key": "ForestHomeZone_HoneyQueen001",
-    "original": "[color:01]邻居[color:00]又来找麻烦了……\f\n如果你愿助一臂之力，\n我们将不胜感激！",
-    "translation": "[color:01]邻居[color:00]又来找麻烦了……\f\n如果你愿助一臂之力，\n我们将不胜感激！"
+    "original": "[color:01]邻居[color:00]又来找麻烦了……\\f\n如果你愿助一臂之力，\n我们将不胜感激！",
+    "translation": "[color:01]邻居[color:00]又来找麻烦了……\\f\n如果你愿助一臂之力，\n我们将不胜感激！"
   },
   {
     "index": 526,
@@ -3242,14 +3242,14 @@
   {
     "index": 527,
     "key": "ForestHomeZone_Kinopio001",
-    "original": "啊呀——！！这不是[unk5:00]先生嘛！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果我们和[icon:001c][color:02]路易吉[color:00]先生走散了……\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！",
-    "translation": "啊呀——！！这不是[unk5:00]先生嘛！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果我们和[icon:001c][color:02]路易吉[color:00]先生走散了……\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！"
+    "original": "啊呀——！！这不是[unk5:00]先生嘛！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果我们和[icon:001c][color:02]路易吉[color:00]先生走散了……\\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！",
+    "translation": "啊呀——！！这不是[unk5:00]先生嘛！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果我们和[icon:001c][color:02]路易吉[color:00]先生走散了……\\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！"
   },
   {
     "index": 528,
     "key": "ForestHomeZone_Kinopio002",
-    "original": "[unk1][unk4:0002]哇啊啊啊！蜜蜂——！！\f\n……咦？[unk5:00]先生？……是吧！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果我们和[icon:001c][color:02]路易吉[color:00]先生走散了……\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！",
-    "translation": "[unk1][unk4:0002]哇啊啊啊！蜜蜂——！！\f\n……咦？[unk5:00]先生？……是吧！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果我们和[icon:001c][color:02]路易吉[color:00]先生走散了……\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！"
+    "original": "[unk1][unk4:0002]哇啊啊啊！蜜蜂——！！\\f\n……咦？[unk5:00]先生？……是吧！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果我们和[icon:001c][color:02]路易吉[color:00]先生走散了……\\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！",
+    "translation": "[unk1][unk4:0002]哇啊啊啊！蜜蜂——！！\\f\n……咦？[unk5:00]先生？……是吧！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果我们和[icon:001c][color:02]路易吉[color:00]先生走散了……\\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！"
   },
   {
     "index": 529,
@@ -3278,14 +3278,14 @@
   {
     "index": 533,
     "key": "ForestHomeZone_Kinopio009",
-    "original": "啊呀——！！这不是[unk5:00]先生嘛！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果和另一个[icon:001c][color:02]路易吉[color:00]先生走散了……\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！",
-    "translation": "啊呀——！！这不是[unk5:00]先生嘛！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果和另一个[icon:001c][color:02]路易吉[color:00]先生走散了……\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！"
+    "original": "啊呀——！！这不是[unk5:00]先生嘛！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果和另一个[icon:001c][color:02]路易吉[color:00]先生走散了……\\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！",
+    "translation": "啊呀——！！这不是[unk5:00]先生嘛！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果和另一个[icon:001c][color:02]路易吉[color:00]先生走散了……\\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！"
   },
   {
     "index": 534,
     "key": "ForestHomeZone_Kinopio010",
-    "original": "[unk1][unk4:0002]哇啊啊啊！蜜蜂——！！\f\n……咦？[unk5:00]先生？……是吧！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果和另一个[icon:001c][color:02]路易吉[color:00]先生走散了……\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！",
-    "translation": "[unk1][unk4:0002]哇啊啊啊！蜜蜂——！！\f\n……咦？[unk5:00]先生？……是吧！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果和另一个[icon:001c][color:02]路易吉[color:00]先生走散了……\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！"
+    "original": "[unk1][unk4:0002]哇啊啊啊！蜜蜂——！！\\f\n……咦？[unk5:00]先生？……是吧！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果和另一个[icon:001c][color:02]路易吉[color:00]先生走散了……\\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！",
+    "translation": "[unk1][unk4:0002]哇啊啊啊！蜜蜂——！！\\f\n……咦？[unk5:00]先生？……是吧！[wait:001e]\n我们也从[color:03]桃花公主城堡[color:00]逃出来了！\\f\n在逃跑的途中，因为被[color:01]酷霸王[color:00]追击，\n结果和另一个[icon:001c][color:02]路易吉[color:00]先生走散了……\\f\n……啊！对了！[wait:001e]我们找到了[color:01][icon:0007]力量之星[color:00]！\n相信你会需要它的，请收下！"
   },
   {
     "index": 535,
@@ -3303,26 +3303,26 @@
   {
     "index": 537,
     "key": "ForestHomeZone_LuigiEvent001",
-    "original": "疼疼疼疼疼……[wait:001e]\n啊！是哥哥！\f\n大虫子已经不见了吧？[wait:001e]\n那带上[icon:0007][color:01]力量之星[color:00]快回去吧！",
-    "translation": "疼疼疼疼疼……[wait:001e]\n啊！是哥哥！\f\n大虫子已经不见了吧？[wait:001e]\n那带上[icon:0007][color:01]力量之星[color:00]快回去吧！"
+    "original": "疼疼疼疼疼……[wait:001e]\n啊！是哥哥！\\f\n大虫子已经不见了吧？[wait:001e]\n那带上[icon:0007][color:01]力量之星[color:00]快回去吧！",
+    "translation": "疼疼疼疼疼……[wait:001e]\n啊！是哥哥！\\f\n大虫子已经不见了吧？[wait:001e]\n那带上[icon:0007][color:01]力量之星[color:00]快回去吧！"
   },
   {
     "index": 538,
     "key": "ForestHomeZone_LuigiEvent002",
-    "original": "疼疼疼疼疼……[wait:001e]\n啊！是[color:02]我[color:00]！\f\n大虫子已经不见了吧？[wait:001e]\n那带上[icon:0007][color:01]力量之星[color:00]快回去吧！",
-    "translation": "疼疼疼疼疼……[wait:001e]\n啊！是[color:02]我[color:00]！\f\n大虫子已经不见了吧？[wait:001e]\n那带上[icon:0007][color:01]力量之星[color:00]快回去吧！"
+    "original": "疼疼疼疼疼……[wait:001e]\n啊！是[color:02]我[color:00]！\\f\n大虫子已经不见了吧？[wait:001e]\n那带上[icon:0007][color:01]力量之星[color:00]快回去吧！",
+    "translation": "疼疼疼疼疼……[wait:001e]\n啊！是[color:02]我[color:00]！\\f\n大虫子已经不见了吧？[wait:001e]\n那带上[icon:0007][color:01]力量之星[color:00]快回去吧！"
   },
   {
     "index": 539,
     "key": "ForestHomeZone_LuigiEvent003",
-    "original": "疼疼疼疼疼……\n啊！是哥哥！\f\n没有受伤吧？\n我好像听到了哥哥的惨叫……\f\n给，这是[icon:0007][color:01]力量之星[color:00]。\n我已经受够虫子了，快回去吧！",
-    "translation": "疼疼疼疼疼……\n啊！是哥哥！\f\n没有受伤吧？\n我好像听到了哥哥的惨叫……\f\n给，这是[icon:0007][color:01]力量之星[color:00]。\n我已经受够虫子了，快回去吧！"
+    "original": "疼疼疼疼疼……\n啊！是哥哥！\\f\n没有受伤吧？\n我好像听到了哥哥的惨叫……\\f\n给，这是[icon:0007][color:01]力量之星[color:00]。\n我已经受够虫子了，快回去吧！",
+    "translation": "疼疼疼疼疼……\n啊！是哥哥！\\f\n没有受伤吧？\n我好像听到了哥哥的惨叫……\\f\n给，这是[icon:0007][color:01]力量之星[color:00]。\n我已经受够虫子了，快回去吧！"
   },
   {
     "index": 540,
     "key": "ForestHomeZone_LuigiEvent004",
-    "original": "疼疼疼疼疼……\n啊！是[color:02]我[color:00]！\f\n没有受伤吧？\n我好像听到了[color:02]我[color:00]的惨叫……\f\n给，这是[icon:0007][color:01]力量之星[color:00]。\n我已经受够虫子了，快回去吧！",
-    "translation": "疼疼疼疼疼……\n啊！是[color:02]我[color:00]！\f\n没有受伤吧？\n我好像听到了[color:02]我[color:00]的惨叫……\f\n给，这是[icon:0007][color:01]力量之星[color:00]。\n我已经受够虫子了，快回去吧！"
+    "original": "疼疼疼疼疼……\n啊！是[color:02]我[color:00]！\\f\n没有受伤吧？\n我好像听到了[color:02]我[color:00]的惨叫……\\f\n给，这是[icon:0007][color:01]力量之星[color:00]。\n我已经受够虫子了，快回去吧！",
+    "translation": "疼疼疼疼疼……\n啊！是[color:02]我[color:00]！\\f\n没有受伤吧？\n我好像听到了[color:02]我[color:00]的惨叫……\\f\n给，这是[icon:0007][color:01]力量之星[color:00]。\n我已经受够虫子了，快回去吧！"
   },
   {
     "index": 541,
@@ -3346,8 +3346,8 @@
   {
     "index": 544,
     "key": "ForestHomeZone_SignBoard004",
-    "original": "嘿！我就是大名鼎鼎的[color:03]板布告[color:00]！\f\n如果想翻过这堵[color:03]墙壁[color:00]，\n最好竖起耳朵听仔细了！\f\n当你跳起接触到[color:03]墙壁[color:00]时，\n按[icon:0000][color:01]踢墙跳[color:00]！\f\n连续施展[color:01]踢墙跳[color:00]可以跳到高处！",
-    "translation": "嘿！我就是大名鼎鼎的[color:03]板布告[color:00]！\f\n如果想翻过这堵[color:03]墙壁[color:00]，\n最好竖起耳朵听仔细了！\f\n当你跳起接触到[color:03]墙壁[color:00]时，\n按[icon:0000][color:01]踢墙跳[color:00]！\f\n连续施展[color:01]踢墙跳[color:00]可以跳到高处！"
+    "original": "嘿！我就是大名鼎鼎的[color:03]板布告[color:00]！\\f\n如果想翻过这堵[color:03]墙壁[color:00]，\n最好竖起耳朵听仔细了！\\f\n当你跳起接触到[color:03]墙壁[color:00]时，\n按[icon:0000][color:01]踢墙跳[color:00]！\\f\n连续施展[color:01]踢墙跳[color:00]可以跳到高处！",
+    "translation": "嘿！我就是大名鼎鼎的[color:03]板布告[color:00]！\\f\n如果想翻过这堵[color:03]墙壁[color:00]，\n最好竖起耳朵听仔细了！\\f\n当你跳起接触到[color:03]墙壁[color:00]时，\n按[icon:0000][color:01]踢墙跳[color:00]！\\f\n连续施展[color:01]踢墙跳[color:00]可以跳到高处！"
   },
   {
     "index": 545,
@@ -3415,8 +3415,8 @@
   {
     "index": 555,
     "key": "GCaptureTutorialZone_Kinopio009",
-    "original": "棒棒棒～！[unk5:01]！\f\n我——英勇的[color:03]奇诺比奥[color:01]队长[color:00]，\n发现了一条通往[color:01][icon:0007]力量之星[color:00]的近路！\f\n从[color:03]蘑菇飞船顶上[color:00]的那个[icon:0008][color:04]弹射星[color:00]走吧！",
-    "translation": "棒棒棒～！[unk5:01]！\f\n我——英勇的[color:03]奇诺比奥[color:01]队长[color:00]，\n发现了一条通往[color:01][icon:0007]力量之星[color:00]的近路！\f\n从[color:03]蘑菇飞船顶上[color:00]的那个[icon:0008][color:04]弹射星[color:00]走吧！"
+    "original": "棒棒棒～！[unk5:01]！\\f\n我——英勇的[color:03]奇诺比奥[color:01]队长[color:00]，\n发现了一条通往[color:01][icon:0007]力量之星[color:00]的近路！\\f\n从[color:03]蘑菇飞船顶上[color:00]的那个[icon:0008][color:04]弹射星[color:00]走吧！",
+    "translation": "棒棒棒～！[unk5:01]！\\f\n我——英勇的[color:03]奇诺比奥[color:01]队长[color:00]，\n发现了一条通往[color:01][icon:0007]力量之星[color:00]的近路！\\f\n从[color:03]蘑菇飞船顶上[color:00]的那个[icon:0008][color:04]弹射星[color:00]走吧！"
   },
   {
     "index": 556,
@@ -4052,8 +4052,8 @@
   {
     "index": 661,
     "key": "GhostShipCaveZone_Kinopio001",
-    "original": "我们正在度假……\n呃，我是说，执行银河任务！\f\n请耐心点！",
-    "translation": "我们正在度假……\n呃，我是说，执行银河任务！\f\n请耐心点！"
+    "original": "我们正在度假……\n呃，我是说，执行银河任务！\\f\n请耐心点！",
+    "translation": "我们正在度假……\n呃，我是说，执行银河任务！\\f\n请耐心点！"
   },
   {
     "index": 662,
@@ -4132,8 +4132,8 @@
   {
     "index": 674,
     "key": "GhostShipCaveZone_Kinopio014",
-    "original": "西瓜里面隐藏着一颗[color:01][icon:0007]力量之星[color:00]！\f\n用[color:03]撞地[color:00]让[color:04]网球[color:00]撞击西瓜，\n这样就能拿到[color:01][icon:0007]力量之星[color:00]！",
-    "translation": "西瓜里面隐藏着一颗[color:01][icon:0007]力量之星[color:00]！\f\n用[color:03]撞地[color:00]让[color:04]网球[color:00]撞击西瓜，\n这样就能拿到[color:01][icon:0007]力量之星[color:00]！"
+    "original": "西瓜里面隐藏着一颗[color:01][icon:0007]力量之星[color:00]！\\f\n用[color:03]撞地[color:00]让[color:04]网球[color:00]撞击西瓜，\n这样就能拿到[color:01][icon:0007]力量之星[color:00]！",
+    "translation": "西瓜里面隐藏着一颗[color:01][icon:0007]力量之星[color:00]！\\f\n用[color:03]撞地[color:00]让[color:04]网球[color:00]撞击西瓜，\n这样就能拿到[color:01][icon:0007]力量之星[color:00]！"
   },
   {
     "index": 675,
@@ -4200,8 +4200,8 @@
   {
     "index": 685,
     "key": "GhostShipCaveZone_Kinopio025",
-    "original": "西瓜里面隐藏着一颗[color:01][icon:0007]力量之星[color:00]！\f\n用[color:03]撞地[color:00]让[color:04]网球[color:00]撞击西瓜，\n这样就能拿到[color:01][icon:0007]力量之星[color:00]！",
-    "translation": "西瓜里面隐藏着一颗[color:01][icon:0007]力量之星[color:00]！\f\n用[color:03]撞地[color:00]让[color:04]网球[color:00]撞击西瓜，\n这样就能拿到[color:01][icon:0007]力量之星[color:00]！"
+    "original": "西瓜里面隐藏着一颗[color:01][icon:0007]力量之星[color:00]！\\f\n用[color:03]撞地[color:00]让[color:04]网球[color:00]撞击西瓜，\n这样就能拿到[color:01][icon:0007]力量之星[color:00]！",
+    "translation": "西瓜里面隐藏着一颗[color:01][icon:0007]力量之星[color:00]！\\f\n用[color:03]撞地[color:00]让[color:04]网球[color:00]撞击西瓜，\n这样就能拿到[color:01][icon:0007]力量之星[color:00]！"
   },
   {
     "index": 686,
@@ -4243,8 +4243,8 @@
   {
     "index": 692,
     "key": "GhostShipCaveZone_Kinopio045",
-    "original": "那艘[color:03]幽灵船[color:00]在这里干嘛？\n吓唬人吗？放心，有我在！\f\n如果有幽灵出现，\n我会让他们屁滚尿流的……",
-    "translation": "那艘[color:03]幽灵船[color:00]在这里干嘛？\n吓唬人吗？放心，有我在！\f\n如果有幽灵出现，\n我会让他们屁滚尿流的……"
+    "original": "那艘[color:03]幽灵船[color:00]在这里干嘛？\n吓唬人吗？放心，有我在！\\f\n如果有幽灵出现，\n我会让他们屁滚尿流的……",
+    "translation": "那艘[color:03]幽灵船[color:00]在这里干嘛？\n吓唬人吗？放心，有我在！\\f\n如果有幽灵出现，\n我会让他们屁滚尿流的……"
   },
   {
     "index": 693,
@@ -4279,8 +4279,8 @@
   {
     "index": 698,
     "key": "GhostShipCaveZone_SyatiRing000",
-    "original": "咦……[wait:001e]地上走的来凑什么热闹！\f\n要想把[color:03]海[color:00]夺回去，\n除非跟本大爷钻过[color:01]８个环[color:00]！",
-    "translation": "咦……[wait:001e]地上走的来凑什么热闹！\f\n要想把[color:03]海[color:00]夺回去，\n除非跟本大爷钻过[color:01]８个环[color:00]！"
+    "original": "咦……[wait:001e]地上走的来凑什么热闹！\\f\n要想把[color:03]海[color:00]夺回去，\n除非跟本大爷钻过[color:01]８个环[color:00]！",
+    "translation": "咦……[wait:001e]地上走的来凑什么热闹！\\f\n要想把[color:03]海[color:00]夺回去，\n除非跟本大爷钻过[color:01]８个环[color:00]！"
   },
   {
     "index": 699,
@@ -4710,8 +4710,8 @@
   {
     "index": 769,
     "key": "HeavenlyBeachZone_PenguinCoach002",
-    "original": "哇噢！没想到你真的可以抢到龟壳！\f\n那么，这是给你的大～[color:04]金牌[color:00]。",
-    "translation": "哇噢！没想到你真的可以抢到龟壳！\f\n那么，这是给你的大～[color:04]金牌[color:00]。"
+    "original": "哇噢！没想到你真的可以抢到龟壳！\\f\n那么，这是给你的大～[color:04]金牌[color:00]。",
+    "translation": "哇噢！没想到你真的可以抢到龟壳！\\f\n那么，这是给你的大～[color:04]金牌[color:00]。"
   },
   {
     "index": 770,
@@ -4910,8 +4910,8 @@
   {
     "index": 801,
     "key": "HeavensBlackHoleZone_Tico001",
-    "original": "等你好久啦——！！[wait:001e]\n我给你准备好了一个[icon:0008][color:01]弹射星[color:00]！！\f\n不过却被流星撞成了碎片……[wait:001e]\n这样就不能飞～出去了！\f\n那些[icon:0015][color:01]星星碎片[color:00]在哪呢～？[wait:001e][color:03]\n[color:00]找的时候要留意[color:03]脚下[color:00]啊！",
-    "translation": "等你好久啦——！！[wait:001e]\n我给你准备好了一个[icon:0008][color:01]弹射星[color:00]！！\f\n不过却被流星撞成了碎片……[wait:001e]\n这样就不能飞～出去了！\f\n那些[icon:0015][color:01]星星碎片[color:00]在哪呢～？[wait:001e][color:03]\n[color:00]找的时候要留意[color:03]脚下[color:00]啊！"
+    "original": "等你好久啦——！！[wait:001e]\n我给你准备好了一个[icon:0008][color:01]弹射星[color:00]！！\\f\n不过却被流星撞成了碎片……[wait:001e]\n这样就不能飞～出去了！\\f\n那些[icon:0015][color:01]星星碎片[color:00]在哪呢～？[wait:001e][color:03]\n[color:00]找的时候要留意[color:03]脚下[color:00]啊！",
+    "translation": "等你好久啦——！！[wait:001e]\n我给你准备好了一个[icon:0008][color:01]弹射星[color:00]！！\\f\n不过却被流星撞成了碎片……[wait:001e]\n这样就不能飞～出去了！\\f\n那些[icon:0015][color:01]星星碎片[color:00]在哪呢～？[wait:001e][color:03]\n[color:00]找的时候要留意[color:03]脚下[color:00]啊！"
   },
   {
     "index": 802,
@@ -4972,8 +4972,8 @@
   {
     "index": 811,
     "key": "HeavensDoorInsideZone_Tico005",
-    "original": "在[color:01][icon:001b]崇高之星[color:00]的能量枯竭之前，\n必须阻止他们！！\f\n快想办法停下那台可怕的[color:01]机器[color:00]！！",
-    "translation": "在[color:01][icon:001b]崇高之星[color:00]的能量枯竭之前，\n必须阻止他们！！\f\n快想办法停下那台可怕的[color:01]机器[color:00]！！"
+    "original": "在[color:01][icon:001b]崇高之星[color:00]的能量枯竭之前，\n必须阻止他们！！\\f\n快想办法停下那台可怕的[color:01]机器[color:00]！！",
+    "translation": "在[color:01][icon:001b]崇高之星[color:00]的能量枯竭之前，\n必须阻止他们！！\\f\n快想办法停下那台可怕的[color:01]机器[color:00]！！"
   },
   {
     "index": 812,
@@ -5071,8 +5071,8 @@
   {
     "index": 827,
     "key": "HeavensDoorMysteriousZone_DemoRabbit003",
-    "original": "来玩躲猫猫吧！\f\n如果你能抓到[color:01]我们[color:00]，\n就告诉你这是哪里。",
-    "translation": "来玩躲猫猫吧！\f\n如果你能抓到[color:01]我们[color:00]，\n就告诉你这是哪里。"
+    "original": "来玩躲猫猫吧！\\f\n如果你能抓到[color:01]我们[color:00]，\n就告诉你这是哪里。",
+    "translation": "来玩躲猫猫吧！\\f\n如果你能抓到[color:01]我们[color:00]，\n就告诉你这是哪里。"
   },
   {
     "index": 828,
@@ -5090,8 +5090,8 @@
   {
     "index": 830,
     "key": "HeavensDoorMysteriousZone_Rosetta002",
-    "original": "我是[color:01]罗莎塔[color:00]，\n这个星空的守护者。\f\n要拯救你[color:01]重要的人[color:00]，\n必须要有穿越星空的力量。",
-    "translation": "我是[color:01]罗莎塔[color:00]，\n这个星空的守护者。\f\n要拯救你[color:01]重要的人[color:00]，\n必须要有穿越星空的力量。"
+    "original": "我是[color:01]罗莎塔[color:00]，\n这个星空的守护者。\\f\n要拯救你[color:01]重要的人[color:00]，\n必须要有穿越星空的力量。",
+    "translation": "我是[color:01]罗莎塔[color:00]，\n这个星空的守护者。\\f\n要拯救你[color:01]重要的人[color:00]，\n必须要有穿越星空的力量。"
   },
   {
     "index": 831,
@@ -5102,8 +5102,8 @@
   {
     "index": 832,
     "key": "HeavensDoorMysteriousZone_Rosetta004",
-    "original": "和你一样，\n我们遇上了一场灾难……\f\n我希望有了[color:01]宝贝星[color:00]的帮助，\n你能救出我们的朋友[color:01][icon:001b]崇高之星[color:00]。\f\n愿星光照耀着你……",
-    "translation": "和你一样，\n我们遇上了一场灾难……\f\n我希望有了[color:01]宝贝星[color:00]的帮助，\n你能救出我们的朋友[color:01][icon:001b]崇高之星[color:00]。\f\n愿星光照耀着你……"
+    "original": "和你一样，\n我们遇上了一场灾难……\\f\n我希望有了[color:01]宝贝星[color:00]的帮助，\n你能救出我们的朋友[color:01][icon:001b]崇高之星[color:00]。\\f\n愿星光照耀着你……",
+    "translation": "和你一样，\n我们遇上了一场灾难……\\f\n我希望有了[color:01]宝贝星[color:00]的帮助，\n你能救出我们的朋友[color:01][icon:001b]崇高之星[color:00]。\\f\n愿星光照耀着你……"
   },
   {
     "index": 833,
@@ -5115,8 +5115,8 @@
   {
     "index": 834,
     "key": "HeavensDoorMysteriousZone_Rosetta101",
-    "original": "这颗星星……\f\n让我很怀念。",
-    "translation": "这颗星星……\f\n让我很怀念。"
+    "original": "这颗星星……\\f\n让我很怀念。",
+    "translation": "这颗星星……\\f\n让我很怀念。"
   },
   {
     "index": 835,
@@ -5127,8 +5127,8 @@
   {
     "index": 836,
     "key": "HeavensDoorMysteriousZone_Rosetta103",
-    "original": "你身上的[color:01]琪琪[color:00]有一天\n也会成长为一颗[color:01]“星”[color:00]。\f\n有些琪琪会成为行星，有些会成为太阳，\n还有一些会变成[color:01][icon:0007]力量之星[color:00]。",
-    "translation": "你身上的[color:01]琪琪[color:00]有一天\n也会成长为一颗[color:01]“星”[color:00]。\f\n有些琪琪会成为行星，有些会成为太阳，\n还有一些会变成[color:01][icon:0007]力量之星[color:00]。"
+    "original": "你身上的[color:01]琪琪[color:00]有一天\n也会成长为一颗[color:01]“星”[color:00]。\\f\n有些琪琪会成为行星，有些会成为太阳，\n还有一些会变成[color:01][icon:0007]力量之星[color:00]。",
+    "translation": "你身上的[color:01]琪琪[color:00]有一天\n也会成长为一颗[color:01]“星”[color:00]。\\f\n有些琪琪会成为行星，有些会成为太阳，\n还有一些会变成[color:01][icon:0007]力量之星[color:00]。"
   },
   {
     "index": 837,
@@ -5190,14 +5190,14 @@
   {
     "index": 846,
     "key": "HeavensDoorMysteriousZone_RunawayTico017",
-    "original": "很抱歉突然把你带到这儿来，\n我想应该告诉你这是哪儿了。\f\n这里是[color:03]连接大地与宇宙的星星[color:00]……[wait:001e]\n我们称作[color:01]天之门[color:00]。",
-    "translation": "很抱歉突然把你带到这儿来，\n我想应该告诉你这是哪儿了。\f\n这里是[color:03]连接大地与宇宙的星星[color:00]……[wait:001e]\n我们称作[color:01]天之门[color:00]。"
+    "original": "很抱歉突然把你带到这儿来，\n我想应该告诉你这是哪儿了。\\f\n这里是[color:03]连接大地与宇宙的星星[color:00]……[wait:001e]\n我们称作[color:01]天之门[color:00]。",
+    "translation": "很抱歉突然把你带到这儿来，\n我想应该告诉你这是哪儿了。\\f\n这里是[color:03]连接大地与宇宙的星星[color:00]……[wait:001e]\n我们称作[color:01]天之门[color:00]。"
   },
   {
     "index": 847,
     "key": "HeavensDoorMysteriousZone_RunawayTico018",
-    "original": "哇哇！你把我们全都找到了？\f\n或许你真的能帮上[color:01]妈妈[color:00]的忙……",
-    "translation": "哇哇！你把我们全都找到了？\f\n或许你真的能帮上[color:01]妈妈[color:00]的忙……"
+    "original": "哇哇！你把我们全都找到了？\\f\n或许你真的能帮上[color:01]妈妈[color:00]的忙……",
+    "translation": "哇哇！你把我们全都找到了？\\f\n或许你真的能帮上[color:01]妈妈[color:00]的忙……"
   },
   {
     "index": 848,
@@ -5245,8 +5245,8 @@
   {
     "index": 855,
     "key": "HeavensDoorMysteriousZone_Tico009",
-    "original": "这是[icon:0008][color:01]弹射星[color:00]。\f\n当你靠近它时，[color:01]挥动[color:00][icon:0003]，\n就可以像流星一样弹射出去！\f\n好了，现在就开始探索宇宙吧！[wait:001e]\n有很多[color:01]银河[color:00]等着你去发现呢！",
-    "translation": "这是[icon:0008][color:01]弹射星[color:00]。\f\n当你靠近它时，[color:01]挥动[color:00][icon:0003]，\n就可以像流星一样弹射出去！\f\n好了，现在就开始探索宇宙吧！[wait:001e]\n有很多[color:01]银河[color:00]等着你去发现呢！"
+    "original": "这是[icon:0008][color:01]弹射星[color:00]。\\f\n当你靠近它时，[color:01]挥动[color:00][icon:0003]，\n就可以像流星一样弹射出去！\\f\n好了，现在就开始探索宇宙吧！[wait:001e]\n有很多[color:01]银河[color:00]等着你去发现呢！",
+    "translation": "这是[icon:0008][color:01]弹射星[color:00]。\\f\n当你靠近它时，[color:01]挥动[color:00][icon:0003]，\n就可以像流星一样弹射出去！\\f\n好了，现在就开始探索宇宙吧！[wait:001e]\n有很多[color:01]银河[color:00]等着你去发现呢！"
   },
   {
     "index": 856,
@@ -5264,8 +5264,8 @@
   {
     "index": 858,
     "key": "HeavensDoorMysteriousZone_Tico101",
-    "original": "呵……[wait:001e]妈妈好像非常信任你。\f\n那么，下面应该怎么办呢？",
-    "translation": "呵……[wait:001e]妈妈好像非常信任你。\f\n那么，下面应该怎么办呢？"
+    "original": "呵……[wait:001e]妈妈好像非常信任你。\\f\n那么，下面应该怎么办呢？",
+    "translation": "呵……[wait:001e]妈妈好像非常信任你。\\f\n那么，下面应该怎么办呢？"
   },
   {
     "index": 859,
@@ -5282,8 +5282,8 @@
   {
     "index": 861,
     "key": "HeavensDoorMysteriousZone_Tico104",
-    "original": "这是包含红色琪琪力量的[color:01]红色星星[color:00]。[wait:001e]\n[color:03]在空中旋转[color:00]的话，就能[color:01]飞向天空[color:00]。\f\n按住[icon:0000]用[icon:000f][color:01]选择飞行方向[color:00]。\f\n如果你能收集齐[color:01]100枚[icon:001e][color:05]紫色硬币[color:00]，\n我也会非常信任你的！",
-    "translation": "这是包含红色琪琪力量的[color:01]红色星星[color:00]。[wait:001e]\n[color:03]在空中旋转[color:00]的话，就能[color:01]飞向天空[color:00]。\f\n按住[icon:0000]用[icon:000f][color:01]选择飞行方向[color:00]。\f\n如果你能收集齐[color:01]100枚[icon:001e][color:05]紫色硬币[color:00]，\n我也会非常信任你的！"
+    "original": "这是包含红色琪琪力量的[color:01]红色星星[color:00]。[wait:001e]\n[color:03]在空中旋转[color:00]的话，就能[color:01]飞向天空[color:00]。\\f\n按住[icon:0000]用[icon:000f][color:01]选择飞行方向[color:00]。\\f\n如果你能收集齐[color:01]100枚[icon:001e][color:05]紫色硬币[color:00]，\n我也会非常信任你的！",
+    "translation": "这是包含红色琪琪力量的[color:01]红色星星[color:00]。[wait:001e]\n[color:03]在空中旋转[color:00]的话，就能[color:01]飞向天空[color:00]。\\f\n按住[icon:0000]用[icon:000f][color:01]选择飞行方向[color:00]。\\f\n如果你能收集齐[color:01]100枚[icon:001e][color:05]紫色硬币[color:00]，\n我也会非常信任你的！"
   },
   {
     "index": 862,
@@ -5295,14 +5295,14 @@
   {
     "index": 863,
     "key": "HeavensDoorSmallZone_Tico001",
-    "original": "谢谢你！\f\n你能把上面要塞里的朋友也救出来吗？\f\n我会变身成[color:04][icon:0008]弹射星[color:00]，[wait:001e]\n把你送到那里去的！\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！",
-    "translation": "谢谢你！\f\n你能把上面要塞里的朋友也救出来吗？\f\n我会变身成[color:04][icon:0008]弹射星[color:00]，[wait:001e]\n把你送到那里去的！\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！"
+    "original": "谢谢你！\\f\n你能把上面要塞里的朋友也救出来吗？\\f\n我会变身成[color:04][icon:0008]弹射星[color:00]，[wait:001e]\n把你送到那里去的！\\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！",
+    "translation": "谢谢你！\\f\n你能把上面要塞里的朋友也救出来吗？\\f\n我会变身成[color:04][icon:0008]弹射星[color:00]，[wait:001e]\n把你送到那里去的！\\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]身——！！"
   },
   {
     "index": 864,
     "key": "HeavensDoorSmallZone_Tico002",
-    "original": "快救我出去！[wait:001e]\n其中一个敌人应该拿着[color:01]钥匙[color:00]！！\f\n[color:01]挥动[color:00][icon:0003][color:01]旋转[color:00]打昏敌人，[wait:001e]\n再[color:03]冲过去[color:00]撞击他们！",
-    "translation": "快救我出去！[wait:001e]\n其中一个敌人应该拿着[color:01]钥匙[color:00]！！\f\n[color:01]挥动[color:00][icon:0003][color:01]旋转[color:00]打昏敌人，[wait:001e]\n再[color:03]冲过去[color:00]撞击他们！"
+    "original": "快救我出去！[wait:001e]\n其中一个敌人应该拿着[color:01]钥匙[color:00]！！\\f\n[color:01]挥动[color:00][icon:0003][color:01]旋转[color:00]打昏敌人，[wait:001e]\n再[color:03]冲过去[color:00]撞击他们！",
+    "translation": "快救我出去！[wait:001e]\n其中一个敌人应该拿着[color:01]钥匙[color:00]！！\\f\n[color:01]挥动[color:00][icon:0003][color:01]旋转[color:00]打昏敌人，[wait:001e]\n再[color:03]冲过去[color:00]撞击他们！"
   },
   {
     "index": 865,
@@ -5314,14 +5314,14 @@
   {
     "index": 866,
     "key": "HellBallZone_SignBoard001",
-    "original": "嘿！我的名字是[color:03]板告示[color:00]！[wait:001e]\n我们之前是不是在哪见过？\f\n不管怎样，在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，\f\n[color:01]倾斜[color:00][icon:0003][color:01]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n可别掉到洞里去嘿！",
-    "translation": "嘿！我的名字是[color:03]板告示[color:00]！[wait:001e]\n我们之前是不是在哪见过？\f\n不管怎样，在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，\f\n[color:01]倾斜[color:00][icon:0003][color:01]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n可别掉到洞里去嘿！"
+    "original": "嘿！我的名字是[color:03]板告示[color:00]！[wait:001e]\n我们之前是不是在哪见过？\\f\n不管怎样，在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，\\f\n[color:01]倾斜[color:00][icon:0003][color:01]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n可别掉到洞里去嘿！",
+    "translation": "嘿！我的名字是[color:03]板告示[color:00]！[wait:001e]\n我们之前是不是在哪见过？\\f\n不管怎样，在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，\\f\n[color:01]倾斜[color:00][icon:0003][color:01]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n可别掉到洞里去嘿！"
   },
   {
     "index": 867,
     "key": "HellBallZone_SignBoard002",
-    "original": "在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，[color:01]\f\n倾斜[color:00][icon:0003][color:01]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n可别掉到洞里去嘿！",
-    "translation": "在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，[color:01]\f\n倾斜[color:00][icon:0003][color:01]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n可别掉到洞里去嘿！"
+    "original": "在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，[color:01]\\f\n倾斜[color:00][icon:0003][color:01]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n可别掉到洞里去嘿！",
+    "translation": "在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，[color:01]\\f\n倾斜[color:00][icon:0003][color:01]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n可别掉到洞里去嘿！"
   },
   {
     "index": 868,
@@ -5351,8 +5351,8 @@
   {
     "index": 872,
     "key": "HoneyQueenZone_HoneyQueen002",
-    "original": "你是谁？大夫吗？\f\n不管是谁，有点事情想麻烦你。\f\n[2:000000530045005f00530056005f0048004f004e004500590051005500450045004e005f00540041004c004b005f0057004f005200520059]我[color:03]浑身上下[color:00]都很痒……[wait:001e]\n你能帮我查查毛病么？",
-    "translation": "你是谁？大夫吗？\f\n不管是谁，有点事情想麻烦你。\f\n[2:000000530045005f00530056005f0048004f004e004500590051005500450045004e005f00540041004c004b005f0057004f005200520059]我[color:03]浑身上下[color:00]都很痒……[wait:001e]\n你能帮我查查毛病么？"
+    "original": "你是谁？大夫吗？\\f\n不管是谁，有点事情想麻烦你。\\f\n[2:000000530045005f00530056005f0048004f004e004500590051005500450045004e005f00540041004c004b005f0057004f005200520059]我[color:03]浑身上下[color:00]都很痒……[wait:001e]\n你能帮我查查毛病么？",
+    "translation": "你是谁？大夫吗？\\f\n不管是谁，有点事情想麻烦你。\\f\n[2:000000530045005f00530056005f0048004f004e004500590051005500450045004e005f00540041004c004b005f0057004f005200520059]我[color:03]浑身上下[color:00]都很痒……[wait:001e]\n你能帮我查查毛病么？"
   },
   {
     "index": 873,
@@ -5425,8 +5425,8 @@
   {
     "index": 884,
     "key": "IceMountainZone_Kinopio005",
-    "original": "雪山之巅……[wait:001e]男人的浪漫……\f\n啊，[unk5:00]先生！[wait:001e]\n从这里要用[color:01]远跳[color:00]飞过去喔。",
-    "translation": "雪山之巅……[wait:001e]男人的浪漫……\f\n啊，[unk5:00]先生！[wait:001e]\n从这里要用[color:01]远跳[color:00]飞过去喔。"
+    "original": "雪山之巅……[wait:001e]男人的浪漫……\\f\n啊，[unk5:00]先生！[wait:001e]\n从这里要用[color:01]远跳[color:00]飞过去喔。",
+    "translation": "雪山之巅……[wait:001e]男人的浪漫……\\f\n啊，[unk5:00]先生！[wait:001e]\n从这里要用[color:01]远跳[color:00]飞过去喔。"
   },
   {
     "index": 885,
@@ -5450,8 +5450,8 @@
   {
     "index": 888,
     "key": "IceRingAZone_PenguinSkater001",
-    "original": "嘿——大叔！[wait:001e]\n你也在练习[color:03]滑冰[color:00]吗？\f\n不如来一场竞速吧！[wait:001e]\n你能抓到偶吗～？！",
-    "translation": "嘿——大叔！[wait:001e]\n你也在练习[color:03]滑冰[color:00]吗？\f\n不如来一场竞速吧！[wait:001e]\n你能抓到偶吗～？！"
+    "original": "嘿——大叔！[wait:001e]\n你也在练习[color:03]滑冰[color:00]吗？\\f\n不如来一场竞速吧！[wait:001e]\n你能抓到偶吗～？！",
+    "translation": "嘿——大叔！[wait:001e]\n你也在练习[color:03]滑冰[color:00]吗？\\f\n不如来一场竞速吧！[wait:001e]\n你能抓到偶吗～？！"
   },
   {
     "index": 889,
@@ -5462,8 +5462,8 @@
   {
     "index": 890,
     "key": "IceRingAZone_PenguinSkater003",
-    "original": "还不赖啊，大叔！\f\n你也许能[color:03]滑冰[color:00]通过前方！",
-    "translation": "还不赖啊，大叔！\f\n你也许能[color:03]滑冰[color:00]通过前方！"
+    "original": "还不赖啊，大叔！\\f\n你也许能[color:03]滑冰[color:00]通过前方！",
+    "translation": "还不赖啊，大叔！\\f\n你也许能[color:03]滑冰[color:00]通过前方！"
   },
   {
     "index": 891,
@@ -5564,14 +5564,14 @@
   {
     "index": 907,
     "key": "KoopaBattleVs1BossZone_DemoKoopaVs1Down000",
-    "original": "可恶，失败了……\f\n不过，这只是[color:01]计划[color:00]的开始！[wait:001e]\n[unk5:00]！你真以为能阻止本王吗？！\f\n[unk1][unk4:0002]嘎——哈哈哈哈！！！",
-    "translation": "可恶，失败了……\f\n不过，这只是[color:01]计划[color:00]的开始！[wait:001e]\n[unk5:00]！你真以为能阻止本王吗？！\f\n[unk1][unk4:0002]嘎——哈哈哈哈！！！"
+    "original": "可恶，失败了……\\f\n不过，这只是[color:01]计划[color:00]的开始！[wait:001e]\n[unk5:00]！你真以为能阻止本王吗？！\\f\n[unk1][unk4:0002]嘎——哈哈哈哈！！！",
+    "translation": "可恶，失败了……\\f\n不过，这只是[color:01]计划[color:00]的开始！[wait:001e]\n[unk5:00]！你真以为能阻止本王吗？！\\f\n[unk1][unk4:0002]嘎——哈哈哈哈！！！"
   },
   {
     "index": 908,
     "key": "KoopaBattleVs1BossZone_DemoKoopaVs1Start000",
-    "original": "[unk1][unk4:0002]嘎——哈哈哈！！！\f\n你终于来了！",
-    "translation": "[unk1][unk4:0002]嘎——哈哈哈！！！\f\n你终于来了！"
+    "original": "[unk1][unk4:0002]嘎——哈哈哈！！！\\f\n你终于来了！",
+    "translation": "[unk1][unk4:0002]嘎——哈哈哈！！！\\f\n你终于来了！"
   },
   {
     "index": 909,
@@ -5582,8 +5582,8 @@
   {
     "index": 910,
     "key": "KoopaBattleVs1Galaxy_Tico000",
-    "original": "我感觉到里面有一颗[icon:001b][color:01]崇高之星[color:00]！\f\n但这里充满了机关和陷阱……[wait:001e]\n请务必当心！",
-    "translation": "我感觉到里面有一颗[icon:001b][color:01]崇高之星[color:00]！\f\n但这里充满了机关和陷阱……[wait:001e]\n请务必当心！"
+    "original": "我感觉到里面有一颗[icon:001b][color:01]崇高之星[color:00]！\\f\n但这里充满了机关和陷阱……[wait:001e]\n请务必当心！",
+    "translation": "我感觉到里面有一颗[icon:001b][color:01]崇高之星[color:00]！\\f\n但这里充满了机关和陷阱……[wait:001e]\n请务必当心！"
   },
   {
     "index": 911,
@@ -5594,14 +5594,14 @@
   {
     "index": 912,
     "key": "KoopaBattleVs2BossZone_DemoKoopaVs2Down000",
-    "original": "[unk1][unk4:0002]嘎——哈哈哈！！！\f\n干得好！不愧是我的宿敌！[wait:001e]\n说是这么说……\f\n但在陪你玩的时候，\n本王的[color:01]计划[color:00]也就快成功了！\f\n太可惜了，[unk5:00]！！！",
-    "translation": "[unk1][unk4:0002]嘎——哈哈哈！！！\f\n干得好！不愧是我的宿敌！[wait:001e]\n说是这么说……\f\n但在陪你玩的时候，\n本王的[color:01]计划[color:00]也就快成功了！\f\n太可惜了，[unk5:00]！！！"
+    "original": "[unk1][unk4:0002]嘎——哈哈哈！！！\\f\n干得好！不愧是我的宿敌！[wait:001e]\n说是这么说……\\f\n但在陪你玩的时候，\n本王的[color:01]计划[color:00]也就快成功了！\\f\n太可惜了，[unk5:00]！！！",
+    "translation": "[unk1][unk4:0002]嘎——哈哈哈！！！\\f\n干得好！不愧是我的宿敌！[wait:001e]\n说是这么说……\\f\n但在陪你玩的时候，\n本王的[color:01]计划[color:00]也就快成功了！\\f\n太可惜了，[unk5:00]！！！"
   },
   {
     "index": 913,
     "key": "KoopaBattleVs2BossZone_DemoKoopaVs2Start000",
-    "original": "[unk1][unk4:0002]什么？！已经来了！\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f004e004f0052004d0041004c]不愧为我的宿敌——[unk5:00]！[wait:001e]\n我要把你跺成宇宙的尘埃！",
-    "translation": "[unk1][unk4:0002]什么？！已经来了！\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f004e004f0052004d0041004c]不愧为我的宿敌——[unk5:00]！[wait:001e]\n我要把你跺成宇宙的尘埃！"
+    "original": "[unk1][unk4:0002]什么？！已经来了！\\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f004e004f0052004d0041004c]不愧为我的宿敌——[unk5:00]！[wait:001e]\n我要把你跺成宇宙的尘埃！",
+    "translation": "[unk1][unk4:0002]什么？！已经来了！\\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f004e004f0052004d0041004c]不愧为我的宿敌——[unk5:00]！[wait:001e]\n我要把你跺成宇宙的尘埃！"
   },
   {
     "index": 914,
@@ -5612,8 +5612,8 @@
   {
     "index": 915,
     "key": "KoopaBattleVs2Galaxy_Tico001",
-    "original": "受到黑暗物质的影响，\n周围到处都是[color:03]洞[color:00]！\f\n在前进的途中，\n请千万要注意突然出现的[color:03]洞[color:00]！",
-    "translation": "受到黑暗物质的影响，\n周围到处都是[color:03]洞[color:00]！\f\n在前进的途中，\n请千万要注意突然出现的[color:03]洞[color:00]！"
+    "original": "受到黑暗物质的影响，\n周围到处都是[color:03]洞[color:00]！\\f\n在前进的途中，\n请千万要注意突然出现的[color:03]洞[color:00]！",
+    "translation": "受到黑暗物质的影响，\n周围到处都是[color:03]洞[color:00]！\\f\n在前进的途中，\n请千万要注意突然出现的[color:03]洞[color:00]！"
   },
   {
     "index": 916,
@@ -5636,20 +5636,20 @@
   {
     "index": 919,
     "key": "KoopaBattleVs3BossZone_DemoKoopaVs3Start000",
-    "original": "……来得正好！\f\n本王正在修建的大王星\n将会成为宇宙的新核心！\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f0045005800430049005400450044][unk1][unk4:0002]睁大眼睛看好吧！",
-    "translation": "……来得正好！\f\n本王正在修建的大王星\n将会成为宇宙的新核心！\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f0045005800430049005400450044][unk1][unk4:0002]睁大眼睛看好吧！"
+    "original": "……来得正好！\\f\n本王正在修建的大王星\n将会成为宇宙的新核心！\\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f0045005800430049005400450044][unk1][unk4:0002]睁大眼睛看好吧！",
+    "translation": "……来得正好！\\f\n本王正在修建的大王星\n将会成为宇宙的新核心！\\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f0045005800430049005400450044][unk1][unk4:0002]睁大眼睛看好吧！"
   },
   {
     "index": 920,
     "key": "KoopaBattleVs3BossZone_DemoKoopaVs3Start001",
-    "original": "本王将在桃花公主的陪伴下，\f\n以这个星球为中心，\n建立起万年[color:03]大银河帝国[color:00]！\f\n之后，本王的疆域将扩展到整个宇宙！\f\n所以，[unk5:00]啊！[wait:001e]\n本王要在这里用你作祭品！明白了吗？",
-    "translation": "本王将在桃花公主的陪伴下，\f\n以这个星球为中心，\n建立起万年[color:03]大银河帝国[color:00]！\f\n之后，本王的疆域将扩展到整个宇宙！\f\n所以，[unk5:00]啊！[wait:001e]\n本王要在这里用你作祭品！明白了吗？"
+    "original": "本王将在桃花公主的陪伴下，\\f\n以这个星球为中心，\n建立起万年[color:03]大银河帝国[color:00]！\\f\n之后，本王的疆域将扩展到整个宇宙！\\f\n所以，[unk5:00]啊！[wait:001e]\n本王要在这里用你作祭品！明白了吗？",
+    "translation": "本王将在桃花公主的陪伴下，\\f\n以这个星球为中心，\n建立起万年[color:03]大银河帝国[color:00]！\\f\n之后，本王的疆域将扩展到整个宇宙！\\f\n所以，[unk5:00]啊！[wait:001e]\n本王要在这里用你作祭品！明白了吗？"
   },
   {
     "index": 921,
     "key": "KoopaBattleVs3StartZone_Tico000",
-    "original": "妈妈说这次战斗不仅是为了我们，[wait:001e]\n也为了救出[unk5:00]的[color:01]重要的人[color:00]……\f\n请千万小心……[wait:001e]\n绝对绝对不能输！",
-    "translation": "妈妈说这次战斗不仅是为了我们，[wait:001e]\n也为了救出[unk5:00]的[color:01]重要的人[color:00]……\f\n请千万小心……[wait:001e]\n绝对绝对不能输！"
+    "original": "妈妈说这次战斗不仅是为了我们，[wait:001e]\n也为了救出[unk5:00]的[color:01]重要的人[color:00]……\\f\n请千万小心……[wait:001e]\n绝对绝对不能输！",
+    "translation": "妈妈说这次战斗不仅是为了我们，[wait:001e]\n也为了救出[unk5:00]的[color:01]重要的人[color:00]……\\f\n请千万小心……[wait:001e]\n绝对绝对不能输！"
   },
   {
     "index": 922,
@@ -5660,8 +5660,8 @@
   {
     "index": 923,
     "key": "KoopaJrShipBattleLv1Tmp1Zone_KoopaJr000",
-    "original": "真是个难缠的家伙！\n就让我来收拾你！\f\n想要这颗[icon:001b][color:01]崇高之星[color:00]，\n就尽管试试看吧！",
-    "translation": "真是个难缠的家伙！\n就让我来收拾你！\f\n想要这颗[icon:001b][color:01]崇高之星[color:00]，\n就尽管试试看吧！"
+    "original": "真是个难缠的家伙！\n就让我来收拾你！\\f\n想要这颗[icon:001b][color:01]崇高之星[color:00]，\n就尽管试试看吧！",
+    "translation": "真是个难缠的家伙！\n就让我来收拾你！\\f\n想要这颗[icon:001b][color:01]崇高之星[color:00]，\n就尽管试试看吧！"
   },
   {
     "index": 924,
@@ -6929,8 +6929,8 @@
   {
     "index": 1126,
     "key": "OceanRingZone_HoneyBee003",
-    "original": "按[icon:0013][color:03]调整视角[color:00]。\n如果无法调整，会有[color:01]噗！[color:00]的声音。\f\n这是蜜蜂一族的提示。",
-    "translation": "按[icon:0013][color:03]调整视角[color:00]。\n如果无法调整，会有[color:01]噗！[color:00]的声音。\f\n这是蜜蜂一族的提示。"
+    "original": "按[icon:0013][color:03]调整视角[color:00]。\n如果无法调整，会有[color:01]噗！[color:00]的声音。\\f\n这是蜜蜂一族的提示。",
+    "translation": "按[icon:0013][color:03]调整视角[color:00]。\n如果无法调整，会有[color:01]噗！[color:00]的声音。\\f\n这是蜜蜂一族的提示。"
   },
   {
     "index": 1127,
@@ -7574,8 +7574,8 @@
   {
     "index": 1229,
     "key": "OceanRingZone_SyatiRing000",
-    "original": "哟呵？看看是谁来了？[wait:001e]\n那些企鹅的朋友啊？！\f\n要想夺回这片[color:03]海[color:00]，\n除非跟着本大爷穿过[color:01]８个环[color:00]！",
-    "translation": "哟呵？看看是谁来了？[wait:001e]\n那些企鹅的朋友啊？！\f\n要想夺回这片[color:03]海[color:00]，\n除非跟着本大爷穿过[color:01]８个环[color:00]！"
+    "original": "哟呵？看看是谁来了？[wait:001e]\n那些企鹅的朋友啊？！\\f\n要想夺回这片[color:03]海[color:00]，\n除非跟着本大爷穿过[color:01]８个环[color:00]！",
+    "translation": "哟呵？看看是谁来了？[wait:001e]\n那些企鹅的朋友啊？！\\f\n要想夺回这片[color:03]海[color:00]，\n除非跟着本大爷穿过[color:01]８个环[color:00]！"
   },
   {
     "index": 1230,
@@ -7586,8 +7586,8 @@
   {
     "index": 1231,
     "key": "OceanRingZone_SyatiRing002",
-    "original": "[unk1][unk4:0002]咔——哈哈哈！！\f\n连这样的挑战都通不过，\n本大爷是不会把[color:03]海[color:00]给你的！",
-    "translation": "[unk1][unk4:0002]咔——哈哈哈！！\f\n连这样的挑战都通不过，\n本大爷是不会把[color:03]海[color:00]给你的！"
+    "original": "[unk1][unk4:0002]咔——哈哈哈！！\\f\n连这样的挑战都通不过，\n本大爷是不会把[color:03]海[color:00]给你的！",
+    "translation": "[unk1][unk4:0002]咔——哈哈哈！！\\f\n连这样的挑战都通不过，\n本大爷是不会把[color:03]海[color:00]给你的！"
   },
   {
     "index": 1232,
@@ -7669,8 +7669,8 @@
   {
     "index": 1244,
     "key": "OtaKingStageZone_Tico001",
-    "original": "前方非常危险！[wait:001e]若是陷入困境，\n可以向[color:04]脚下的发光点[color:00]发射[icon:000b][color:01]星之碎屑[color:00]。\f\n这样会跳出一枚[icon:0011][color:01]金币[color:00]，\n让你[color:03]恢复体力[color:00]！",
-    "translation": "前方非常危险！[wait:001e]若是陷入困境，\n可以向[color:04]脚下的发光点[color:00]发射[icon:000b][color:01]星之碎屑[color:00]。\f\n这样会跳出一枚[icon:0011][color:01]金币[color:00]，\n让你[color:03]恢复体力[color:00]！"
+    "original": "前方非常危险！[wait:001e]若是陷入困境，\n可以向[color:04]脚下的发光点[color:00]发射[icon:000b][color:01]星之碎屑[color:00]。\\f\n这样会跳出一枚[icon:0011][color:01]金币[color:00]，\n让你[color:03]恢复体力[color:00]！",
+    "translation": "前方非常危险！[wait:001e]若是陷入困境，\n可以向[color:04]脚下的发光点[color:00]发射[icon:000b][color:01]星之碎屑[color:00]。\\f\n这样会跳出一枚[icon:0011][color:01]金币[color:00]，\n让你[color:03]恢复体力[color:00]！"
   },
   {
     "index": 1245,
@@ -7759,8 +7759,8 @@
   {
     "index": 1259,
     "key": "PeachCastleFinalGalaxy_HoneyBee002",
-    "original": "真，真不敢相信！\n竟然是大名鼎鼎的[unk5:00]先生！\f\n可以给我签个名吗？",
-    "translation": "真，真不敢相信！\n竟然是大名鼎鼎的[unk5:00]先生！\f\n可以给我签个名吗？"
+    "original": "真，真不敢相信！\n竟然是大名鼎鼎的[unk5:00]先生！\\f\n可以给我签个名吗？",
+    "translation": "真，真不敢相信！\n竟然是大名鼎鼎的[unk5:00]先生！\\f\n可以给我签个名吗？"
   },
   {
     "index": 1260,
@@ -7942,8 +7942,8 @@
   {
     "index": 1289,
     "key": "PeachCastleFinalGalaxy_Kinopio055",
-    "original": "[unk5:01]！你得听我说说！\f\n由于我们出色地完成了任务，\n现在被晋升为[color:01]近卫队[color:00]！\f\n有我这个[color:01]近卫队队长[color:00]在，\n再也没人能碰桃花公主一个指头！\f\n酷霸王也罢，幽灵也罢，\n尽管放马过来吧～！！",
-    "translation": "[unk5:01]！你得听我说说！\f\n由于我们出色地完成了任务，\n现在被晋升为[color:01]近卫队[color:00]！\f\n有我这个[color:01]近卫队队长[color:00]在，\n再也没人能碰桃花公主一个指头！\f\n酷霸王也罢，幽灵也罢，\n尽管放马过来吧～！！"
+    "original": "[unk5:01]！你得听我说说！\\f\n由于我们出色地完成了任务，\n现在被晋升为[color:01]近卫队[color:00]！\\f\n有我这个[color:01]近卫队队长[color:00]在，\n再也没人能碰桃花公主一个指头！\\f\n酷霸王也罢，幽灵也罢，\n尽管放马过来吧～！！",
+    "translation": "[unk5:01]！你得听我说说！\\f\n由于我们出色地完成了任务，\n现在被晋升为[color:01]近卫队[color:00]！\\f\n有我这个[color:01]近卫队队长[color:00]在，\n再也没人能碰桃花公主一个指头！\\f\n酷霸王也罢，幽灵也罢，\n尽管放马过来吧～！！"
   },
   {
     "index": 1290,
@@ -7966,8 +7966,8 @@
   {
     "index": 1293,
     "key": "PeachCastleFinalGalaxy_Kinopio059",
-    "original": "[unk5:00]先生，在你收集齐\n所有[icon:001e][color:05]紫色硬币[color:00]后来找我吧！\f\n我有[color:01]重要的东西[color:00]要给你……！",
-    "translation": "[unk5:00]先生，在你收集齐\n所有[icon:001e][color:05]紫色硬币[color:00]后来找我吧！\f\n我有[color:01]重要的东西[color:00]要给你……！"
+    "original": "[unk5:00]先生，在你收集齐\n所有[icon:001e][color:05]紫色硬币[color:00]后来找我吧！\\f\n我有[color:01]重要的东西[color:00]要给你……！",
+    "translation": "[unk5:00]先生，在你收集齐\n所有[icon:001e][color:05]紫色硬币[color:00]后来找我吧！\\f\n我有[color:01]重要的东西[color:00]要给你……！"
   },
   {
     "index": 1294,
@@ -8033,8 +8033,8 @@
   {
     "index": 1304,
     "key": "PeachCastleFinalGalaxy_PenguinCoach001",
-    "original": "噢，是你啊！最近好吗？[wait:001e]\n这真是个美妙的祭典啊！\f\n学生们也很开心，\n能一起来真是太好了！",
-    "translation": "噢，是你啊！最近好吗？[wait:001e]\n这真是个美妙的祭典啊！\f\n学生们也很开心，\n能一起来真是太好了！"
+    "original": "噢，是你啊！最近好吗？[wait:001e]\n这真是个美妙的祭典啊！\\f\n学生们也很开心，\n能一起来真是太好了！",
+    "translation": "噢，是你啊！最近好吗？[wait:001e]\n这真是个美妙的祭典啊！\\f\n学生们也很开心，\n能一起来真是太好了！"
   },
   {
     "index": 1305,
@@ -8139,8 +8139,8 @@
   {
     "index": 1321,
     "key": "PeachCastleFinalGalaxy_SignBoard001",
-    "original": "嘿！我呀！是我呀！[wait:001e]\n[color:03]板告示[color:00]啊！\f\n人类的世界真酷！[wait:001e]\n好羡慕啊！",
-    "translation": "嘿！我呀！是我呀！[wait:001e]\n[color:03]板告示[color:00]啊！\f\n人类的世界真酷！[wait:001e]\n好羡慕啊！"
+    "original": "嘿！我呀！是我呀！[wait:001e]\n[color:03]板告示[color:00]啊！\\f\n人类的世界真酷！[wait:001e]\n好羡慕啊！",
+    "translation": "嘿！我呀！是我呀！[wait:001e]\n[color:03]板告示[color:00]啊！\\f\n人类的世界真酷！[wait:001e]\n好羡慕啊！"
   },
   {
     "index": 1322,
@@ -8410,8 +8410,8 @@
   {
     "index": 1366,
     "key": "PhantomGalaxy_Kinopio000",
-    "original": "我们在这个[color:03]银河[color:00]里\n发现了[icon:001c][color:02]路易吉[color:00]先生的行踪！\f\n希望他还没有被[color:03]幽灵[color:00]吃掉……",
-    "translation": "我们在这个[color:03]银河[color:00]里\n发现了[icon:001c][color:02]路易吉[color:00]先生的行踪！\f\n希望他还没有被[color:03]幽灵[color:00]吃掉……"
+    "original": "我们在这个[color:03]银河[color:00]里\n发现了[icon:001c][color:02]路易吉[color:00]先生的行踪！\\f\n希望他还没有被[color:03]幽灵[color:00]吃掉……",
+    "translation": "我们在这个[color:03]银河[color:00]里\n发现了[icon:001c][color:02]路易吉[color:00]先生的行踪！\\f\n希望他还没有被[color:03]幽灵[color:00]吃掉……"
   },
   {
     "index": 1367,
@@ -8428,8 +8428,8 @@
   {
     "index": 1369,
     "key": "PhantomSpaceGraveyardZone_Kinopio015",
-    "original": "帮帮忙！我被粘住啦——！\f\n用[icon:000a][color:01]光标[color:00]瞄准我，\n[color:01]按[color:00][icon:0000]把我[color:01]拉出来[color:00]吧！",
-    "translation": "帮帮忙！我被粘住啦——！\f\n用[icon:000a][color:01]光标[color:00]瞄准我，\n[color:01]按[color:00][icon:0000]把我[color:01]拉出来[color:00]吧！"
+    "original": "帮帮忙！我被粘住啦——！\\f\n用[icon:000a][color:01]光标[color:00]瞄准我，\n[color:01]按[color:00][icon:0000]把我[color:01]拉出来[color:00]吧！",
+    "translation": "帮帮忙！我被粘住啦——！\\f\n用[icon:000a][color:01]光标[color:00]瞄准我，\n[color:01]按[color:00][icon:0000]把我[color:01]拉出来[color:00]吧！"
   },
   {
     "index": 1370,
@@ -9094,8 +9094,8 @@
   {
     "index": 1480,
     "key": "PuffballBZone_Rabbit000",
-    "original": "[color:03]土拨鼠[color:00]在我们的花园里到处打洞！\n真是太糟糕了……扑悠～\f\n一旦碰到[color:03]土拨鼠[color:00]就会受伤，\n试试在他们[color:01]附近撞地[color:00]吧！扑悠～",
-    "translation": "[color:03]土拨鼠[color:00]在我们的花园里到处打洞！\n真是太糟糕了……扑悠～\f\n一旦碰到[color:03]土拨鼠[color:00]就会受伤，\n试试在他们[color:01]附近撞地[color:00]吧！扑悠～"
+    "original": "[color:03]土拨鼠[color:00]在我们的花园里到处打洞！\n真是太糟糕了……扑悠～\\f\n一旦碰到[color:03]土拨鼠[color:00]就会受伤，\n试试在他们[color:01]附近撞地[color:00]吧！扑悠～",
+    "translation": "[color:03]土拨鼠[color:00]在我们的花园里到处打洞！\n真是太糟糕了……扑悠～\\f\n一旦碰到[color:03]土拨鼠[color:00]就会受伤，\n试试在他们[color:01]附近撞地[color:00]吧！扑悠～"
   },
   {
     "index": 1481,
@@ -9371,8 +9371,8 @@
   {
     "index": 1526,
     "key": "ReverseForestHomeZone_Rabbit001",
-    "original": "谢谢！现在我能回家了！[wait:001e]\n作为回报，让我告诉你一个秘密！扑悠～\f\n在那边的行星上，我的[icon:000e]哥哥\n正拿着一颗[color:01][icon:0007]力量之星[color:00]！扑悠～\f\n不过哥哥是我们兄弟里跑得最快的！[wait:001e]\n你能抓住他吗？扑悠～",
-    "translation": "谢谢！现在我能回家了！[wait:001e]\n作为回报，让我告诉你一个秘密！扑悠～\f\n在那边的行星上，我的[icon:000e]哥哥\n正拿着一颗[color:01][icon:0007]力量之星[color:00]！扑悠～\f\n不过哥哥是我们兄弟里跑得最快的！[wait:001e]\n你能抓住他吗？扑悠～"
+    "original": "谢谢！现在我能回家了！[wait:001e]\n作为回报，让我告诉你一个秘密！扑悠～\\f\n在那边的行星上，我的[icon:000e]哥哥\n正拿着一颗[color:01][icon:0007]力量之星[color:00]！扑悠～\\f\n不过哥哥是我们兄弟里跑得最快的！[wait:001e]\n你能抓住他吗？扑悠～",
+    "translation": "谢谢！现在我能回家了！[wait:001e]\n作为回报，让我告诉你一个秘密！扑悠～\\f\n在那边的行星上，我的[icon:000e]哥哥\n正拿着一颗[color:01][icon:0007]力量之星[color:00]！扑悠～\\f\n不过哥哥是我们兄弟里跑得最快的！[wait:001e]\n你能抓住他吗？扑悠～"
   },
   {
     "index": 1527,
@@ -9484,8 +9484,8 @@
   {
     "index": 1544,
     "key": "RosettaMonologue001",
-    "original": "在旅行途中，当我们经过这颗星星时，\n被一种强大的神秘引力所牵引，\f\n[color:03]星船[color:00]的[color:03]“动力”[color:00]同星屑一起掉落了。\f\n这个[color:03]“动力”[color:00]……[wait:001e]\n就是[icon:0007][color:01]力量之星[color:00]。",
-    "translation": "在旅行途中，当我们经过这颗星星时，\n被一种强大的神秘引力所牵引，\f\n[color:03]星船[color:00]的[color:03]“动力”[color:00]同星屑一起掉落了。\f\n这个[color:03]“动力”[color:00]……[wait:001e]\n就是[icon:0007][color:01]力量之星[color:00]。"
+    "original": "在旅行途中，当我们经过这颗星星时，\n被一种强大的神秘引力所牵引，\\f\n[color:03]星船[color:00]的[color:03]“动力”[color:00]同星屑一起掉落了。\\f\n这个[color:03]“动力”[color:00]……[wait:001e]\n就是[icon:0007][color:01]力量之星[color:00]。",
+    "translation": "在旅行途中，当我们经过这颗星星时，\n被一种强大的神秘引力所牵引，\\f\n[color:03]星船[color:00]的[color:03]“动力”[color:00]同星屑一起掉落了。\\f\n这个[color:03]“动力”[color:00]……[wait:001e]\n就是[icon:0007][color:01]力量之星[color:00]。"
   },
   {
     "index": 1545,
@@ -9496,8 +9496,8 @@
   {
     "index": 1546,
     "key": "RosettaMonologue003",
-    "original": "那些带走你[color:01]重要的人[color:00]的家伙们，\n捡走了掉落的[icon:0007][color:04]力量之星[color:00]……\f\n并且得到了穿越宇宙的力量。",
-    "translation": "那些带走你[color:01]重要的人[color:00]的家伙们，\n捡走了掉落的[icon:0007][color:04]力量之星[color:00]……\f\n并且得到了穿越宇宙的力量。"
+    "original": "那些带走你[color:01]重要的人[color:00]的家伙们，\n捡走了掉落的[icon:0007][color:04]力量之星[color:00]……\\f\n并且得到了穿越宇宙的力量。",
+    "translation": "那些带走你[color:01]重要的人[color:00]的家伙们，\n捡走了掉落的[icon:0007][color:04]力量之星[color:00]……\\f\n并且得到了穿越宇宙的力量。"
   },
   {
     "index": 1547,
@@ -10628,8 +10628,8 @@
   {
     "index": 1734,
     "key": "SnowCapsuleZone_SnowRabbitCollect001",
-    "original": "来追我们吧！\f\n在规定时间内能把我们都抓到吗？扑悠～",
-    "translation": "来追我们吧！\f\n在规定时间内能把我们都抓到吗？扑悠～"
+    "original": "来追我们吧！\\f\n在规定时间内能把我们都抓到吗？扑悠～",
+    "translation": "来追我们吧！\\f\n在规定时间内能把我们都抓到吗？扑悠～"
   },
   {
     "index": 1735,
@@ -10707,8 +10707,8 @@
   {
     "index": 1747,
     "key": "StarDustGalaxy_Kinopio003",
-    "original": "[unk5:00]先生！登上[color:01]卡美克头头船队[color:00]的\n[color:03]队员们[color:00]一直都没回来！\f\n作为[color:03]队长[color:00]，我要去营救他们，等着我——！",
-    "translation": "[unk5:00]先生！登上[color:01]卡美克头头船队[color:00]的\n[color:03]队员们[color:00]一直都没回来！\f\n作为[color:03]队长[color:00]，我要去营救他们，等着我——！"
+    "original": "[unk5:00]先生！登上[color:01]卡美克头头船队[color:00]的\n[color:03]队员们[color:00]一直都没回来！\\f\n作为[color:03]队长[color:00]，我要去营救他们，等着我——！",
+    "translation": "[unk5:00]先生！登上[color:01]卡美克头头船队[color:00]的\n[color:03]队员们[color:00]一直都没回来！\\f\n作为[color:03]队长[color:00]，我要去营救他们，等着我——！"
   },
   {
     "index": 1748,
@@ -10786,8 +10786,8 @@
   {
     "index": 1760,
     "key": "SurfingLv1Zone_PenguinCoach005",
-    "original": "嗨，又来[color:01]乘鳐鱼仔[color:00]了啊！\f\n想再听听[color:03]鳐鱼仔的乘法[color:00]吗？",
-    "translation": "嗨，又来[color:01]乘鳐鱼仔[color:00]了啊！\f\n想再听听[color:03]鳐鱼仔的乘法[color:00]吗？"
+    "original": "嗨，又来[color:01]乘鳐鱼仔[color:00]了啊！\\f\n想再听听[color:03]鳐鱼仔的乘法[color:00]吗？",
+    "translation": "嗨，又来[color:01]乘鳐鱼仔[color:00]了啊！\\f\n想再听听[color:03]鳐鱼仔的乘法[color:00]吗？"
   },
   {
     "index": 1761,
@@ -10893,8 +10893,8 @@
   {
     "index": 1777,
     "key": "SurfingLv2Galaxy_PenguinCoach001",
-    "original": "又是你啊！来[color:01]乘鳐鱼仔[color:00]的吗？\f\n这条水道相当难，[wait:001e]你确定要挑战吗？",
-    "translation": "又是你啊！来[color:01]乘鳐鱼仔[color:00]的吗？\f\n这条水道相当难，[wait:001e]你确定要挑战吗？"
+    "original": "又是你啊！来[color:01]乘鳐鱼仔[color:00]的吗？\\f\n这条水道相当难，[wait:001e]你确定要挑战吗？",
+    "translation": "又是你啊！来[color:01]乘鳐鱼仔[color:00]的吗？\\f\n这条水道相当难，[wait:001e]你确定要挑战吗？"
   },
   {
     "index": 1778,
@@ -10911,8 +10911,8 @@
   {
     "index": 1780,
     "key": "SurfingLv2Galaxy_PenguinCoach005",
-    "original": "哇噢！[unk9:0005]啊，干得好！[wait:001e]\n这种成绩不多见呐！\f\n大家都想会会你，去打声招呼吧！",
-    "translation": "哇噢！[unk9:0005]啊，干得好！[wait:001e]\n这种成绩不多见呐！\f\n大家都想会会你，去打声招呼吧！"
+    "original": "哇噢！[unk9:0005]啊，干得好！[wait:001e]\n这种成绩不多见呐！\\f\n大家都想会会你，去打声招呼吧！",
+    "translation": "哇噢！[unk9:0005]啊，干得好！[wait:001e]\n这种成绩不多见呐！\\f\n大家都想会会你，去打声招呼吧！"
   },
   {
     "index": 1781,
@@ -11339,14 +11339,14 @@
   {
     "index": 1851,
     "key": "TamakoroExBZone_SignBoard001",
-    "original": "嘿！我的名字是[color:03]板告示[color:00]！[wait:001e]\n我们之前是不是在哪见过？\f\n不管怎样，在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，[color:01]\f\n倾斜[icon:0003]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n有东西拦路的话，就把它碾碎！",
-    "translation": "嘿！我的名字是[color:03]板告示[color:00]！[wait:001e]\n我们之前是不是在哪见过？\f\n不管怎样，在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，[color:01]\f\n倾斜[icon:0003]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n有东西拦路的话，就把它碾碎！"
+    "original": "嘿！我的名字是[color:03]板告示[color:00]！[wait:001e]\n我们之前是不是在哪见过？\\f\n不管怎样，在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，[color:01]\\f\n倾斜[icon:0003]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n有东西拦路的话，就把它碾碎！",
+    "translation": "嘿！我的名字是[color:03]板告示[color:00]！[wait:001e]\n我们之前是不是在哪见过？\\f\n不管怎样，在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，[color:01]\\f\n倾斜[icon:0003]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n有东西拦路的话，就把它碾碎！"
   },
   {
     "index": 1852,
     "key": "TamakoroExBZone_SignBoard002",
-    "original": "在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，\f\n[color:01]倾斜[icon:0003]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n有东西拦路的话，就把它碾碎！",
-    "translation": "在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，\f\n[color:01]倾斜[icon:0003]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n有东西拦路的话，就把它碾碎！"
+    "original": "在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，\\f\n[color:01]倾斜[icon:0003]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n有东西拦路的话，就把它碾碎！",
+    "translation": "在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，\\f\n[color:01]倾斜[icon:0003]四处滚动[color:00]，按[icon:0000]可以[color:01]跳跃[color:00]！[wait:001e]\n有东西拦路的话，就把它碾碎！"
   },
   {
     "index": 1853,
@@ -11647,14 +11647,14 @@
   {
     "index": 1900,
     "key": "TeresaHouseZone_LuigiNPC003",
-    "original": "哥哥，你终于来了！[wait:001e]\n我与奇诺比奥们走散了，太可怕了！\f\n不过我发现了一颗[icon:0007][color:01]力量之星[color:00]！\n怎么样？对我另眼相看了吧？！",
-    "translation": "哥哥，你终于来了！[wait:001e]\n我与奇诺比奥们走散了，太可怕了！\f\n不过我发现了一颗[icon:0007][color:01]力量之星[color:00]！\n怎么样？对我另眼相看了吧？！"
+    "original": "哥哥，你终于来了！[wait:001e]\n我与奇诺比奥们走散了，太可怕了！\\f\n不过我发现了一颗[icon:0007][color:01]力量之星[color:00]！\n怎么样？对我另眼相看了吧？！",
+    "translation": "哥哥，你终于来了！[wait:001e]\n我与奇诺比奥们走散了，太可怕了！\\f\n不过我发现了一颗[icon:0007][color:01]力量之星[color:00]！\n怎么样？对我另眼相看了吧？！"
   },
   {
     "index": 1901,
     "key": "TeresaHouseZone_LuigiNPC004",
-    "original": "咦？还有一个[icon:001c][color:02]我[color:00]吗？！\f\n不过这世界上像我的人应该不少，\n这也没什么大不了的啦！\f\n对了，我发现了一颗[icon:0007][color:01]力量之星[color:00]！\n你拿着吧！",
-    "translation": "咦？还有一个[icon:001c][color:02]我[color:00]吗？！\f\n不过这世界上像我的人应该不少，\n这也没什么大不了的啦！\f\n对了，我发现了一颗[icon:0007][color:01]力量之星[color:00]！\n你拿着吧！"
+    "original": "咦？还有一个[icon:001c][color:02]我[color:00]吗？！\\f\n不过这世界上像我的人应该不少，\n这也没什么大不了的啦！\\f\n对了，我发现了一颗[icon:0007][color:01]力量之星[color:00]！\n你拿着吧！",
+    "translation": "咦？还有一个[icon:001c][color:02]我[color:00]吗？！\\f\n不过这世界上像我的人应该不少，\n这也没什么大不了的啦！\\f\n对了，我发现了一颗[icon:0007][color:01]力量之星[color:00]！\n你拿着吧！"
   },
   {
     "index": 1902,
@@ -11697,8 +11697,8 @@
   {
     "index": 1908,
     "key": "TeresaMario2DGalaxy_SignBoard002",
-    "original": "嗨！嗨！我叫[color:03]板宣传[color:00]！[wait:001e]\n幽灵的操作方法记住了吗？\f\n[color:01]挥动[color:00][icon:0003]就会变[color:03]透明[color:00]，\n能够穿越[color:03]水晶[color:00]。\f\n乘[color:01]风[color:00]就能够快速移动，\n但要小心别撞墙了哟！",
-    "translation": "嗨！嗨！我叫[color:03]板宣传[color:00]！[wait:001e]\n幽灵的操作方法记住了吗？\f\n[color:01]挥动[color:00][icon:0003]就会变[color:03]透明[color:00]，\n能够穿越[color:03]水晶[color:00]。\f\n乘[color:01]风[color:00]就能够快速移动，\n但要小心别撞墙了哟！"
+    "original": "嗨！嗨！我叫[color:03]板宣传[color:00]！[wait:001e]\n幽灵的操作方法记住了吗？\\f\n[color:01]挥动[color:00][icon:0003]就会变[color:03]透明[color:00]，\n能够穿越[color:03]水晶[color:00]。\\f\n乘[color:01]风[color:00]就能够快速移动，\n但要小心别撞墙了哟！",
+    "translation": "嗨！嗨！我叫[color:03]板宣传[color:00]！[wait:001e]\n幽灵的操作方法记住了吗？\\f\n[color:01]挥动[color:00][icon:0003]就会变[color:03]透明[color:00]，\n能够穿越[color:03]水晶[color:00]。\\f\n乘[color:01]风[color:00]就能够快速移动，\n但要小心别撞墙了哟！"
   },
   {
     "index": 1909,
@@ -11913,8 +11913,8 @@
   {
     "index": 1943,
     "key": "TriPodBossZone_KoopaJr000",
-    "original": "哇——哈哈哈！你终于来了！\f\n不过，对付你这家伙，\n根本不需要[color:03]爸爸[color:00]的帮助！\f\n上吧！机械巨腿！[wait:001e]\n让他见识见识[icon:001b][color:01]崇高之星[color:00]的威力！",
-    "translation": "哇——哈哈哈！你终于来了！\f\n不过，对付你这家伙，\n根本不需要[color:03]爸爸[color:00]的帮助！\f\n上吧！机械巨腿！[wait:001e]\n让他见识见识[icon:001b][color:01]崇高之星[color:00]的威力！"
+    "original": "哇——哈哈哈！你终于来了！\\f\n不过，对付你这家伙，\n根本不需要[color:03]爸爸[color:00]的帮助！\\f\n上吧！机械巨腿！[wait:001e]\n让他见识见识[icon:001b][color:01]崇高之星[color:00]的威力！",
+    "translation": "哇——哈哈哈！你终于来了！\\f\n不过，对付你这家伙，\n根本不需要[color:03]爸爸[color:00]的帮助！\\f\n上吧！机械巨腿！[wait:001e]\n让他见识见识[icon:001b][color:01]崇高之星[color:00]的威力！"
   },
   {
     "index": 1944,
@@ -11957,8 +11957,8 @@
   {
     "index": 1950,
     "key": "UfoBegomanChainedPlanetZone_Tico006",
-    "original": "谢，谢谢你了！\n作为回报，我给你指条[color:03]近路[color:00]吧！\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]身——！！",
-    "translation": "谢，谢谢你了！\n作为回报，我给你指条[color:03]近路[color:00]吧！\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]身——！！"
+    "original": "谢，谢谢你了！\n作为回报，我给你指条[color:03]近路[color:00]吧！\\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]身——！！",
+    "translation": "谢，谢谢你了！\n作为回报，我给你指条[color:03]近路[color:00]吧！\\f\n[unk1][unk4:0002][color:01]变——[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]身——！！"
   },
   {
     "index": 1951,
@@ -11970,8 +11970,8 @@
   {
     "index": 1952,
     "key": "UnderseaTunnelZone_Kinopio001",
-    "original": "唔哇～！真是太险了～～！\n…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]啊～～！[unk5:00]先生！\f\n那个，我本来是想拿[icon:0007][color:04]力量之星[color:00]的，\n结果掉进了宝箱里面，真是倒霉呀～！\f\n不管怎么说，这是我[wait:000a]发[wait:000a]现[wait:000a]的[icon:0007][color:04]力量之星[color:00]，\n请你收下吧！",
-    "translation": "唔哇～！真是太险了～～！\n…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]啊～～！[unk5:00]先生！\f\n那个，我本来是想拿[icon:0007][color:04]力量之星[color:00]的，\n结果掉进了宝箱里面，真是倒霉呀～！\f\n不管怎么说，这是我[wait:000a]发[wait:000a]现[wait:000a]的[icon:0007][color:04]力量之星[color:00]，\n请你收下吧！"
+    "original": "唔哇～！真是太险了～～！\n…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]啊～～！[unk5:00]先生！\\f\n那个，我本来是想拿[icon:0007][color:04]力量之星[color:00]的，\n结果掉进了宝箱里面，真是倒霉呀～！\\f\n不管怎么说，这是我[wait:000a]发[wait:000a]现[wait:000a]的[icon:0007][color:04]力量之星[color:00]，\n请你收下吧！",
+    "translation": "唔哇～！真是太险了～～！\n…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]啊～～！[unk5:00]先生！\\f\n那个，我本来是想拿[icon:0007][color:04]力量之星[color:00]的，\n结果掉进了宝箱里面，真是倒霉呀～！\\f\n不管怎么说，这是我[wait:000a]发[wait:000a]现[wait:000a]的[icon:0007][color:04]力量之星[color:00]，\n请你收下吧！"
   },
   {
     "index": 1953,
@@ -11989,8 +11989,8 @@
   {
     "index": 1955,
     "key": "UnderseaTunnelZone_PenguinMaster001",
-    "original": "介系老朽隐居的地方。\f\n可系块钓鱼宝地哇♪",
-    "translation": "介系老朽隐居的地方。\f\n可系块钓鱼宝地哇♪"
+    "original": "介系老朽隐居的地方。\\f\n可系块钓鱼宝地哇♪",
+    "translation": "介系老朽隐居的地方。\\f\n可系块钓鱼宝地哇♪"
   },
   {
     "index": 1956,
@@ -12020,38 +12020,38 @@
   {
     "index": 1960,
     "key": "VsHugeBattleShipZone_Caretaker002",
-    "original": "0枚？你……[wait:001e]\n你一定是故意的！\f\n这虽然很了不起，\n但老太婆我可不吃你这套！",
-    "translation": "0枚？你……[wait:001e]\n你一定是故意的！\f\n这虽然很了不起，\n但老太婆我可不吃你这套！"
+    "original": "0枚？你……[wait:001e]\n你一定是故意的！\\f\n这虽然很了不起，\n但老太婆我可不吃你这套！",
+    "translation": "0枚？你……[wait:001e]\n你一定是故意的！\\f\n这虽然很了不起，\n但老太婆我可不吃你这套！"
   },
   {
     "index": 1961,
     "key": "VsHugeBattleShipZone_Caretaker003",
-    "original": "[placeholder6:0001,00000000]枚啊，太～糟了……[wait:001e]\n老太婆我不是说过了吗？\f\n脑子里不要总是担心失败，[wait:001e]\n要抛弃杂念，信心满满地去[color:03]嘭[color:00]！",
-    "translation": "[placeholder6:0001,00000000]枚啊，太～糟了……[wait:001e]\n老太婆我不是说过了吗？\f\n脑子里不要总是担心失败，[wait:001e]\n要抛弃杂念，信心满满地去[color:03]嘭[color:00]！"
+    "original": "[placeholder6:0001,00000000]枚啊，太～糟了……[wait:001e]\n老太婆我不是说过了吗？\\f\n脑子里不要总是担心失败，[wait:001e]\n要抛弃杂念，信心满满地去[color:03]嘭[color:00]！",
+    "translation": "[placeholder6:0001,00000000]枚啊，太～糟了……[wait:001e]\n老太婆我不是说过了吗？\\f\n脑子里不要总是担心失败，[wait:001e]\n要抛弃杂念，信心满满地去[color:03]嘭[color:00]！"
   },
   {
     "index": 1962,
     "key": "VsHugeBattleShipZone_Caretaker004",
-    "original": "[placeholder6:0001,00000000]枚啊！勉勉强强！[wait:001e]\n老太婆我不是说过了吗？\f\n过于紧张的话，最后吃亏的是自己！",
-    "translation": "[placeholder6:0001,00000000]枚啊！勉勉强强！[wait:001e]\n老太婆我不是说过了吗？\f\n过于紧张的话，最后吃亏的是自己！"
+    "original": "[placeholder6:0001,00000000]枚啊！勉勉强强！[wait:001e]\n老太婆我不是说过了吗？\\f\n过于紧张的话，最后吃亏的是自己！",
+    "translation": "[placeholder6:0001,00000000]枚啊！勉勉强强！[wait:001e]\n老太婆我不是说过了吗？\\f\n过于紧张的话，最后吃亏的是自己！"
   },
   {
     "index": 1963,
     "key": "VsHugeBattleShipZone_Caretaker005",
-    "original": "拿了[placeholder6:0001,00000000]枚啊！很不错！\f\n接下来挑战自己吧！[wait:001e]\n再接再厉加把劲！",
-    "translation": "拿了[placeholder6:0001,00000000]枚啊！很不错！\f\n接下来挑战自己吧！[wait:001e]\n再接再厉加把劲！"
+    "original": "拿了[placeholder6:0001,00000000]枚啊！很不错！\\f\n接下来挑战自己吧！[wait:001e]\n再接再厉加把劲！",
+    "translation": "拿了[placeholder6:0001,00000000]枚啊！很不错！\\f\n接下来挑战自己吧！[wait:001e]\n再接再厉加把劲！"
   },
   {
     "index": 1964,
     "key": "VsHugeBattleShipZone_Caretaker006",
-    "original": "[placeholder6:0001,00000000]枚呀～～！可惜啊～！\f\n不过真正的挑战才刚刚开始！[wait:001e]\n要有耐心，继续加油！",
-    "translation": "[placeholder6:0001,00000000]枚呀～～！可惜啊～！\f\n不过真正的挑战才刚刚开始！[wait:001e]\n要有耐心，继续加油！"
+    "original": "[placeholder6:0001,00000000]枚呀～～！可惜啊～！\\f\n不过真正的挑战才刚刚开始！[wait:001e]\n要有耐心，继续加油！",
+    "translation": "[placeholder6:0001,00000000]枚呀～～！可惜啊～！\\f\n不过真正的挑战才刚刚开始！[wait:001e]\n要有耐心，继续加油！"
   },
   {
     "index": 1965,
     "key": "VsHugeBattleShipZone_Caretaker007",
-    "original": "[placeholder6:0001,00000000]枚？！只差一点啊～！\f\n虽然我很同情你，不过不行就是不行！[wait:001e]\n规矩就是规矩！",
-    "translation": "[placeholder6:0001,00000000]枚？！只差一点啊～！\f\n虽然我很同情你，不过不行就是不行！[wait:001e]\n规矩就是规矩！"
+    "original": "[placeholder6:0001,00000000]枚？！只差一点啊～！\\f\n虽然我很同情你，不过不行就是不行！[wait:001e]\n规矩就是规矩！",
+    "translation": "[placeholder6:0001,00000000]枚？！只差一点啊～！\\f\n虽然我很同情你，不过不行就是不行！[wait:001e]\n规矩就是规矩！"
   },
   {
     "index": 1966,
@@ -12069,26 +12069,26 @@
   {
     "index": 1968,
     "key": "VsHugeBattleShipZone_LuigiEvent001",
-    "original": "呜哇～！！我差点就喘不上气了！[wait:001e]\n哥哥，下次要早点过来啊！\f\n对了，你想要这颗[color:01][icon:0007]力量之星[color:00]，对吧？[wait:001e]\n要告诉[color:01]罗莎塔[color:00]是[color:02]我[color:00]找到的喔！",
-    "translation": "呜哇～！！我差点就喘不上气了！[wait:001e]\n哥哥，下次要早点过来啊！\f\n对了，你想要这颗[color:01][icon:0007]力量之星[color:00]，对吧？[wait:001e]\n要告诉[color:01]罗莎塔[color:00]是[color:02]我[color:00]找到的喔！"
+    "original": "呜哇～！！我差点就喘不上气了！[wait:001e]\n哥哥，下次要早点过来啊！\\f\n对了，你想要这颗[color:01][icon:0007]力量之星[color:00]，对吧？[wait:001e]\n要告诉[color:01]罗莎塔[color:00]是[color:02]我[color:00]找到的喔！",
+    "translation": "呜哇～！！我差点就喘不上气了！[wait:001e]\n哥哥，下次要早点过来啊！\\f\n对了，你想要这颗[color:01][icon:0007]力量之星[color:00]，对吧？[wait:001e]\n要告诉[color:01]罗莎塔[color:00]是[color:02]我[color:00]找到的喔！"
   },
   {
     "index": 1969,
     "key": "VsHugeBattleShipZone_LuigiEvent002",
-    "original": "呜哇～！！我差点就喘不上气了！[wait:001e]\n我，下次要早点过来啊！\f\n对了，你想要这颗[color:01][icon:0007]力量之星[color:00]，对吧？[wait:001e]\n要告诉[color:01]罗莎塔[color:00]是[color:02]我[color:00]找到的喔！",
-    "translation": "呜哇～！！我差点就喘不上气了！[wait:001e]\n我，下次要早点过来啊！\f\n对了，你想要这颗[color:01][icon:0007]力量之星[color:00]，对吧？[wait:001e]\n要告诉[color:01]罗莎塔[color:00]是[color:02]我[color:00]找到的喔！"
+    "original": "呜哇～！！我差点就喘不上气了！[wait:001e]\n我，下次要早点过来啊！\\f\n对了，你想要这颗[color:01][icon:0007]力量之星[color:00]，对吧？[wait:001e]\n要告诉[color:01]罗莎塔[color:00]是[color:02]我[color:00]找到的喔！",
+    "translation": "呜哇～！！我差点就喘不上气了！[wait:001e]\n我，下次要早点过来啊！\\f\n对了，你想要这颗[color:01][icon:0007]力量之星[color:00]，对吧？[wait:001e]\n要告诉[color:01]罗莎塔[color:00]是[color:02]我[color:00]找到的喔！"
   },
   {
     "index": 1970,
     "key": "VsHugeBattleShipZone_LuigiEvent003",
-    "original": "哥哥！你怎么能这样！[wait:001e]\n不要把我丢在宇宙空间不管了啊！\f\n……算了，至少我们拿到了[icon:0007][color:01]力量之星[color:00]。\n记得告诉[color:01]罗莎塔[color:00]这颗是[color:02]我[color:00]找到的！",
-    "translation": "哥哥！你怎么能这样！[wait:001e]\n不要把我丢在宇宙空间不管了啊！\f\n……算了，至少我们拿到了[icon:0007][color:01]力量之星[color:00]。\n记得告诉[color:01]罗莎塔[color:00]这颗是[color:02]我[color:00]找到的！"
+    "original": "哥哥！你怎么能这样！[wait:001e]\n不要把我丢在宇宙空间不管了啊！\\f\n……算了，至少我们拿到了[icon:0007][color:01]力量之星[color:00]。\n记得告诉[color:01]罗莎塔[color:00]这颗是[color:02]我[color:00]找到的！",
+    "translation": "哥哥！你怎么能这样！[wait:001e]\n不要把我丢在宇宙空间不管了啊！\\f\n……算了，至少我们拿到了[icon:0007][color:01]力量之星[color:00]。\n记得告诉[color:01]罗莎塔[color:00]这颗是[color:02]我[color:00]找到的！"
   },
   {
     "index": 1971,
     "key": "VsHugeBattleShipZone_LuigiEvent004",
-    "original": "我！你怎么能这样！[wait:001e]\n不要把我丢在宇宙空间不管了啊！\f\n……算了，至少我们拿到了[icon:0007][color:01]力量之星[color:00]。\n记得告诉[color:01]罗莎塔[color:00]这颗是[color:02]我[color:00]找到的！",
-    "translation": "我！你怎么能这样！[wait:001e]\n不要把我丢在宇宙空间不管了啊！\f\n……算了，至少我们拿到了[icon:0007][color:01]力量之星[color:00]。\n记得告诉[color:01]罗莎塔[color:00]这颗是[color:02]我[color:00]找到的！"
+    "original": "我！你怎么能这样！[wait:001e]\n不要把我丢在宇宙空间不管了啊！\\f\n……算了，至少我们拿到了[icon:0007][color:01]力量之星[color:00]。\n记得告诉[color:01]罗莎塔[color:00]这颗是[color:02]我[color:00]找到的！",
+    "translation": "我！你怎么能这样！[wait:001e]\n不要把我丢在宇宙空间不管了啊！\\f\n……算了，至少我们拿到了[icon:0007][color:01]力量之星[color:00]。\n记得告诉[color:01]罗莎塔[color:00]这颗是[color:02]我[color:00]找到的！"
   },
   {
     "index": 1972,

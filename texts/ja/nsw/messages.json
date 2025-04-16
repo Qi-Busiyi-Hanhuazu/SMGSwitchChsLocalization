@@ -111,32 +111,32 @@
   {
     "index": 18,
     "key": "AstroDome_Butler001",
-    "original": "ここに現れた星々、これが　この[color:01]ドーム[color:00]から見える\n[color:01]ギャラクシー[color:00]というわけでございます\f\n星に書かれた[color:01]数字[color:00]は　[color:03]天文台[color:00]からの距離…[wait:001e]\nその星にたどり着くのに必要な　[color:01]力[color:00]を表します\f\n[icon:0007][color:01]パワースター[color:00]を救い　力を結集することで、\n[color:03]より遠い星[color:00]へ　行くことができるのです",
-    "translation": "ここに現れた星々、これが　この[color:01]ドーム[color:00]から見える\n[color:01]ギャラクシー[color:00]というわけでございます\f\n星に書かれた[color:01]数字[color:00]は　[color:03]天文台[color:00]からの距離…[wait:001e]\nその星にたどり着くのに必要な　[color:01]力[color:00]を表します\f\n[icon:0007][color:01]パワースター[color:00]を救い　力を結集することで、\n[color:03]より遠い星[color:00]へ　行くことができるのです"
+    "original": "ここに現れた星々、これが　この[color:01]ドーム[color:00]から見える\n[color:01]ギャラクシー[color:00]というわけでございます\\f\n星に書かれた[color:01]数字[color:00]は　[color:03]天文台[color:00]からの距離…[wait:001e]\nその星にたどり着くのに必要な　[color:01]力[color:00]を表します\\f\n[icon:0007][color:01]パワースター[color:00]を救い　力を結集することで、\n[color:03]より遠い星[color:00]へ　行くことができるのです",
+    "translation": "ここに現れた星々、これが　この[color:01]ドーム[color:00]から見える\n[color:01]ギャラクシー[color:00]というわけでございます\\f\n星に書かれた[color:01]数字[color:00]は　[color:03]天文台[color:00]からの距離…[wait:001e]\nその星にたどり着くのに必要な　[color:01]力[color:00]を表します\\f\n[icon:0007][color:01]パワースター[color:00]を救い　力を結集することで、\n[color:03]より遠い星[color:00]へ　行くことができるのです"
   },
   {
     "index": 19,
     "key": "AstroDome_Butler002",
-    "original": "もっとも近い　この[color:03]ギャラクシー[color:00]で\n[icon:0007][color:01]パワースター[color:00]が　観測されたようですな\f\nうーむ…　どうやら悪の気で　満ちているようです[wait:001e]\nどうか　お気をつけて…",
-    "translation": "もっとも近い　この[color:03]ギャラクシー[color:00]で\n[icon:0007][color:01]パワースター[color:00]が　観測されたようですな\f\nうーむ…　どうやら悪の気で　満ちているようです[wait:001e]\nどうか　お気をつけて…"
+    "original": "もっとも近い　この[color:03]ギャラクシー[color:00]で\n[icon:0007][color:01]パワースター[color:00]が　観測されたようですな\\f\nうーむ…　どうやら悪の気で　満ちているようです[wait:001e]\nどうか　お気をつけて…",
+    "translation": "もっとも近い　この[color:03]ギャラクシー[color:00]で\n[icon:0007][color:01]パワースター[color:00]が　観測されたようですな\\f\nうーむ…　どうやら悪の気で　満ちているようです[wait:001e]\nどうか　お気をつけて…"
   },
   {
     "index": 20,
     "key": "AstroDome_Butler003",
-    "original": "いやはや　おつかれ様でした！[wait:001e]　おかげで\n新しい[color:01]ギャラクシー[color:00]を　発見できましたぞ！\f\nこうやって　[icon:0007][color:01]パワースター[color:00]を集めていけば\n見える範囲が広がり、やがて　[color:03]敵の根城[color:00]も…",
-    "translation": "いやはや　おつかれ様でした！[wait:001e]　おかげで\n新しい[color:01]ギャラクシー[color:00]を　発見できましたぞ！\f\nこうやって　[icon:0007][color:01]パワースター[color:00]を集めていけば\n見える範囲が広がり、やがて　[color:03]敵の根城[color:00]も…"
+    "original": "いやはや　おつかれ様でした！[wait:001e]　おかげで\n新しい[color:01]ギャラクシー[color:00]を　発見できましたぞ！\\f\nこうやって　[icon:0007][color:01]パワースター[color:00]を集めていけば\n見える範囲が広がり、やがて　[color:03]敵の根城[color:00]も…",
+    "translation": "いやはや　おつかれ様でした！[wait:001e]　おかげで\n新しい[color:01]ギャラクシー[color:00]を　発見できましたぞ！\\f\nこうやって　[icon:0007][color:01]パワースター[color:00]を集めていけば\n見える範囲が広がり、やがて　[color:03]敵の根城[color:00]も…"
   },
   {
     "index": 21,
     "key": "AstroDome_Butler006",
-    "original": "彼らの　[color:03]前線基地[color:00]を発見しました！\f\n[icon:0007][color:01]スターの力[color:00]を\n悪用していなければ　いいのですが…",
-    "translation": "彼らの　[color:03]前線基地[color:00]を発見しました！\f\n[icon:0007][color:01]スターの力[color:00]を\n悪用していなければ　いいのですが…"
+    "original": "彼らの　[color:03]前線基地[color:00]を発見しました！\\f\n[icon:0007][color:01]スターの力[color:00]を\n悪用していなければ　いいのですが…",
+    "translation": "彼らの　[color:03]前線基地[color:00]を発見しました！\\f\n[icon:0007][color:01]スターの力[color:00]を\n悪用していなければ　いいのですが…"
   },
   {
     "index": 22,
     "key": "AstroDome_Butler007",
-    "original": "[color:03]敵陣[color:00]　発見です！　しかも　今度は、\nとてつもない[color:01]エネルギー[color:00]が　観測されております\f\nいったい　何をしているのやら…",
-    "translation": "[color:03]敵陣[color:00]　発見です！　しかも　今度は、\nとてつもない[color:01]エネルギー[color:00]が　観測されております\f\nいったい　何をしているのやら…"
+    "original": "[color:03]敵陣[color:00]　発見です！　しかも　今度は、\nとてつもない[color:01]エネルギー[color:00]が　観測されております\\f\nいったい　何をしているのやら…",
+    "translation": "[color:03]敵陣[color:00]　発見です！　しかも　今度は、\nとてつもない[color:01]エネルギー[color:00]が　観測されております\\f\nいったい　何をしているのやら…"
   },
   {
     "index": 23,
@@ -160,8 +160,8 @@
   {
     "index": 26,
     "key": "AstroDome_Butler012",
-    "original": "ギャラクシーで目にする　キラキラした[icon:000b][color:01]星くず[color:00]\n…お気づきですかな？\f\nあれは　[icon:000b][color:01]スターピース[color:00]と言いまして\nわれわれ[color:03]チコの好物[color:00]、言わば　力の源です\f\n[icon:0047]を画面に向け、[icon:000a][color:01]でポイント[color:00]して取ったり、\n[icon:000a]でねらって、相手を[icon:003f][color:01]で撃つ[color:00]こともできます\f\n直接、　[color:01]画面をタッチして[color:00]もあつめられますぞ！\n",
-    "translation": "ギャラクシーで目にする　キラキラした[icon:000b][color:01]星くず[color:00]\n…お気づきですかな？\f\nあれは　[icon:000b][color:01]スターピース[color:00]と言いまして\nわれわれ[color:03]チコの好物[color:00]、言わば　力の源です\f\n[icon:0047]を画面に向け、[icon:000a][color:01]でポイント[color:00]して取ったり、\n[icon:000a]でねらって、相手を[icon:003f][color:01]で撃つ[color:00]こともできます\f\n直接、　[color:01]画面をタッチして[color:00]もあつめられますぞ！\n"
+    "original": "ギャラクシーで目にする　キラキラした[icon:000b][color:01]星くず[color:00]\n…お気づきですかな？\\f\nあれは　[icon:000b][color:01]スターピース[color:00]と言いまして\nわれわれ[color:03]チコの好物[color:00]、言わば　力の源です\\f\n[icon:0047]を画面に向け、[icon:000a][color:01]でポイント[color:00]して取ったり、\n[icon:000a]でねらって、相手を[icon:003f][color:01]で撃つ[color:00]こともできます\\f\n直接、　[color:01]画面をタッチして[color:00]もあつめられますぞ！\n",
+    "translation": "ギャラクシーで目にする　キラキラした[icon:000b][color:01]星くず[color:00]\n…お気づきですかな？\\f\nあれは　[icon:000b][color:01]スターピース[color:00]と言いまして\nわれわれ[color:03]チコの好物[color:00]、言わば　力の源です\\f\n[icon:0047]を画面に向け、[icon:000a][color:01]でポイント[color:00]して取ったり、\n[icon:000a]でねらって、相手を[icon:003f][color:01]で撃つ[color:00]こともできます\\f\n直接、　[color:01]画面をタッチして[color:00]もあつめられますぞ！\n"
   },
   {
     "index": 27,
@@ -185,8 +185,8 @@
   {
     "index": 30,
     "key": "AstroDome_Butler016",
-    "original": "[color:03]敵に当てる[color:00]もよし、[color:03]おなかをすかせたチコ[color:00]に\nおすそ分けして　お礼をしてもらうもよし…\f\n[icon:000b][color:01]スターピース[color:00]は　必ずや\nあなたの冒険の　手助けとなるでしょう",
-    "translation": "[color:03]敵に当てる[color:00]もよし、[color:03]おなかをすかせたチコ[color:00]に\nおすそ分けして　お礼をしてもらうもよし…\f\n[icon:000b][color:01]スターピース[color:00]は　必ずや\nあなたの冒険の　手助けとなるでしょう"
+    "original": "[color:03]敵に当てる[color:00]もよし、[color:03]おなかをすかせたチコ[color:00]に\nおすそ分けして　お礼をしてもらうもよし…\\f\n[icon:000b][color:01]スターピース[color:00]は　必ずや\nあなたの冒険の　手助けとなるでしょう",
+    "translation": "[color:03]敵に当てる[color:00]もよし、[color:03]おなかをすかせたチコ[color:00]に\nおすそ分けして　お礼をしてもらうもよし…\\f\n[icon:000b][color:01]スターピース[color:00]は　必ずや\nあなたの冒険の　手助けとなるでしょう"
   },
   {
     "index": 31,
@@ -228,8 +228,8 @@
   {
     "index": 37,
     "key": "AstroDome_Butler023",
-    "original": "よくぞ　参られました[wait:001e]\nここが　ワタシ達が[color:01] ドーム[color:00]と呼んでいるところ…\f\n様々な[color:03]ギャラクシー[color:00]を見ることができる、いわば\n目の役割を　果たす場所でございます\f\n[color:03]ギャラクシー[color:00]へは　この者が　案内いたします\f\n変身したら　[icon:0009][color:01]スターキャプチャー[color:00]を [icon:000a]で\nねらって、　[icon:0038]を　押してくだされ\f\n[icon:000a]を見失ったら、　[icon:003d]でリセットできますぞ\f\n[icon:0044]携帯モードなら、\n[color:01]画面を直接タッチして[color:00]くだされ",
-    "translation": "よくぞ　参られました[wait:001e]\nここが　ワタシ達が[color:01] ドーム[color:00]と呼んでいるところ…\f\n様々な[color:03]ギャラクシー[color:00]を見ることができる、いわば\n目の役割を　果たす場所でございます\f\n[color:03]ギャラクシー[color:00]へは　この者が　案内いたします\f\n変身したら　[icon:0009][color:01]スターキャプチャー[color:00]を [icon:000a]で\nねらって、　[icon:0038]を　押してくだされ\f\n[icon:000a]を見失ったら、　[icon:003d]でリセットできますぞ\f\n[icon:0044]携帯モードなら、\n[color:01]画面を直接タッチして[color:00]くだされ"
+    "original": "よくぞ　参られました[wait:001e]\nここが　ワタシ達が[color:01] ドーム[color:00]と呼んでいるところ…\\f\n様々な[color:03]ギャラクシー[color:00]を見ることができる、いわば\n目の役割を　果たす場所でございます\\f\n[color:03]ギャラクシー[color:00]へは　この者が　案内いたします\\f\n変身したら　[icon:0009][color:01]スターキャプチャー[color:00]を [icon:000a]で\nねらって、　[icon:0038]を　押してくだされ\\f\n[icon:000a]を見失ったら、　[icon:003d]でリセットできますぞ\\f\n[icon:0044]携帯モードなら、\n[color:01]画面を直接タッチして[color:00]くだされ",
+    "translation": "よくぞ　参られました[wait:001e]\nここが　ワタシ達が[color:01] ドーム[color:00]と呼んでいるところ…\\f\n様々な[color:03]ギャラクシー[color:00]を見ることができる、いわば\n目の役割を　果たす場所でございます\\f\n[color:03]ギャラクシー[color:00]へは　この者が　案内いたします\\f\n変身したら　[icon:0009][color:01]スターキャプチャー[color:00]を [icon:000a]で\nねらって、　[icon:0038]を　押してくだされ\\f\n[icon:000a]を見失ったら、　[icon:003d]でリセットできますぞ\\f\n[icon:0044]携帯モードなら、\n[color:01]画面を直接タッチして[color:00]くだされ"
   },
   {
     "index": 38,
@@ -304,8 +304,8 @@
   {
     "index": 49,
     "key": "AstroGalaxy_Butler007",
-    "original": "[color:02]緑の[icon:0007]パワースター[color:00]を\n取り返していただいたようですな！\f\n[color:02]緑の[icon:0007]パワースター[color:00]は\n[color:03]特別な力[color:00]を　持っております",
-    "translation": "[color:02]緑の[icon:0007]パワースター[color:00]を\n取り返していただいたようですな！\f\n[color:02]緑の[icon:0007]パワースター[color:00]は\n[color:03]特別な力[color:00]を　持っております"
+    "original": "[color:02]緑の[icon:0007]パワースター[color:00]を\n取り返していただいたようですな！\\f\n[color:02]緑の[icon:0007]パワースター[color:00]は\n[color:03]特別な力[color:00]を　持っております",
+    "translation": "[color:02]緑の[icon:0007]パワースター[color:00]を\n取り返していただいたようですな！\\f\n[color:02]緑の[icon:0007]パワースター[color:00]は\n[color:03]特別な力[color:00]を　持っております"
   },
   {
     "index": 50,
@@ -328,8 +328,8 @@
   {
     "index": 53,
     "key": "AstroGalaxy_Butler011",
-    "original": "[color:02]緑の[icon:0007]パワースター[color:00]は\n[color:03]特別な力[color:00]を　持っております\f\n詳しくは　[color:02]緑の[icon:0007]パワースター[color:00]の化身である\n[color:02]グリーンチコ[color:00]に　聞いてくだされ",
-    "translation": "[color:02]緑の[icon:0007]パワースター[color:00]は\n[color:03]特別な力[color:00]を　持っております\f\n詳しくは　[color:02]緑の[icon:0007]パワースター[color:00]の化身である\n[color:02]グリーンチコ[color:00]に　聞いてくだされ"
+    "original": "[color:02]緑の[icon:0007]パワースター[color:00]は\n[color:03]特別な力[color:00]を　持っております\\f\n詳しくは　[color:02]緑の[icon:0007]パワースター[color:00]の化身である\n[color:02]グリーンチコ[color:00]に　聞いてくだされ",
+    "translation": "[color:02]緑の[icon:0007]パワースター[color:00]は\n[color:03]特別な力[color:00]を　持っております\\f\n詳しくは　[color:02]緑の[icon:0007]パワースター[color:00]の化身である\n[color:02]グリーンチコ[color:00]に　聞いてくだされ"
   },
   {
     "index": 54,
@@ -347,14 +347,14 @@
   {
     "index": 56,
     "key": "AstroGalaxy_ButlerExplain011",
-    "original": "おお…　天文台の[color:01]トーチ[color:00]に\n火が　もどりましたな…\f\nまだ６等星のように　小さな光ですが、\nこれでチコたちも　おびえずにすみそうですな",
-    "translation": "おお…　天文台の[color:01]トーチ[color:00]に\n火が　もどりましたな…\f\nまだ６等星のように　小さな光ですが、\nこれでチコたちも　おびえずにすみそうですな"
+    "original": "おお…　天文台の[color:01]トーチ[color:00]に\n火が　もどりましたな…\\f\nまだ６等星のように　小さな光ですが、\nこれでチコたちも　おびえずにすみそうですな",
+    "translation": "おお…　天文台の[color:01]トーチ[color:00]に\n火が　もどりましたな…\\f\nまだ６等星のように　小さな光ですが、\nこれでチコたちも　おびえずにすみそうですな"
   },
   {
     "index": 57,
     "key": "AstroGalaxy_ButlerExplain012",
-    "original": "さすれば、この[color:03]ほうき星の天文台[color:00]も\n[color:03]星船[color:00]としての機能を　回復し\f\n[icon:0007][color:04]パワースター[color:00]をうばった　敵の行方を\n追うことが　できるでしょうな",
-    "translation": "さすれば、この[color:03]ほうき星の天文台[color:00]も\n[color:03]星船[color:00]としての機能を　回復し\f\n[icon:0007][color:04]パワースター[color:00]をうばった　敵の行方を\n追うことが　できるでしょうな"
+    "original": "さすれば、この[color:03]ほうき星の天文台[color:00]も\n[color:03]星船[color:00]としての機能を　回復し\\f\n[icon:0007][color:04]パワースター[color:00]をうばった　敵の行方を\n追うことが　できるでしょうな",
+    "translation": "さすれば、この[color:03]ほうき星の天文台[color:00]も\n[color:03]星船[color:00]としての機能を　回復し\\f\n[icon:0007][color:04]パワースター[color:00]をうばった　敵の行方を\n追うことが　できるでしょうな"
   },
   {
     "index": 58,
@@ -378,8 +378,8 @@
   {
     "index": 61,
     "key": "AstroGalaxy_ButlerMap003",
-    "original": "新たに開放された[color:01]ドーム[color:00]は\n我々が　[color:01]バスルーム[color:00]と呼んでおるところですな\f\n先ほどの[color:01]MAP[color:00]なるもの、ごらんになったことが\nおありでしょうが、これは[color:01]ドーム[color:00]だけでなく\f\n発見した[color:03]ギャラクシー[color:00]や　様々な情報を\n知ることができる　スグレモノなのです\f\n[color:01]ドーム[color:00]の位置が　分からなくなったら、\nこの[color:03]ワタシ[color:00]に　お聞きくだされ",
-    "translation": "新たに開放された[color:01]ドーム[color:00]は\n我々が　[color:01]バスルーム[color:00]と呼んでおるところですな\f\n先ほどの[color:01]MAP[color:00]なるもの、ごらんになったことが\nおありでしょうが、これは[color:01]ドーム[color:00]だけでなく\f\n発見した[color:03]ギャラクシー[color:00]や　様々な情報を\n知ることができる　スグレモノなのです\f\n[color:01]ドーム[color:00]の位置が　分からなくなったら、\nこの[color:03]ワタシ[color:00]に　お聞きくだされ"
+    "original": "新たに開放された[color:01]ドーム[color:00]は\n我々が　[color:01]バスルーム[color:00]と呼んでおるところですな\\f\n先ほどの[color:01]MAP[color:00]なるもの、ごらんになったことが\nおありでしょうが、これは[color:01]ドーム[color:00]だけでなく\\f\n発見した[color:03]ギャラクシー[color:00]や　様々な情報を\n知ることができる　スグレモノなのです\\f\n[color:01]ドーム[color:00]の位置が　分からなくなったら、\nこの[color:03]ワタシ[color:00]に　お聞きくだされ",
+    "translation": "新たに開放された[color:01]ドーム[color:00]は\n我々が　[color:01]バスルーム[color:00]と呼んでおるところですな\\f\n先ほどの[color:01]MAP[color:00]なるもの、ごらんになったことが\nおありでしょうが、これは[color:01]ドーム[color:00]だけでなく\\f\n発見した[color:03]ギャラクシー[color:00]や　様々な情報を\n知ることができる　スグレモノなのです\\f\n[color:01]ドーム[color:00]の位置が　分からなくなったら、\nこの[color:03]ワタシ[color:00]に　お聞きくだされ"
   },
   {
     "index": 62,
@@ -390,8 +390,8 @@
   {
     "index": 63,
     "key": "AstroGalaxy_ButlerMap005",
-    "original": "この[color:01]MAP[color:00]は　ドームの位置だけでなく、\n発見できた[color:03]ギャラクシー[color:00]や\f\nそれに影響を与える情報を知ることができる\n優れものなのです",
-    "translation": "この[color:01]MAP[color:00]は　ドームの位置だけでなく、\n発見できた[color:03]ギャラクシー[color:00]や\f\nそれに影響を与える情報を知ることができる\n優れものなのです"
+    "original": "この[color:01]MAP[color:00]は　ドームの位置だけでなく、\n発見できた[color:03]ギャラクシー[color:00]や\\f\nそれに影響を与える情報を知ることができる\n優れものなのです",
+    "translation": "この[color:01]MAP[color:00]は　ドームの位置だけでなく、\n発見できた[color:03]ギャラクシー[color:00]や\\f\nそれに影響を与える情報を知ることができる\n優れものなのです"
   },
   {
     "index": 64,
@@ -437,8 +437,8 @@
   {
     "index": 70,
     "key": "AstroGalaxy_Kinopio006",
-    "original": "[unk5:00]さん！　ワタシ達も　なんとか\nここまで　たどり着きました…\f\nワタシ達も、[icon:0007][color:01]パワースター[color:00]と\n[color:01]ピーチ姫[color:00]の救出を　手伝います！\f\nだから、[unk5:00]さんは\n大船に乗ったつもりでいてください！",
-    "translation": "[unk5:00]さん！　ワタシ達も　なんとか\nここまで　たどり着きました…\f\nワタシ達も、[icon:0007][color:01]パワースター[color:00]と\n[color:01]ピーチ姫[color:00]の救出を　手伝います！\f\nだから、[unk5:00]さんは\n大船に乗ったつもりでいてください！"
+    "original": "[unk5:00]さん！　ワタシ達も　なんとか\nここまで　たどり着きました…\\f\nワタシ達も、[icon:0007][color:01]パワースター[color:00]と\n[color:01]ピーチ姫[color:00]の救出を　手伝います！\\f\nだから、[unk5:00]さんは\n大船に乗ったつもりでいてください！",
+    "translation": "[unk5:00]さん！　ワタシ達も　なんとか\nここまで　たどり着きました…\\f\nワタシ達も、[icon:0007][color:01]パワースター[color:00]と\n[color:01]ピーチ姫[color:00]の救出を　手伝います！\\f\nだから、[unk5:00]さんは\n大船に乗ったつもりでいてください！"
   },
   {
     "index": 71,
@@ -449,8 +449,8 @@
   {
     "index": 72,
     "key": "AstroGalaxy_Kinopio008",
-    "original": "ついに、[icon:0007][color:01]パワースター[color:00]捜索用の\n[color:03]キノコ船[color:00]が　完成しました！\f\nこの[color:03]キノコ船[color:00]を駆るのは\n我ら、[color:01]キノピオ探検隊[color:00]！\f\nそして、探検隊をまとめる[color:01]隊長[color:00]は\n当然、この　[wait:000f]ワ　・　[wait:000f]タ　・　[wait:000f]シ　！\f\nそれでは[color:03]ギャラクシー[color:00]で、[color:01]キノピオ探検隊[color:00]の\n活躍を　お目に入れましょう！",
-    "translation": "ついに、[icon:0007][color:01]パワースター[color:00]捜索用の\n[color:03]キノコ船[color:00]が　完成しました！\f\nこの[color:03]キノコ船[color:00]を駆るのは\n我ら、[color:01]キノピオ探検隊[color:00]！\f\nそして、探検隊をまとめる[color:01]隊長[color:00]は\n当然、この　[wait:000f]ワ　・　[wait:000f]タ　・　[wait:000f]シ　！\f\nそれでは[color:03]ギャラクシー[color:00]で、[color:01]キノピオ探検隊[color:00]の\n活躍を　お目に入れましょう！"
+    "original": "ついに、[icon:0007][color:01]パワースター[color:00]捜索用の\n[color:03]キノコ船[color:00]が　完成しました！\\f\nこの[color:03]キノコ船[color:00]を駆るのは\n我ら、[color:01]キノピオ探検隊[color:00]！\\f\nそして、探検隊をまとめる[color:01]隊長[color:00]は\n当然、この　[wait:000f]ワ　・　[wait:000f]タ　・　[wait:000f]シ　！\\f\nそれでは[color:03]ギャラクシー[color:00]で、[color:01]キノピオ探検隊[color:00]の\n活躍を　お目に入れましょう！",
+    "translation": "ついに、[icon:0007][color:01]パワースター[color:00]捜索用の\n[color:03]キノコ船[color:00]が　完成しました！\\f\nこの[color:03]キノコ船[color:00]を駆るのは\n我ら、[color:01]キノピオ探検隊[color:00]！\\f\nそして、探検隊をまとめる[color:01]隊長[color:00]は\n当然、この　[wait:000f]ワ　・　[wait:000f]タ　・　[wait:000f]シ　！\\f\nそれでは[color:03]ギャラクシー[color:00]で、[color:01]キノピオ探検隊[color:00]の\n活躍を　お目に入れましょう！"
   },
   {
     "index": 73,
@@ -461,8 +461,8 @@
   {
     "index": 74,
     "key": "AstroGalaxy_Kinopio012",
-    "original": "[color:03]天文台[color:00]が　明るくなって、\n行けるところが　増えましたね！\f\nまたまた　いそがしくなりそうですねー！",
-    "translation": "[color:03]天文台[color:00]が　明るくなって、\n行けるところが　増えましたね！\f\nまたまた　いそがしくなりそうですねー！"
+    "original": "[color:03]天文台[color:00]が　明るくなって、\n行けるところが　増えましたね！\\f\nまたまた　いそがしくなりそうですねー！",
+    "translation": "[color:03]天文台[color:00]が　明るくなって、\n行けるところが　増えましたね！\\f\nまたまた　いそがしくなりそうですねー！"
   },
   {
     "index": 75,
@@ -497,8 +497,8 @@
   {
     "index": 80,
     "key": "AstroGalaxy_Kinopio018",
-    "original": "[color:03]トーチ[color:00]が　すごくまぶしいのは、[color:01]我々[color:00]ががんばって\n[icon:0007][color:01]パワースター[color:00]を　集めたからです！\f\nウフフ…　働くって　スバラシイ！",
-    "translation": "[color:03]トーチ[color:00]が　すごくまぶしいのは、[color:01]我々[color:00]ががんばって\n[icon:0007][color:01]パワースター[color:00]を　集めたからです！\f\nウフフ…　働くって　スバラシイ！"
+    "original": "[color:03]トーチ[color:00]が　すごくまぶしいのは、[color:01]我々[color:00]ががんばって\n[icon:0007][color:01]パワースター[color:00]を　集めたからです！\\f\nウフフ…　働くって　スバラシイ！",
+    "translation": "[color:03]トーチ[color:00]が　すごくまぶしいのは、[color:01]我々[color:00]ががんばって\n[icon:0007][color:01]パワースター[color:00]を　集めたからです！\\f\nウフフ…　働くって　スバラシイ！"
   },
   {
     "index": 81,
@@ -509,8 +509,8 @@
   {
     "index": 82,
     "key": "AstroGalaxy_Kinopio020",
-    "original": "[unk5:00]さん！　ついに最後の\n[icon:001b][color:01]グランドスター[color:00]をゲットしましたね！\f\nあとは　[color:01]クッパ[color:00]の居場所を\nつきとめるだけですー！",
-    "translation": "[unk5:00]さん！　ついに最後の\n[icon:001b][color:01]グランドスター[color:00]をゲットしましたね！\f\nあとは　[color:01]クッパ[color:00]の居場所を\nつきとめるだけですー！"
+    "original": "[unk5:00]さん！　ついに最後の\n[icon:001b][color:01]グランドスター[color:00]をゲットしましたね！\\f\nあとは　[color:01]クッパ[color:00]の居場所を\nつきとめるだけですー！",
+    "translation": "[unk5:00]さん！　ついに最後の\n[icon:001b][color:01]グランドスター[color:00]をゲットしましたね！\\f\nあとは　[color:01]クッパ[color:00]の居場所を\nつきとめるだけですー！"
   },
   {
     "index": 83,
@@ -521,8 +521,8 @@
   {
     "index": 84,
     "key": "AstroGalaxy_Kinopio022",
-    "original": "フフッ…　ついに　この時が来ましたね！[wait:001e]\n[color:01]クッパ[color:00]め！　この[color:01]隊長様[color:00]が相手だ！\f\n・[wait:000f]　・[wait:000f]　・[wait:000f]　あれっ？　急に　頭痛が！[wait:001e]\n・[wait:000f]　・[wait:000f]　・[wait:000f]　カゼかなぁ？\f\n[unk5:00]さん、[color:01]クッパ[color:00]の相手は\nやはり　アナタしか　いないようです！",
-    "translation": "フフッ…　ついに　この時が来ましたね！[wait:001e]\n[color:01]クッパ[color:00]め！　この[color:01]隊長様[color:00]が相手だ！\f\n・[wait:000f]　・[wait:000f]　・[wait:000f]　あれっ？　急に　頭痛が！[wait:001e]\n・[wait:000f]　・[wait:000f]　・[wait:000f]　カゼかなぁ？\f\n[unk5:00]さん、[color:01]クッパ[color:00]の相手は\nやはり　アナタしか　いないようです！"
+    "original": "フフッ…　ついに　この時が来ましたね！[wait:001e]\n[color:01]クッパ[color:00]め！　この[color:01]隊長様[color:00]が相手だ！\\f\n・[wait:000f]　・[wait:000f]　・[wait:000f]　あれっ？　急に　頭痛が！[wait:001e]\n・[wait:000f]　・[wait:000f]　・[wait:000f]　カゼかなぁ？\\f\n[unk5:00]さん、[color:01]クッパ[color:00]の相手は\nやはり　アナタしか　いないようです！",
+    "translation": "フフッ…　ついに　この時が来ましたね！[wait:001e]\n[color:01]クッパ[color:00]め！　この[color:01]隊長様[color:00]が相手だ！\\f\n・[wait:000f]　・[wait:000f]　・[wait:000f]　あれっ？　急に　頭痛が！[wait:001e]\n・[wait:000f]　・[wait:000f]　・[wait:000f]　カゼかなぁ？\\f\n[unk5:00]さん、[color:01]クッパ[color:00]の相手は\nやはり　アナタしか　いないようです！"
   },
   {
     "index": 85,
@@ -533,8 +533,8 @@
   {
     "index": 86,
     "key": "AstroGalaxy_Kinopio025",
-    "original": "どうやらここは　あの[color:01]ロゼッタ[color:00]という人の\n[color:03]移動基地[color:00]らしいですね\f\nしかし、あの人は　いったい何者なんでしょう？[wait:001e]\n……………もしかして、魔女？！\f\n…なワケ、ないですよねー",
-    "translation": "どうやらここは　あの[color:01]ロゼッタ[color:00]という人の\n[color:03]移動基地[color:00]らしいですね\f\nしかし、あの人は　いったい何者なんでしょう？[wait:001e]\n……………もしかして、魔女？！\f\n…なワケ、ないですよねー"
+    "original": "どうやらここは　あの[color:01]ロゼッタ[color:00]という人の\n[color:03]移動基地[color:00]らしいですね\\f\nしかし、あの人は　いったい何者なんでしょう？[wait:001e]\n……………もしかして、魔女？！\\f\n…なワケ、ないですよねー",
+    "translation": "どうやらここは　あの[color:01]ロゼッタ[color:00]という人の\n[color:03]移動基地[color:00]らしいですね\\f\nしかし、あの人は　いったい何者なんでしょう？[wait:001e]\n……………もしかして、魔女？！\\f\n…なワケ、ないですよねー"
   },
   {
     "index": 87,
@@ -545,8 +545,8 @@
   {
     "index": 88,
     "key": "AstroGalaxy_Kinopio029",
-    "original": "[color:01]クッパJr.[color:00]のロボから　[icon:001b][color:01]グランドスター[color:00]を？！\f\nなるほど…　ということは、[color:01]クッパ[color:00]は\nロゼッタさんにとっても　[color:03]敵[color:00]なのですね\f\nじゃ、ロゼッタさんに力を貸してもらって、\n[color:01]クッパの居場所[color:00]を　探してもらいましょう！",
-    "translation": "[color:01]クッパJr.[color:00]のロボから　[icon:001b][color:01]グランドスター[color:00]を？！\f\nなるほど…　ということは、[color:01]クッパ[color:00]は\nロゼッタさんにとっても　[color:03]敵[color:00]なのですね\f\nじゃ、ロゼッタさんに力を貸してもらって、\n[color:01]クッパの居場所[color:00]を　探してもらいましょう！"
+    "original": "[color:01]クッパJr.[color:00]のロボから　[icon:001b][color:01]グランドスター[color:00]を？！\\f\nなるほど…　ということは、[color:01]クッパ[color:00]は\nロゼッタさんにとっても　[color:03]敵[color:00]なのですね\\f\nじゃ、ロゼッタさんに力を貸してもらって、\n[color:01]クッパの居場所[color:00]を　探してもらいましょう！",
+    "translation": "[color:01]クッパJr.[color:00]のロボから　[icon:001b][color:01]グランドスター[color:00]を？！\\f\nなるほど…　ということは、[color:01]クッパ[color:00]は\nロゼッタさんにとっても　[color:03]敵[color:00]なのですね\\f\nじゃ、ロゼッタさんに力を貸してもらって、\n[color:01]クッパの居場所[color:00]を　探してもらいましょう！"
   },
   {
     "index": 89,
@@ -569,26 +569,26 @@
   {
     "index": 92,
     "key": "AstroGalaxy_Kinopio034",
-    "original": "[icon:001b][color:04]グランドスター[color:00]をゲットすれば、\n天文台のエネルギーが回復し、[color:01]ドーム[color:00]が開く…\f\nそうなれば　[color:03]新たなギャラクシー[color:00]を　観測できて\n更なる[icon:0007][color:04]パワースター[color:00]を探せる…\f\nそうやって　片っ端から[color:01]ドーム[color:00]をのぞいていけば、\n[color:01]クッパ[color:00]の居場所を　つかめるかも！",
-    "translation": "[icon:001b][color:04]グランドスター[color:00]をゲットすれば、\n天文台のエネルギーが回復し、[color:01]ドーム[color:00]が開く…\f\nそうなれば　[color:03]新たなギャラクシー[color:00]を　観測できて\n更なる[icon:0007][color:04]パワースター[color:00]を探せる…\f\nそうやって　片っ端から[color:01]ドーム[color:00]をのぞいていけば、\n[color:01]クッパ[color:00]の居場所を　つかめるかも！"
+    "original": "[icon:001b][color:04]グランドスター[color:00]をゲットすれば、\n天文台のエネルギーが回復し、[color:01]ドーム[color:00]が開く…\\f\nそうなれば　[color:03]新たなギャラクシー[color:00]を　観測できて\n更なる[icon:0007][color:04]パワースター[color:00]を探せる…\\f\nそうやって　片っ端から[color:01]ドーム[color:00]をのぞいていけば、\n[color:01]クッパ[color:00]の居場所を　つかめるかも！",
+    "translation": "[icon:001b][color:04]グランドスター[color:00]をゲットすれば、\n天文台のエネルギーが回復し、[color:01]ドーム[color:00]が開く…\\f\nそうなれば　[color:03]新たなギャラクシー[color:00]を　観測できて\n更なる[icon:0007][color:04]パワースター[color:00]を探せる…\\f\nそうやって　片っ端から[color:01]ドーム[color:00]をのぞいていけば、\n[color:01]クッパ[color:00]の居場所を　つかめるかも！"
   },
   {
     "index": 93,
     "key": "AstroGalaxy_Kinopio035",
-    "original": "[icon:001b][color:01]グランドスター[color:00]をゲットすれば\nより[color:03]広い範囲の宇宙[color:00]を　見ることができる…\f\nそうすれば　更なる[color:03]ギャラクシー[color:00]に\n行けるということです！",
-    "translation": "[icon:001b][color:01]グランドスター[color:00]をゲットすれば\nより[color:03]広い範囲の宇宙[color:00]を　見ることができる…\f\nそうすれば　更なる[color:03]ギャラクシー[color:00]に\n行けるということです！"
+    "original": "[icon:001b][color:01]グランドスター[color:00]をゲットすれば\nより[color:03]広い範囲の宇宙[color:00]を　見ることができる…\\f\nそうすれば　更なる[color:03]ギャラクシー[color:00]に\n行けるということです！",
+    "translation": "[icon:001b][color:01]グランドスター[color:00]をゲットすれば\nより[color:03]広い範囲の宇宙[color:00]を　見ることができる…\\f\nそうすれば　更なる[color:03]ギャラクシー[color:00]に\n行けるということです！"
   },
   {
     "index": 94,
     "key": "AstroGalaxy_Kinopio036",
-    "original": "これからは[icon:001c][color:02]ルイージ[color:00]さんも\n[color:01]パワースター[color:00]を　探してくれるのですね！\f\n助かりますね～！[wait:001e]\nなんたって　[icon:001c][color:02]本人[color:00]さんですもの！",
-    "translation": "これからは[icon:001c][color:02]ルイージ[color:00]さんも\n[color:01]パワースター[color:00]を　探してくれるのですね！\f\n助かりますね～！[wait:001e]\nなんたって　[icon:001c][color:02]本人[color:00]さんですもの！"
+    "original": "これからは[icon:001c][color:02]ルイージ[color:00]さんも\n[color:01]パワースター[color:00]を　探してくれるのですね！\\f\n助かりますね～！[wait:001e]\nなんたって　[icon:001c][color:02]本人[color:00]さんですもの！",
+    "translation": "これからは[icon:001c][color:02]ルイージ[color:00]さんも\n[color:01]パワースター[color:00]を　探してくれるのですね！\\f\n助かりますね～！[wait:001e]\nなんたって　[icon:001c][color:02]本人[color:00]さんですもの！"
   },
   {
     "index": 95,
     "key": "AstroGalaxy_Kinopio037",
-    "original": "これからは[icon:001c][color:02]ルイージ[color:00]さんも\n[color:01]パワースター[color:00]を　探してくれるのですね！\f\n助かりますね～！[wait:001e]\nなんたって　[icon:001c][color:02]弟[color:00]さんですもの！",
-    "translation": "これからは[icon:001c][color:02]ルイージ[color:00]さんも\n[color:01]パワースター[color:00]を　探してくれるのですね！\f\n助かりますね～！[wait:001e]\nなんたって　[icon:001c][color:02]弟[color:00]さんですもの！"
+    "original": "これからは[icon:001c][color:02]ルイージ[color:00]さんも\n[color:01]パワースター[color:00]を　探してくれるのですね！\\f\n助かりますね～！[wait:001e]\nなんたって　[icon:001c][color:02]弟[color:00]さんですもの！",
+    "translation": "これからは[icon:001c][color:02]ルイージ[color:00]さんも\n[color:01]パワースター[color:00]を　探してくれるのですね！\\f\n助かりますね～！[wait:001e]\nなんたって　[icon:001c][color:02]弟[color:00]さんですもの！"
   },
   {
     "index": 96,
@@ -599,8 +599,8 @@
   {
     "index": 97,
     "key": "AstroGalaxy_Kinopio039",
-    "original": "[color:01]クッパ[color:00]は　[icon:0007][color:01]パワースター[color:00]を集めて\n[color:03]宇宙の王[color:00]に　なろうとしています！\f\nそんなこと　ゼッタイゼッタイ　許されません！",
-    "translation": "[color:01]クッパ[color:00]は　[icon:0007][color:01]パワースター[color:00]を集めて\n[color:03]宇宙の王[color:00]に　なろうとしています！\f\nそんなこと　ゼッタイゼッタイ　許されません！"
+    "original": "[color:01]クッパ[color:00]は　[icon:0007][color:01]パワースター[color:00]を集めて\n[color:03]宇宙の王[color:00]に　なろうとしています！\\f\nそんなこと　ゼッタイゼッタイ　許されません！",
+    "translation": "[color:01]クッパ[color:00]は　[icon:0007][color:01]パワースター[color:00]を集めて\n[color:03]宇宙の王[color:00]に　なろうとしています！\\f\nそんなこと　ゼッタイゼッタイ　許されません！"
   },
   {
     "index": 98,
@@ -611,8 +611,8 @@
   {
     "index": 99,
     "key": "AstroGalaxy_Kinopio041",
-    "original": "[icon:001b][color:01]グランドスター[color:00]を取り戻したので\nここも　かなり明るくなりましたね！\f\nこれで　[color:01]上の階[color:00]まで\n行けるんじゃないでしょうか？",
-    "translation": "[icon:001b][color:01]グランドスター[color:00]を取り戻したので\nここも　かなり明るくなりましたね！\f\nこれで　[color:01]上の階[color:00]まで\n行けるんじゃないでしょうか？"
+    "original": "[icon:001b][color:01]グランドスター[color:00]を取り戻したので\nここも　かなり明るくなりましたね！\\f\nこれで　[color:01]上の階[color:00]まで\n行けるんじゃないでしょうか？",
+    "translation": "[icon:001b][color:01]グランドスター[color:00]を取り戻したので\nここも　かなり明るくなりましたね！\\f\nこれで　[color:01]上の階[color:00]まで\n行けるんじゃないでしょうか？"
   },
   {
     "index": 100,
@@ -623,8 +623,8 @@
   {
     "index": 101,
     "key": "AstroGalaxy_Kinopio043",
-    "original": "[color:01]クッパの根城[color:00]を　つきとめるには\nもう少し　[icon:0007][color:01]パワースター[color:00]が必要なようです\f\nもう一度　過去の[color:03]ギャラクシー[color:00]を調べて、\n取り逃した　[icon:0007][color:01]パワースター[color:00]を　探しましょう！",
-    "translation": "[color:01]クッパの根城[color:00]を　つきとめるには\nもう少し　[icon:0007][color:01]パワースター[color:00]が必要なようです\f\nもう一度　過去の[color:03]ギャラクシー[color:00]を調べて、\n取り逃した　[icon:0007][color:01]パワースター[color:00]を　探しましょう！"
+    "original": "[color:01]クッパの根城[color:00]を　つきとめるには\nもう少し　[icon:0007][color:01]パワースター[color:00]が必要なようです\\f\nもう一度　過去の[color:03]ギャラクシー[color:00]を調べて、\n取り逃した　[icon:0007][color:01]パワースター[color:00]を　探しましょう！",
+    "translation": "[color:01]クッパの根城[color:00]を　つきとめるには\nもう少し　[icon:0007][color:01]パワースター[color:00]が必要なようです\\f\nもう一度　過去の[color:03]ギャラクシー[color:00]を調べて、\n取り逃した　[icon:0007][color:01]パワースター[color:00]を　探しましょう！"
   },
   {
     "index": 102,
@@ -635,8 +635,8 @@
   {
     "index": 103,
     "key": "AstroGalaxy_Kinopio045",
-    "original": "天文台の力が回復して　ついに\n[color:01]クッパの根城[color:00]を　突き止めたようです！\f\n[unk5:00]さん…[wait:001e]\n[color:01]ピーチ姫[color:00]を、[color:03]宇宙[color:00]を、頼みましたよ！",
-    "translation": "天文台の力が回復して　ついに\n[color:01]クッパの根城[color:00]を　突き止めたようです！\f\n[unk5:00]さん…[wait:001e]\n[color:01]ピーチ姫[color:00]を、[color:03]宇宙[color:00]を、頼みましたよ！"
+    "original": "天文台の力が回復して　ついに\n[color:01]クッパの根城[color:00]を　突き止めたようです！\\f\n[unk5:00]さん…[wait:001e]\n[color:01]ピーチ姫[color:00]を、[color:03]宇宙[color:00]を、頼みましたよ！",
+    "translation": "天文台の力が回復して　ついに\n[color:01]クッパの根城[color:00]を　突き止めたようです！\\f\n[unk5:00]さん…[wait:001e]\n[color:01]ピーチ姫[color:00]を、[color:03]宇宙[color:00]を、頼みましたよ！"
   },
   {
     "index": 104,
@@ -701,8 +701,8 @@
   {
     "index": 114,
     "key": "AstroGalaxy_Kinopio060",
-    "original": "チコさん達が　ボク達に、\nなんと！　[color:03]宇宙船[color:00]を作ってくれるそうです！\f\n完成したら　一緒に\n[color:01]ピーチ姫[color:00]と　[icon:0007][color:01]パワースター[color:00]を探しましょう！",
-    "translation": "チコさん達が　ボク達に、\nなんと！　[color:03]宇宙船[color:00]を作ってくれるそうです！\f\n完成したら　一緒に\n[color:01]ピーチ姫[color:00]と　[icon:0007][color:01]パワースター[color:00]を探しましょう！"
+    "original": "チコさん達が　ボク達に、\nなんと！　[color:03]宇宙船[color:00]を作ってくれるそうです！\\f\n完成したら　一緒に\n[color:01]ピーチ姫[color:00]と　[icon:0007][color:01]パワースター[color:00]を探しましょう！",
+    "translation": "チコさん達が　ボク達に、\nなんと！　[color:03]宇宙船[color:00]を作ってくれるそうです！\\f\n完成したら　一緒に\n[color:01]ピーチ姫[color:00]と　[icon:0007][color:01]パワースター[color:00]を探しましょう！"
   },
   {
     "index": 115,
@@ -725,8 +725,8 @@
   {
     "index": 118,
     "key": "AstroGalaxy_Kinopio066",
-    "original": "世の中には　天文台の[color:01]ドーム[color:00]からでも\n[color:03]見えないギャラクシー[color:00]が　あるそうです！\f\nそんなところ、\nどうやったら　行けるんでしょうか？",
-    "translation": "世の中には　天文台の[color:01]ドーム[color:00]からでも\n[color:03]見えないギャラクシー[color:00]が　あるそうです！\f\nそんなところ、\nどうやったら　行けるんでしょうか？"
+    "original": "世の中には　天文台の[color:01]ドーム[color:00]からでも\n[color:03]見えないギャラクシー[color:00]が　あるそうです！\\f\nそんなところ、\nどうやったら　行けるんでしょうか？",
+    "translation": "世の中には　天文台の[color:01]ドーム[color:00]からでも\n[color:03]見えないギャラクシー[color:00]が　あるそうです！\\f\nそんなところ、\nどうやったら　行けるんでしょうか？"
   },
   {
     "index": 119,
@@ -737,8 +737,8 @@
   {
     "index": 120,
     "key": "AstroGalaxy_Kinopio068",
-    "original": "めずらしい[color:02]チコ[color:00]さんが　来ていますね！\f\nあの　[color:02]チコ[color:00]さん…[wait:001e]\n[color:03]不思議な力[color:00]を　持ってるような気がします！",
-    "translation": "めずらしい[color:02]チコ[color:00]さんが　来ていますね！\f\nあの　[color:02]チコ[color:00]さん…[wait:001e]\n[color:03]不思議な力[color:00]を　持ってるような気がします！"
+    "original": "めずらしい[color:02]チコ[color:00]さんが　来ていますね！\\f\nあの　[color:02]チコ[color:00]さん…[wait:001e]\n[color:03]不思議な力[color:00]を　持ってるような気がします！",
+    "translation": "めずらしい[color:02]チコ[color:00]さんが　来ていますね！\\f\nあの　[color:02]チコ[color:00]さん…[wait:001e]\n[color:03]不思議な力[color:00]を　持ってるような気がします！"
   },
   {
     "index": 121,
@@ -749,8 +749,8 @@
   {
     "index": 122,
     "key": "AstroGalaxy_Kinopio070",
-    "original": "あの[color:02]チコ[color:00]さん達の　言ってる事が\n難しくて　よく分かりません！\f\n試練…　復活…　[color:01]ドーム[color:00]から\n[color:03]見えないギャラクシー[color:00]と　関係あるのでしょうか？",
-    "translation": "あの[color:02]チコ[color:00]さん達の　言ってる事が\n難しくて　よく分かりません！\f\n試練…　復活…　[color:01]ドーム[color:00]から\n[color:03]見えないギャラクシー[color:00]と　関係あるのでしょうか？"
+    "original": "あの[color:02]チコ[color:00]さん達の　言ってる事が\n難しくて　よく分かりません！\\f\n試練…　復活…　[color:01]ドーム[color:00]から\n[color:03]見えないギャラクシー[color:00]と　関係あるのでしょうか？",
+    "translation": "あの[color:02]チコ[color:00]さん達の　言ってる事が\n難しくて　よく分かりません！\\f\n試練…　復活…　[color:01]ドーム[color:00]から\n[color:03]見えないギャラクシー[color:00]と　関係あるのでしょうか？"
   },
   {
     "index": 123,
@@ -761,14 +761,14 @@
   {
     "index": 124,
     "key": "AstroGalaxy_Kinopio072",
-    "original": "ドームから見えない[color:01]試練の銀河[color:00]には\nあの[color:02]チコ[color:00]さん達が　導いてくれるそうです！\f\nでも　[color:01]試練の銀河[color:00]は、ここからだと遠すぎて\n[color:03]キノコ船[color:00]では　たどり着けません…\f\n[unk5:00]さん…[wait:001e]　ボク達の分も\nがんばってください！",
-    "translation": "ドームから見えない[color:01]試練の銀河[color:00]には\nあの[color:02]チコ[color:00]さん達が　導いてくれるそうです！\f\nでも　[color:01]試練の銀河[color:00]は、ここからだと遠すぎて\n[color:03]キノコ船[color:00]では　たどり着けません…\f\n[unk5:00]さん…[wait:001e]　ボク達の分も\nがんばってください！"
+    "original": "ドームから見えない[color:01]試練の銀河[color:00]には\nあの[color:02]チコ[color:00]さん達が　導いてくれるそうです！\\f\nでも　[color:01]試練の銀河[color:00]は、ここからだと遠すぎて\n[color:03]キノコ船[color:00]では　たどり着けません…\\f\n[unk5:00]さん…[wait:001e]　ボク達の分も\nがんばってください！",
+    "translation": "ドームから見えない[color:01]試練の銀河[color:00]には\nあの[color:02]チコ[color:00]さん達が　導いてくれるそうです！\\f\nでも　[color:01]試練の銀河[color:00]は、ここからだと遠すぎて\n[color:03]キノコ船[color:00]では　たどり着けません…\\f\n[unk5:00]さん…[wait:001e]　ボク達の分も\nがんばってください！"
   },
   {
     "index": 125,
     "key": "AstroGalaxy_Kinopio073",
-    "original": "[color:01]試練の銀河[color:00]は、ここから遠すぎるので\n[color:03]キノコ船[color:00]では　たどり着けません…\f\n[unk5:00]さん…[wait:001e]　ボク達の分も\nがんばってください！",
-    "translation": "[color:01]試練の銀河[color:00]は、ここから遠すぎるので\n[color:03]キノコ船[color:00]では　たどり着けません…\f\n[unk5:00]さん…[wait:001e]　ボク達の分も\nがんばってください！"
+    "original": "[color:01]試練の銀河[color:00]は、ここから遠すぎるので\n[color:03]キノコ船[color:00]では　たどり着けません…\\f\n[unk5:00]さん…[wait:001e]　ボク達の分も\nがんばってください！",
+    "translation": "[color:01]試練の銀河[color:00]は、ここから遠すぎるので\n[color:03]キノコ船[color:00]では　たどり着けません…\\f\n[unk5:00]さん…[wait:001e]　ボク達の分も\nがんばってください！"
   },
   {
     "index": 126,
@@ -803,8 +803,8 @@
   {
     "index": 131,
     "key": "AstroGalaxy_Kinopio085",
-    "original": "うーん、これはどこでしょう？[wait:001e]\n見たことあるような　ないような…\f\n[icon:001c][color:02]ルイージ[color:00]さんの居場所を　忘れないように、\nこの写真、おわたししておきますね",
-    "translation": "うーん、これはどこでしょう？[wait:001e]\n見たことあるような　ないような…\f\n[icon:001c][color:02]ルイージ[color:00]さんの居場所を　忘れないように、\nこの写真、おわたししておきますね"
+    "original": "うーん、これはどこでしょう？[wait:001e]\n見たことあるような　ないような…\\f\n[icon:001c][color:02]ルイージ[color:00]さんの居場所を　忘れないように、\nこの写真、おわたししておきますね",
+    "translation": "うーん、これはどこでしょう？[wait:001e]\n見たことあるような　ないような…\\f\n[icon:001c][color:02]ルイージ[color:00]さんの居場所を　忘れないように、\nこの写真、おわたししておきますね"
   },
   {
     "index": 132,
@@ -845,14 +845,14 @@
   {
     "index": 138,
     "key": "AstroGalaxy_Kinopio092",
-    "original": "うぅ…　姫…　とらわれの身でありながら\nなんと　お優しい…\f\nそれでは　またのご利用、お待ちしてまーす",
-    "translation": "うぅ…　姫…　とらわれの身でありながら\nなんと　お優しい…\f\nそれでは　またのご利用、お待ちしてまーす"
+    "original": "うぅ…　姫…　とらわれの身でありながら\nなんと　お優しい…\\f\nそれでは　またのご利用、お待ちしてまーす",
+    "translation": "うぅ…　姫…　とらわれの身でありながら\nなんと　お優しい…\\f\nそれでは　またのご利用、お待ちしてまーす"
   },
   {
     "index": 139,
     "key": "AstroGalaxy_Kinopio093",
-    "original": "じゃ、これは　探検隊の非常食として\nいただいておきますね♪\f\nまたのご利用　お待ちしてまーす",
-    "translation": "じゃ、これは　探検隊の非常食として\nいただいておきますね♪\f\nまたのご利用　お待ちしてまーす"
+    "original": "じゃ、これは　探検隊の非常食として\nいただいておきますね♪\\f\nまたのご利用　お待ちしてまーす",
+    "translation": "じゃ、これは　探検隊の非常食として\nいただいておきますね♪\\f\nまたのご利用　お待ちしてまーす"
   },
   {
     "index": 140,
@@ -889,14 +889,14 @@
   {
     "index": 145,
     "key": "AstroGalaxy_LuigiEvent001",
-    "original": "兄さん！　[icon:0007][color:04]パワースター[color:00]探してるんだろ？[wait:001e]\nだったら　[color:02]ボク[color:00]も手伝うよ！\f\nたぶん　まだ、[color:01]エッグプラネットギャラクシー[color:00]に\n[color:03]取り逃し[color:00]が　あると思うんだよね…\f\n見つけたら　[color:01]お手紙[color:00]するから\n首を長くして　待っててくれよ！",
-    "translation": "兄さん！　[icon:0007][color:04]パワースター[color:00]探してるんだろ？[wait:001e]\nだったら　[color:02]ボク[color:00]も手伝うよ！\f\nたぶん　まだ、[color:01]エッグプラネットギャラクシー[color:00]に\n[color:03]取り逃し[color:00]が　あると思うんだよね…\f\n見つけたら　[color:01]お手紙[color:00]するから\n首を長くして　待っててくれよ！"
+    "original": "兄さん！　[icon:0007][color:04]パワースター[color:00]探してるんだろ？[wait:001e]\nだったら　[color:02]ボク[color:00]も手伝うよ！\\f\nたぶん　まだ、[color:01]エッグプラネットギャラクシー[color:00]に\n[color:03]取り逃し[color:00]が　あると思うんだよね…\\f\n見つけたら　[color:01]お手紙[color:00]するから\n首を長くして　待っててくれよ！",
+    "translation": "兄さん！　[icon:0007][color:04]パワースター[color:00]探してるんだろ？[wait:001e]\nだったら　[color:02]ボク[color:00]も手伝うよ！\\f\nたぶん　まだ、[color:01]エッグプラネットギャラクシー[color:00]に\n[color:03]取り逃し[color:00]が　あると思うんだよね…\\f\n見つけたら　[color:01]お手紙[color:00]するから\n首を長くして　待っててくれよ！"
   },
   {
     "index": 146,
     "key": "AstroGalaxy_LuigiEvent002",
-    "original": "やぁ、ボク！　[icon:0007][color:04]パワースター[color:00]探してるんだろ？[wait:001e]\nだったら　[color:02]ボク[color:00]も手伝うよ！\f\nたぶん　まだ、[color:01]エッグプラネットギャラクシー[color:00]に\n[color:03]取り逃し[color:00]が　あると思うんだよね…\f\n見つけたら　[color:01]お手紙[color:00]するから\n首を長くして　待っててくれよ！",
-    "translation": "やぁ、ボク！　[icon:0007][color:04]パワースター[color:00]探してるんだろ？[wait:001e]\nだったら　[color:02]ボク[color:00]も手伝うよ！\f\nたぶん　まだ、[color:01]エッグプラネットギャラクシー[color:00]に\n[color:03]取り逃し[color:00]が　あると思うんだよね…\f\n見つけたら　[color:01]お手紙[color:00]するから\n首を長くして　待っててくれよ！"
+    "original": "やぁ、ボク！　[icon:0007][color:04]パワースター[color:00]探してるんだろ？[wait:001e]\nだったら　[color:02]ボク[color:00]も手伝うよ！\\f\nたぶん　まだ、[color:01]エッグプラネットギャラクシー[color:00]に\n[color:03]取り逃し[color:00]が　あると思うんだよね…\\f\n見つけたら　[color:01]お手紙[color:00]するから\n首を長くして　待っててくれよ！",
+    "translation": "やぁ、ボク！　[icon:0007][color:04]パワースター[color:00]探してるんだろ？[wait:001e]\nだったら　[color:02]ボク[color:00]も手伝うよ！\\f\nたぶん　まだ、[color:01]エッグプラネットギャラクシー[color:00]に\n[color:03]取り逃し[color:00]が　あると思うんだよね…\\f\n見つけたら　[color:01]お手紙[color:00]するから\n首を長くして　待っててくれよ！"
   },
   {
     "index": 147,
@@ -907,8 +907,8 @@
   {
     "index": 148,
     "key": "AstroGalaxy_LuigiEvent005",
-    "original": "[color:01][icon:0007][color:04]パワースター[color:00]探すのって\n思ったより　骨が折れるねぇ…\f\nでも、[color:02]ボク[color:00]ががんばらないと\nこの[color:03]宇宙[color:00]が　[color:01]クッパ[color:00]のものになっちゃうからね！",
-    "translation": "[color:01][icon:0007][color:04]パワースター[color:00]探すのって\n思ったより　骨が折れるねぇ…\f\nでも、[color:02]ボク[color:00]ががんばらないと\nこの[color:03]宇宙[color:00]が　[color:01]クッパ[color:00]のものになっちゃうからね！"
+    "original": "[color:01][icon:0007][color:04]パワースター[color:00]探すのって\n思ったより　骨が折れるねぇ…\\f\nでも、[color:02]ボク[color:00]ががんばらないと\nこの[color:03]宇宙[color:00]が　[color:01]クッパ[color:00]のものになっちゃうからね！",
+    "translation": "[color:01][icon:0007][color:04]パワースター[color:00]探すのって\n思ったより　骨が折れるねぇ…\\f\nでも、[color:02]ボク[color:00]ががんばらないと\nこの[color:03]宇宙[color:00]が　[color:01]クッパ[color:00]のものになっちゃうからね！"
   },
   {
     "index": 149,
@@ -938,20 +938,20 @@
   {
     "index": 153,
     "key": "AstroGalaxy_Rosetta011",
-    "original": "まずは　あの[color:01]星見のテラス[color:00]へ行き\f\nそこから見える[color:03]ギャラクシー[color:00]の\n[icon:0007][color:04]パワースター[color:00]を　お救いください",
-    "translation": "まずは　あの[color:01]星見のテラス[color:00]へ行き\f\nそこから見える[color:03]ギャラクシー[color:00]の\n[icon:0007][color:04]パワースター[color:00]を　お救いください"
+    "original": "まずは　あの[color:01]星見のテラス[color:00]へ行き\\f\nそこから見える[color:03]ギャラクシー[color:00]の\n[icon:0007][color:04]パワースター[color:00]を　お救いください",
+    "translation": "まずは　あの[color:01]星見のテラス[color:00]へ行き\\f\nそこから見える[color:03]ギャラクシー[color:00]の\n[icon:0007][color:04]パワースター[color:00]を　お救いください"
   },
   {
     "index": 154,
     "key": "AstroGalaxy_Rosetta020",
-    "original": "あれは[color:01]トーチ[color:00]と言って\n[color:03]天文台の力[color:00]を表す炎です\f\n[icon:0007][color:04]パワースター[color:00]を取り戻すと\n[icon:0007][color:04]スターの力[color:00]が戻り、炎が大きくなります",
-    "translation": "あれは[color:01]トーチ[color:00]と言って\n[color:03]天文台の力[color:00]を表す炎です\f\n[icon:0007][color:04]パワースター[color:00]を取り戻すと\n[icon:0007][color:04]スターの力[color:00]が戻り、炎が大きくなります"
+    "original": "あれは[color:01]トーチ[color:00]と言って\n[color:03]天文台の力[color:00]を表す炎です\\f\n[icon:0007][color:04]パワースター[color:00]を取り戻すと\n[icon:0007][color:04]スターの力[color:00]が戻り、炎が大きくなります",
+    "translation": "あれは[color:01]トーチ[color:00]と言って\n[color:03]天文台の力[color:00]を表す炎です\\f\n[icon:0007][color:04]パワースター[color:00]を取り戻すと\n[icon:0007][color:04]スターの力[color:00]が戻り、炎が大きくなります"
   },
   {
     "index": 155,
     "key": "AstroGalaxy_Rosetta021",
-    "original": "[color:01]トーチ[color:00]の炎が　大きくなれば、いずれ\n[color:03]銀河の中心[color:00]へも　向かうことができるでしょう\f\n[color:03]あなたのお友達[color:00]も\n協力してくれるそうですので\f\nまずは　[color:01]ドーム[color:00]から見える　[color:03]ギャラクシー[color:00]の\n[icon:0007][color:04]パワースター[color:00]を　お救いください",
-    "translation": "[color:01]トーチ[color:00]の炎が　大きくなれば、いずれ\n[color:03]銀河の中心[color:00]へも　向かうことができるでしょう\f\n[color:03]あなたのお友達[color:00]も\n協力してくれるそうですので\f\nまずは　[color:01]ドーム[color:00]から見える　[color:03]ギャラクシー[color:00]の\n[icon:0007][color:04]パワースター[color:00]を　お救いください"
+    "original": "[color:01]トーチ[color:00]の炎が　大きくなれば、いずれ\n[color:03]銀河の中心[color:00]へも　向かうことができるでしょう\\f\n[color:03]あなたのお友達[color:00]も\n協力してくれるそうですので\\f\nまずは　[color:01]ドーム[color:00]から見える　[color:03]ギャラクシー[color:00]の\n[icon:0007][color:04]パワースター[color:00]を　お救いください",
+    "translation": "[color:01]トーチ[color:00]の炎が　大きくなれば、いずれ\n[color:03]銀河の中心[color:00]へも　向かうことができるでしょう\\f\n[color:03]あなたのお友達[color:00]も\n協力してくれるそうですので\\f\nまずは　[color:01]ドーム[color:00]から見える　[color:03]ギャラクシー[color:00]の\n[icon:0007][color:04]パワースター[color:00]を　お救いください"
   },
   {
     "index": 156,
@@ -974,20 +974,20 @@
   {
     "index": 159,
     "key": "AstroGalaxy_Rosetta031",
-    "original": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n[color:01]全く別の世界[color:00]に　してしまいます…\f\nいたずらコメットで　分からない事があれば\nそこの　[color:01]コメットチコ[color:00]に　聞いてください",
-    "translation": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n[color:01]全く別の世界[color:00]に　してしまいます…\f\nいたずらコメットで　分からない事があれば\nそこの　[color:01]コメットチコ[color:00]に　聞いてください"
+    "original": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n[color:01]全く別の世界[color:00]に　してしまいます…\\f\nいたずらコメットで　分からない事があれば\nそこの　[color:01]コメットチコ[color:00]に　聞いてください",
+    "translation": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n[color:01]全く別の世界[color:00]に　してしまいます…\\f\nいたずらコメットで　分からない事があれば\nそこの　[color:01]コメットチコ[color:00]に　聞いてください"
   },
   {
     "index": 160,
     "key": "AstroGalaxy_Rosetta032",
-    "original": "[color:01]いたずらコメット[color:00]は、[color:03]ギャラクシー[color:00]を\n[color:01]全く別の世界[color:00]に　してしまいます\f\nいたずらコメットで　分からない事があれば\nそこの　[color:01]コメットチコ[color:00]に　聞いてください",
-    "translation": "[color:01]いたずらコメット[color:00]は、[color:03]ギャラクシー[color:00]を\n[color:01]全く別の世界[color:00]に　してしまいます\f\nいたずらコメットで　分からない事があれば\nそこの　[color:01]コメットチコ[color:00]に　聞いてください"
+    "original": "[color:01]いたずらコメット[color:00]は、[color:03]ギャラクシー[color:00]を\n[color:01]全く別の世界[color:00]に　してしまいます\\f\nいたずらコメットで　分からない事があれば\nそこの　[color:01]コメットチコ[color:00]に　聞いてください",
+    "translation": "[color:01]いたずらコメット[color:00]は、[color:03]ギャラクシー[color:00]を\n[color:01]全く別の世界[color:00]に　してしまいます\\f\nいたずらコメットで　分からない事があれば\nそこの　[color:01]コメットチコ[color:00]に　聞いてください"
   },
   {
     "index": 161,
     "key": "AstroGalaxy_Rosetta040",
-    "original": "[icon:001b][color:04]グランドスター[color:00]が　もどり、\n奥の[color:01]ドーム[color:00]に　行けるようになりました\f\nしかし、[color:03]天文台[color:00]は[color:03]星船[color:00]として動く気配がしません[wait:001e]\n[icon:0007][color:04]スターの力[color:00]が　まだ足りないのです…",
-    "translation": "[icon:001b][color:04]グランドスター[color:00]が　もどり、\n奥の[color:01]ドーム[color:00]に　行けるようになりました\f\nしかし、[color:03]天文台[color:00]は[color:03]星船[color:00]として動く気配がしません[wait:001e]\n[icon:0007][color:04]スターの力[color:00]が　まだ足りないのです…"
+    "original": "[icon:001b][color:04]グランドスター[color:00]が　もどり、\n奥の[color:01]ドーム[color:00]に　行けるようになりました\\f\nしかし、[color:03]天文台[color:00]は[color:03]星船[color:00]として動く気配がしません[wait:001e]\n[icon:0007][color:04]スターの力[color:00]が　まだ足りないのです…",
+    "translation": "[icon:001b][color:04]グランドスター[color:00]が　もどり、\n奥の[color:01]ドーム[color:00]に　行けるようになりました\\f\nしかし、[color:03]天文台[color:00]は[color:03]星船[color:00]として動く気配がしません[wait:001e]\n[icon:0007][color:04]スターの力[color:00]が　まだ足りないのです…"
   },
   {
     "index": 162,
@@ -998,14 +998,14 @@
   {
     "index": 163,
     "key": "AstroGalaxy_Rosetta042",
-    "original": "[icon:0007][color:04]スターの力[color:00]が　もどれば、[color:03]天文台[color:00]は\n[color:03]銀河の中心[color:00]まで　行くことができます\f\nそうすれば　あなたの[color:01]大切な人[color:00]にも…",
-    "translation": "[icon:0007][color:04]スターの力[color:00]が　もどれば、[color:03]天文台[color:00]は\n[color:03]銀河の中心[color:00]まで　行くことができます\f\nそうすれば　あなたの[color:01]大切な人[color:00]にも…"
+    "original": "[icon:0007][color:04]スターの力[color:00]が　もどれば、[color:03]天文台[color:00]は\n[color:03]銀河の中心[color:00]まで　行くことができます\\f\nそうすれば　あなたの[color:01]大切な人[color:00]にも…",
+    "translation": "[icon:0007][color:04]スターの力[color:00]が　もどれば、[color:03]天文台[color:00]は\n[color:03]銀河の中心[color:00]まで　行くことができます\\f\nそうすれば　あなたの[color:01]大切な人[color:00]にも…"
   },
   {
     "index": 164,
     "key": "AstroGalaxy_Rosetta045",
-    "original": "[icon:0007][color:04]スターの力[color:00]が　もどれば、\n[color:03]天文台[color:00]は　[color:03]銀河の中心[color:00]まで　行くことができます\f\n奥の[color:01]ドーム[color:00]へ向かい、引き続き\n[icon:0007][color:04]パワースター[color:00]を　救出してください",
-    "translation": "[icon:0007][color:04]スターの力[color:00]が　もどれば、\n[color:03]天文台[color:00]は　[color:03]銀河の中心[color:00]まで　行くことができます\f\n奥の[color:01]ドーム[color:00]へ向かい、引き続き\n[icon:0007][color:04]パワースター[color:00]を　救出してください"
+    "original": "[icon:0007][color:04]スターの力[color:00]が　もどれば、\n[color:03]天文台[color:00]は　[color:03]銀河の中心[color:00]まで　行くことができます\\f\n奥の[color:01]ドーム[color:00]へ向かい、引き続き\n[icon:0007][color:04]パワースター[color:00]を　救出してください",
+    "translation": "[icon:0007][color:04]スターの力[color:00]が　もどれば、\n[color:03]天文台[color:00]は　[color:03]銀河の中心[color:00]まで　行くことができます\\f\n奥の[color:01]ドーム[color:00]へ向かい、引き続き\n[icon:0007][color:04]パワースター[color:00]を　救出してください"
   },
   {
     "index": 165,
@@ -1016,8 +1016,8 @@
   {
     "index": 166,
     "key": "AstroGalaxy_Rosetta051",
-    "original": "更に　[color:03]上の階層[color:00]の機能を回復し、そこにある\n[color:01]マシンルーム[color:00]が　動き出せば\f\nこの[color:03]ほうき星の天文台[color:00]は\n[color:03]星船[color:00]として　機能するでしょう",
-    "translation": "更に　[color:03]上の階層[color:00]の機能を回復し、そこにある\n[color:01]マシンルーム[color:00]が　動き出せば\f\nこの[color:03]ほうき星の天文台[color:00]は\n[color:03]星船[color:00]として　機能するでしょう"
+    "original": "更に　[color:03]上の階層[color:00]の機能を回復し、そこにある\n[color:01]マシンルーム[color:00]が　動き出せば\\f\nこの[color:03]ほうき星の天文台[color:00]は\n[color:03]星船[color:00]として　機能するでしょう",
+    "translation": "更に　[color:03]上の階層[color:00]の機能を回復し、そこにある\n[color:01]マシンルーム[color:00]が　動き出せば\\f\nこの[color:03]ほうき星の天文台[color:00]は\n[color:03]星船[color:00]として　機能するでしょう"
   },
   {
     "index": 167,
@@ -1028,8 +1028,8 @@
   {
     "index": 168,
     "key": "AstroGalaxy_Rosetta053",
-    "original": "[color:03]上の階層[color:00]の　[color:01]マシンルーム[color:00]が稼動すれば、\nこの[color:03]天文台[color:00]は　[color:03]星船[color:00]として機能するでしょう\f\nそうすれば　あなたの[color:01]大切な人[color:00]の待つ\n[color:03]銀河の中心[color:00]へも…",
-    "translation": "[color:03]上の階層[color:00]の　[color:01]マシンルーム[color:00]が稼動すれば、\nこの[color:03]天文台[color:00]は　[color:03]星船[color:00]として機能するでしょう\f\nそうすれば　あなたの[color:01]大切な人[color:00]の待つ\n[color:03]銀河の中心[color:00]へも…"
+    "original": "[color:03]上の階層[color:00]の　[color:01]マシンルーム[color:00]が稼動すれば、\nこの[color:03]天文台[color:00]は　[color:03]星船[color:00]として機能するでしょう\\f\nそうすれば　あなたの[color:01]大切な人[color:00]の待つ\n[color:03]銀河の中心[color:00]へも…",
+    "translation": "[color:03]上の階層[color:00]の　[color:01]マシンルーム[color:00]が稼動すれば、\nこの[color:03]天文台[color:00]は　[color:03]星船[color:00]として機能するでしょう\\f\nそうすれば　あなたの[color:01]大切な人[color:00]の待つ\n[color:03]銀河の中心[color:00]へも…"
   },
   {
     "index": 169,
@@ -1046,14 +1046,14 @@
   {
     "index": 171,
     "key": "AstroGalaxy_Rosetta056",
-    "original": "あちらに　あなたの[icon:001c][color:02]弟[color:00]さんというかたが\nお見えになっています\f\n聞けば　一緒に[icon:0007][color:04]パワースター[color:00]を\n探していただけるのだとか…",
-    "translation": "あちらに　あなたの[icon:001c][color:02]弟[color:00]さんというかたが\nお見えになっています\f\n聞けば　一緒に[icon:0007][color:04]パワースター[color:00]を\n探していただけるのだとか…"
+    "original": "あちらに　あなたの[icon:001c][color:02]弟[color:00]さんというかたが\nお見えになっています\\f\n聞けば　一緒に[icon:0007][color:04]パワースター[color:00]を\n探していただけるのだとか…",
+    "translation": "あちらに　あなたの[icon:001c][color:02]弟[color:00]さんというかたが\nお見えになっています\\f\n聞けば　一緒に[icon:0007][color:04]パワースター[color:00]を\n探していただけるのだとか…"
   },
   {
     "index": 172,
     "key": "AstroGalaxy_Rosetta057",
-    "original": "あちらに　あなたの[icon:001c][color:02]そっくりさん[color:00]が\nお見えになっています\f\n聞けば　一緒に[icon:0007][color:04]パワースター[color:00]を\n探していただけるのだとか…",
-    "translation": "あちらに　あなたの[icon:001c][color:02]そっくりさん[color:00]が\nお見えになっています\f\n聞けば　一緒に[icon:0007][color:04]パワースター[color:00]を\n探していただけるのだとか…"
+    "original": "あちらに　あなたの[icon:001c][color:02]そっくりさん[color:00]が\nお見えになっています\\f\n聞けば　一緒に[icon:0007][color:04]パワースター[color:00]を\n探していただけるのだとか…",
+    "translation": "あちらに　あなたの[icon:001c][color:02]そっくりさん[color:00]が\nお見えになっています\\f\n聞けば　一緒に[icon:0007][color:04]パワースター[color:00]を\n探していただけるのだとか…"
   },
   {
     "index": 173,
@@ -1064,14 +1064,14 @@
   {
     "index": 174,
     "key": "AstroGalaxy_Rosetta061",
-    "original": "それは　目的の地である[color:03]銀河の中心[color:00]まで\nたどり着くのに必要な　[icon:0007][color:04]スターの力[color:00]です\f\n[icon:0007][color:04]パワースター[color:00]を取りもどせば、\nこの[color:03]数字[color:00]が減っていきます",
-    "translation": "それは　目的の地である[color:03]銀河の中心[color:00]まで\nたどり着くのに必要な　[icon:0007][color:04]スターの力[color:00]です\f\n[icon:0007][color:04]パワースター[color:00]を取りもどせば、\nこの[color:03]数字[color:00]が減っていきます"
+    "original": "それは　目的の地である[color:03]銀河の中心[color:00]まで\nたどり着くのに必要な　[icon:0007][color:04]スターの力[color:00]です\\f\n[icon:0007][color:04]パワースター[color:00]を取りもどせば、\nこの[color:03]数字[color:00]が減っていきます",
+    "translation": "それは　目的の地である[color:03]銀河の中心[color:00]まで\nたどり着くのに必要な　[icon:0007][color:04]スターの力[color:00]です\\f\n[icon:0007][color:04]パワースター[color:00]を取りもどせば、\nこの[color:03]数字[color:00]が減っていきます"
   },
   {
     "index": 175,
     "key": "AstroGalaxy_Rosetta062",
-    "original": "そして　０になった時、この[color:03]ほうき星の天文台[color:00]は\n[color:03]星船[color:00]としての力を取りもどし\f\n[color:03]銀河の中心[color:00]に　近づくことができるでしょう",
-    "translation": "そして　０になった時、この[color:03]ほうき星の天文台[color:00]は\n[color:03]星船[color:00]としての力を取りもどし\f\n[color:03]銀河の中心[color:00]に　近づくことができるでしょう"
+    "original": "そして　０になった時、この[color:03]ほうき星の天文台[color:00]は\n[color:03]星船[color:00]としての力を取りもどし\\f\n[color:03]銀河の中心[color:00]に　近づくことができるでしょう",
+    "translation": "そして　０になった時、この[color:03]ほうき星の天文台[color:00]は\n[color:03]星船[color:00]としての力を取りもどし\\f\n[color:03]銀河の中心[color:00]に　近づくことができるでしょう"
   },
   {
     "index": 176,
@@ -1082,32 +1082,32 @@
   {
     "index": 177,
     "key": "AstroGalaxy_Rosetta071",
-    "original": "残りの[color:01][icon:0007][color:04]パワースター[color:00]を　取りもどし、\n[color:03]天文台[color:00]が　[color:03]星船[color:00]として動いたあかつきには\f\n[color:01]大切な人[color:00]の待つ[color:03]銀河の中心[color:00]へ\n導いてさしあげましょう",
-    "translation": "残りの[color:01][icon:0007][color:04]パワースター[color:00]を　取りもどし、\n[color:03]天文台[color:00]が　[color:03]星船[color:00]として動いたあかつきには\f\n[color:01]大切な人[color:00]の待つ[color:03]銀河の中心[color:00]へ\n導いてさしあげましょう"
+    "original": "残りの[color:01][icon:0007][color:04]パワースター[color:00]を　取りもどし、\n[color:03]天文台[color:00]が　[color:03]星船[color:00]として動いたあかつきには\\f\n[color:01]大切な人[color:00]の待つ[color:03]銀河の中心[color:00]へ\n導いてさしあげましょう",
+    "translation": "残りの[color:01][icon:0007][color:04]パワースター[color:00]を　取りもどし、\n[color:03]天文台[color:00]が　[color:03]星船[color:00]として動いたあかつきには\\f\n[color:01]大切な人[color:00]の待つ[color:03]銀河の中心[color:00]へ\n導いてさしあげましょう"
   },
   {
     "index": 178,
     "key": "AstroGalaxy_Rosetta072",
-    "original": "[icon:0007][color:04]パワースター[color:00]を取りもどし、\n足元の数字が　０になった時\f\n[color:03]ほうき星の天文台[color:00]は、あなたの[color:01]大切な人[color:00]の待つ\n[color:03]銀河の中心[color:00]に　近づくことができるでしょう",
-    "translation": "[icon:0007][color:04]パワースター[color:00]を取りもどし、\n足元の数字が　０になった時\f\n[color:03]ほうき星の天文台[color:00]は、あなたの[color:01]大切な人[color:00]の待つ\n[color:03]銀河の中心[color:00]に　近づくことができるでしょう"
+    "original": "[icon:0007][color:04]パワースター[color:00]を取りもどし、\n足元の数字が　０になった時\\f\n[color:03]ほうき星の天文台[color:00]は、あなたの[color:01]大切な人[color:00]の待つ\n[color:03]銀河の中心[color:00]に　近づくことができるでしょう",
+    "translation": "[icon:0007][color:04]パワースター[color:00]を取りもどし、\n足元の数字が　０になった時\\f\n[color:03]ほうき星の天文台[color:00]は、あなたの[color:01]大切な人[color:00]の待つ\n[color:03]銀河の中心[color:00]に　近づくことができるでしょう"
   },
   {
     "index": 179,
     "key": "AstroGalaxy_Rosetta080",
-    "original": "[unk5:00]さん…[wait:001e]\nあなたは[unk5:00]さんと　おっしゃるのですね？\f\n先に　ここに来られた、[color:03]あなたのお友達[color:00]と\nいうかたから　そう聞きました\f\n[unk5:00]………[wait:001e]\nなぜか、とても　なつかしい響きです",
-    "translation": "[unk5:00]さん…[wait:001e]\nあなたは[unk5:00]さんと　おっしゃるのですね？\f\n先に　ここに来られた、[color:03]あなたのお友達[color:00]と\nいうかたから　そう聞きました\f\n[unk5:00]………[wait:001e]\nなぜか、とても　なつかしい響きです"
+    "original": "[unk5:00]さん…[wait:001e]\nあなたは[unk5:00]さんと　おっしゃるのですね？\\f\n先に　ここに来られた、[color:03]あなたのお友達[color:00]と\nいうかたから　そう聞きました\\f\n[unk5:00]………[wait:001e]\nなぜか、とても　なつかしい響きです",
+    "translation": "[unk5:00]さん…[wait:001e]\nあなたは[unk5:00]さんと　おっしゃるのですね？\\f\n先に　ここに来られた、[color:03]あなたのお友達[color:00]と\nいうかたから　そう聞きました\\f\n[unk5:00]………[wait:001e]\nなぜか、とても　なつかしい響きです"
   },
   {
     "index": 180,
     "key": "AstroGalaxy_Rosetta081",
-    "original": "[color:03]あなたのお友達[color:00]は　[color:01]ガレージ[color:00]の方へ\nお通ししています\f\nあなたに　[color:01]お話[color:00]があるそうなので\nぜひ　会ってあげてください",
-    "translation": "[color:03]あなたのお友達[color:00]は　[color:01]ガレージ[color:00]の方へ\nお通ししています\f\nあなたに　[color:01]お話[color:00]があるそうなので\nぜひ　会ってあげてください"
+    "original": "[color:03]あなたのお友達[color:00]は　[color:01]ガレージ[color:00]の方へ\nお通ししています\\f\nあなたに　[color:01]お話[color:00]があるそうなので\nぜひ　会ってあげてください",
+    "translation": "[color:03]あなたのお友達[color:00]は　[color:01]ガレージ[color:00]の方へ\nお通ししています\\f\nあなたに　[color:01]お話[color:00]があるそうなので\nぜひ　会ってあげてください"
   },
   {
     "index": 181,
     "key": "AstroGalaxy_Rosetta082",
-    "original": "[color:03]あなたのお友達[color:00]は　[color:01]ガレージ[color:00]の方へ\nお通ししています\f\nあなたに　[color:01]お話[color:00]があるそうなので\nぜひ　会ってあげてください",
-    "translation": "[color:03]あなたのお友達[color:00]は　[color:01]ガレージ[color:00]の方へ\nお通ししています\f\nあなたに　[color:01]お話[color:00]があるそうなので\nぜひ　会ってあげてください"
+    "original": "[color:03]あなたのお友達[color:00]は　[color:01]ガレージ[color:00]の方へ\nお通ししています\\f\nあなたに　[color:01]お話[color:00]があるそうなので\nぜひ　会ってあげてください",
+    "translation": "[color:03]あなたのお友達[color:00]は　[color:01]ガレージ[color:00]の方へ\nお通ししています\\f\nあなたに　[color:01]お話[color:00]があるそうなので\nぜひ　会ってあげてください"
   },
   {
     "index": 182,
@@ -1118,8 +1118,8 @@
   {
     "index": 183,
     "key": "AstroGalaxy_Rosetta085",
-    "original": "[color:03]天文台[color:00]が　[color:03]星船[color:00]として動いたあかつきには、\n[color:01]大切な人[color:00]の待つ[color:03]銀河の中心[color:00]へ　導きましょう\f\nあと少し…[wait:001e]\n[color:01][icon:0007][color:04]パワースター[color:00]を　お願いします",
-    "translation": "[color:03]天文台[color:00]が　[color:03]星船[color:00]として動いたあかつきには、\n[color:01]大切な人[color:00]の待つ[color:03]銀河の中心[color:00]へ　導きましょう\f\nあと少し…[wait:001e]\n[color:01][icon:0007][color:04]パワースター[color:00]を　お願いします"
+    "original": "[color:03]天文台[color:00]が　[color:03]星船[color:00]として動いたあかつきには、\n[color:01]大切な人[color:00]の待つ[color:03]銀河の中心[color:00]へ　導きましょう\\f\nあと少し…[wait:001e]\n[color:01][icon:0007][color:04]パワースター[color:00]を　お願いします",
+    "translation": "[color:03]天文台[color:00]が　[color:03]星船[color:00]として動いたあかつきには、\n[color:01]大切な人[color:00]の待つ[color:03]銀河の中心[color:00]へ　導きましょう\\f\nあと少し…[wait:001e]\n[color:01][icon:0007][color:04]パワースター[color:00]を　お願いします"
   },
   {
     "index": 184,
@@ -1131,8 +1131,8 @@
   {
     "index": 185,
     "key": "AstroGalaxy_Rosetta101",
-    "original": "あなたが[icon:001b][color:01]グランドスター[color:00]を\n救ってくれたおかげです\f\n彼ら星の民は、わたしの大切な家族なのです",
-    "translation": "あなたが[icon:001b][color:01]グランドスター[color:00]を\n救ってくれたおかげです\f\n彼ら星の民は、わたしの大切な家族なのです"
+    "original": "あなたが[icon:001b][color:01]グランドスター[color:00]を\n救ってくれたおかげです\\f\n彼ら星の民は、わたしの大切な家族なのです",
+    "translation": "あなたが[icon:001b][color:01]グランドスター[color:00]を\n救ってくれたおかげです\\f\n彼ら星の民は、わたしの大切な家族なのです"
   },
   {
     "index": 186,
@@ -1161,14 +1161,14 @@
   {
     "index": 190,
     "key": "AstroGalaxy_Rosetta106",
-    "original": "まずは　[color:01]星見のテラス[color:00]へ行き、\f\nそこから見える[color:03]ギャラクシー[color:00]の\n[icon:0007][color:04]パワースター[color:00]を　お救いください",
-    "translation": "まずは　[color:01]星見のテラス[color:00]へ行き、\f\nそこから見える[color:03]ギャラクシー[color:00]の\n[icon:0007][color:04]パワースター[color:00]を　お救いください"
+    "original": "まずは　[color:01]星見のテラス[color:00]へ行き、\\f\nそこから見える[color:03]ギャラクシー[color:00]の\n[icon:0007][color:04]パワースター[color:00]を　お救いください",
+    "translation": "まずは　[color:01]星見のテラス[color:00]へ行き、\\f\nそこから見える[color:03]ギャラクシー[color:00]の\n[icon:0007][color:04]パワースター[color:00]を　お救いください"
   },
   {
     "index": 191,
     "key": "AstroGalaxy_Rosetta107",
-    "original": "[color:03]ギャラクシー[color:00]を観測する場所は\n[color:01]ドーム[color:00]という丸い部屋です\f\nしかし　今もどった　[icon:0007][color:04]スターの力[color:00]で動くのは、\n我々が[color:01]星見のテラス[color:00]と呼んでいるドームだけ…",
-    "translation": "[color:03]ギャラクシー[color:00]を観測する場所は\n[color:01]ドーム[color:00]という丸い部屋です\f\nしかし　今もどった　[icon:0007][color:04]スターの力[color:00]で動くのは、\n我々が[color:01]星見のテラス[color:00]と呼んでいるドームだけ…"
+    "original": "[color:03]ギャラクシー[color:00]を観測する場所は\n[color:01]ドーム[color:00]という丸い部屋です\\f\nしかし　今もどった　[icon:0007][color:04]スターの力[color:00]で動くのは、\n我々が[color:01]星見のテラス[color:00]と呼んでいるドームだけ…",
+    "translation": "[color:03]ギャラクシー[color:00]を観測する場所は\n[color:01]ドーム[color:00]という丸い部屋です\\f\nしかし　今もどった　[icon:0007][color:04]スターの力[color:00]で動くのは、\n我々が[color:01]星見のテラス[color:00]と呼んでいるドームだけ…"
   },
   {
     "index": 192,
@@ -1198,8 +1198,8 @@
   {
     "index": 196,
     "key": "AstroGalaxy_Rosetta210",
-    "original": "[color:02]別世界[color:00]へ行くための\n[icon:0007][color:04]スターの力[color:00]は　そろいました\f\nしかし、その前に　あなたの[color:01]大切な人[color:00]を\n救い出しましょう",
-    "translation": "[color:02]別世界[color:00]へ行くための\n[icon:0007][color:04]スターの力[color:00]は　そろいました\f\nしかし、その前に　あなたの[color:01]大切な人[color:00]を\n救い出しましょう"
+    "original": "[color:02]別世界[color:00]へ行くための\n[icon:0007][color:04]スターの力[color:00]は　そろいました\\f\nしかし、その前に　あなたの[color:01]大切な人[color:00]を\n救い出しましょう",
+    "translation": "[color:02]別世界[color:00]へ行くための\n[icon:0007][color:04]スターの力[color:00]は　そろいました\\f\nしかし、その前に　あなたの[color:01]大切な人[color:00]を\n救い出しましょう"
   },
   {
     "index": 197,
@@ -1235,8 +1235,8 @@
   {
     "index": 202,
     "key": "AstroGalaxy_Rosetta402",
-    "original": "その[color:03]数字[color:00]は　[color:02]別世界[color:00]へ行くために必要な\n[icon:0007][color:04]スターの力[color:00]を　表しています\f\n[color:02]別世界[color:00]…[wait:001e]　それは　あなたでない　あなたに\n出会える世界です",
-    "translation": "その[color:03]数字[color:00]は　[color:02]別世界[color:00]へ行くために必要な\n[icon:0007][color:04]スターの力[color:00]を　表しています\f\n[color:02]別世界[color:00]…[wait:001e]　それは　あなたでない　あなたに\n出会える世界です"
+    "original": "その[color:03]数字[color:00]は　[color:02]別世界[color:00]へ行くために必要な\n[icon:0007][color:04]スターの力[color:00]を　表しています\\f\n[color:02]別世界[color:00]…[wait:001e]　それは　あなたでない　あなたに\n出会える世界です",
+    "translation": "その[color:03]数字[color:00]は　[color:02]別世界[color:00]へ行くために必要な\n[icon:0007][color:04]スターの力[color:00]を　表しています\\f\n[color:02]別世界[color:00]…[wait:001e]　それは　あなたでない　あなたに\n出会える世界です"
   },
   {
     "index": 203,
@@ -1247,8 +1247,8 @@
   {
     "index": 204,
     "key": "AstroGalaxy_SignBoard004",
-    "original": "もし　お休みしたい時は\n[icon:0040]を　押しましょう\f\n[color:01]「セーブしてやめる」[color:00]を選ぶと　[color:01]冒険を記録[color:00]して、\nお休みすることが　できます\f\n操作に迷った時は\n[icon:0041]を　押しましょう\f\n基本的な操作や特別なアクションを\n確認することができます",
-    "translation": "もし　お休みしたい時は\n[icon:0040]を　押しましょう\f\n[color:01]「セーブしてやめる」[color:00]を選ぶと　[color:01]冒険を記録[color:00]して、\nお休みすることが　できます\f\n操作に迷った時は\n[icon:0041]を　押しましょう\f\n基本的な操作や特別なアクションを\n確認することができます"
+    "original": "もし　お休みしたい時は\n[icon:0040]を　押しましょう\\f\n[color:01]「セーブしてやめる」[color:00]を選ぶと　[color:01]冒険を記録[color:00]して、\nお休みすることが　できます\\f\n操作に迷った時は\n[icon:0041]を　押しましょう\\f\n基本的な操作や特別なアクションを\n確認することができます",
+    "translation": "もし　お休みしたい時は\n[icon:0040]を　押しましょう\\f\n[color:01]「セーブしてやめる」[color:00]を選ぶと　[color:01]冒険を記録[color:00]して、\nお休みすることが　できます\\f\n操作に迷った時は\n[icon:0041]を　押しましょう\\f\n基本的な操作や特別なアクションを\n確認することができます"
   },
   {
     "index": 205,
@@ -1274,26 +1274,26 @@
   {
     "index": 208,
     "key": "AstroGalaxy_Tico003",
-    "original": "[color:01][icon:0008][color:02]試練の扉[color:00]が　復活しました\f\nこの勇気ある挑戦者に　光あれ…",
-    "translation": "[color:01][icon:0008][color:02]試練の扉[color:00]が　復活しました\f\nこの勇気ある挑戦者に　光あれ…"
+    "original": "[color:01][icon:0008][color:02]試練の扉[color:00]が　復活しました\\f\nこの勇気ある挑戦者に　光あれ…",
+    "translation": "[color:01][icon:0008][color:02]試練の扉[color:00]が　復活しました\\f\nこの勇気ある挑戦者に　光あれ…"
   },
   {
     "index": 209,
     "key": "AstroGalaxy_Tico004",
-    "original": "[color:01]試練の銀河[color:00]は\n宇宙の果ての果てにある[color:03]ギャラクシー[color:00]\f\nアナタの常識、想像、限界を\nはるかに超越する世界…",
-    "translation": "[color:01]試練の銀河[color:00]は\n宇宙の果ての果てにある[color:03]ギャラクシー[color:00]\f\nアナタの常識、想像、限界を\nはるかに超越する世界…"
+    "original": "[color:01]試練の銀河[color:00]は\n宇宙の果ての果てにある[color:03]ギャラクシー[color:00]\\f\nアナタの常識、想像、限界を\nはるかに超越する世界…",
+    "translation": "[color:01]試練の銀河[color:00]は\n宇宙の果ての果てにある[color:03]ギャラクシー[color:00]\\f\nアナタの常識、想像、限界を\nはるかに超越する世界…"
   },
   {
     "index": 210,
     "key": "AstroGalaxy_Tico005",
-    "original": "アナタに与えられた[color:01]試練[color:00]は　[color:01]３つ[color:00]\f\n真に[color:03]ギャラクシー[color:00]を救う者ならば\nこの試練、超えられるはず…",
-    "translation": "アナタに与えられた[color:01]試練[color:00]は　[color:01]３つ[color:00]\f\n真に[color:03]ギャラクシー[color:00]を救う者ならば\nこの試練、超えられるはず…"
+    "original": "アナタに与えられた[color:01]試練[color:00]は　[color:01]３つ[color:00]\\f\n真に[color:03]ギャラクシー[color:00]を救う者ならば\nこの試練、超えられるはず…",
+    "translation": "アナタに与えられた[color:01]試練[color:00]は　[color:01]３つ[color:00]\\f\n真に[color:03]ギャラクシー[color:00]を救う者ならば\nこの試練、超えられるはず…"
   },
   {
     "index": 211,
     "key": "AstroGalaxy_Tico006",
-    "original": "助けてくれて　ありがとう…[wait:001e]\nワタシは　[color:01]試練の銀河[color:00]の番人\f\nそこにたどり着くための[icon:0008][color:02]試練の扉[color:00]の復活には\nあと　[color:01]二人[color:00]の力が必要です…",
-    "translation": "助けてくれて　ありがとう…[wait:001e]\nワタシは　[color:01]試練の銀河[color:00]の番人\f\nそこにたどり着くための[icon:0008][color:02]試練の扉[color:00]の復活には\nあと　[color:01]二人[color:00]の力が必要です…"
+    "original": "助けてくれて　ありがとう…[wait:001e]\nワタシは　[color:01]試練の銀河[color:00]の番人\\f\nそこにたどり着くための[icon:0008][color:02]試練の扉[color:00]の復活には\nあと　[color:01]二人[color:00]の力が必要です…",
+    "translation": "助けてくれて　ありがとう…[wait:001e]\nワタシは　[color:01]試練の銀河[color:00]の番人\\f\nそこにたどり着くための[icon:0008][color:02]試練の扉[color:00]の復活には\nあと　[color:01]二人[color:00]の力が必要です…"
   },
   {
     "index": 212,
@@ -1304,8 +1304,8 @@
   {
     "index": 213,
     "key": "AstroGalaxy_Tico008",
-    "original": "ワタシ達は　[color:01]試練の銀河[color:00]の番人…\f\n[icon:0008][color:02]試練の扉[color:00]を復活させるには\nあと[color:01]一人[color:00]の力が必要です…",
-    "translation": "ワタシ達は　[color:01]試練の銀河[color:00]の番人…\f\n[icon:0008][color:02]試練の扉[color:00]を復活させるには\nあと[color:01]一人[color:00]の力が必要です…"
+    "original": "ワタシ達は　[color:01]試練の銀河[color:00]の番人…\\f\n[icon:0008][color:02]試練の扉[color:00]を復活させるには\nあと[color:01]一人[color:00]の力が必要です…",
+    "translation": "ワタシ達は　[color:01]試練の銀河[color:00]の番人…\\f\n[icon:0008][color:02]試練の扉[color:00]を復活させるには\nあと[color:01]一人[color:00]の力が必要です…"
   },
   {
     "index": 214,
@@ -1316,8 +1316,8 @@
   {
     "index": 215,
     "key": "AstroGalaxy_Tico010",
-    "original": "[color:01]試練の銀河[color:00]とは　[color:03]己の力を映し出す[color:00]場所\f\nもたらすのは　[color:03]歓喜[color:00]、[color:03]絶望[color:00]…",
-    "translation": "[color:01]試練の銀河[color:00]とは　[color:03]己の力を映し出す[color:00]場所\f\nもたらすのは　[color:03]歓喜[color:00]、[color:03]絶望[color:00]…"
+    "original": "[color:01]試練の銀河[color:00]とは　[color:03]己の力を映し出す[color:00]場所\\f\nもたらすのは　[color:03]歓喜[color:00]、[color:03]絶望[color:00]…",
+    "translation": "[color:01]試練の銀河[color:00]とは　[color:03]己の力を映し出す[color:00]場所\\f\nもたらすのは　[color:03]歓喜[color:00]、[color:03]絶望[color:00]…"
   },
   {
     "index": 216,
@@ -1341,8 +1341,8 @@
   {
     "index": 219,
     "key": "AstroGalaxy_Tico015",
-    "original": "ここの[color:01]レッドスター[color:00]…[wait:001e]\n自由に使っていいって\f\n…ママが言ってた",
-    "translation": "ここの[color:01]レッドスター[color:00]…[wait:001e]\n自由に使っていいって\f\n…ママが言ってた"
+    "original": "ここの[color:01]レッドスター[color:00]…[wait:001e]\n自由に使っていいって\\f\n…ママが言ってた",
+    "translation": "ここの[color:01]レッドスター[color:00]…[wait:001e]\n自由に使っていいって\\f\n…ママが言ってた"
   },
   {
     "index": 220,
@@ -1608,14 +1608,14 @@
   {
     "index": 262,
     "key": "AstroGalaxy_TicoComet001",
-    "original": "プルリン♪　プルリン♪[wait:001e]　[color:01]いたずらコメット[color:00]の事なら、\nボクに　オ ・ マ ・ カ ・ セ ！\f\nじゃ、今日は　どうしようか？",
-    "translation": "プルリン♪　プルリン♪[wait:001e]　[color:01]いたずらコメット[color:00]の事なら、\nボクに　オ ・ マ ・ カ ・ セ ！\f\nじゃ、今日は　どうしようか？"
+    "original": "プルリン♪　プルリン♪[wait:001e]　[color:01]いたずらコメット[color:00]の事なら、\nボクに　オ ・ マ ・ カ ・ セ ！\\f\nじゃ、今日は　どうしようか？",
+    "translation": "プルリン♪　プルリン♪[wait:001e]　[color:01]いたずらコメット[color:00]の事なら、\nボクに　オ ・ マ ・ カ ・ セ ！\\f\nじゃ、今日は　どうしようか？"
   },
   {
     "index": 263,
     "key": "AstroGalaxy_TicoComet002",
-    "original": "プルリン♪　プルリン♪　[color:01]いたずらコメット[color:00]\n[color:01]あっち行け[color:00]したい人、いないカナ？\f\n今なら　[icon:000b]スターピース　[color:01][placeholder6:0001,00000000]個[color:00]で、\nプルリンプルリン、アッチイケ、ドーン！",
-    "translation": "プルリン♪　プルリン♪　[color:01]いたずらコメット[color:00]\n[color:01]あっち行け[color:00]したい人、いないカナ？\f\n今なら　[icon:000b]スターピース　[color:01][placeholder6:0001,00000000]個[color:00]で、\nプルリンプルリン、アッチイケ、ドーン！"
+    "original": "プルリン♪　プルリン♪　[color:01]いたずらコメット[color:00]\n[color:01]あっち行け[color:00]したい人、いないカナ？\\f\n今なら　[icon:000b]スターピース　[color:01][placeholder6:0001,00000000]個[color:00]で、\nプルリンプルリン、アッチイケ、ドーン！",
+    "translation": "プルリン♪　プルリン♪　[color:01]いたずらコメット[color:00]\n[color:01]あっち行け[color:00]したい人、いないカナ？\\f\n今なら　[icon:000b]スターピース　[color:01][placeholder6:0001,00000000]個[color:00]で、\nプルリンプルリン、アッチイケ、ドーン！"
   },
   {
     "index": 264,
@@ -1626,8 +1626,8 @@
   {
     "index": 265,
     "key": "AstroGalaxy_TicoComet004",
-    "original": "イェイイェイ、イェ～イ！　おなかイッパ～イ！[wait:001e]\nそれでは　ノリノリで　イッテミヨー！\f\nムムム…[wait:001e]\nアッチイケ　アッチイケ…\f\n[unk1][color:01][unk4:0002]アッチイケ　・　[wait:000f][2:000000530045005f00530056005f005400490043004f0043004f004d00450054005f00540041004c004b005f0044004f004e]ドーーーーーン！！",
-    "translation": "イェイイェイ、イェ～イ！　おなかイッパ～イ！[wait:001e]\nそれでは　ノリノリで　イッテミヨー！\f\nムムム…[wait:001e]\nアッチイケ　アッチイケ…\f\n[unk1][color:01][unk4:0002]アッチイケ　・　[wait:000f][2:000000530045005f00530056005f005400490043004f0043004f004d00450054005f00540041004c004b005f0044004f004e]ドーーーーーン！！"
+    "original": "イェイイェイ、イェ～イ！　おなかイッパ～イ！[wait:001e]\nそれでは　ノリノリで　イッテミヨー！\\f\nムムム…[wait:001e]\nアッチイケ　アッチイケ…\\f\n[unk1][color:01][unk4:0002]アッチイケ　・　[wait:000f][2:000000530045005f00530056005f005400490043004f0043004f004d00450054005f00540041004c004b005f0044004f004e]ドーーーーーン！！",
+    "translation": "イェイイェイ、イェ～イ！　おなかイッパ～イ！[wait:001e]\nそれでは　ノリノリで　イッテミヨー！\\f\nムムム…[wait:001e]\nアッチイケ　アッチイケ…\\f\n[unk1][color:01][unk4:0002]アッチイケ　・　[wait:000f][2:000000530045005f00530056005f005400490043004f0043004f004d00450054005f00540041004c004b005f0044004f004e]ドーーーーーン！！"
   },
   {
     "index": 266,
@@ -1638,20 +1638,20 @@
   {
     "index": 267,
     "key": "AstroGalaxy_TicoComet006",
-    "original": "でも、今は\n[icon:000b]スターピースが　足りないみたいデスネー！\f\nいたずらコメットを　移動させるなら\n[icon:000b]スターピース　[color:01][placeholder6:0001,00000000]個[color:00]持って来てネ！",
-    "translation": "でも、今は\n[icon:000b]スターピースが　足りないみたいデスネー！\f\nいたずらコメットを　移動させるなら\n[icon:000b]スターピース　[color:01][placeholder6:0001,00000000]個[color:00]持って来てネ！"
+    "original": "でも、今は\n[icon:000b]スターピースが　足りないみたいデスネー！\\f\nいたずらコメットを　移動させるなら\n[icon:000b]スターピース　[color:01][placeholder6:0001,00000000]個[color:00]持って来てネ！",
+    "translation": "でも、今は\n[icon:000b]スターピースが　足りないみたいデスネー！\\f\nいたずらコメットを　移動させるなら\n[icon:000b]スターピース　[color:01][placeholder6:0001,00000000]個[color:00]持って来てネ！"
   },
   {
     "index": 268,
     "key": "AstroGalaxy_TicoComet007",
-    "original": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n違う姿に　変えてしまう　やっかい者さ～\f\n[color:01]「レッドコメット」[color:00]は　いられる時間が決まってる～[wait:001e]\n「デスコメット」は　体力が1に　なっちゃうし～\f\n[color:03]「シャドウコメット」[color:00]は　分身と勝負で～[wait:001e]\n[color:04]「クイックコメット」[color:00]は　敵の動きが　速くなる～\f\nあとは　行ってみての　オ　・　タ　・　ノ　・　シ　・　ミ　♪",
-    "translation": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n違う姿に　変えてしまう　やっかい者さ～\f\n[color:01]「レッドコメット」[color:00]は　いられる時間が決まってる～[wait:001e]\n「デスコメット」は　体力が1に　なっちゃうし～\f\n[color:03]「シャドウコメット」[color:00]は　分身と勝負で～[wait:001e]\n[color:04]「クイックコメット」[color:00]は　敵の動きが　速くなる～\f\nあとは　行ってみての　オ　・　タ　・　ノ　・　シ　・　ミ　♪"
+    "original": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n違う姿に　変えてしまう　やっかい者さ～\\f\n[color:01]「レッドコメット」[color:00]は　いられる時間が決まってる～[wait:001e]\n「デスコメット」は　体力が1に　なっちゃうし～\\f\n[color:03]「シャドウコメット」[color:00]は　分身と勝負で～[wait:001e]\n[color:04]「クイックコメット」[color:00]は　敵の動きが　速くなる～\\f\nあとは　行ってみての　オ　・　タ　・　ノ　・　シ　・　ミ　♪",
+    "translation": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n違う姿に　変えてしまう　やっかい者さ～\\f\n[color:01]「レッドコメット」[color:00]は　いられる時間が決まってる～[wait:001e]\n「デスコメット」は　体力が1に　なっちゃうし～\\f\n[color:03]「シャドウコメット」[color:00]は　分身と勝負で～[wait:001e]\n[color:04]「クイックコメット」[color:00]は　敵の動きが　速くなる～\\f\nあとは　行ってみての　オ　・　タ　・　ノ　・　シ　・　ミ　♪"
   },
   {
     "index": 269,
     "key": "AstroGalaxy_TicoComet008",
-    "original": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n違う姿に　変えてしまう　やっかい者さ～\f\n[color:01]「レッドコメット」[color:00]は　いられる時間が決まってる～[wait:001e]\n「デスコメット」は　体力が1に　なっちゃうし～\f\n[color:03]「シャドウコメット」[color:00]は　分身と勝負で～[wait:001e]\n[color:04]「クイックコメット」[color:00]は　敵の動きが　速くなる～\f\n[color:05]「パープルコメット」[color:00]は　[color:05][icon:001e]パープルコイン[color:00]を、\nとにかく[color:01]100枚[color:00]集めまショ～\f\nあとは　行ってみての　オ　・　タ　・　ノ　・　シ　・　ミ　♪",
-    "translation": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n違う姿に　変えてしまう　やっかい者さ～\f\n[color:01]「レッドコメット」[color:00]は　いられる時間が決まってる～[wait:001e]\n「デスコメット」は　体力が1に　なっちゃうし～\f\n[color:03]「シャドウコメット」[color:00]は　分身と勝負で～[wait:001e]\n[color:04]「クイックコメット」[color:00]は　敵の動きが　速くなる～\f\n[color:05]「パープルコメット」[color:00]は　[color:05][icon:001e]パープルコイン[color:00]を、\nとにかく[color:01]100枚[color:00]集めまショ～\f\nあとは　行ってみての　オ　・　タ　・　ノ　・　シ　・　ミ　♪"
+    "original": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n違う姿に　変えてしまう　やっかい者さ～\\f\n[color:01]「レッドコメット」[color:00]は　いられる時間が決まってる～[wait:001e]\n「デスコメット」は　体力が1に　なっちゃうし～\\f\n[color:03]「シャドウコメット」[color:00]は　分身と勝負で～[wait:001e]\n[color:04]「クイックコメット」[color:00]は　敵の動きが　速くなる～\\f\n[color:05]「パープルコメット」[color:00]は　[color:05][icon:001e]パープルコイン[color:00]を、\nとにかく[color:01]100枚[color:00]集めまショ～\\f\nあとは　行ってみての　オ　・　タ　・　ノ　・　シ　・　ミ　♪",
+    "translation": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n違う姿に　変えてしまう　やっかい者さ～\\f\n[color:01]「レッドコメット」[color:00]は　いられる時間が決まってる～[wait:001e]\n「デスコメット」は　体力が1に　なっちゃうし～\\f\n[color:03]「シャドウコメット」[color:00]は　分身と勝負で～[wait:001e]\n[color:04]「クイックコメット」[color:00]は　敵の動きが　速くなる～\\f\n[color:05]「パープルコメット」[color:00]は　[color:05][icon:001e]パープルコイン[color:00]を、\nとにかく[color:01]100枚[color:00]集めまショ～\\f\nあとは　行ってみての　オ　・　タ　・　ノ　・　シ　・　ミ　♪"
   },
   {
     "index": 270,
@@ -1766,8 +1766,8 @@
   {
     "index": 288,
     "key": "BombTimeAttack2Zone_Caretaker002",
-    "original": "おおきに　おおきに！\nキレーなったわ！\f\nそや！　[color:01]コレ[color:00]　拾たヤツやけど、\nよかったら　持って行き！",
-    "translation": "おおきに　おおきに！\nキレーなったわ！\f\nそや！　[color:01]コレ[color:00]　拾たヤツやけど、\nよかったら　持って行き！"
+    "original": "おおきに　おおきに！\nキレーなったわ！\\f\nそや！　[color:01]コレ[color:00]　拾たヤツやけど、\nよかったら　持って行き！",
+    "translation": "おおきに　おおきに！\nキレーなったわ！\\f\nそや！　[color:01]コレ[color:00]　拾たヤツやけど、\nよかったら　持って行き！"
   },
   {
     "index": 289,
@@ -1778,8 +1778,8 @@
   {
     "index": 290,
     "key": "BombTimeAttack2Zone_Caretaker004",
-    "original": "ココは　[color:03]行き止まり[color:00]！　ただの[color:01]ゴミ捨て場[color:00]や\f\n…でも、誰や？\nココに[color:03]燃えへんゴミ[color:00]　捨てたん…",
-    "translation": "ココは　[color:03]行き止まり[color:00]！　ただの[color:01]ゴミ捨て場[color:00]や\f\n…でも、誰や？\nココに[color:03]燃えへんゴミ[color:00]　捨てたん…"
+    "original": "ココは　[color:03]行き止まり[color:00]！　ただの[color:01]ゴミ捨て場[color:00]や\\f\n…でも、誰や？\nココに[color:03]燃えへんゴミ[color:00]　捨てたん…",
+    "translation": "ココは　[color:03]行き止まり[color:00]！　ただの[color:01]ゴミ捨て場[color:00]や\\f\n…でも、誰や？\nココに[color:03]燃えへんゴミ[color:00]　捨てたん…"
   },
   {
     "index": 291,
@@ -1827,8 +1827,8 @@
   {
     "index": 298,
     "key": "BombTimeAttackZone_Caretaker002",
-    "original": "おおきに　おおきに！\nキレーなったわ！\f\nそや！　[color:01]コレ[color:00]　拾たヤツやけど、\nよかったら　持って行き！",
-    "translation": "おおきに　おおきに！\nキレーなったわ！\f\nそや！　[color:01]コレ[color:00]　拾たヤツやけど、\nよかったら　持って行き！"
+    "original": "おおきに　おおきに！\nキレーなったわ！\\f\nそや！　[color:01]コレ[color:00]　拾たヤツやけど、\nよかったら　持って行き！",
+    "translation": "おおきに　おおきに！\nキレーなったわ！\\f\nそや！　[color:01]コレ[color:00]　拾たヤツやけど、\nよかったら　持って行き！"
   },
   {
     "index": 299,
@@ -1839,8 +1839,8 @@
   {
     "index": 300,
     "key": "BombTimeAttackZone_Caretaker004",
-    "original": "ココは　[color:03]行き止まり[color:00]！　ただの[color:01]ゴミ捨て場[color:00]や\f\nでも、誰や？\nココに[color:03]燃えへんゴミ[color:00]　捨てたん…",
-    "translation": "ココは　[color:03]行き止まり[color:00]！　ただの[color:01]ゴミ捨て場[color:00]や\f\nでも、誰や？\nココに[color:03]燃えへんゴミ[color:00]　捨てたん…"
+    "original": "ココは　[color:03]行き止まり[color:00]！　ただの[color:01]ゴミ捨て場[color:00]や\\f\nでも、誰や？\nココに[color:03]燃えへんゴミ[color:00]　捨てたん…",
+    "translation": "ココは　[color:03]行き止まり[color:00]！　ただの[color:01]ゴミ捨て場[color:00]や\\f\nでも、誰や？\nココに[color:03]燃えへんゴミ[color:00]　捨てたん…"
   },
   {
     "index": 301,
@@ -1888,8 +1888,8 @@
   {
     "index": 308,
     "key": "BombheiLectureZone_Tico002",
-    "original": "ありがとうございます！　近道は　こちらです！\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！",
-    "translation": "ありがとうございます！　近道は　こちらです！\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！"
+    "original": "ありがとうございます！　近道は　こちらです！\\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！",
+    "translation": "ありがとうございます！　近道は　こちらです！\\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！"
   },
   {
     "index": 309,
@@ -1943,38 +1943,38 @@
   {
     "index": 317,
     "key": "CannonFleetGalaxy_Caretaker002",
-    "original": "0枚って、アンタ…[wait:001e]\nワザと　やってるやろ！\f\nこれは　これで　すごいと思うけど、\nおばちゃん、そういうのは　あんまり好かんな",
-    "translation": "0枚って、アンタ…[wait:001e]\nワザと　やってるやろ！\f\nこれは　これで　すごいと思うけど、\nおばちゃん、そういうのは　あんまり好かんな"
+    "original": "0枚って、アンタ…[wait:001e]\nワザと　やってるやろ！\\f\nこれは　これで　すごいと思うけど、\nおばちゃん、そういうのは　あんまり好かんな",
+    "translation": "0枚って、アンタ…[wait:001e]\nワザと　やってるやろ！\\f\nこれは　これで　すごいと思うけど、\nおばちゃん、そういうのは　あんまり好かんな"
   },
   {
     "index": 318,
     "key": "CannonFleetGalaxy_Caretaker003",
-    "original": "[placeholder6:0001,00000000]枚かー　あっかんなぁ～………[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\f\n失敗すること　考えとったら、そらアカンわ[wait:001e]\n思い切って　[color:03]ドーン[color:00]って行かな！　……な！",
-    "translation": "[placeholder6:0001,00000000]枚かー　あっかんなぁ～………[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\f\n失敗すること　考えとったら、そらアカンわ[wait:001e]\n思い切って　[color:03]ドーン[color:00]って行かな！　……な！"
+    "original": "[placeholder6:0001,00000000]枚かー　あっかんなぁ～………[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\\f\n失敗すること　考えとったら、そらアカンわ[wait:001e]\n思い切って　[color:03]ドーン[color:00]って行かな！　……な！",
+    "translation": "[placeholder6:0001,00000000]枚かー　あっかんなぁ～………[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\\f\n失敗すること　考えとったら、そらアカンわ[wait:001e]\n思い切って　[color:03]ドーン[color:00]って行かな！　……な！"
   },
   {
     "index": 319,
     "key": "CannonFleetGalaxy_Caretaker004",
-    "original": "[placeholder6:0001,00000000]枚か！　ボチボチやな！[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\f\nあわてたら　結局　損するのん、自分やで！",
-    "translation": "[placeholder6:0001,00000000]枚か！　ボチボチやな！[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\f\nあわてたら　結局　損するのん、自分やで！"
+    "original": "[placeholder6:0001,00000000]枚か！　ボチボチやな！[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\\f\nあわてたら　結局　損するのん、自分やで！",
+    "translation": "[placeholder6:0001,00000000]枚か！　ボチボチやな！[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\\f\nあわてたら　結局　損するのん、自分やで！"
   },
   {
     "index": 320,
     "key": "CannonFleetGalaxy_Caretaker005",
-    "original": "[placeholder6:0001,00000000]枚も　取ったんか！　すごいやん！\f\nあとは　自分との戦いやな[wait:001e]\nもうちょっとやから　がんばり！",
-    "translation": "[placeholder6:0001,00000000]枚も　取ったんか！　すごいやん！\f\nあとは　自分との戦いやな[wait:001e]\nもうちょっとやから　がんばり！"
+    "original": "[placeholder6:0001,00000000]枚も　取ったんか！　すごいやん！\\f\nあとは　自分との戦いやな[wait:001e]\nもうちょっとやから　がんばり！",
+    "translation": "[placeholder6:0001,00000000]枚も　取ったんか！　すごいやん！\\f\nあとは　自分との戦いやな[wait:001e]\nもうちょっとやから　がんばり！"
   },
   {
     "index": 321,
     "key": "CannonFleetGalaxy_Caretaker006",
-    "original": "[placeholder6:0001,00000000]枚か～～！　おっしいなぁ～！\f\nでも　ここからが勝負やな！[wait:001e]\n性根入れて　がんばり！",
-    "translation": "[placeholder6:0001,00000000]枚か～～！　おっしいなぁ～！\f\nでも　ここからが勝負やな！[wait:001e]\n性根入れて　がんばり！"
+    "original": "[placeholder6:0001,00000000]枚か～～！　おっしいなぁ～！\\f\nでも　ここからが勝負やな！[wait:001e]\n性根入れて　がんばり！",
+    "translation": "[placeholder6:0001,00000000]枚か～～！　おっしいなぁ～！\\f\nでも　ここからが勝負やな！[wait:001e]\n性根入れて　がんばり！"
   },
   {
     "index": 322,
     "key": "CannonFleetGalaxy_Caretaker007",
-    "original": "[placeholder6:0001,00000000]枚？！　もったいなぁ～！\f\nかわいそうやけど、アカンもんは　アカン！[wait:001e]\nそういう決まりや！",
-    "translation": "[placeholder6:0001,00000000]枚？！　もったいなぁ～！\f\nかわいそうやけど、アカンもんは　アカン！[wait:001e]\nそういう決まりや！"
+    "original": "[placeholder6:0001,00000000]枚？！　もったいなぁ～！\\f\nかわいそうやけど、アカンもんは　アカン！[wait:001e]\nそういう決まりや！",
+    "translation": "[placeholder6:0001,00000000]枚？！　もったいなぁ～！\\f\nかわいそうやけど、アカンもんは　アカン！[wait:001e]\nそういう決まりや！"
   },
   {
     "index": 323,
@@ -2017,8 +2017,8 @@
   {
     "index": 329,
     "key": "CoCoTwinZone_Kinopio014",
-    "original": "[unk5:00]さん、ありがとう！[wait:001e]\nお礼に　ボクからの　とっておきヒント！\f\n[color:03]トゲトゲ[color:00]して　近づけないモノは、\n[icon:000c][color:03]ココナッツ[color:00]を[color:01][icon:0047]か[icon:003b]のスピン[color:00]で[color:01]ぶつけて[color:00]！",
-    "translation": "[unk5:00]さん、ありがとう！[wait:001e]\nお礼に　ボクからの　とっておきヒント！\f\n[color:03]トゲトゲ[color:00]して　近づけないモノは、\n[icon:000c][color:03]ココナッツ[color:00]を[color:01][icon:0047]か[icon:003b]のスピン[color:00]で[color:01]ぶつけて[color:00]！"
+    "original": "[unk5:00]さん、ありがとう！[wait:001e]\nお礼に　ボクからの　とっておきヒント！\\f\n[color:03]トゲトゲ[color:00]して　近づけないモノは、\n[icon:000c][color:03]ココナッツ[color:00]を[color:01][icon:0047]か[icon:003b]のスピン[color:00]で[color:01]ぶつけて[color:00]！",
+    "translation": "[unk5:00]さん、ありがとう！[wait:001e]\nお礼に　ボクからの　とっておきヒント！\\f\n[color:03]トゲトゲ[color:00]して　近づけないモノは、\n[icon:000c][color:03]ココナッツ[color:00]を[color:01][icon:0047]か[icon:003b]のスピン[color:00]で[color:01]ぶつけて[color:00]！"
   },
   {
     "index": 330,
@@ -2107,8 +2107,8 @@
   {
     "index": 344,
     "key": "Common_SurfingTutorial007",
-    "original": "あと、[color:03]スピード[color:00]は　[icon:0039][color:01]で調節[color:00]してね\f\nよし！　説明は　この辺にして、\nこの先のコースを一周してみよう！",
-    "translation": "あと、[color:03]スピード[color:00]は　[icon:0039][color:01]で調節[color:00]してね\f\nよし！　説明は　この辺にして、\nこの先のコースを一周してみよう！"
+    "original": "あと、[color:03]スピード[color:00]は　[icon:0039][color:01]で調節[color:00]してね\\f\nよし！　説明は　この辺にして、\nこの先のコースを一周してみよう！",
+    "translation": "あと、[color:03]スピード[color:00]は　[icon:0039][color:01]で調節[color:00]してね\\f\nよし！　説明は　この辺にして、\nこの先のコースを一周してみよう！"
   },
   {
     "index": 345,
@@ -2150,8 +2150,8 @@
   {
     "index": 351,
     "key": "Common_TamakoroTutorial006",
-    "original": "その[color:03]基本姿勢[color:00]から　[icon:0047]/　[icon:0044]　[color:01]を傾ける[color:00]と\n[color:03]タマコロ[color:00]を転がして　移動できるぞ\f\nあとは、[icon:0039][color:01]で　ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！\f\nまぁ、習うより慣れろだ[wait:001e]\nそれで　先まで進んでみな！",
-    "translation": "その[color:03]基本姿勢[color:00]から　[icon:0047]/　[icon:0044]　[color:01]を傾ける[color:00]と\n[color:03]タマコロ[color:00]を転がして　移動できるぞ\f\nあとは、[icon:0039][color:01]で　ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！\f\nまぁ、習うより慣れろだ[wait:001e]\nそれで　先まで進んでみな！"
+    "original": "その[color:03]基本姿勢[color:00]から　[icon:0047]/　[icon:0044]　[color:01]を傾ける[color:00]と\n[color:03]タマコロ[color:00]を転がして　移動できるぞ\\f\nあとは、[icon:0039][color:01]で　ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！\\f\nまぁ、習うより慣れろだ[wait:001e]\nそれで　先まで進んでみな！",
+    "translation": "その[color:03]基本姿勢[color:00]から　[icon:0047]/　[icon:0044]　[color:01]を傾ける[color:00]と\n[color:03]タマコロ[color:00]を転がして　移動できるぞ\\f\nあとは、[icon:0039][color:01]で　ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！\\f\nまぁ、習うより慣れろだ[wait:001e]\nそれで　先まで進んでみな！"
   },
   {
     "index": 352,
@@ -2219,8 +2219,8 @@
   {
     "index": 362,
     "key": "Common_TicoFat001",
-    "original": "キラリン♪　キラリン♪　ねぇねぇ　そこの人！[wait:001e]\n[icon:000b][color:01]スターピース[color:00]持ってなぁい？\f\n[icon:000b][color:01]スターピース[color:00]　食べたいな♪[wait:001e]\nイッパイ　イッパイ　食べたいな♪",
-    "translation": "キラリン♪　キラリン♪　ねぇねぇ　そこの人！[wait:001e]\n[icon:000b][color:01]スターピース[color:00]持ってなぁい？\f\n[icon:000b][color:01]スターピース[color:00]　食べたいな♪[wait:001e]\nイッパイ　イッパイ　食べたいな♪"
+    "original": "キラリン♪　キラリン♪　ねぇねぇ　そこの人！[wait:001e]\n[icon:000b][color:01]スターピース[color:00]持ってなぁい？\\f\n[icon:000b][color:01]スターピース[color:00]　食べたいな♪[wait:001e]\nイッパイ　イッパイ　食べたいな♪",
+    "translation": "キラリン♪　キラリン♪　ねぇねぇ　そこの人！[wait:001e]\n[icon:000b][color:01]スターピース[color:00]持ってなぁい？\\f\n[icon:000b][color:01]スターピース[color:00]　食べたいな♪[wait:001e]\nイッパイ　イッパイ　食べたいな♪"
   },
   {
     "index": 363,
@@ -2261,8 +2261,8 @@
   {
     "index": 369,
     "key": "Common_TicoFat008",
-    "original": "キタキタキター！　おなかイッパ～イ！[wait:001e]\nじゃ、張り切って　いってみよー！\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]シ～～～ン！！",
-    "translation": "キタキタキター！　おなかイッパ～イ！[wait:001e]\nじゃ、張り切って　いってみよー！\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]シ～～～ン！！"
+    "original": "キタキタキター！　おなかイッパ～イ！[wait:001e]\nじゃ、張り切って　いってみよー！\\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]シ～～～ン！！",
+    "translation": "キタキタキター！　おなかイッパ～イ！[wait:001e]\nじゃ、張り切って　いってみよー！\\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f004600410054005f004d004500540041]シ～～～ン！！"
   },
   {
     "index": 370,
@@ -2287,8 +2287,8 @@
   {
     "index": 373,
     "key": "Common_TicoShop001",
-    "original": "ピカリン♪　ピカリン♪[wait:001e]\nまいど！　[color:03]チコショップ[color:00]に　ようこそ～\f\n今なら　[icon:000b]スターピース[color:01][placeholder6:0002,00000000]コ[color:00]で\n[color:03]役に立つモノ[color:00]と　交換しまっせ～",
-    "translation": "ピカリン♪　ピカリン♪[wait:001e]\nまいど！　[color:03]チコショップ[color:00]に　ようこそ～\f\n今なら　[icon:000b]スターピース[color:01][placeholder6:0002,00000000]コ[color:00]で\n[color:03]役に立つモノ[color:00]と　交換しまっせ～"
+    "original": "ピカリン♪　ピカリン♪[wait:001e]\nまいど！　[color:03]チコショップ[color:00]に　ようこそ～\\f\n今なら　[icon:000b]スターピース[color:01][placeholder6:0002,00000000]コ[color:00]で\n[color:03]役に立つモノ[color:00]と　交換しまっせ～",
+    "translation": "ピカリン♪　ピカリン♪[wait:001e]\nまいど！　[color:03]チコショップ[color:00]に　ようこそ～\\f\n今なら　[icon:000b]スターピース[color:01][placeholder6:0002,00000000]コ[color:00]で\n[color:03]役に立つモノ[color:00]と　交換しまっせ～"
   },
   {
     "index": 374,
@@ -2317,8 +2317,8 @@
   {
     "index": 378,
     "key": "Common_TicoShop007",
-    "original": "キタキタキター！　まんまんぷくぷく～！！[wait:001e]\nほな　いきまっせ～～！\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f00530048004f0050005f004d004500540041]シ～～～ン！！",
-    "translation": "キタキタキター！　まんまんぷくぷく～！！[wait:001e]\nほな　いきまっせ～～！\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f00530048004f0050005f004d004500540041]シ～～～ン！！"
+    "original": "キタキタキター！　まんまんぷくぷく～！！[wait:001e]\nほな　いきまっせ～～！\\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f00530048004f0050005f004d004500540041]シ～～～ン！！",
+    "translation": "キタキタキター！　まんまんぷくぷく～！！[wait:001e]\nほな　いきまっせ～～！\\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f00530048004f0050005f004d004500540041]シ～～～ン！！"
   },
   {
     "index": 379,
@@ -2367,8 +2367,8 @@
   {
     "index": 386,
     "key": "CubeBubbleExAZone_SignBoard001",
-    "original": "ヘイ！　さっき　言い忘れた事を伝えとくぜ！\f\n[color:03]オオアワ[color:00]に乗ってて　地面に降りたくなったら、\n[icon:003e][color:01]で　降りられる[color:00]からな！\f\nあと、[color:01]動くカベ[color:00]に　はさまれたら\n[color:03]オオアワ[color:00]は[color:01]割れちまう[color:00]からな！[wait:001e]　気をつけな",
-    "translation": "ヘイ！　さっき　言い忘れた事を伝えとくぜ！\f\n[color:03]オオアワ[color:00]に乗ってて　地面に降りたくなったら、\n[icon:003e][color:01]で　降りられる[color:00]からな！\f\nあと、[color:01]動くカベ[color:00]に　はさまれたら\n[color:03]オオアワ[color:00]は[color:01]割れちまう[color:00]からな！[wait:001e]　気をつけな"
+    "original": "ヘイ！　さっき　言い忘れた事を伝えとくぜ！\\f\n[color:03]オオアワ[color:00]に乗ってて　地面に降りたくなったら、\n[icon:003e][color:01]で　降りられる[color:00]からな！\\f\nあと、[color:01]動くカベ[color:00]に　はさまれたら\n[color:03]オオアワ[color:00]は[color:01]割れちまう[color:00]からな！[wait:001e]　気をつけな",
+    "translation": "ヘイ！　さっき　言い忘れた事を伝えとくぜ！\\f\n[color:03]オオアワ[color:00]に乗ってて　地面に降りたくなったら、\n[icon:003e][color:01]で　降りられる[color:00]からな！\\f\nあと、[color:01]動くカベ[color:00]に　はさまれたら\n[color:03]オオアワ[color:00]は[color:01]割れちまう[color:00]からな！[wait:001e]　気をつけな"
   },
   {
     "index": 387,
@@ -2392,8 +2392,8 @@
   {
     "index": 390,
     "key": "CubeBubbleExBZone_SignBoard001",
-    "original": "ヘイ、オレだよ！　[color:03]デンゴン・バーン[color:00]だよ！\f\nここは　[color:03]オオアワ[color:00]じゃなきゃ　進めないから、\n[color:01]オオアワの操作[color:00]を　思い出せ！\f\nあと、[color:03]電撃レール[color:00]が　かなりヤバイぜ…[wait:001e]\n絶対に当たるなよ！",
-    "translation": "ヘイ、オレだよ！　[color:03]デンゴン・バーン[color:00]だよ！\f\nここは　[color:03]オオアワ[color:00]じゃなきゃ　進めないから、\n[color:01]オオアワの操作[color:00]を　思い出せ！\f\nあと、[color:03]電撃レール[color:00]が　かなりヤバイぜ…[wait:001e]\n絶対に当たるなよ！"
+    "original": "ヘイ、オレだよ！　[color:03]デンゴン・バーン[color:00]だよ！\\f\nここは　[color:03]オオアワ[color:00]じゃなきゃ　進めないから、\n[color:01]オオアワの操作[color:00]を　思い出せ！\\f\nあと、[color:03]電撃レール[color:00]が　かなりヤバイぜ…[wait:001e]\n絶対に当たるなよ！",
+    "translation": "ヘイ、オレだよ！　[color:03]デンゴン・バーン[color:00]だよ！\\f\nここは　[color:03]オオアワ[color:00]じゃなきゃ　進めないから、\n[color:01]オオアワの操作[color:00]を　思い出せ！\\f\nあと、[color:03]電撃レール[color:00]が　かなりヤバイぜ…[wait:001e]\n絶対に当たるなよ！"
   },
   {
     "index": 391,
@@ -2448,8 +2448,8 @@
   {
     "index": 399,
     "key": "CubeBubbleExSZone_Kinopio007",
-    "original": "風が強いですね～！\f\nでも　あの風に　乗れたら、\nきっと　気持ちいいでしょうね！",
-    "translation": "風が強いですね～！\f\nでも　あの風に　乗れたら、\nきっと　気持ちいいでしょうね！"
+    "original": "風が強いですね～！\\f\nでも　あの風に　乗れたら、\nきっと　気持ちいいでしょうね！",
+    "translation": "風が強いですね～！\\f\nでも　あの風に　乗れたら、\nきっと　気持ちいいでしょうね！"
   },
   {
     "index": 400,
@@ -2461,14 +2461,14 @@
   {
     "index": 401,
     "key": "CubeBubbleExSZone_SignBoard001",
-    "original": "ヘイ！[wait:001e]　あの[color:01]オオアワ[color:00]に乗るなら\nこの[color:03]デンゴン・バーン[color:00]様の話を聞きな！\f\n[color:03]オオアワ[color:00]に乗ったら　[icon:0038]を押しな！[wait:001e]　そうすりゃ\n[icon:000a][color:01]ポインター[color:00]から　[color:03]空気が出る[color:00]からよ\f\nちなみに、[icon:0044]携帯モードの時は\n[color:01]タッチ[color:00]で[color:03]空気が出る[color:00]からな！\f\nその空気で　[color:03]オオアワ[color:00]を　[color:01]横から押して[color:00]いくんだ！[wait:001e]\nビミョーな調節が必要だが　なんとかなるだろ",
-    "translation": "ヘイ！[wait:001e]　あの[color:01]オオアワ[color:00]に乗るなら\nこの[color:03]デンゴン・バーン[color:00]様の話を聞きな！\f\n[color:03]オオアワ[color:00]に乗ったら　[icon:0038]を押しな！[wait:001e]　そうすりゃ\n[icon:000a][color:01]ポインター[color:00]から　[color:03]空気が出る[color:00]からよ\f\nちなみに、[icon:0044]携帯モードの時は\n[color:01]タッチ[color:00]で[color:03]空気が出る[color:00]からな！\f\nその空気で　[color:03]オオアワ[color:00]を　[color:01]横から押して[color:00]いくんだ！[wait:001e]\nビミョーな調節が必要だが　なんとかなるだろ"
+    "original": "ヘイ！[wait:001e]　あの[color:01]オオアワ[color:00]に乗るなら\nこの[color:03]デンゴン・バーン[color:00]様の話を聞きな！\\f\n[color:03]オオアワ[color:00]に乗ったら　[icon:0038]を押しな！[wait:001e]　そうすりゃ\n[icon:000a][color:01]ポインター[color:00]から　[color:03]空気が出る[color:00]からよ\\f\nちなみに、[icon:0044]携帯モードの時は\n[color:01]タッチ[color:00]で[color:03]空気が出る[color:00]からな！\\f\nその空気で　[color:03]オオアワ[color:00]を　[color:01]横から押して[color:00]いくんだ！[wait:001e]\nビミョーな調節が必要だが　なんとかなるだろ",
+    "translation": "ヘイ！[wait:001e]　あの[color:01]オオアワ[color:00]に乗るなら\nこの[color:03]デンゴン・バーン[color:00]様の話を聞きな！\\f\n[color:03]オオアワ[color:00]に乗ったら　[icon:0038]を押しな！[wait:001e]　そうすりゃ\n[icon:000a][color:01]ポインター[color:00]から　[color:03]空気が出る[color:00]からよ\\f\nちなみに、[icon:0044]携帯モードの時は\n[color:01]タッチ[color:00]で[color:03]空気が出る[color:00]からな！\\f\nその空気で　[color:03]オオアワ[color:00]を　[color:01]横から押して[color:00]いくんだ！[wait:001e]\nビミョーな調節が必要だが　なんとかなるだろ"
   },
   {
     "index": 402,
     "key": "CubeBubbleExSZone_SignBoard002",
-    "original": "[color:03]オオアワ[color:00]に乗ったら　[icon:0038]を押しな！[wait:001e]　そうすりゃ\n[icon:000a][color:01]ポインター[color:00]から　[color:03]空気が出る[color:00]からよ\f\n[icon:0044]携帯モードの時は、[color:01]タッチ[color:00]で[color:03]空気が出る[color:00]からな\f\nその空気で　[color:03]オオアワ[color:00]を　[color:01]横から押して[color:00]いくんだ！[wait:001e]\nビミョーな調節が必要だが　なんとかなるだろ",
-    "translation": "[color:03]オオアワ[color:00]に乗ったら　[icon:0038]を押しな！[wait:001e]　そうすりゃ\n[icon:000a][color:01]ポインター[color:00]から　[color:03]空気が出る[color:00]からよ\f\n[icon:0044]携帯モードの時は、[color:01]タッチ[color:00]で[color:03]空気が出る[color:00]からな\f\nその空気で　[color:03]オオアワ[color:00]を　[color:01]横から押して[color:00]いくんだ！[wait:001e]\nビミョーな調節が必要だが　なんとかなるだろ"
+    "original": "[color:03]オオアワ[color:00]に乗ったら　[icon:0038]を押しな！[wait:001e]　そうすりゃ\n[icon:000a][color:01]ポインター[color:00]から　[color:03]空気が出る[color:00]からよ\\f\n[icon:0044]携帯モードの時は、[color:01]タッチ[color:00]で[color:03]空気が出る[color:00]からな\\f\nその空気で　[color:03]オオアワ[color:00]を　[color:01]横から押して[color:00]いくんだ！[wait:001e]\nビミョーな調節が必要だが　なんとかなるだろ",
+    "translation": "[color:03]オオアワ[color:00]に乗ったら　[icon:0038]を押しな！[wait:001e]　そうすりゃ\n[icon:000a][color:01]ポインター[color:00]から　[color:03]空気が出る[color:00]からよ\\f\n[icon:0044]携帯モードの時は、[color:01]タッチ[color:00]で[color:03]空気が出る[color:00]からな\\f\nその空気で　[color:03]オオアワ[color:00]を　[color:01]横から押して[color:00]いくんだ！[wait:001e]\nビミョーな調節が必要だが　なんとかなるだろ"
   },
   {
     "index": 403,
@@ -2505,8 +2505,8 @@
   {
     "index": 408,
     "key": "DesertDiskZone_Kinopio001",
-    "original": "[unk5:00]さん！　[color:01]竜巻[color:00]で　高いところの\n[icon:001e][color:05]パープルコイン[color:00]を　取れそうです！\f\n[color:01]竜巻[color:00]の中に入ったら　[icon:0047][color:01]を　ふるか、\n[icon:003b][color:01]を押して、[color:00]ください！",
-    "translation": "[unk5:00]さん！　[color:01]竜巻[color:00]で　高いところの\n[icon:001e][color:05]パープルコイン[color:00]を　取れそうです！\f\n[color:01]竜巻[color:00]の中に入ったら　[icon:0047][color:01]を　ふるか、\n[icon:003b][color:01]を押して、[color:00]ください！"
+    "original": "[unk5:00]さん！　[color:01]竜巻[color:00]で　高いところの\n[icon:001e][color:05]パープルコイン[color:00]を　取れそうです！\\f\n[color:01]竜巻[color:00]の中に入ったら　[icon:0047][color:01]を　ふるか、\n[icon:003b][color:01]を押して、[color:00]ください！",
+    "translation": "[unk5:00]さん！　[color:01]竜巻[color:00]で　高いところの\n[icon:001e][color:05]パープルコイン[color:00]を　取れそうです！\\f\n[color:01]竜巻[color:00]の中に入ったら　[icon:0047][color:01]を　ふるか、\n[icon:003b][color:01]を押して、[color:00]ください！"
   },
   {
     "index": 409,
@@ -2548,26 +2548,26 @@
   {
     "index": 415,
     "key": "DiskGardenZone_LuigiEvent001",
-    "original": "また　助けに来てくれたんだ！[wait:001e]\nさすが兄さん、頼りになるね！\f\n[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\nちゃんと、見つけてあるよ！　はい！",
-    "translation": "また　助けに来てくれたんだ！[wait:001e]\nさすが兄さん、頼りになるね！\f\n[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\nちゃんと、見つけてあるよ！　はい！"
+    "original": "また　助けに来てくれたんだ！[wait:001e]\nさすが兄さん、頼りになるね！\\f\n[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\nちゃんと、見つけてあるよ！　はい！",
+    "translation": "また　助けに来てくれたんだ！[wait:001e]\nさすが兄さん、頼りになるね！\\f\n[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\nちゃんと、見つけてあるよ！　はい！"
   },
   {
     "index": 416,
     "key": "DiskGardenZone_LuigiEvent002",
-    "original": "また　助けに来てくれたんだ！[wait:001e]\nさすが[color:02]ボク[color:00]、頼りになるね！\f\n[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\nちゃんと、見つけてあるよ！　はい！",
-    "translation": "また　助けに来てくれたんだ！[wait:001e]\nさすが[color:02]ボク[color:00]、頼りになるね！\f\n[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\nちゃんと、見つけてあるよ！　はい！"
+    "original": "また　助けに来てくれたんだ！[wait:001e]\nさすが[color:02]ボク[color:00]、頼りになるね！\\f\n[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\nちゃんと、見つけてあるよ！　はい！",
+    "translation": "また　助けに来てくれたんだ！[wait:001e]\nさすが[color:02]ボク[color:00]、頼りになるね！\\f\n[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\nちゃんと、見つけてあるよ！　はい！"
   },
   {
     "index": 417,
     "key": "DiskGardenZone_LuigiEvent003",
-    "original": "何やってんだよ、兄さん！[wait:001e]\n[color:03]宇宙[color:00]の運命が　かかってるんだろ？！\f\n[icon:0007][color:01]パワースター　[color:00]これ持って　早く帰ろう！　はい！",
-    "translation": "何やってんだよ、兄さん！[wait:001e]\n[color:03]宇宙[color:00]の運命が　かかってるんだろ？！\f\n[icon:0007][color:01]パワースター　[color:00]これ持って　早く帰ろう！　はい！"
+    "original": "何やってんだよ、兄さん！[wait:001e]\n[color:03]宇宙[color:00]の運命が　かかってるんだろ？！\\f\n[icon:0007][color:01]パワースター　[color:00]これ持って　早く帰ろう！　はい！",
+    "translation": "何やってんだよ、兄さん！[wait:001e]\n[color:03]宇宙[color:00]の運命が　かかってるんだろ？！\\f\n[icon:0007][color:01]パワースター　[color:00]これ持って　早く帰ろう！　はい！"
   },
   {
     "index": 418,
     "key": "DiskGardenZone_LuigiEvent004",
-    "original": "何やってんだよ、[color:02]ボク[color:00]！[wait:001e]\n[color:03]宇宙[color:00]の運命が　かかってるんだろ？！\f\n[icon:0007][color:01]パワースター　[color:00]これ持って　早く帰ろう！　はい！",
-    "translation": "何やってんだよ、[color:02]ボク[color:00]！[wait:001e]\n[color:03]宇宙[color:00]の運命が　かかってるんだろ？！\f\n[icon:0007][color:01]パワースター　[color:00]これ持って　早く帰ろう！　はい！"
+    "original": "何やってんだよ、[color:02]ボク[color:00]！[wait:001e]\n[color:03]宇宙[color:00]の運命が　かかってるんだろ？！\\f\n[icon:0007][color:01]パワースター　[color:00]これ持って　早く帰ろう！　はい！",
+    "translation": "何やってんだよ、[color:02]ボク[color:00]！[wait:001e]\n[color:03]宇宙[color:00]の運命が　かかってるんだろ？！\\f\n[icon:0007][color:01]パワースター　[color:00]これ持って　早く帰ろう！　はい！"
   },
   {
     "index": 419,
@@ -2584,8 +2584,8 @@
   {
     "index": 421,
     "key": "DiskGardenZone_SignBoard001",
-    "original": "もし、つかれて　[color:03]天文台[color:00]に帰りたかったら、\n[icon:0040]を　押しましょう\f\n[color:03]「天文台に帰る」[color:00]を選ぶと　帰ることができます[wait:001e]\n[icon:000b][color:01]スターピース[color:00]は　[color:01]持って帰れない[color:00]から注意！",
-    "translation": "もし、つかれて　[color:03]天文台[color:00]に帰りたかったら、\n[icon:0040]を　押しましょう\f\n[color:03]「天文台に帰る」[color:00]を選ぶと　帰ることができます[wait:001e]\n[icon:000b][color:01]スターピース[color:00]は　[color:01]持って帰れない[color:00]から注意！"
+    "original": "もし、つかれて　[color:03]天文台[color:00]に帰りたかったら、\n[icon:0040]を　押しましょう\\f\n[color:03]「天文台に帰る」[color:00]を選ぶと　帰ることができます[wait:001e]\n[icon:000b][color:01]スターピース[color:00]は　[color:01]持って帰れない[color:00]から注意！",
+    "translation": "もし、つかれて　[color:03]天文台[color:00]に帰りたかったら、\n[icon:0040]を　押しましょう\\f\n[color:03]「天文台に帰る」[color:00]を選ぶと　帰ることができます[wait:001e]\n[icon:000b][color:01]スターピース[color:00]は　[color:01]持って帰れない[color:00]から注意！"
   },
   {
     "index": 422,
@@ -2597,8 +2597,8 @@
   {
     "index": 423,
     "key": "DiskGardenZone_Tico001",
-    "original": "ギャラクシーに落ちている　[icon:000b][color:01]スターピース[color:00]は\n[icon:000a][color:01]ポインター[color:00]で[color:03]触れるだけ[color:00]で集められます\f\n[color:01]50個[color:00]で[color:02]1UP[color:00]しますし、貯めて損はありません！[wait:001e]\nさあ、[icon:0047]を[color:03]画面に向け[color:00]、集めまくってください\f\n画面　を　[color:01]直接タッチしても[color:00]集められます",
-    "translation": "ギャラクシーに落ちている　[icon:000b][color:01]スターピース[color:00]は\n[icon:000a][color:01]ポインター[color:00]で[color:03]触れるだけ[color:00]で集められます\f\n[color:01]50個[color:00]で[color:02]1UP[color:00]しますし、貯めて損はありません！[wait:001e]\nさあ、[icon:0047]を[color:03]画面に向け[color:00]、集めまくってください\f\n画面　を　[color:01]直接タッチしても[color:00]集められます"
+    "original": "ギャラクシーに落ちている　[icon:000b][color:01]スターピース[color:00]は\n[icon:000a][color:01]ポインター[color:00]で[color:03]触れるだけ[color:00]で集められます\\f\n[color:01]50個[color:00]で[color:02]1UP[color:00]しますし、貯めて損はありません！[wait:001e]\nさあ、[icon:0047]を[color:03]画面に向け[color:00]、集めまくってください\\f\n画面　を　[color:01]直接タッチしても[color:00]集められます",
+    "translation": "ギャラクシーに落ちている　[icon:000b][color:01]スターピース[color:00]は\n[icon:000a][color:01]ポインター[color:00]で[color:03]触れるだけ[color:00]で集められます\\f\n[color:01]50個[color:00]で[color:02]1UP[color:00]しますし、貯めて損はありません！[wait:001e]\nさあ、[icon:0047]を[color:03]画面に向け[color:00]、集めまくってください\\f\n画面　を　[color:01]直接タッチしても[color:00]集められます"
   },
   {
     "index": 424,
@@ -2609,8 +2609,8 @@
   {
     "index": 425,
     "key": "DiskGardenZone_Tico003",
-    "original": "この先に　[color:03]食いしんぼう[color:00]な仲間が　いるんです…[wait:001e]\nよければ、彼の願いを　聞いてくれませんか？\f\n先に行くには[icon:0009]と[icon:0008]で向かってください！\n[icon:0044]携帯モードなら [color:01]タッチで操作[color:00]できます！",
-    "translation": "この先に　[color:03]食いしんぼう[color:00]な仲間が　いるんです…[wait:001e]\nよければ、彼の願いを　聞いてくれませんか？\f\n先に行くには[icon:0009]と[icon:0008]で向かってください！\n[icon:0044]携帯モードなら [color:01]タッチで操作[color:00]できます！"
+    "original": "この先に　[color:03]食いしんぼう[color:00]な仲間が　いるんです…[wait:001e]\nよければ、彼の願いを　聞いてくれませんか？\\f\n先に行くには[icon:0009]と[icon:0008]で向かってください！\n[icon:0044]携帯モードなら [color:01]タッチで操作[color:00]できます！",
+    "translation": "この先に　[color:03]食いしんぼう[color:00]な仲間が　いるんです…[wait:001e]\nよければ、彼の願いを　聞いてくれませんか？\\f\n先に行くには[icon:0009]と[icon:0008]で向かってください！\n[icon:0044]携帯モードなら [color:01]タッチで操作[color:00]できます！"
   },
   {
     "index": 426,
@@ -2628,8 +2628,8 @@
   {
     "index": 428,
     "key": "DiskGardenZone_Tico006",
-    "original": "知ってますか？！[wait:001e]\n[icon:000b][color:01]スターピース[color:00]は[icon:003f]で撃てるんです！\f\n[icon:000a][color:01]ポインター[color:00]で　標的をじっくり狙って[icon:003f]！[wait:001e]\n[color:03]気絶[color:00]してる間に[color:01]体当たり[color:00]して、[color:03]敵[color:00]を　けちらして！",
-    "translation": "知ってますか？！[wait:001e]\n[icon:000b][color:01]スターピース[color:00]は[icon:003f]で撃てるんです！\f\n[icon:000a][color:01]ポインター[color:00]で　標的をじっくり狙って[icon:003f]！[wait:001e]\n[color:03]気絶[color:00]してる間に[color:01]体当たり[color:00]して、[color:03]敵[color:00]を　けちらして！"
+    "original": "知ってますか？！[wait:001e]\n[icon:000b][color:01]スターピース[color:00]は[icon:003f]で撃てるんです！\\f\n[icon:000a][color:01]ポインター[color:00]で　標的をじっくり狙って[icon:003f]！[wait:001e]\n[color:03]気絶[color:00]してる間に[color:01]体当たり[color:00]して、[color:03]敵[color:00]を　けちらして！",
+    "translation": "知ってますか？！[wait:001e]\n[icon:000b][color:01]スターピース[color:00]は[icon:003f]で撃てるんです！\\f\n[icon:000a][color:01]ポインター[color:00]で　標的をじっくり狙って[icon:003f]！[wait:001e]\n[color:03]気絶[color:00]してる間に[color:01]体当たり[color:00]して、[color:03]敵[color:00]を　けちらして！"
   },
   {
     "index": 429,
@@ -2678,8 +2678,8 @@
   {
     "index": 436,
     "key": "ElectricBegomanSpikeZone_Tico006",
-    "original": "あっ、ありがとうございます！[wait:001e]\nお礼に、[color:03]近道[color:00]に案内しますね！\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！",
-    "translation": "あっ、ありがとうございます！[wait:001e]\nお礼に、[color:03]近道[color:00]に案内しますね！\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！"
+    "original": "あっ、ありがとうございます！[wait:001e]\nお礼に、[color:03]近道[color:00]に案内しますね！\\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！",
+    "translation": "あっ、ありがとうございます！[wait:001e]\nお礼に、[color:03]近道[color:00]に案内しますね！\\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！"
   },
   {
     "index": 437,
@@ -2691,14 +2691,14 @@
   {
     "index": 438,
     "key": "EpilogueDemoStage_Rosetta001",
-    "original": "星の赤ちゃんが、産まれたわ\f\nこの子達は、いずれ新しい銀河になるでしょう",
-    "translation": "星の赤ちゃんが、産まれたわ\f\nこの子達は、いずれ新しい銀河になるでしょう"
+    "original": "星の赤ちゃんが、産まれたわ\\f\nこの子達は、いずれ新しい銀河になるでしょう",
+    "translation": "星の赤ちゃんが、産まれたわ\\f\nこの子達は、いずれ新しい銀河になるでしょう"
   },
   {
     "index": 439,
     "key": "EpilogueDemoStage_Rosetta002",
-    "original": "星は、命が終わると、砕け散り星くずになる…\f\nそれが集まって、また星に…\f\n命は　くり返します",
-    "translation": "星は、命が終わると、砕け散り星くずになる…\f\nそれが集まって、また星に…\f\n命は　くり返します"
+    "original": "星は、命が終わると、砕け散り星くずになる…\\f\nそれが集まって、また星に…\\f\n命は　くり返します",
+    "translation": "星は、命が終わると、砕け散り星くずになる…\\f\nそれが集まって、また星に…\\f\n命は　くり返します"
   },
   {
     "index": 440,
@@ -2777,8 +2777,8 @@
   {
     "index": 452,
     "key": "FloaterLandZone_Caretaker001",
-    "original": "ここは　かつての水上要塞、[color:03]フローターランド[color:00]\f\nでも、今は　誰にも使われてへんから\nウチらが　管理してますねん",
-    "translation": "ここは　かつての水上要塞、[color:03]フローターランド[color:00]\f\nでも、今は　誰にも使われてへんから\nウチらが　管理してますねん"
+    "original": "ここは　かつての水上要塞、[color:03]フローターランド[color:00]\\f\nでも、今は　誰にも使われてへんから\nウチらが　管理してますねん",
+    "translation": "ここは　かつての水上要塞、[color:03]フローターランド[color:00]\\f\nでも、今は　誰にも使われてへんから\nウチらが　管理してますねん"
   },
   {
     "index": 453,
@@ -2857,14 +2857,14 @@
   {
     "index": 465,
     "key": "FloaterOtaKingGalaxy_KoopaJr000",
-    "original": "これ以上[icon:001b][color:01]グランドスター[color:00]を　わたすと\nお父さんに　大目玉くらっちまう…\f\nこうなったら　最終兵器！[wait:001e]\n行けー！　ボクの　[color:01]オタキング[color:00]！！",
-    "translation": "これ以上[icon:001b][color:01]グランドスター[color:00]を　わたすと\nお父さんに　大目玉くらっちまう…\f\nこうなったら　最終兵器！[wait:001e]\n行けー！　ボクの　[color:01]オタキング[color:00]！！"
+    "original": "これ以上[icon:001b][color:01]グランドスター[color:00]を　わたすと\nお父さんに　大目玉くらっちまう…\\f\nこうなったら　最終兵器！[wait:001e]\n行けー！　ボクの　[color:01]オタキング[color:00]！！",
+    "translation": "これ以上[icon:001b][color:01]グランドスター[color:00]を　わたすと\nお父さんに　大目玉くらっちまう…\\f\nこうなったら　最終兵器！[wait:001e]\n行けー！　ボクの　[color:01]オタキング[color:00]！！"
   },
   {
     "index": 466,
     "key": "FlowerRoadZone_HoneyBee000",
-    "original": "[color:03]花のクキ[color:00]につかまったら\n[icon:0047][color:01]ふってクルクル[color:00]であります\f\n[icon:003b][color:01]でもクルクル[color:00]できるであります",
-    "translation": "[color:03]花のクキ[color:00]につかまったら\n[icon:0047][color:01]ふってクルクル[color:00]であります\f\n[icon:003b][color:01]でもクルクル[color:00]できるであります"
+    "original": "[color:03]花のクキ[color:00]につかまったら\n[icon:0047][color:01]ふってクルクル[color:00]であります\\f\n[icon:003b][color:01]でもクルクル[color:00]できるであります",
+    "translation": "[color:03]花のクキ[color:00]につかまったら\n[icon:0047][color:01]ふってクルクル[color:00]であります\\f\n[icon:003b][color:01]でもクルクル[color:00]できるであります"
   },
   {
     "index": 467,
@@ -3193,8 +3193,8 @@
   {
     "index": 519,
     "key": "ForestHomeZone_HoneyQueen001",
-    "original": "[color:01]おとなりさん[color:00]が　また\nいやがらせを　しにきたの…\f\nアナタ、あちらのかたと\n話をつけてくださらない？",
-    "translation": "[color:01]おとなりさん[color:00]が　また\nいやがらせを　しにきたの…\f\nアナタ、あちらのかたと\n話をつけてくださらない？"
+    "original": "[color:01]おとなりさん[color:00]が　また\nいやがらせを　しにきたの…\\f\nアナタ、あちらのかたと\n話をつけてくださらない？",
+    "translation": "[color:01]おとなりさん[color:00]が　また\nいやがらせを　しにきたの…\\f\nアナタ、あちらのかたと\n話をつけてくださらない？"
   },
   {
     "index": 520,
@@ -3206,14 +3206,14 @@
   {
     "index": 521,
     "key": "ForestHomeZone_Kinopio001",
-    "original": "あーーっ！！　[unk5:00]さんじゃないですかー！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\n[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわで…\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\f\nこれから　きっと　必要になると思うので\n持っててください！",
-    "translation": "あーーっ！！　[unk5:00]さんじゃないですかー！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\n[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわで…\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\f\nこれから　きっと　必要になると思うので\n持っててください！"
+    "original": "あーーっ！！　[unk5:00]さんじゃないですかー！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\n[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわで…\\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\\f\nこれから　きっと　必要になると思うので\n持っててください！",
+    "translation": "あーーっ！！　[unk5:00]さんじゃないですかー！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\n[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわで…\\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\\f\nこれから　きっと　必要になると思うので\n持っててください！"
   },
   {
     "index": 522,
     "key": "ForestHomeZone_Kinopio002",
-    "original": "[unk1][unk4:0002]ギャーー！　ハチーー！！\f\n…あれ？！　[unk5:00]さん？　…ですよね！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\n[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわで…\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\f\nこれから　きっと　必要になると思うので\n持っててください！",
-    "translation": "[unk1][unk4:0002]ギャーー！　ハチーー！！\f\n…あれ？！　[unk5:00]さん？　…ですよね！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\n[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわで…\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\f\nこれから　きっと　必要になると思うので\n持っててください！"
+    "original": "[unk1][unk4:0002]ギャーー！　ハチーー！！\\f\n…あれ？！　[unk5:00]さん？　…ですよね！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\n[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわで…\\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\\f\nこれから　きっと　必要になると思うので\n持っててください！",
+    "translation": "[unk1][unk4:0002]ギャーー！　ハチーー！！\\f\n…あれ？！　[unk5:00]さん？　…ですよね！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\n[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわで…\\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\\f\nこれから　きっと　必要になると思うので\n持っててください！"
   },
   {
     "index": 523,
@@ -3242,14 +3242,14 @@
   {
     "index": 527,
     "key": "ForestHomeZone_Kinopio009",
-    "original": "あーーっ！！　[unk5:00]さんじゃないですかー！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\nもう一人の[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわ…\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\f\nこれから　きっと　必要になると思うので\n持っててください！",
-    "translation": "あーーっ！！　[unk5:00]さんじゃないですかー！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\nもう一人の[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわ…\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\f\nこれから　きっと　必要になると思うので\n持っててください！"
+    "original": "あーーっ！！　[unk5:00]さんじゃないですかー！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\nもう一人の[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわ…\\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\\f\nこれから　きっと　必要になると思うので\n持っててください！",
+    "translation": "あーーっ！！　[unk5:00]さんじゃないですかー！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\nもう一人の[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわ…\\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\\f\nこれから　きっと　必要になると思うので\n持っててください！"
   },
   {
     "index": 528,
     "key": "ForestHomeZone_Kinopio010",
-    "original": "[unk1][unk4:0002]ギャーー！　ハチーー！！\f\n…あれ？！　[unk5:00]さん？　…ですよね！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\nもう一人の[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわ…\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\f\nこれから　きっと　必要になると思うので\n持っててください！",
-    "translation": "[unk1][unk4:0002]ギャーー！　ハチーー！！\f\n…あれ？！　[unk5:00]さん？　…ですよね！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\nもう一人の[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわ…\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\f\nこれから　きっと　必要になると思うので\n持っててください！"
+    "original": "[unk1][unk4:0002]ギャーー！　ハチーー！！\\f\n…あれ？！　[unk5:00]さん？　…ですよね！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\nもう一人の[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわ…\\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\\f\nこれから　きっと　必要になると思うので\n持っててください！",
+    "translation": "[unk1][unk4:0002]ギャーー！　ハチーー！！\\f\n…あれ？！　[unk5:00]さん？　…ですよね！[wait:001e]\nワタシ達も　[color:03]ピーチ城[color:00]を脱出したんです！\\f\nでも　逃げる途中で、[color:01]クッパ[color:00]に　やられるわ、\nもう一人の[icon:001c][color:02]ルイージ[color:00]さんと　はぐれるわ…\\f\n………あ！　そうだ！[wait:001e]\n[icon:0007][color:01]パワースター[color:00]を見つけたんですよ！\\f\nこれから　きっと　必要になると思うので\n持っててください！"
   },
   {
     "index": 529,
@@ -3267,26 +3267,26 @@
   {
     "index": 531,
     "key": "ForestHomeZone_LuigiEvent001",
-    "original": "イテテテテ………[wait:001e]\nあっ！　兄さん！\f\nデカい虫は　もういなくなった？[wait:001e]\nじゃ、[icon:0007][color:01]パワースター[color:00]持って　早く帰ろう！",
-    "translation": "イテテテテ………[wait:001e]\nあっ！　兄さん！\f\nデカい虫は　もういなくなった？[wait:001e]\nじゃ、[icon:0007][color:01]パワースター[color:00]持って　早く帰ろう！"
+    "original": "イテテテテ………[wait:001e]\nあっ！　兄さん！\\f\nデカい虫は　もういなくなった？[wait:001e]\nじゃ、[icon:0007][color:01]パワースター[color:00]持って　早く帰ろう！",
+    "translation": "イテテテテ………[wait:001e]\nあっ！　兄さん！\\f\nデカい虫は　もういなくなった？[wait:001e]\nじゃ、[icon:0007][color:01]パワースター[color:00]持って　早く帰ろう！"
   },
   {
     "index": 532,
     "key": "ForestHomeZone_LuigiEvent002",
-    "original": "イテテテテ………[wait:001e]\nあっ！　[color:02]ボク[color:00]！\f\nデカい虫は　もういなくなった？[wait:001e]\nじゃ、[icon:0007][color:01]パワースター[color:00]持って　早く帰ろう！",
-    "translation": "イテテテテ………[wait:001e]\nあっ！　[color:02]ボク[color:00]！\f\nデカい虫は　もういなくなった？[wait:001e]\nじゃ、[icon:0007][color:01]パワースター[color:00]持って　早く帰ろう！"
+    "original": "イテテテテ………[wait:001e]\nあっ！　[color:02]ボク[color:00]！\\f\nデカい虫は　もういなくなった？[wait:001e]\nじゃ、[icon:0007][color:01]パワースター[color:00]持って　早く帰ろう！",
+    "translation": "イテテテテ………[wait:001e]\nあっ！　[color:02]ボク[color:00]！\\f\nデカい虫は　もういなくなった？[wait:001e]\nじゃ、[icon:0007][color:01]パワースター[color:00]持って　早く帰ろう！"
   },
   {
     "index": 533,
     "key": "ForestHomeZone_LuigiEvent003",
-    "original": "イテテテテ………\nあっ、兄さん！\f\nそんなことより　大丈夫？\n兄さんの悲鳴が　聞こえたような気がしたけど…\f\nじゃあ　はい、[icon:0007][color:01]パワースター[color:00]だよ[color:01]\n[color:00]虫は　もうたくさん！　早く帰ろう！",
-    "translation": "イテテテテ………\nあっ、兄さん！\f\nそんなことより　大丈夫？\n兄さんの悲鳴が　聞こえたような気がしたけど…\f\nじゃあ　はい、[icon:0007][color:01]パワースター[color:00]だよ[color:01]\n[color:00]虫は　もうたくさん！　早く帰ろう！"
+    "original": "イテテテテ………\nあっ、兄さん！\\f\nそんなことより　大丈夫？\n兄さんの悲鳴が　聞こえたような気がしたけど…\\f\nじゃあ　はい、[icon:0007][color:01]パワースター[color:00]だよ[color:01]\n[color:00]虫は　もうたくさん！　早く帰ろう！",
+    "translation": "イテテテテ………\nあっ、兄さん！\\f\nそんなことより　大丈夫？\n兄さんの悲鳴が　聞こえたような気がしたけど…\\f\nじゃあ　はい、[icon:0007][color:01]パワースター[color:00]だよ[color:01]\n[color:00]虫は　もうたくさん！　早く帰ろう！"
   },
   {
     "index": 534,
     "key": "ForestHomeZone_LuigiEvent004",
-    "original": "イテテテテ………\nあっ、[color:02]ボク[color:00]！\f\nそんなことより　大丈夫？\n[color:02]ボク[color:00]の悲鳴が　聞こえたような気がしたけど…\f\nじゃあ　はい、[icon:0007][color:01]パワースター[color:00]だよ[color:01]\n[color:00]虫は　もうたくさん！　早く帰ろう！",
-    "translation": "イテテテテ………\nあっ、[color:02]ボク[color:00]！\f\nそんなことより　大丈夫？\n[color:02]ボク[color:00]の悲鳴が　聞こえたような気がしたけど…\f\nじゃあ　はい、[icon:0007][color:01]パワースター[color:00]だよ[color:01]\n[color:00]虫は　もうたくさん！　早く帰ろう！"
+    "original": "イテテテテ………\nあっ、[color:02]ボク[color:00]！\\f\nそんなことより　大丈夫？\n[color:02]ボク[color:00]の悲鳴が　聞こえたような気がしたけど…\\f\nじゃあ　はい、[icon:0007][color:01]パワースター[color:00]だよ[color:01]\n[color:00]虫は　もうたくさん！　早く帰ろう！",
+    "translation": "イテテテテ………\nあっ、[color:02]ボク[color:00]！\\f\nそんなことより　大丈夫？\n[color:02]ボク[color:00]の悲鳴が　聞こえたような気がしたけど…\\f\nじゃあ　はい、[icon:0007][color:01]パワースター[color:00]だよ[color:01]\n[color:00]虫は　もうたくさん！　早く帰ろう！"
   },
   {
     "index": 535,
@@ -3310,8 +3310,8 @@
   {
     "index": 538,
     "key": "ForestHomeZone_SignBoard004",
-    "original": "ヘイ！　オレの名前は　[color:03]ケイジ・バーン[color:00]！[wait:001e]\nここの　[color:03]カベ[color:00]を登りたいなら聞きな\f\nジャンプ中に　[color:03]カベ[color:00]にくっついたら、\n[icon:0039]を押して　[color:01]カベキック[color:00]！\f\n連続で　[color:01]カベキック[color:00]すると\nすごく高いところまで　登れるから、覚えときな！",
-    "translation": "ヘイ！　オレの名前は　[color:03]ケイジ・バーン[color:00]！[wait:001e]\nここの　[color:03]カベ[color:00]を登りたいなら聞きな\f\nジャンプ中に　[color:03]カベ[color:00]にくっついたら、\n[icon:0039]を押して　[color:01]カベキック[color:00]！\f\n連続で　[color:01]カベキック[color:00]すると\nすごく高いところまで　登れるから、覚えときな！"
+    "original": "ヘイ！　オレの名前は　[color:03]ケイジ・バーン[color:00]！[wait:001e]\nここの　[color:03]カベ[color:00]を登りたいなら聞きな\\f\nジャンプ中に　[color:03]カベ[color:00]にくっついたら、\n[icon:0039]を押して　[color:01]カベキック[color:00]！\\f\n連続で　[color:01]カベキック[color:00]すると\nすごく高いところまで　登れるから、覚えときな！",
+    "translation": "ヘイ！　オレの名前は　[color:03]ケイジ・バーン[color:00]！[wait:001e]\nここの　[color:03]カベ[color:00]を登りたいなら聞きな\\f\nジャンプ中に　[color:03]カベ[color:00]にくっついたら、\n[icon:0039]を押して　[color:01]カベキック[color:00]！\\f\n連続で　[color:01]カベキック[color:00]すると\nすごく高いところまで　登れるから、覚えときな！"
   },
   {
     "index": 539,
@@ -3379,8 +3379,8 @@
   {
     "index": 549,
     "key": "GCaptureTutorialZone_Kinopio009",
-    "original": "ぱんぱかぱーん！　[unk5:01]！[wait:001e]\n[color:03]キノピオ探検隊[color:00]が　お手伝いに来ましたよ～！\f\n[icon:0007][color:01]パワースター[color:00]への近道を　発見しましたので、\n[color:03]この上[color:00]の　[icon:0008][color:04]スターリング[color:00]を使ってください！",
-    "translation": "ぱんぱかぱーん！　[unk5:01]！[wait:001e]\n[color:03]キノピオ探検隊[color:00]が　お手伝いに来ましたよ～！\f\n[icon:0007][color:01]パワースター[color:00]への近道を　発見しましたので、\n[color:03]この上[color:00]の　[icon:0008][color:04]スターリング[color:00]を使ってください！"
+    "original": "ぱんぱかぱーん！　[unk5:01]！[wait:001e]\n[color:03]キノピオ探検隊[color:00]が　お手伝いに来ましたよ～！\\f\n[icon:0007][color:01]パワースター[color:00]への近道を　発見しましたので、\n[color:03]この上[color:00]の　[icon:0008][color:04]スターリング[color:00]を使ってください！",
+    "translation": "ぱんぱかぱーん！　[unk5:01]！[wait:001e]\n[color:03]キノピオ探検隊[color:00]が　お手伝いに来ましたよ～！\\f\n[icon:0007][color:01]パワースター[color:00]への近道を　発見しましたので、\n[color:03]この上[color:00]の　[icon:0008][color:04]スターリング[color:00]を使ってください！"
   },
   {
     "index": 550,
@@ -4096,8 +4096,8 @@
   {
     "index": 668,
     "key": "GhostShipCaveZone_Kinopio014",
-    "original": "中心のスイカに\n[icon:0007][color:01]パワースター[color:00]が　かくれてます！\f\nあの　スイカに　[color:03]ヒップドロップ[color:00]で\n[color:04]テニスボール[color:00]を当てて　こわしてください！",
-    "translation": "中心のスイカに\n[icon:0007][color:01]パワースター[color:00]が　かくれてます！\f\nあの　スイカに　[color:03]ヒップドロップ[color:00]で\n[color:04]テニスボール[color:00]を当てて　こわしてください！"
+    "original": "中心のスイカに\n[icon:0007][color:01]パワースター[color:00]が　かくれてます！\\f\nあの　スイカに　[color:03]ヒップドロップ[color:00]で\n[color:04]テニスボール[color:00]を当てて　こわしてください！",
+    "translation": "中心のスイカに\n[icon:0007][color:01]パワースター[color:00]が　かくれてます！\\f\nあの　スイカに　[color:03]ヒップドロップ[color:00]で\n[color:04]テニスボール[color:00]を当てて　こわしてください！"
   },
   {
     "index": 669,
@@ -4164,8 +4164,8 @@
   {
     "index": 679,
     "key": "GhostShipCaveZone_Kinopio025",
-    "original": "中心のスイカに\n[icon:0007][color:01]パワースター[color:00]が　かくれてます！\f\nあの　スイカに　[color:03]ヒップドロップ[color:00]で\n[color:04]テニスボール[color:00]を当てて　こわしてください！",
-    "translation": "中心のスイカに\n[icon:0007][color:01]パワースター[color:00]が　かくれてます！\f\nあの　スイカに　[color:03]ヒップドロップ[color:00]で\n[color:04]テニスボール[color:00]を当てて　こわしてください！"
+    "original": "中心のスイカに\n[icon:0007][color:01]パワースター[color:00]が　かくれてます！\\f\nあの　スイカに　[color:03]ヒップドロップ[color:00]で\n[color:04]テニスボール[color:00]を当てて　こわしてください！",
+    "translation": "中心のスイカに\n[icon:0007][color:01]パワースター[color:00]が　かくれてます！\\f\nあの　スイカに　[color:03]ヒップドロップ[color:00]で\n[color:04]テニスボール[color:00]を当てて　こわしてください！"
   },
   {
     "index": 680,
@@ -4207,8 +4207,8 @@
   {
     "index": 686,
     "key": "GhostShipCaveZone_Kinopio045",
-    "original": "こんなところに　[color:03]幽霊船[color:00]が！\f\nここに　オバケがいたら　ワタシが\n退治してやるんですが…　いやぁ、残念です～！",
-    "translation": "こんなところに　[color:03]幽霊船[color:00]が！\f\nここに　オバケがいたら　ワタシが\n退治してやるんですが…　いやぁ、残念です～！"
+    "original": "こんなところに　[color:03]幽霊船[color:00]が！\\f\nここに　オバケがいたら　ワタシが\n退治してやるんですが…　いやぁ、残念です～！",
+    "translation": "こんなところに　[color:03]幽霊船[color:00]が！\\f\nここに　オバケがいたら　ワタシが\n退治してやるんですが…　いやぁ、残念です～！"
   },
   {
     "index": 687,
@@ -4243,8 +4243,8 @@
   {
     "index": 692,
     "key": "GhostShipCaveZone_SyatiRing000",
-    "original": "ケッ…[wait:001e]　ニンゲンのクセに　いまいましい！\f\n[color:03]海[color:00]を返して欲しいなら、\n[color:01]リングを８つ[color:00]、くぐってみな！",
-    "translation": "ケッ…[wait:001e]　ニンゲンのクセに　いまいましい！\f\n[color:03]海[color:00]を返して欲しいなら、\n[color:01]リングを８つ[color:00]、くぐってみな！"
+    "original": "ケッ…[wait:001e]　ニンゲンのクセに　いまいましい！\\f\n[color:03]海[color:00]を返して欲しいなら、\n[color:01]リングを８つ[color:00]、くぐってみな！",
+    "translation": "ケッ…[wait:001e]　ニンゲンのクセに　いまいましい！\\f\n[color:03]海[color:00]を返して欲しいなら、\n[color:01]リングを８つ[color:00]、くぐってみな！"
   },
   {
     "index": 693,
@@ -4674,8 +4674,8 @@
   {
     "index": 763,
     "key": "HeavenlyBeachZone_PenguinCoach002",
-    "original": "お！　本当に取ってくるとは思わなかったよ！\f\nじゃ、でっかい[color:04]金メダル[color:00]をやろう",
-    "translation": "お！　本当に取ってくるとは思わなかったよ！\f\nじゃ、でっかい[color:04]金メダル[color:00]をやろう"
+    "original": "お！　本当に取ってくるとは思わなかったよ！\\f\nじゃ、でっかい[color:04]金メダル[color:00]をやろう",
+    "translation": "お！　本当に取ってくるとは思わなかったよ！\\f\nじゃ、でっかい[color:04]金メダル[color:00]をやろう"
   },
   {
     "index": 764,
@@ -4874,8 +4874,8 @@
   {
     "index": 795,
     "key": "HeavensBlackHoleZone_Tico001",
-    "original": "お待ちしてましたー！！[wait:001e]\n[icon:0008][color:01]スターリング[color:00]用意しました！！\f\nけど　隕石に当たって　コナゴナに…[wait:001e]\nこれじゃ　星から飛び出せませ～ん！\f\n[icon:0015][color:01]カケラ[color:00]は　どこだ～？[wait:001e]\n[color:03]足元[color:00]に気をつけながら　探してください！",
-    "translation": "お待ちしてましたー！！[wait:001e]\n[icon:0008][color:01]スターリング[color:00]用意しました！！\f\nけど　隕石に当たって　コナゴナに…[wait:001e]\nこれじゃ　星から飛び出せませ～ん！\f\n[icon:0015][color:01]カケラ[color:00]は　どこだ～？[wait:001e]\n[color:03]足元[color:00]に気をつけながら　探してください！"
+    "original": "お待ちしてましたー！！[wait:001e]\n[icon:0008][color:01]スターリング[color:00]用意しました！！\\f\nけど　隕石に当たって　コナゴナに…[wait:001e]\nこれじゃ　星から飛び出せませ～ん！\\f\n[icon:0015][color:01]カケラ[color:00]は　どこだ～？[wait:001e]\n[color:03]足元[color:00]に気をつけながら　探してください！",
+    "translation": "お待ちしてましたー！！[wait:001e]\n[icon:0008][color:01]スターリング[color:00]用意しました！！\\f\nけど　隕石に当たって　コナゴナに…[wait:001e]\nこれじゃ　星から飛び出せませ～ん！\\f\n[icon:0015][color:01]カケラ[color:00]は　どこだ～？[wait:001e]\n[color:03]足元[color:00]に気をつけながら　探してください！"
   },
   {
     "index": 796,
@@ -4936,8 +4936,8 @@
   {
     "index": 805,
     "key": "HeavensDoorInsideZone_Tico005",
-    "original": "このままでは　[icon:001b][color:01]グランドスター[color:00]が\n死んでしまいます！！\f\nどうか　[color:01]マシン[color:00]を止めてください！！",
-    "translation": "このままでは　[icon:001b][color:01]グランドスター[color:00]が\n死んでしまいます！！\f\nどうか　[color:01]マシン[color:00]を止めてください！！"
+    "original": "このままでは　[icon:001b][color:01]グランドスター[color:00]が\n死んでしまいます！！\\f\nどうか　[color:01]マシン[color:00]を止めてください！！",
+    "translation": "このままでは　[icon:001b][color:01]グランドスター[color:00]が\n死んでしまいます！！\\f\nどうか　[color:01]マシン[color:00]を止めてください！！"
   },
   {
     "index": 806,
@@ -5035,8 +5035,8 @@
   {
     "index": 821,
     "key": "HeavensDoorMysteriousZone_DemoRabbit003",
-    "original": "オニごっこ　しようよ\f\n[color:01]みんな[color:00]を　つかまえられたら、\nここがどこか　教えてあげる",
-    "translation": "オニごっこ　しようよ\f\n[color:01]みんな[color:00]を　つかまえられたら、\nここがどこか　教えてあげる"
+    "original": "オニごっこ　しようよ\\f\n[color:01]みんな[color:00]を　つかまえられたら、\nここがどこか　教えてあげる",
+    "translation": "オニごっこ　しようよ\\f\n[color:01]みんな[color:00]を　つかまえられたら、\nここがどこか　教えてあげる"
   },
   {
     "index": 822,
@@ -5054,8 +5054,8 @@
   {
     "index": 824,
     "key": "HeavensDoorMysteriousZone_Rosetta002",
-    "original": "わたしの名は　[color:01]ロゼッタ[color:00]…　星を観る者\f\n[color:01]大切な人[color:00]を　取り戻すには\n星々をわたる力が　必要です",
-    "translation": "わたしの名は　[color:01]ロゼッタ[color:00]…　星を観る者\f\n[color:01]大切な人[color:00]を　取り戻すには\n星々をわたる力が　必要です"
+    "original": "わたしの名は　[color:01]ロゼッタ[color:00]…　星を観る者\\f\n[color:01]大切な人[color:00]を　取り戻すには\n星々をわたる力が　必要です",
+    "translation": "わたしの名は　[color:01]ロゼッタ[color:00]…　星を観る者\\f\n[color:01]大切な人[color:00]を　取り戻すには\n星々をわたる力が　必要です"
   },
   {
     "index": 825,
@@ -5066,8 +5066,8 @@
   {
     "index": 826,
     "key": "HeavensDoorMysteriousZone_Rosetta004",
-    "original": "あなたと同じく\nわたし達にも　災いが　ふりかかりました…\f\nその[color:01]星の子[color:00]と共に、どうか　わたし達の仲間、\n[icon:001b][color:01]グランドスター[color:00]を　お救いください\f\n星くずの恵みが　あらんことを…",
-    "translation": "あなたと同じく\nわたし達にも　災いが　ふりかかりました…\f\nその[color:01]星の子[color:00]と共に、どうか　わたし達の仲間、\n[icon:001b][color:01]グランドスター[color:00]を　お救いください\f\n星くずの恵みが　あらんことを…"
+    "original": "あなたと同じく\nわたし達にも　災いが　ふりかかりました…\\f\nその[color:01]星の子[color:00]と共に、どうか　わたし達の仲間、\n[icon:001b][color:01]グランドスター[color:00]を　お救いください\\f\n星くずの恵みが　あらんことを…",
+    "translation": "あなたと同じく\nわたし達にも　災いが　ふりかかりました…\\f\nその[color:01]星の子[color:00]と共に、どうか　わたし達の仲間、\n[icon:001b][color:01]グランドスター[color:00]を　お救いください\\f\n星くずの恵みが　あらんことを…"
   },
   {
     "index": 827,
@@ -5079,8 +5079,8 @@
   {
     "index": 828,
     "key": "HeavensDoorMysteriousZone_Rosetta101",
-    "original": "…この星は\f\nとても　なつかしい　においがするのです",
-    "translation": "…この星は\f\nとても　なつかしい　においがするのです"
+    "original": "…この星は\\f\nとても　なつかしい　においがするのです",
+    "translation": "…この星は\\f\nとても　なつかしい　においがするのです"
   },
   {
     "index": 829,
@@ -5091,8 +5091,8 @@
   {
     "index": 830,
     "key": "HeavensDoorMysteriousZone_Rosetta103",
-    "original": "あなたの中にいる[color:01]チコ[color:00]も\nいずれ成長し[color:01]「星」[color:00]になります\f\nあるものは惑星になり…あるものは太陽に\f\nそして　あるものは　[icon:0007][color:01]パワースター[color:00]になります",
-    "translation": "あなたの中にいる[color:01]チコ[color:00]も\nいずれ成長し[color:01]「星」[color:00]になります\f\nあるものは惑星になり…あるものは太陽に\f\nそして　あるものは　[icon:0007][color:01]パワースター[color:00]になります"
+    "original": "あなたの中にいる[color:01]チコ[color:00]も\nいずれ成長し[color:01]「星」[color:00]になります\\f\nあるものは惑星になり…あるものは太陽に\\f\nそして　あるものは　[icon:0007][color:01]パワースター[color:00]になります",
+    "translation": "あなたの中にいる[color:01]チコ[color:00]も\nいずれ成長し[color:01]「星」[color:00]になります\\f\nあるものは惑星になり…あるものは太陽に\\f\nそして　あるものは　[icon:0007][color:01]パワースター[color:00]になります"
   },
   {
     "index": 831,
@@ -5154,14 +5154,14 @@
   {
     "index": 840,
     "key": "HeavensDoorMysteriousZone_RunawayTico017",
-    "original": "突然　連れてきたりして\nゴメンナサイ…\f\nここは　[color:03]大地と宇宙を架ける星[color:00]…[wait:001e]\nワタシ達は　[color:01]天の扉[color:00]　と呼んでいます",
-    "translation": "突然　連れてきたりして\nゴメンナサイ…\f\nここは　[color:03]大地と宇宙を架ける星[color:00]…[wait:001e]\nワタシ達は　[color:01]天の扉[color:00]　と呼んでいます"
+    "original": "突然　連れてきたりして\nゴメンナサイ…\\f\nここは　[color:03]大地と宇宙を架ける星[color:00]…[wait:001e]\nワタシ達は　[color:01]天の扉[color:00]　と呼んでいます",
+    "translation": "突然　連れてきたりして\nゴメンナサイ…\\f\nここは　[color:03]大地と宇宙を架ける星[color:00]…[wait:001e]\nワタシ達は　[color:01]天の扉[color:00]　と呼んでいます"
   },
   {
     "index": 841,
     "key": "HeavensDoorMysteriousZone_RunawayTico018",
-    "original": "すご～い！　みんなつかまえたね！\f\nアナタなら　[color:01]ママ[color:00]の力に　なれるはず…",
-    "translation": "すご～い！　みんなつかまえたね！\f\nアナタなら　[color:01]ママ[color:00]の力に　なれるはず…"
+    "original": "すご～い！　みんなつかまえたね！\\f\nアナタなら　[color:01]ママ[color:00]の力に　なれるはず…",
+    "translation": "すご～い！　みんなつかまえたね！\\f\nアナタなら　[color:01]ママ[color:00]の力に　なれるはず…"
   },
   {
     "index": 842,
@@ -5197,8 +5197,8 @@
   {
     "index": 847,
     "key": "HeavensDoorMysteriousZone_Tico007",
-    "original": "こういう　[color:03]こわせそうなモノ[color:00]には\n[icon:0047]を[color:01]ふって[color:00]　[color:01]スピン！　[color:00]です！\f\n[color:01]スピン[color:00]を　敵に当てれば\n[color:03]気絶[color:00]させたりもできますよ！\f\nふれない時は[icon:003b]でも大丈夫！",
-    "translation": "こういう　[color:03]こわせそうなモノ[color:00]には\n[icon:0047]を[color:01]ふって[color:00]　[color:01]スピン！　[color:00]です！\f\n[color:01]スピン[color:00]を　敵に当てれば\n[color:03]気絶[color:00]させたりもできますよ！\f\nふれない時は[icon:003b]でも大丈夫！"
+    "original": "こういう　[color:03]こわせそうなモノ[color:00]には\n[icon:0047]を[color:01]ふって[color:00]　[color:01]スピン！　[color:00]です！\\f\n[color:01]スピン[color:00]を　敵に当てれば\n[color:03]気絶[color:00]させたりもできますよ！\\f\nふれない時は[icon:003b]でも大丈夫！",
+    "translation": "こういう　[color:03]こわせそうなモノ[color:00]には\n[icon:0047]を[color:01]ふって[color:00]　[color:01]スピン！　[color:00]です！\\f\n[color:01]スピン[color:00]を　敵に当てれば\n[color:03]気絶[color:00]させたりもできますよ！\\f\nふれない時は[icon:003b]でも大丈夫！"
   },
   {
     "index": 848,
@@ -5209,14 +5209,14 @@
   {
     "index": 849,
     "key": "HeavensDoorMysteriousZone_Tico009",
-    "original": "これは　[icon:0008][color:01]スターリング[color:00]と言って、\n星を飛び出すための　発射台です\f\nそばで[icon:0047][color:01]を　ふって[color:00]ください[wait:001e]\nあなたを星の旅に　いざないます\f\nふれない時は[icon:003b]でも大丈夫！\f\nさあ！　[color:01]銀河の世界[color:00]へ！！[wait:001e]\nご武運を　お祈りしております…",
-    "translation": "これは　[icon:0008][color:01]スターリング[color:00]と言って、\n星を飛び出すための　発射台です\f\nそばで[icon:0047][color:01]を　ふって[color:00]ください[wait:001e]\nあなたを星の旅に　いざないます\f\nふれない時は[icon:003b]でも大丈夫！\f\nさあ！　[color:01]銀河の世界[color:00]へ！！[wait:001e]\nご武運を　お祈りしております…"
+    "original": "これは　[icon:0008][color:01]スターリング[color:00]と言って、\n星を飛び出すための　発射台です\\f\nそばで[icon:0047][color:01]を　ふって[color:00]ください[wait:001e]\nあなたを星の旅に　いざないます\\f\nふれない時は[icon:003b]でも大丈夫！\\f\nさあ！　[color:01]銀河の世界[color:00]へ！！[wait:001e]\nご武運を　お祈りしております…",
+    "translation": "これは　[icon:0008][color:01]スターリング[color:00]と言って、\n星を飛び出すための　発射台です\\f\nそばで[icon:0047][color:01]を　ふって[color:00]ください[wait:001e]\nあなたを星の旅に　いざないます\\f\nふれない時は[icon:003b]でも大丈夫！\\f\nさあ！　[color:01]銀河の世界[color:00]へ！！[wait:001e]\nご武運を　お祈りしております…"
   },
   {
     "index": 850,
     "key": "HeavensDoorMysteriousZone_Tico010",
-    "original": "さあ！　[icon:0008][color:01]スターリング[color:00]に近づいて、\n[icon:0047][color:01]を　ふって[color:00]ください！\f\nふれない時は[icon:003b]でも！",
-    "translation": "さあ！　[icon:0008][color:01]スターリング[color:00]に近づいて、\n[icon:0047][color:01]を　ふって[color:00]ください！\f\nふれない時は[icon:003b]でも！"
+    "original": "さあ！　[icon:0008][color:01]スターリング[color:00]に近づいて、\n[icon:0047][color:01]を　ふって[color:00]ください！\\f\nふれない時は[icon:003b]でも！",
+    "translation": "さあ！　[icon:0008][color:01]スターリング[color:00]に近づいて、\n[icon:0047][color:01]を　ふって[color:00]ください！\\f\nふれない時は[icon:003b]でも！"
   },
   {
     "index": 851,
@@ -5228,8 +5228,8 @@
   {
     "index": 852,
     "key": "HeavensDoorMysteriousZone_Tico101",
-    "original": "フン…　アンタ、[wait:001e]\nちょっとは　ママから信用されてるようね\f\nじゃあ、これなら　どうかしら？",
-    "translation": "フン…　アンタ、[wait:001e]\nちょっとは　ママから信用されてるようね\f\nじゃあ、これなら　どうかしら？"
+    "original": "フン…　アンタ、[wait:001e]\nちょっとは　ママから信用されてるようね\\f\nじゃあ、これなら　どうかしら？",
+    "translation": "フン…　アンタ、[wait:001e]\nちょっとは　ママから信用されてるようね\\f\nじゃあ、これなら　どうかしら？"
   },
   {
     "index": 853,
@@ -5246,8 +5246,8 @@
   {
     "index": 855,
     "key": "HeavensDoorMysteriousZone_Tico104",
-    "original": "これは、アタイ達の力が宿る　[color:01]レッドスター[wait:001e][color:00]\n[color:03]空中でスピン[color:00]すれば[color:01]空を飛べる[color:00]し、\f\n[icon:0039]を押しながら[icon:0042]で\n進みたい[color:01]方向を決められる[color:00]わ\f\nこれで[icon:001e][color:05]パープルコイン　[color:01]100枚[color:00]取れたら、\nアタイも認めてあげる！",
-    "translation": "これは、アタイ達の力が宿る　[color:01]レッドスター[wait:001e][color:00]\n[color:03]空中でスピン[color:00]すれば[color:01]空を飛べる[color:00]し、\f\n[icon:0039]を押しながら[icon:0042]で\n進みたい[color:01]方向を決められる[color:00]わ\f\nこれで[icon:001e][color:05]パープルコイン　[color:01]100枚[color:00]取れたら、\nアタイも認めてあげる！"
+    "original": "これは、アタイ達の力が宿る　[color:01]レッドスター[wait:001e][color:00]\n[color:03]空中でスピン[color:00]すれば[color:01]空を飛べる[color:00]し、\\f\n[icon:0039]を押しながら[icon:0042]で\n進みたい[color:01]方向を決められる[color:00]わ\\f\nこれで[icon:001e][color:05]パープルコイン　[color:01]100枚[color:00]取れたら、\nアタイも認めてあげる！",
+    "translation": "これは、アタイ達の力が宿る　[color:01]レッドスター[wait:001e][color:00]\n[color:03]空中でスピン[color:00]すれば[color:01]空を飛べる[color:00]し、\\f\n[icon:0039]を押しながら[icon:0042]で\n進みたい[color:01]方向を決められる[color:00]わ\\f\nこれで[icon:001e][color:05]パープルコイン　[color:01]100枚[color:00]取れたら、\nアタイも認めてあげる！"
   },
   {
     "index": 856,
@@ -5259,14 +5259,14 @@
   {
     "index": 857,
     "key": "HeavensDoorSmallZone_Tico001",
-    "original": "ありがとう！\f\n上の要塞の仲間も　助けてくれますか？\f\n[icon:0008][color:04]スターリング[color:00]に変身します[wait:001e]\nボクに乗って　進んで！\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！",
-    "translation": "ありがとう！\f\n上の要塞の仲間も　助けてくれますか？\f\n[icon:0008][color:04]スターリング[color:00]に変身します[wait:001e]\nボクに乗って　進んで！\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！"
+    "original": "ありがとう！\\f\n上の要塞の仲間も　助けてくれますか？\\f\n[icon:0008][color:04]スターリング[color:00]に変身します[wait:001e]\nボクに乗って　進んで！\\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！",
+    "translation": "ありがとう！\\f\n上の要塞の仲間も　助けてくれますか？\\f\n[icon:0008][color:04]スターリング[color:00]に変身します[wait:001e]\nボクに乗って　進んで！\\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！"
   },
   {
     "index": 858,
     "key": "HeavensDoorSmallZone_Tico002",
-    "original": "ココから出して！[wait:001e]\n敵のだれかが　[color:01]カギ[color:00]を持ってるはずです！！\f\n[icon:0047][color:01]をふるか、　[icon:003b]で　スピン[color:00]！[wait:001e]\n敵が[color:03]気絶したら　体当たり[color:00]です！",
-    "translation": "ココから出して！[wait:001e]\n敵のだれかが　[color:01]カギ[color:00]を持ってるはずです！！\f\n[icon:0047][color:01]をふるか、　[icon:003b]で　スピン[color:00]！[wait:001e]\n敵が[color:03]気絶したら　体当たり[color:00]です！"
+    "original": "ココから出して！[wait:001e]\n敵のだれかが　[color:01]カギ[color:00]を持ってるはずです！！\\f\n[icon:0047][color:01]をふるか、　[icon:003b]で　スピン[color:00]！[wait:001e]\n敵が[color:03]気絶したら　体当たり[color:00]です！",
+    "translation": "ココから出して！[wait:001e]\n敵のだれかが　[color:01]カギ[color:00]を持ってるはずです！！\\f\n[icon:0047][color:01]をふるか、　[icon:003b]で　スピン[color:00]！[wait:001e]\n敵が[color:03]気絶したら　体当たり[color:00]です！"
   },
   {
     "index": 859,
@@ -5278,14 +5278,14 @@
   {
     "index": 860,
     "key": "HellBallZone_SignBoard001",
-    "original": "ヘイ！　オレの名は[color:03]カン・バーン[color:00]！[wait:001e]\n…って　どっかで会った事、あったっけか？\f\nとにかく、ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]かまえろ[color:00]！\f\n[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\n間違っても　穴になんか落ちるなよ！",
-    "translation": "ヘイ！　オレの名は[color:03]カン・バーン[color:00]！[wait:001e]\n…って　どっかで会った事、あったっけか？\f\nとにかく、ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]かまえろ[color:00]！\f\n[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\n間違っても　穴になんか落ちるなよ！"
+    "original": "ヘイ！　オレの名は[color:03]カン・バーン[color:00]！[wait:001e]\n…って　どっかで会った事、あったっけか？\\f\nとにかく、ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]かまえろ[color:00]！\\f\n[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\n間違っても　穴になんか落ちるなよ！",
+    "translation": "ヘイ！　オレの名は[color:03]カン・バーン[color:00]！[wait:001e]\n…って　どっかで会った事、あったっけか？\\f\nとにかく、ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]かまえろ[color:00]！\\f\n[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\n間違っても　穴になんか落ちるなよ！"
   },
   {
     "index": 861,
     "key": "HellBallZone_SignBoard002",
-    "original": "ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]かまえろ[color:00]！\f\nで、[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\n間違っても　穴になんか落ちるなよ！",
-    "translation": "ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]かまえろ[color:00]！\f\nで、[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\n間違っても　穴になんか落ちるなよ！"
+    "original": "ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]かまえろ[color:00]！\\f\nで、[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\n間違っても　穴になんか落ちるなよ！",
+    "translation": "ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]かまえろ[color:00]！\\f\nで、[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\n間違っても　穴になんか落ちるなよ！"
   },
   {
     "index": 862,
@@ -5315,8 +5315,8 @@
   {
     "index": 866,
     "key": "HoneyQueenZone_HoneyQueen002",
-    "original": "あら、どちらさん？\f\nどなたでもいいけど、ちょっと　たのみがあるの\f\n[2:000000530045005f00530056005f0048004f004e004500590051005500450045004e005f00540041004c004b005f0057004f005200520059][color:03]体のあちこち[color:00]が　ムズムズするの…[wait:001e]\nちょっと　診てくれないかしら？",
-    "translation": "あら、どちらさん？\f\nどなたでもいいけど、ちょっと　たのみがあるの\f\n[2:000000530045005f00530056005f0048004f004e004500590051005500450045004e005f00540041004c004b005f0057004f005200520059][color:03]体のあちこち[color:00]が　ムズムズするの…[wait:001e]\nちょっと　診てくれないかしら？"
+    "original": "あら、どちらさん？\\f\nどなたでもいいけど、ちょっと　たのみがあるの\\f\n[2:000000530045005f00530056005f0048004f004e004500590051005500450045004e005f00540041004c004b005f0057004f005200520059][color:03]体のあちこち[color:00]が　ムズムズするの…[wait:001e]\nちょっと　診てくれないかしら？",
+    "translation": "あら、どちらさん？\\f\nどなたでもいいけど、ちょっと　たのみがあるの\\f\n[2:000000530045005f00530056005f0048004f004e004500590051005500450045004e005f00540041004c004b005f0057004f005200520059][color:03]体のあちこち[color:00]が　ムズムズするの…[wait:001e]\nちょっと　診てくれないかしら？"
   },
   {
     "index": 867,
@@ -5389,8 +5389,8 @@
   {
     "index": 878,
     "key": "IceMountainZone_Kinopio005",
-    "original": "頂上…[wait:001e]　それは　男のロマン…\f\nあ、[unk5:00]さん[wait:001e]\nここから　とび移るなら、[color:01]走りはばとび[color:00]ですよ",
-    "translation": "頂上…[wait:001e]　それは　男のロマン…\f\nあ、[unk5:00]さん[wait:001e]\nここから　とび移るなら、[color:01]走りはばとび[color:00]ですよ"
+    "original": "頂上…[wait:001e]　それは　男のロマン…\\f\nあ、[unk5:00]さん[wait:001e]\nここから　とび移るなら、[color:01]走りはばとび[color:00]ですよ",
+    "translation": "頂上…[wait:001e]　それは　男のロマン…\\f\nあ、[unk5:00]さん[wait:001e]\nここから　とび移るなら、[color:01]走りはばとび[color:00]ですよ"
   },
   {
     "index": 879,
@@ -5414,8 +5414,8 @@
   {
     "index": 882,
     "key": "IceRingAZone_PenguinSkater001",
-    "original": "おー、オヤジ！[wait:001e]\nオマエも　[color:03]スケート[color:00]の練習？\f\nだったら　オイラと競争！[wait:001e]\nオイラを　つかまえることが　できるか～？！",
-    "translation": "おー、オヤジ！[wait:001e]\nオマエも　[color:03]スケート[color:00]の練習？\f\nだったら　オイラと競争！[wait:001e]\nオイラを　つかまえることが　できるか～？！"
+    "original": "おー、オヤジ！[wait:001e]\nオマエも　[color:03]スケート[color:00]の練習？\\f\nだったら　オイラと競争！[wait:001e]\nオイラを　つかまえることが　できるか～？！",
+    "translation": "おー、オヤジ！[wait:001e]\nオマエも　[color:03]スケート[color:00]の練習？\\f\nだったら　オイラと競争！[wait:001e]\nオイラを　つかまえることが　できるか～？！"
   },
   {
     "index": 883,
@@ -5426,8 +5426,8 @@
   {
     "index": 884,
     "key": "IceRingAZone_PenguinSkater003",
-    "original": "やるなー！　オヤジー！\f\nオマエなら　この先も\n[color:03]スケート[color:00]で　乗り切れるかもな！",
-    "translation": "やるなー！　オヤジー！\f\nオマエなら　この先も\n[color:03]スケート[color:00]で　乗り切れるかもな！"
+    "original": "やるなー！　オヤジー！\\f\nオマエなら　この先も\n[color:03]スケート[color:00]で　乗り切れるかもな！",
+    "translation": "やるなー！　オヤジー！\\f\nオマエなら　この先も\n[color:03]スケート[color:00]で　乗り切れるかもな！"
   },
   {
     "index": 885,
@@ -5528,8 +5528,8 @@
   {
     "index": 901,
     "key": "KoopaBattleVs1BossZone_DemoKoopaVs1Down000",
-    "original": "ちぃっ、しくじったわ…\f\nしかし、ワガハイの[color:01]計画[color:00]は　進んでいるのだ…[wait:001e]\n[unk5:00]！　オマエに　止められるか？！\f\n[unk1][unk4:0002]ガーッハッハッハッハ！！！",
-    "translation": "ちぃっ、しくじったわ…\f\nしかし、ワガハイの[color:01]計画[color:00]は　進んでいるのだ…[wait:001e]\n[unk5:00]！　オマエに　止められるか？！\f\n[unk1][unk4:0002]ガーッハッハッハッハ！！！"
+    "original": "ちぃっ、しくじったわ…\\f\nしかし、ワガハイの[color:01]計画[color:00]は　進んでいるのだ…[wait:001e]\n[unk5:00]！　オマエに　止められるか？！\\f\n[unk1][unk4:0002]ガーッハッハッハッハ！！！",
+    "translation": "ちぃっ、しくじったわ…\\f\nしかし、ワガハイの[color:01]計画[color:00]は　進んでいるのだ…[wait:001e]\n[unk5:00]！　オマエに　止められるか？！\\f\n[unk1][unk4:0002]ガーッハッハッハッハ！！！"
   },
   {
     "index": 902,
@@ -5546,8 +5546,8 @@
   {
     "index": 904,
     "key": "KoopaBattleVs1Galaxy_Tico000",
-    "original": "この奥に　[icon:001b][color:01]グランドスター[color:00]を感じます！\f\nでも、道中はきっと　不思議なワナだらけです…[wait:001e]\nどうか　お気をつけて！",
-    "translation": "この奥に　[icon:001b][color:01]グランドスター[color:00]を感じます！\f\nでも、道中はきっと　不思議なワナだらけです…[wait:001e]\nどうか　お気をつけて！"
+    "original": "この奥に　[icon:001b][color:01]グランドスター[color:00]を感じます！\\f\nでも、道中はきっと　不思議なワナだらけです…[wait:001e]\nどうか　お気をつけて！",
+    "translation": "この奥に　[icon:001b][color:01]グランドスター[color:00]を感じます！\\f\nでも、道中はきっと　不思議なワナだらけです…[wait:001e]\nどうか　お気をつけて！"
   },
   {
     "index": 905,
@@ -5558,14 +5558,14 @@
   {
     "index": 906,
     "key": "KoopaBattleVs2BossZone_DemoKoopaVs2Down000",
-    "original": "[unk1][unk4:0002]ガーッハッハッハ！！！\f\nさすが　我が宿敵、やりおるわい！[wait:001e]\n…と、言いたいところだが\f\nこうやって　遊んでいる間にも\nワガハイの[color:01]計画[color:00]は　完成に向かっているのだ！\f\n残念だったな、[unk5:00]！！！",
-    "translation": "[unk1][unk4:0002]ガーッハッハッハ！！！\f\nさすが　我が宿敵、やりおるわい！[wait:001e]\n…と、言いたいところだが\f\nこうやって　遊んでいる間にも\nワガハイの[color:01]計画[color:00]は　完成に向かっているのだ！\f\n残念だったな、[unk5:00]！！！"
+    "original": "[unk1][unk4:0002]ガーッハッハッハ！！！\\f\nさすが　我が宿敵、やりおるわい！[wait:001e]\n…と、言いたいところだが\\f\nこうやって　遊んでいる間にも\nワガハイの[color:01]計画[color:00]は　完成に向かっているのだ！\\f\n残念だったな、[unk5:00]！！！",
+    "translation": "[unk1][unk4:0002]ガーッハッハッハ！！！\\f\nさすが　我が宿敵、やりおるわい！[wait:001e]\n…と、言いたいところだが\\f\nこうやって　遊んでいる間にも\nワガハイの[color:01]計画[color:00]は　完成に向かっているのだ！\\f\n残念だったな、[unk5:00]！！！"
   },
   {
     "index": 907,
     "key": "KoopaBattleVs2BossZone_DemoKoopaVs2Start000",
-    "original": "[unk1][unk4:0002]ウヌゥゥゥ！！　もう来たか！\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f004e004f0052004d0041004c]さすがは　我が宿敵、[unk5:00]！[wait:001e]\nこの場で　宇宙のモクズに　してくれるわ！",
-    "translation": "[unk1][unk4:0002]ウヌゥゥゥ！！　もう来たか！\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f004e004f0052004d0041004c]さすがは　我が宿敵、[unk5:00]！[wait:001e]\nこの場で　宇宙のモクズに　してくれるわ！"
+    "original": "[unk1][unk4:0002]ウヌゥゥゥ！！　もう来たか！\\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f004e004f0052004d0041004c]さすがは　我が宿敵、[unk5:00]！[wait:001e]\nこの場で　宇宙のモクズに　してくれるわ！",
+    "translation": "[unk1][unk4:0002]ウヌゥゥゥ！！　もう来たか！\\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f004e004f0052004d0041004c]さすがは　我が宿敵、[unk5:00]！[wait:001e]\nこの場で　宇宙のモクズに　してくれるわ！"
   },
   {
     "index": 908,
@@ -5576,8 +5576,8 @@
   {
     "index": 909,
     "key": "KoopaBattleVs2Galaxy_Tico001",
-    "original": "ダークマターの影響で\nあちこちに　[color:03]穴[color:00]が開いています！\f\n突然　現れる[color:03]穴[color:00]に　気をつけて\n進んでください！",
-    "translation": "ダークマターの影響で\nあちこちに　[color:03]穴[color:00]が開いています！\f\n突然　現れる[color:03]穴[color:00]に　気をつけて\n進んでください！"
+    "original": "ダークマターの影響で\nあちこちに　[color:03]穴[color:00]が開いています！\\f\n突然　現れる[color:03]穴[color:00]に　気をつけて\n進んでください！",
+    "translation": "ダークマターの影響で\nあちこちに　[color:03]穴[color:00]が開いています！\\f\n突然　現れる[color:03]穴[color:00]に　気をつけて\n進んでください！"
   },
   {
     "index": 910,
@@ -5600,20 +5600,20 @@
   {
     "index": 913,
     "key": "KoopaBattleVs3BossZone_DemoKoopaVs3Start000",
-    "original": "…時は満ちた\f\nワガハイの　新しい宇宙の核となる\n大王星の仕上げにかかるのだ！\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f0045005800430049005400450044][unk1][unk4:0002]これを　見るがよい！",
-    "translation": "…時は満ちた\f\nワガハイの　新しい宇宙の核となる\n大王星の仕上げにかかるのだ！\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f0045005800430049005400450044][unk1][unk4:0002]これを　見るがよい！"
+    "original": "…時は満ちた\\f\nワガハイの　新しい宇宙の核となる\n大王星の仕上げにかかるのだ！\\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f0045005800430049005400450044][unk1][unk4:0002]これを　見るがよい！",
+    "translation": "…時は満ちた\\f\nワガハイの　新しい宇宙の核となる\n大王星の仕上げにかかるのだ！\\f\n[2:000000530045005f00420056005f004b004f004f00500041005f0054004c004b005f0045005800430049005400450044][unk1][unk4:0002]これを　見るがよい！"
   },
   {
     "index": 914,
     "key": "KoopaBattleVs3BossZone_DemoKoopaVs3Start001",
-    "original": "この星を中心に　ワガハイはピーチと共に\n一万年の[color:03]大銀河帝国[color:00]を築くのだ！\f\nそして、ワガハイの帝国は　ビッグバンのように\n全宇宙に　広がっていくのだ！\f\nだから　[unk5:00]よ！[wait:001e]　その前に　オマエは\nこの場で　消えねばならん！　分かるな…？",
-    "translation": "この星を中心に　ワガハイはピーチと共に\n一万年の[color:03]大銀河帝国[color:00]を築くのだ！\f\nそして、ワガハイの帝国は　ビッグバンのように\n全宇宙に　広がっていくのだ！\f\nだから　[unk5:00]よ！[wait:001e]　その前に　オマエは\nこの場で　消えねばならん！　分かるな…？"
+    "original": "この星を中心に　ワガハイはピーチと共に\n一万年の[color:03]大銀河帝国[color:00]を築くのだ！\\f\nそして、ワガハイの帝国は　ビッグバンのように\n全宇宙に　広がっていくのだ！\\f\nだから　[unk5:00]よ！[wait:001e]　その前に　オマエは\nこの場で　消えねばならん！　分かるな…？",
+    "translation": "この星を中心に　ワガハイはピーチと共に\n一万年の[color:03]大銀河帝国[color:00]を築くのだ！\\f\nそして、ワガハイの帝国は　ビッグバンのように\n全宇宙に　広がっていくのだ！\\f\nだから　[unk5:00]よ！[wait:001e]　その前に　オマエは\nこの場で　消えねばならん！　分かるな…？"
   },
   {
     "index": 915,
     "key": "KoopaBattleVs3StartZone_Tico000",
-    "original": "ママに聞きました[wait:001e]\nこの戦いはボクらのためだけでなく\f\n[unk5:00]さんの　[color:01]想い人[color:00]を救うための\n戦いでもあるんですね…\f\nどうか　お気をつけて…[wait:001e]\nそして、ゼッタイゼッタイ　負けないで！",
-    "translation": "ママに聞きました[wait:001e]\nこの戦いはボクらのためだけでなく\f\n[unk5:00]さんの　[color:01]想い人[color:00]を救うための\n戦いでもあるんですね…\f\nどうか　お気をつけて…[wait:001e]\nそして、ゼッタイゼッタイ　負けないで！"
+    "original": "ママに聞きました[wait:001e]\nこの戦いはボクらのためだけでなく\\f\n[unk5:00]さんの　[color:01]想い人[color:00]を救うための\n戦いでもあるんですね…\\f\nどうか　お気をつけて…[wait:001e]\nそして、ゼッタイゼッタイ　負けないで！",
+    "translation": "ママに聞きました[wait:001e]\nこの戦いはボクらのためだけでなく\\f\n[unk5:00]さんの　[color:01]想い人[color:00]を救うための\n戦いでもあるんですね…\\f\nどうか　お気をつけて…[wait:001e]\nそして、ゼッタイゼッタイ　負けないで！"
   },
   {
     "index": 916,
@@ -5624,8 +5624,8 @@
   {
     "index": 917,
     "key": "KoopaJrShipBattleLv1Tmp1Zone_KoopaJr000",
-    "original": "しつこいヤツだなー！\nこうなったら　ボクが直接　ぶったおしてやる！\f\n[icon:001b][color:01]グランドスター[color:00]が欲しいなら、\n力ずくで　うばってみろ！",
-    "translation": "しつこいヤツだなー！\nこうなったら　ボクが直接　ぶったおしてやる！\f\n[icon:001b][color:01]グランドスター[color:00]が欲しいなら、\n力ずくで　うばってみろ！"
+    "original": "しつこいヤツだなー！\nこうなったら　ボクが直接　ぶったおしてやる！\\f\n[icon:001b][color:01]グランドスター[color:00]が欲しいなら、\n力ずくで　うばってみろ！",
+    "translation": "しつこいヤツだなー！\nこうなったら　ボクが直接　ぶったおしてやる！\\f\n[icon:001b][color:01]グランドスター[color:00]が欲しいなら、\n力ずくで　うばってみろ！"
   },
   {
     "index": 918,
@@ -6893,8 +6893,8 @@
   {
     "index": 1120,
     "key": "OceanRingZone_HoneyBee003",
-    "original": "[color:03]見たいところを変える[color:00]には[icon:0043]\n変えられないときは[color:01]ブッ！[color:00]と鳴るであります\f\nこれ、ミツバチ一族の　言い伝えであります",
-    "translation": "[color:03]見たいところを変える[color:00]には[icon:0043]\n変えられないときは[color:01]ブッ！[color:00]と鳴るであります\f\nこれ、ミツバチ一族の　言い伝えであります"
+    "original": "[color:03]見たいところを変える[color:00]には[icon:0043]\n変えられないときは[color:01]ブッ！[color:00]と鳴るであります\\f\nこれ、ミツバチ一族の　言い伝えであります",
+    "translation": "[color:03]見たいところを変える[color:00]には[icon:0043]\n変えられないときは[color:01]ブッ！[color:00]と鳴るであります\\f\nこれ、ミツバチ一族の　言い伝えであります"
   },
   {
     "index": 1121,
@@ -7538,8 +7538,8 @@
   {
     "index": 1223,
     "key": "OceanRingZone_SyatiRing000",
-    "original": "なんだオメェ？[wait:001e]\nペンギンどもの　仲間か？！\f\nこの[color:03]海[color:00]を　返してほしいなら、\nオレ様の出す[color:01]リングを８つ　[color:00]くぐってみろ！",
-    "translation": "なんだオメェ？[wait:001e]\nペンギンどもの　仲間か？！\f\nこの[color:03]海[color:00]を　返してほしいなら、\nオレ様の出す[color:01]リングを８つ　[color:00]くぐってみろ！"
+    "original": "なんだオメェ？[wait:001e]\nペンギンどもの　仲間か？！\\f\nこの[color:03]海[color:00]を　返してほしいなら、\nオレ様の出す[color:01]リングを８つ　[color:00]くぐってみろ！",
+    "translation": "なんだオメェ？[wait:001e]\nペンギンどもの　仲間か？！\\f\nこの[color:03]海[color:00]を　返してほしいなら、\nオレ様の出す[color:01]リングを８つ　[color:00]くぐってみろ！"
   },
   {
     "index": 1224,
@@ -7550,8 +7550,8 @@
   {
     "index": 1225,
     "key": "OceanRingZone_SyatiRing002",
-    "original": "[unk1][unk4:0002]ガーッハッハッハ！！\f\nオレ様の試練を　乗り越えられないなら、\n[color:03]海[color:00]は　わたせねぇな！",
-    "translation": "[unk1][unk4:0002]ガーッハッハッハ！！\f\nオレ様の試練を　乗り越えられないなら、\n[color:03]海[color:00]は　わたせねぇな！"
+    "original": "[unk1][unk4:0002]ガーッハッハッハ！！\\f\nオレ様の試練を　乗り越えられないなら、\n[color:03]海[color:00]は　わたせねぇな！",
+    "translation": "[unk1][unk4:0002]ガーッハッハッハ！！\\f\nオレ様の試練を　乗り越えられないなら、\n[color:03]海[color:00]は　わたせねぇな！"
   },
   {
     "index": 1226,
@@ -7633,8 +7633,8 @@
   {
     "index": 1238,
     "key": "OtaKingStageZone_Tico001",
-    "original": "この先は　かなり危険です！[wait:001e]　ピンチになったら\n[color:04]足元の光[color:00]に　[icon:000b][color:01]スターピース[color:00]を当ててください\f\nそうすれば　[icon:0011][color:01]コイン[color:00]が出るので、\n[color:03]体力を回復[color:00]できます！",
-    "translation": "この先は　かなり危険です！[wait:001e]　ピンチになったら\n[color:04]足元の光[color:00]に　[icon:000b][color:01]スターピース[color:00]を当ててください\f\nそうすれば　[icon:0011][color:01]コイン[color:00]が出るので、\n[color:03]体力を回復[color:00]できます！"
+    "original": "この先は　かなり危険です！[wait:001e]　ピンチになったら\n[color:04]足元の光[color:00]に　[icon:000b][color:01]スターピース[color:00]を当ててください\\f\nそうすれば　[icon:0011][color:01]コイン[color:00]が出るので、\n[color:03]体力を回復[color:00]できます！",
+    "translation": "この先は　かなり危険です！[wait:001e]　ピンチになったら\n[color:04]足元の光[color:00]に　[icon:000b][color:01]スターピース[color:00]を当ててください\\f\nそうすれば　[icon:0011][color:01]コイン[color:00]が出るので、\n[color:03]体力を回復[color:00]できます！"
   },
   {
     "index": 1239,
@@ -7906,8 +7906,8 @@
   {
     "index": 1283,
     "key": "PeachCastleFinalGalaxy_Kinopio055",
-    "original": "[unk5:01]！　聞いてください！\f\nワタシ達、今回の活躍が認められて、\n[color:03]探検隊[color:00]から[color:01]親衛隊[color:00]に　昇格するんです！\f\nワタシが　[color:01]親衛隊隊長[color:00]に　なったあかつきには\nピーチ姫には　指一本　触れさせません！\f\nクッパだろうが　オバケだろうが、\nかかって来い～っ！！",
-    "translation": "[unk5:01]！　聞いてください！\f\nワタシ達、今回の活躍が認められて、\n[color:03]探検隊[color:00]から[color:01]親衛隊[color:00]に　昇格するんです！\f\nワタシが　[color:01]親衛隊隊長[color:00]に　なったあかつきには\nピーチ姫には　指一本　触れさせません！\f\nクッパだろうが　オバケだろうが、\nかかって来い～っ！！"
+    "original": "[unk5:01]！　聞いてください！\\f\nワタシ達、今回の活躍が認められて、\n[color:03]探検隊[color:00]から[color:01]親衛隊[color:00]に　昇格するんです！\\f\nワタシが　[color:01]親衛隊隊長[color:00]に　なったあかつきには\nピーチ姫には　指一本　触れさせません！\\f\nクッパだろうが　オバケだろうが、\nかかって来い～っ！！",
+    "translation": "[unk5:01]！　聞いてください！\\f\nワタシ達、今回の活躍が認められて、\n[color:03]探検隊[color:00]から[color:01]親衛隊[color:00]に　昇格するんです！\\f\nワタシが　[color:01]親衛隊隊長[color:00]に　なったあかつきには\nピーチ姫には　指一本　触れさせません！\\f\nクッパだろうが　オバケだろうが、\nかかって来い～っ！！"
   },
   {
     "index": 1284,
@@ -7930,20 +7930,20 @@
   {
     "index": 1287,
     "key": "PeachCastleFinalGalaxy_Kinopio059",
-    "original": "[unk5:00]さん、[icon:001e][color:05]パープルコイン[color:00]を\n全部　集めたら、またここに来てください！\f\n[color:01]重要なお知らせ[color:00]が　あります…！",
-    "translation": "[unk5:00]さん、[icon:001e][color:05]パープルコイン[color:00]を\n全部　集めたら、またここに来てください！\f\n[color:01]重要なお知らせ[color:00]が　あります…！"
+    "original": "[unk5:00]さん、[icon:001e][color:05]パープルコイン[color:00]を\n全部　集めたら、またここに来てください！\\f\n[color:01]重要なお知らせ[color:00]が　あります…！",
+    "translation": "[unk5:00]さん、[icon:001e][color:05]パープルコイン[color:00]を\n全部　集めたら、またここに来てください！\\f\n[color:01]重要なお知らせ[color:00]が　あります…！"
   },
   {
     "index": 1288,
     "key": "PeachCastleFinalGalaxy_Kinopio060",
-    "original": "[unk5:00]さん！　アナタに　[color:01]お祝いのお手紙[color:00]が\n届いています！[wait:001e]　　代わりに読みますね\f\nおめでとうございます！\f\n全てのパワースターを救ってくれたあなたに、\nギャラクシー級の感謝の気持ちを贈ります！\f\n最後の最後までプレイしてくれて、[wait:001e]\n本当にありがとう！\f\nそして、またいつか会いましょう！[wait:001e]　\nスーパーマリオギャラクシー　スタッフ一同",
-    "translation": "[unk5:00]さん！　アナタに　[color:01]お祝いのお手紙[color:00]が\n届いています！[wait:001e]　　代わりに読みますね\f\nおめでとうございます！\f\n全てのパワースターを救ってくれたあなたに、\nギャラクシー級の感謝の気持ちを贈ります！\f\n最後の最後までプレイしてくれて、[wait:001e]\n本当にありがとう！\f\nそして、またいつか会いましょう！[wait:001e]　\nスーパーマリオギャラクシー　スタッフ一同"
+    "original": "[unk5:00]さん！　アナタに　[color:01]お祝いのお手紙[color:00]が\n届いています！[wait:001e]　　代わりに読みますね\\f\nおめでとうございます！\\f\n全てのパワースターを救ってくれたあなたに、\nギャラクシー級の感謝の気持ちを贈ります！\\f\n最後の最後までプレイしてくれて、[wait:001e]\n本当にありがとう！\\f\nそして、またいつか会いましょう！[wait:001e]　\nスーパーマリオギャラクシー　スタッフ一同",
+    "translation": "[unk5:00]さん！　アナタに　[color:01]お祝いのお手紙[color:00]が\n届いています！[wait:001e]　　代わりに読みますね\\f\nおめでとうございます！\\f\n全てのパワースターを救ってくれたあなたに、\nギャラクシー級の感謝の気持ちを贈ります！\\f\n最後の最後までプレイしてくれて、[wait:001e]\n本当にありがとう！\\f\nそして、またいつか会いましょう！[wait:001e]　\nスーパーマリオギャラクシー　スタッフ一同"
   },
   {
     "index": 1289,
     "key": "PeachCastleFinalGalaxy_Kinopio061",
-    "original": "あれ？　お写真がついていたので、\n[color:01]本体のアルバム[color:00]に[color:03]　送っておきました！\f\nどんな内容か　楽しみですね～♪",
-    "translation": "あれ？　お写真がついていたので、\n[color:01]本体のアルバム[color:00]に[color:03]　送っておきました！\f\nどんな内容か　楽しみですね～♪"
+    "original": "あれ？　お写真がついていたので、\n[color:01]本体のアルバム[color:00]に[color:03]　送っておきました！\\f\nどんな内容か　楽しみですね～♪",
+    "translation": "あれ？　お写真がついていたので、\n[color:01]本体のアルバム[color:00]に[color:03]　送っておきました！\\f\nどんな内容か　楽しみですね～♪"
   },
   {
     "index": 1290,
@@ -7997,8 +7997,8 @@
   {
     "index": 1298,
     "key": "PeachCastleFinalGalaxy_PenguinCoach001",
-    "original": "やぁ、キミかぁ！　元気してる？[wait:001e]\nここの　お祭って　すごいねぇ！\f\n生徒達も　喜んでるみたいだし、\n連れてきて　よかったよ！",
-    "translation": "やぁ、キミかぁ！　元気してる？[wait:001e]\nここの　お祭って　すごいねぇ！\f\n生徒達も　喜んでるみたいだし、\n連れてきて　よかったよ！"
+    "original": "やぁ、キミかぁ！　元気してる？[wait:001e]\nここの　お祭って　すごいねぇ！\\f\n生徒達も　喜んでるみたいだし、\n連れてきて　よかったよ！",
+    "translation": "やぁ、キミかぁ！　元気してる？[wait:001e]\nここの　お祭って　すごいねぇ！\\f\n生徒達も　喜んでるみたいだし、\n連れてきて　よかったよ！"
   },
   {
     "index": 1299,
@@ -8103,8 +8103,8 @@
   {
     "index": 1315,
     "key": "PeachCastleFinalGalaxy_SignBoard001",
-    "original": "ヘイ、オレだよオレ！[wait:001e]\n[color:03]カン・バーン[color:00]だよ！\f\nニンゲンの世界では　こんなのがあるんだな！[wait:001e]\nうらやましいぜ！",
-    "translation": "ヘイ、オレだよオレ！[wait:001e]\n[color:03]カン・バーン[color:00]だよ！\f\nニンゲンの世界では　こんなのがあるんだな！[wait:001e]\nうらやましいぜ！"
+    "original": "ヘイ、オレだよオレ！[wait:001e]\n[color:03]カン・バーン[color:00]だよ！\\f\nニンゲンの世界では　こんなのがあるんだな！[wait:001e]\nうらやましいぜ！",
+    "translation": "ヘイ、オレだよオレ！[wait:001e]\n[color:03]カン・バーン[color:00]だよ！\\f\nニンゲンの世界では　こんなのがあるんだな！[wait:001e]\nうらやましいぜ！"
   },
   {
     "index": 1316,
@@ -8374,8 +8374,8 @@
   {
     "index": 1360,
     "key": "PhantomGalaxy_Kinopio000",
-    "original": "この　[color:03]ギャラクシー[color:00]で\n[icon:001c][color:02]ルイージ[color:00]さんの　反応がありました！\f\n[color:03]オバケ[color:00]に　食べられてなければいいのですが…",
-    "translation": "この　[color:03]ギャラクシー[color:00]で\n[icon:001c][color:02]ルイージ[color:00]さんの　反応がありました！\f\n[color:03]オバケ[color:00]に　食べられてなければいいのですが…"
+    "original": "この　[color:03]ギャラクシー[color:00]で\n[icon:001c][color:02]ルイージ[color:00]さんの　反応がありました！\\f\n[color:03]オバケ[color:00]に　食べられてなければいいのですが…",
+    "translation": "この　[color:03]ギャラクシー[color:00]で\n[icon:001c][color:02]ルイージ[color:00]さんの　反応がありました！\\f\n[color:03]オバケ[color:00]に　食べられてなければいいのですが…"
   },
   {
     "index": 1361,
@@ -8392,8 +8392,8 @@
   {
     "index": 1363,
     "key": "PhantomSpaceGraveyardZone_Kinopio015",
-    "original": "助けて！　はなれないよー！\f\nボクに　[icon:000a][color:01]ポインター[color:00]を合わせて\n[icon:0038][color:01]で　ひっぱってー[color:00]！\f\nそれか、 画面を直接 [color:01]タッチしてひっぱってー[color:00]！",
-    "translation": "助けて！　はなれないよー！\f\nボクに　[icon:000a][color:01]ポインター[color:00]を合わせて\n[icon:0038][color:01]で　ひっぱってー[color:00]！\f\nそれか、 画面を直接 [color:01]タッチしてひっぱってー[color:00]！"
+    "original": "助けて！　はなれないよー！\\f\nボクに　[icon:000a][color:01]ポインター[color:00]を合わせて\n[icon:0038][color:01]で　ひっぱってー[color:00]！\\f\nそれか、 画面を直接 [color:01]タッチしてひっぱってー[color:00]！",
+    "translation": "助けて！　はなれないよー！\\f\nボクに　[icon:000a][color:01]ポインター[color:00]を合わせて\n[icon:0038][color:01]で　ひっぱってー[color:00]！\\f\nそれか、 画面を直接 [color:01]タッチしてひっぱってー[color:00]！"
   },
   {
     "index": 1364,
@@ -9058,14 +9058,14 @@
   {
     "index": 1474,
     "key": "PuffballBZone_Rabbit000",
-    "original": "ボクらの土地を荒らす　[color:03]モグラ[color:00]に\n困ってるんだピョン…\f\n[color:03]モグラ[color:00]は　さわると痛いから\n[color:01]近く[color:00]で[color:01]ヒップドロップ[color:00]して　やっつけてほしいピョン",
-    "translation": "ボクらの土地を荒らす　[color:03]モグラ[color:00]に\n困ってるんだピョン…\f\n[color:03]モグラ[color:00]は　さわると痛いから\n[color:01]近く[color:00]で[color:01]ヒップドロップ[color:00]して　やっつけてほしいピョン"
+    "original": "ボクらの土地を荒らす　[color:03]モグラ[color:00]に\n困ってるんだピョン…\\f\n[color:03]モグラ[color:00]は　さわると痛いから\n[color:01]近く[color:00]で[color:01]ヒップドロップ[color:00]して　やっつけてほしいピョン",
+    "translation": "ボクらの土地を荒らす　[color:03]モグラ[color:00]に\n困ってるんだピョン…\\f\n[color:03]モグラ[color:00]は　さわると痛いから\n[color:01]近く[color:00]で[color:01]ヒップドロップ[color:00]して　やっつけてほしいピョン"
   },
   {
     "index": 1475,
     "key": "PuffballBZone_Rabbit001",
-    "original": "[color:05]フワフワ草[color:00]は　風に乗って[icon:0047][color:01]がブルブル[color:00]した時に\n[icon:0047][color:01]をふると　いっぱい飛べる[color:00]んだピョン！\f\n[icon:003b]でも飛べる[color:00]んだピョン！",
-    "translation": "[color:05]フワフワ草[color:00]は　風に乗って[icon:0047][color:01]がブルブル[color:00]した時に\n[icon:0047][color:01]をふると　いっぱい飛べる[color:00]んだピョン！\f\n[icon:003b]でも飛べる[color:00]んだピョン！"
+    "original": "[color:05]フワフワ草[color:00]は　風に乗って[icon:0047][color:01]がブルブル[color:00]した時に\n[icon:0047][color:01]をふると　いっぱい飛べる[color:00]んだピョン！\\f\n[icon:003b]でも飛べる[color:00]んだピョン！",
+    "translation": "[color:05]フワフワ草[color:00]は　風に乗って[icon:0047][color:01]がブルブル[color:00]した時に\n[icon:0047][color:01]をふると　いっぱい飛べる[color:00]んだピョン！\\f\n[icon:003b]でも飛べる[color:00]んだピョン！"
   },
   {
     "index": 1476,
@@ -9076,8 +9076,8 @@
   {
     "index": 1477,
     "key": "PuffballZone_Rabbit000",
-    "original": "[color:05]フワフワ草[color:00]は　[icon:0047][color:01]ふって[color:00]フワフワ♪[wait:001e]\n[icon:003b]でもフワフワ♪\f\nでも、フワフワできるのは　[color:01]３回[color:00]だけだピョン！",
-    "translation": "[color:05]フワフワ草[color:00]は　[icon:0047][color:01]ふって[color:00]フワフワ♪[wait:001e]\n[icon:003b]でもフワフワ♪\f\nでも、フワフワできるのは　[color:01]３回[color:00]だけだピョン！"
+    "original": "[color:05]フワフワ草[color:00]は　[icon:0047][color:01]ふって[color:00]フワフワ♪[wait:001e]\n[icon:003b]でもフワフワ♪\\f\nでも、フワフワできるのは　[color:01]３回[color:00]だけだピョン！",
+    "translation": "[color:05]フワフワ草[color:00]は　[icon:0047][color:01]ふって[color:00]フワフワ♪[wait:001e]\n[icon:003b]でもフワフワ♪\\f\nでも、フワフワできるのは　[color:01]３回[color:00]だけだピョン！"
   },
   {
     "index": 1478,
@@ -9323,8 +9323,8 @@
   {
     "index": 1518,
     "key": "ReverseForestHomeZone_Rabbit001",
-    "original": "ありがとう！　これで　お家に帰れるピョン！[wait:001e]\nお礼に　いいことを　教えてあげるピョン\f\n家にいる　[icon:000e]兄ちゃんが\n[color:01][icon:0007]パワースター[color:00]を持ってるピョン！\f\nでも兄ちゃんは　兄弟で一番速いピョン！[wait:001e]\nつかまえられるピョン？",
-    "translation": "ありがとう！　これで　お家に帰れるピョン！[wait:001e]\nお礼に　いいことを　教えてあげるピョン\f\n家にいる　[icon:000e]兄ちゃんが\n[color:01][icon:0007]パワースター[color:00]を持ってるピョン！\f\nでも兄ちゃんは　兄弟で一番速いピョン！[wait:001e]\nつかまえられるピョン？"
+    "original": "ありがとう！　これで　お家に帰れるピョン！[wait:001e]\nお礼に　いいことを　教えてあげるピョン\\f\n家にいる　[icon:000e]兄ちゃんが\n[color:01][icon:0007]パワースター[color:00]を持ってるピョン！\\f\nでも兄ちゃんは　兄弟で一番速いピョン！[wait:001e]\nつかまえられるピョン？",
+    "translation": "ありがとう！　これで　お家に帰れるピョン！[wait:001e]\nお礼に　いいことを　教えてあげるピョン\\f\n家にいる　[icon:000e]兄ちゃんが\n[color:01][icon:0007]パワースター[color:00]を持ってるピョン！\\f\nでも兄ちゃんは　兄弟で一番速いピョン！[wait:001e]\nつかまえられるピョン？"
   },
   {
     "index": 1519,
@@ -9436,8 +9436,8 @@
   {
     "index": 1536,
     "key": "RosettaMonologue001",
-    "original": "旅の途中、この星の前を通り過ぎようとした時、\nとても強い　なぞの引力に引かれ\f\nこの[color:03]星船[color:00]の[color:03]「力」[color:00]が\n星くずとともに、流れ落ちてしまったのです\f\n[color:03]「力」[color:00]…[wait:001e]\nそう　[icon:0007][color:01]パワースター[color:00]です",
-    "translation": "旅の途中、この星の前を通り過ぎようとした時、\nとても強い　なぞの引力に引かれ\f\nこの[color:03]星船[color:00]の[color:03]「力」[color:00]が\n星くずとともに、流れ落ちてしまったのです\f\n[color:03]「力」[color:00]…[wait:001e]\nそう　[icon:0007][color:01]パワースター[color:00]です"
+    "original": "旅の途中、この星の前を通り過ぎようとした時、\nとても強い　なぞの引力に引かれ\\f\nこの[color:03]星船[color:00]の[color:03]「力」[color:00]が\n星くずとともに、流れ落ちてしまったのです\\f\n[color:03]「力」[color:00]…[wait:001e]\nそう　[icon:0007][color:01]パワースター[color:00]です",
+    "translation": "旅の途中、この星の前を通り過ぎようとした時、\nとても強い　なぞの引力に引かれ\\f\nこの[color:03]星船[color:00]の[color:03]「力」[color:00]が\n星くずとともに、流れ落ちてしまったのです\\f\n[color:03]「力」[color:00]…[wait:001e]\nそう　[icon:0007][color:01]パワースター[color:00]です"
   },
   {
     "index": 1537,
@@ -9448,8 +9448,8 @@
   {
     "index": 1538,
     "key": "RosettaMonologue003",
-    "original": "あなたの[color:01]大切な人[color:00]を連れ去った者達は\n流れ落ちた　その[icon:0007][color:04]パワースター[color:00]を拾い\f\n宇宙を渡る力を　手に入れてしまったようです",
-    "translation": "あなたの[color:01]大切な人[color:00]を連れ去った者達は\n流れ落ちた　その[icon:0007][color:04]パワースター[color:00]を拾い\f\n宇宙を渡る力を　手に入れてしまったようです"
+    "original": "あなたの[color:01]大切な人[color:00]を連れ去った者達は\n流れ落ちた　その[icon:0007][color:04]パワースター[color:00]を拾い\\f\n宇宙を渡る力を　手に入れてしまったようです",
+    "translation": "あなたの[color:01]大切な人[color:00]を連れ去った者達は\n流れ落ちた　その[icon:0007][color:04]パワースター[color:00]を拾い\\f\n宇宙を渡る力を　手に入れてしまったようです"
   },
   {
     "index": 1539,
@@ -10568,8 +10568,8 @@
   {
     "index": 1724,
     "key": "SnowCapsuleZone_SnowRabbitCollect001",
-    "original": "追いかけっこしよ！\f\n時間内に全員つかまえられるピョン？",
-    "translation": "追いかけっこしよ！\f\n時間内に全員つかまえられるピョン？"
+    "original": "追いかけっこしよ！\\f\n時間内に全員つかまえられるピョン？",
+    "translation": "追いかけっこしよ！\\f\n時間内に全員つかまえられるピョン？"
   },
   {
     "index": 1725,
@@ -10586,8 +10586,8 @@
   {
     "index": 1727,
     "key": "SoramameZone_SignBoard000",
-    "original": "[color:02]ノビノビ草[color:00]に　つかまったら、\n[icon:0047][color:01]をふって[color:00]クルクル！\f\n[icon:003b][color:01]でも[color:00]クルクル！",
-    "translation": "[color:02]ノビノビ草[color:00]に　つかまったら、\n[icon:0047][color:01]をふって[color:00]クルクル！\f\n[icon:003b][color:01]でも[color:00]クルクル！"
+    "original": "[color:02]ノビノビ草[color:00]に　つかまったら、\n[icon:0047][color:01]をふって[color:00]クルクル！\\f\n[icon:003b][color:01]でも[color:00]クルクル！",
+    "translation": "[color:02]ノビノビ草[color:00]に　つかまったら、\n[icon:0047][color:01]をふって[color:00]クルクル！\\f\n[icon:003b][color:01]でも[color:00]クルクル！"
   },
   {
     "index": 1728,
@@ -10647,8 +10647,8 @@
   {
     "index": 1737,
     "key": "StarDustGalaxy_Kinopio003",
-    "original": "[unk5:00]さん！　あの[color:01]カメック船団[color:00]に乗りこんだ\n[color:03]隊員達[color:00]が　もどってきません！\f\nこの[color:03]隊長様[color:00]が　助けてやるから、待ってろー！",
-    "translation": "[unk5:00]さん！　あの[color:01]カメック船団[color:00]に乗りこんだ\n[color:03]隊員達[color:00]が　もどってきません！\f\nこの[color:03]隊長様[color:00]が　助けてやるから、待ってろー！"
+    "original": "[unk5:00]さん！　あの[color:01]カメック船団[color:00]に乗りこんだ\n[color:03]隊員達[color:00]が　もどってきません！\\f\nこの[color:03]隊長様[color:00]が　助けてやるから、待ってろー！",
+    "translation": "[unk5:00]さん！　あの[color:01]カメック船団[color:00]に乗りこんだ\n[color:03]隊員達[color:00]が　もどってきません！\\f\nこの[color:03]隊長様[color:00]が　助けてやるから、待ってろー！"
   },
   {
     "index": 1738,
@@ -10726,8 +10726,8 @@
   {
     "index": 1750,
     "key": "SurfingLv1Zone_PenguinCoach005",
-    "original": "やぁ、また[color:01]エイ乗り[color:00]に来たんだね！\f\n[color:03]エイの乗りかた[color:00]について、聞くかい？",
-    "translation": "やぁ、また[color:01]エイ乗り[color:00]に来たんだね！\f\n[color:03]エイの乗りかた[color:00]について、聞くかい？"
+    "original": "やぁ、また[color:01]エイ乗り[color:00]に来たんだね！\\f\n[color:03]エイの乗りかた[color:00]について、聞くかい？",
+    "translation": "やぁ、また[color:01]エイ乗り[color:00]に来たんだね！\\f\n[color:03]エイの乗りかた[color:00]について、聞くかい？"
   },
   {
     "index": 1751,
@@ -10833,8 +10833,8 @@
   {
     "index": 1767,
     "key": "SurfingLv2Galaxy_PenguinCoach001",
-    "original": "やぁ、キミかぁ！　[color:01]エイ乗り[color:00]に来たんだね？\f\nここのコースは難しいよ？[wait:001e]　それでも、やるかい？",
-    "translation": "やぁ、キミかぁ！　[color:01]エイ乗り[color:00]に来たんだね？\f\nここのコースは難しいよ？[wait:001e]　それでも、やるかい？"
+    "original": "やぁ、キミかぁ！　[color:01]エイ乗り[color:00]に来たんだね？\\f\nここのコースは難しいよ？[wait:001e]　それでも、やるかい？",
+    "translation": "やぁ、キミかぁ！　[color:01]エイ乗り[color:00]に来たんだね？\\f\nここのコースは難しいよ？[wait:001e]　それでも、やるかい？"
   },
   {
     "index": 1768,
@@ -10851,8 +10851,8 @@
   {
     "index": 1770,
     "key": "SurfingLv2Galaxy_PenguinCoach005",
-    "original": "お！　[unk9:0005]か、やるねぇ！[wait:001e]\nこのタイムは　なかなか出せないよ！\f\nみんな会いたがってるし　あいさつしてきなよ！",
-    "translation": "お！　[unk9:0005]か、やるねぇ！[wait:001e]\nこのタイムは　なかなか出せないよ！\f\nみんな会いたがってるし　あいさつしてきなよ！"
+    "original": "お！　[unk9:0005]か、やるねぇ！[wait:001e]\nこのタイムは　なかなか出せないよ！\\f\nみんな会いたがってるし　あいさつしてきなよ！",
+    "translation": "お！　[unk9:0005]か、やるねぇ！[wait:001e]\nこのタイムは　なかなか出せないよ！\\f\nみんな会いたがってるし　あいさつしてきなよ！"
   },
   {
     "index": 1771,
@@ -11279,14 +11279,14 @@
   {
     "index": 1841,
     "key": "TamakoroExBZone_SignBoard001",
-    "original": "ヘイ！　オレの名は[color:03]カン・バーン[color:00]！[wait:001e]\n…って　どっかで会った事、あったっけか？\f\nとにかく、ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]立てろ[color:00]！\f\n[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！",
-    "translation": "ヘイ！　オレの名は[color:03]カン・バーン[color:00]！[wait:001e]\n…って　どっかで会った事、あったっけか？\f\nとにかく、ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]立てろ[color:00]！\f\n[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！"
+    "original": "ヘイ！　オレの名は[color:03]カン・バーン[color:00]！[wait:001e]\n…って　どっかで会った事、あったっけか？\\f\nとにかく、ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]立てろ[color:00]！\\f\n[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！",
+    "translation": "ヘイ！　オレの名は[color:03]カン・バーン[color:00]！[wait:001e]\n…って　どっかで会った事、あったっけか？\\f\nとにかく、ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]立てろ[color:00]！\\f\n[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！"
   },
   {
     "index": 1842,
     "key": "TamakoroExBZone_SignBoard002",
-    "original": "ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]立てろ[color:00]！\f\nで、[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！",
-    "translation": "ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]立てろ[color:00]！\f\nで、[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！"
+    "original": "ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]立てろ[color:00]！\\f\nで、[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！",
+    "translation": "ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]立てろ[color:00]！\\f\nで、[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！"
   },
   {
     "index": 1843,
@@ -11556,8 +11556,8 @@
   {
     "index": 1885,
     "key": "TeresaHouseZone_Kinopio002",
-    "original": "[color:03]黒いオバケ[color:00]は [icon:0047]ふってクルクル！[wait:001e]\n[color:01]ぶつけて[color:00]ドカーン！\f\n[icon:003b]でもクルクル！",
-    "translation": "[color:03]黒いオバケ[color:00]は [icon:0047]ふってクルクル！[wait:001e]\n[color:01]ぶつけて[color:00]ドカーン！\f\n[icon:003b]でもクルクル！"
+    "original": "[color:03]黒いオバケ[color:00]は [icon:0047]ふってクルクル！[wait:001e]\n[color:01]ぶつけて[color:00]ドカーン！\\f\n[icon:003b]でもクルクル！",
+    "translation": "[color:03]黒いオバケ[color:00]は [icon:0047]ふってクルクル！[wait:001e]\n[color:01]ぶつけて[color:00]ドカーン！\\f\n[icon:003b]でもクルクル！"
   },
   {
     "index": 1886,
@@ -11587,14 +11587,14 @@
   {
     "index": 1890,
     "key": "TeresaHouseZone_LuigiNPC003",
-    "original": "兄さん、やっと来てくれたんだ！[wait:001e]\nキノピオ達と　はぐれて　大変だったんだから！\f\nでも、一つだけ　[icon:0007][color:01]パワースター[color:00]を\n見つけておいたよ！　ちょっと見直しただろ？！",
-    "translation": "兄さん、やっと来てくれたんだ！[wait:001e]\nキノピオ達と　はぐれて　大変だったんだから！\f\nでも、一つだけ　[icon:0007][color:01]パワースター[color:00]を\n見つけておいたよ！　ちょっと見直しただろ？！"
+    "original": "兄さん、やっと来てくれたんだ！[wait:001e]\nキノピオ達と　はぐれて　大変だったんだから！\\f\nでも、一つだけ　[icon:0007][color:01]パワースター[color:00]を\n見つけておいたよ！　ちょっと見直しただろ？！",
+    "translation": "兄さん、やっと来てくれたんだ！[wait:001e]\nキノピオ達と　はぐれて　大変だったんだから！\\f\nでも、一つだけ　[icon:0007][color:01]パワースター[color:00]を\n見つけておいたよ！　ちょっと見直しただろ？！"
   },
   {
     "index": 1891,
     "key": "TeresaHouseZone_LuigiNPC004",
-    "original": "あれっ、[icon:001c][color:02]ボク[color:00]が　もう一人？！\f\nまあでも　世界には　自分に似てる人が\nいるっていうし、細かい事は　いいか！\f\nそうだ　[icon:0007][color:01]パワースター[color:00]を見つけたんだ！[wait:001e]\nこれ、持って行こう！",
-    "translation": "あれっ、[icon:001c][color:02]ボク[color:00]が　もう一人？！\f\nまあでも　世界には　自分に似てる人が\nいるっていうし、細かい事は　いいか！\f\nそうだ　[icon:0007][color:01]パワースター[color:00]を見つけたんだ！[wait:001e]\nこれ、持って行こう！"
+    "original": "あれっ、[icon:001c][color:02]ボク[color:00]が　もう一人？！\\f\nまあでも　世界には　自分に似てる人が\nいるっていうし、細かい事は　いいか！\\f\nそうだ　[icon:0007][color:01]パワースター[color:00]を見つけたんだ！[wait:001e]\nこれ、持って行こう！",
+    "translation": "あれっ、[icon:001c][color:02]ボク[color:00]が　もう一人？！\\f\nまあでも　世界には　自分に似てる人が\nいるっていうし、細かい事は　いいか！\\f\nそうだ　[icon:0007][color:01]パワースター[color:00]を見つけたんだ！[wait:001e]\nこれ、持って行こう！"
   },
   {
     "index": 1892,
@@ -11637,8 +11637,8 @@
   {
     "index": 1898,
     "key": "TeresaMario2DGalaxy_SignBoard002",
-    "original": "ヘイ！　オレの名前は　[color:03]カワラ・バーン[color:00]！[wait:001e]\nオバケの操作、覚えてるか？\f\n[color:03]クリスタル[color:00]は[icon:0047]を[color:01]ふるか、[icon:003b]で[color:00]、\n[color:03]スケスケ[color:00]状態で　ぬけられるぜ\f\n[color:01]風[color:00]に乗れば　速く移動できるが\nカベには　ぶつかんなよ！",
-    "translation": "ヘイ！　オレの名前は　[color:03]カワラ・バーン[color:00]！[wait:001e]\nオバケの操作、覚えてるか？\f\n[color:03]クリスタル[color:00]は[icon:0047]を[color:01]ふるか、[icon:003b]で[color:00]、\n[color:03]スケスケ[color:00]状態で　ぬけられるぜ\f\n[color:01]風[color:00]に乗れば　速く移動できるが\nカベには　ぶつかんなよ！"
+    "original": "ヘイ！　オレの名前は　[color:03]カワラ・バーン[color:00]！[wait:001e]\nオバケの操作、覚えてるか？\\f\n[color:03]クリスタル[color:00]は[icon:0047]を[color:01]ふるか、[icon:003b]で[color:00]、\n[color:03]スケスケ[color:00]状態で　ぬけられるぜ\\f\n[color:01]風[color:00]に乗れば　速く移動できるが\nカベには　ぶつかんなよ！",
+    "translation": "ヘイ！　オレの名前は　[color:03]カワラ・バーン[color:00]！[wait:001e]\nオバケの操作、覚えてるか？\\f\n[color:03]クリスタル[color:00]は[icon:0047]を[color:01]ふるか、[icon:003b]で[color:00]、\n[color:03]スケスケ[color:00]状態で　ぬけられるぜ\\f\n[color:01]風[color:00]に乗れば　速く移動できるが\nカベには　ぶつかんなよ！"
   },
   {
     "index": 1899,
@@ -11853,8 +11853,8 @@
   {
     "index": 1933,
     "key": "TriPodBossZone_KoopaJr000",
-    "original": "わーっはっはっは！　よく来たな！\f\nでも　オマエごとき、\n[color:03]お父さん[color:00]の手を　借りるまでもねぇぞ！\f\n行けーっ！　メガレッグ！[wait:001e]\n[icon:001b][color:01]グランドスター[color:00]の力を　見せてやれ！",
-    "translation": "わーっはっはっは！　よく来たな！\f\nでも　オマエごとき、\n[color:03]お父さん[color:00]の手を　借りるまでもねぇぞ！\f\n行けーっ！　メガレッグ！[wait:001e]\n[icon:001b][color:01]グランドスター[color:00]の力を　見せてやれ！"
+    "original": "わーっはっはっは！　よく来たな！\\f\nでも　オマエごとき、\n[color:03]お父さん[color:00]の手を　借りるまでもねぇぞ！\\f\n行けーっ！　メガレッグ！[wait:001e]\n[icon:001b][color:01]グランドスター[color:00]の力を　見せてやれ！",
+    "translation": "わーっはっはっは！　よく来たな！\\f\nでも　オマエごとき、\n[color:03]お父さん[color:00]の手を　借りるまでもねぇぞ！\\f\n行けーっ！　メガレッグ！[wait:001e]\n[icon:001b][color:01]グランドスター[color:00]の力を　見せてやれ！"
   },
   {
     "index": 1934,
@@ -11897,8 +11897,8 @@
   {
     "index": 1940,
     "key": "UfoBegomanChainedPlanetZone_Tico006",
-    "original": "あっ、ありがとうございます！\nお礼に、[color:03]近道[color:00]に案内しますね！\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！",
-    "translation": "あっ、ありがとうございます！\nお礼に、[color:03]近道[color:00]に案内しますね！\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！"
+    "original": "あっ、ありがとうございます！\nお礼に、[color:03]近道[color:00]に案内しますね！\\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！",
+    "translation": "あっ、ありがとうございます！\nお礼に、[color:03]近道[color:00]に案内しますね！\\f\n[unk1][unk4:0002][color:01]ヘ　・　[wait:000f]ン　・　[wait:000f][2:000000530045005f00530056005f005400490043004f005f004d004500540041004d004f005200500048004f00530045]シ～～～ン！！"
   },
   {
     "index": 1941,
@@ -11910,8 +11910,8 @@
   {
     "index": 1942,
     "key": "UnderseaTunnelZone_Kinopio001",
-    "original": "ぶっは～！　苦しかった～～！[wait:001e]\n…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]あ～～！　[unk5:00]さん！\f\nいやぁ、[icon:0007][color:04]パワースター[color:00]取ろうとしたら\n宝箱の中に落ちちゃって、　大変でしたよ～！\f\nというわけで、ワ[wait:000a]タ[wait:000a]シ[wait:000a]がゲットした\n[icon:0007][color:04]パワースター[color:00]、持ってってください！",
-    "translation": "ぶっは～！　苦しかった～～！[wait:001e]\n…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]あ～～！　[unk5:00]さん！\f\nいやぁ、[icon:0007][color:04]パワースター[color:00]取ろうとしたら\n宝箱の中に落ちちゃって、　大変でしたよ～！\f\nというわけで、ワ[wait:000a]タ[wait:000a]シ[wait:000a]がゲットした\n[icon:0007][color:04]パワースター[color:00]、持ってってください！"
+    "original": "ぶっは～！　苦しかった～～！[wait:001e]\n…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]あ～～！　[unk5:00]さん！\\f\nいやぁ、[icon:0007][color:04]パワースター[color:00]取ろうとしたら\n宝箱の中に落ちちゃって、　大変でしたよ～！\\f\nというわけで、ワ[wait:000a]タ[wait:000a]シ[wait:000a]がゲットした\n[icon:0007][color:04]パワースター[color:00]、持ってってください！",
+    "translation": "ぶっは～！　苦しかった～～！[wait:001e]\n…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]…[wait:000a]あ～～！　[unk5:00]さん！\\f\nいやぁ、[icon:0007][color:04]パワースター[color:00]取ろうとしたら\n宝箱の中に落ちちゃって、　大変でしたよ～！\\f\nというわけで、ワ[wait:000a]タ[wait:000a]シ[wait:000a]がゲットした\n[icon:0007][color:04]パワースター[color:00]、持ってってください！"
   },
   {
     "index": 1943,
@@ -11929,8 +11929,8 @@
   {
     "index": 1945,
     "key": "UnderseaTunnelZone_PenguinMaster001",
-    "original": "ここは　ワシの　かくれ家じゃ\f\nシャカナの造りが　シュテキじゃろ～♪",
-    "translation": "ここは　ワシの　かくれ家じゃ\f\nシャカナの造りが　シュテキじゃろ～♪"
+    "original": "ここは　ワシの　かくれ家じゃ\\f\nシャカナの造りが　シュテキじゃろ～♪",
+    "translation": "ここは　ワシの　かくれ家じゃ\\f\nシャカナの造りが　シュテキじゃろ～♪"
   },
   {
     "index": 1946,
@@ -11960,38 +11960,38 @@
   {
     "index": 1950,
     "key": "VsHugeBattleShipZone_Caretaker002",
-    "original": "0枚って、アンタ…[wait:001e]\nワザと　やってるやろ！\f\nこれは　これで　すごいと思うけど、\nおばちゃん、そういうのは　あんまり好かんな",
-    "translation": "0枚って、アンタ…[wait:001e]\nワザと　やってるやろ！\f\nこれは　これで　すごいと思うけど、\nおばちゃん、そういうのは　あんまり好かんな"
+    "original": "0枚って、アンタ…[wait:001e]\nワザと　やってるやろ！\\f\nこれは　これで　すごいと思うけど、\nおばちゃん、そういうのは　あんまり好かんな",
+    "translation": "0枚って、アンタ…[wait:001e]\nワザと　やってるやろ！\\f\nこれは　これで　すごいと思うけど、\nおばちゃん、そういうのは　あんまり好かんな"
   },
   {
     "index": 1951,
     "key": "VsHugeBattleShipZone_Caretaker003",
-    "original": "[placeholder6:0001,00000000]枚かー　あっかんなぁ～………[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\f\n失敗すること　考えとったら、そらアカンわ[wait:001e]\n思い切って　[color:03]ドーン[color:00]って行かな！　……な！",
-    "translation": "[placeholder6:0001,00000000]枚かー　あっかんなぁ～………[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\f\n失敗すること　考えとったら、そらアカンわ[wait:001e]\n思い切って　[color:03]ドーン[color:00]って行かな！　……な！"
+    "original": "[placeholder6:0001,00000000]枚かー　あっかんなぁ～………[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\\f\n失敗すること　考えとったら、そらアカンわ[wait:001e]\n思い切って　[color:03]ドーン[color:00]って行かな！　……な！",
+    "translation": "[placeholder6:0001,00000000]枚かー　あっかんなぁ～………[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\\f\n失敗すること　考えとったら、そらアカンわ[wait:001e]\n思い切って　[color:03]ドーン[color:00]って行かな！　……な！"
   },
   {
     "index": 1952,
     "key": "VsHugeBattleShipZone_Caretaker004",
-    "original": "[placeholder6:0001,00000000]枚か！　ボチボチやな！[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\f\nあわてたら　結局　損するのん、自分やで！",
-    "translation": "[placeholder6:0001,00000000]枚か！　ボチボチやな！[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\f\nあわてたら　結局　損するのん、自分やで！"
+    "original": "[placeholder6:0001,00000000]枚か！　ボチボチやな！[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\\f\nあわてたら　結局　損するのん、自分やで！",
+    "translation": "[placeholder6:0001,00000000]枚か！　ボチボチやな！[wait:001e]\nおばちゃん、ちょっとだけ　言うてええか？\\f\nあわてたら　結局　損するのん、自分やで！"
   },
   {
     "index": 1953,
     "key": "VsHugeBattleShipZone_Caretaker005",
-    "original": "[placeholder6:0001,00000000]枚も　取ったんか！　すごいやん！\f\nあとは　自分との戦いやな[wait:001e]\nもうちょっとやから　がんばり！",
-    "translation": "[placeholder6:0001,00000000]枚も　取ったんか！　すごいやん！\f\nあとは　自分との戦いやな[wait:001e]\nもうちょっとやから　がんばり！"
+    "original": "[placeholder6:0001,00000000]枚も　取ったんか！　すごいやん！\\f\nあとは　自分との戦いやな[wait:001e]\nもうちょっとやから　がんばり！",
+    "translation": "[placeholder6:0001,00000000]枚も　取ったんか！　すごいやん！\\f\nあとは　自分との戦いやな[wait:001e]\nもうちょっとやから　がんばり！"
   },
   {
     "index": 1954,
     "key": "VsHugeBattleShipZone_Caretaker006",
-    "original": "[placeholder6:0001,00000000]枚か～～！　おっしいなぁ～！\f\nでも　ここからが勝負やな！[wait:001e]\n性根入れて　がんばり！",
-    "translation": "[placeholder6:0001,00000000]枚か～～！　おっしいなぁ～！\f\nでも　ここからが勝負やな！[wait:001e]\n性根入れて　がんばり！"
+    "original": "[placeholder6:0001,00000000]枚か～～！　おっしいなぁ～！\\f\nでも　ここからが勝負やな！[wait:001e]\n性根入れて　がんばり！",
+    "translation": "[placeholder6:0001,00000000]枚か～～！　おっしいなぁ～！\\f\nでも　ここからが勝負やな！[wait:001e]\n性根入れて　がんばり！"
   },
   {
     "index": 1955,
     "key": "VsHugeBattleShipZone_Caretaker007",
-    "original": "[placeholder6:0001,00000000]枚？！　もったいなぁ～！\f\nかわいそうやけど、アカンもんは　アカン！[wait:001e]\nそういう決まりや！",
-    "translation": "[placeholder6:0001,00000000]枚？！　もったいなぁ～！\f\nかわいそうやけど、アカンもんは　アカン！[wait:001e]\nそういう決まりや！"
+    "original": "[placeholder6:0001,00000000]枚？！　もったいなぁ～！\\f\nかわいそうやけど、アカンもんは　アカン！[wait:001e]\nそういう決まりや！",
+    "translation": "[placeholder6:0001,00000000]枚？！　もったいなぁ～！\\f\nかわいそうやけど、アカンもんは　アカン！[wait:001e]\nそういう決まりや！"
   },
   {
     "index": 1956,
@@ -12009,26 +12009,26 @@
   {
     "index": 1958,
     "key": "VsHugeBattleShipZone_LuigiEvent001",
-    "original": "ぶっは～～！！　チッソクしそうだったよ！[wait:001e]\nもうっ、兄さん！　もっと早く来てよ！\f\nはいはい、[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\n[color:01]ロゼッタさん[color:00]には、[color:02]ボク[color:00]が取ったって　伝えてよね",
-    "translation": "ぶっは～～！！　チッソクしそうだったよ！[wait:001e]\nもうっ、兄さん！　もっと早く来てよ！\f\nはいはい、[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\n[color:01]ロゼッタさん[color:00]には、[color:02]ボク[color:00]が取ったって　伝えてよね"
+    "original": "ぶっは～～！！　チッソクしそうだったよ！[wait:001e]\nもうっ、兄さん！　もっと早く来てよ！\\f\nはいはい、[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\n[color:01]ロゼッタさん[color:00]には、[color:02]ボク[color:00]が取ったって　伝えてよね",
+    "translation": "ぶっは～～！！　チッソクしそうだったよ！[wait:001e]\nもうっ、兄さん！　もっと早く来てよ！\\f\nはいはい、[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\n[color:01]ロゼッタさん[color:00]には、[color:02]ボク[color:00]が取ったって　伝えてよね"
   },
   {
     "index": 1959,
     "key": "VsHugeBattleShipZone_LuigiEvent002",
-    "original": "ぶっは～～！！　チッソクしそうだったよ！[wait:001e]\nもうっ、ボク！　もっと早く来てよ！\f\nはいはい、[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\n[color:01]ロゼッタさん[color:00]には、[color:02]ボク[color:00]が取ったって　伝えてよね",
-    "translation": "ぶっは～～！！　チッソクしそうだったよ！[wait:001e]\nもうっ、ボク！　もっと早く来てよ！\f\nはいはい、[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\n[color:01]ロゼッタさん[color:00]には、[color:02]ボク[color:00]が取ったって　伝えてよね"
+    "original": "ぶっは～～！！　チッソクしそうだったよ！[wait:001e]\nもうっ、ボク！　もっと早く来てよ！\\f\nはいはい、[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\n[color:01]ロゼッタさん[color:00]には、[color:02]ボク[color:00]が取ったって　伝えてよね",
+    "translation": "ぶっは～～！！　チッソクしそうだったよ！[wait:001e]\nもうっ、ボク！　もっと早く来てよ！\\f\nはいはい、[icon:0007][color:01]パワースター[color:00]だよね？[wait:001e]\n[color:01]ロゼッタさん[color:00]には、[color:02]ボク[color:00]が取ったって　伝えてよね"
   },
   {
     "index": 1960,
     "key": "VsHugeBattleShipZone_LuigiEvent003",
-    "original": "兄さん！　ひどいじゃないか！[wait:001e]\nこんな宇宙空間に　置き去りにしないでよ！\f\n…まぁいいや　[icon:0007][color:01]パワースター[color:00]も手に入れたし\n[color:02]ボク[color:00]が取ったって　[color:01]ロゼッタさん[color:00]に伝えといて！",
-    "translation": "兄さん！　ひどいじゃないか！[wait:001e]\nこんな宇宙空間に　置き去りにしないでよ！\f\n…まぁいいや　[icon:0007][color:01]パワースター[color:00]も手に入れたし\n[color:02]ボク[color:00]が取ったって　[color:01]ロゼッタさん[color:00]に伝えといて！"
+    "original": "兄さん！　ひどいじゃないか！[wait:001e]\nこんな宇宙空間に　置き去りにしないでよ！\\f\n…まぁいいや　[icon:0007][color:01]パワースター[color:00]も手に入れたし\n[color:02]ボク[color:00]が取ったって　[color:01]ロゼッタさん[color:00]に伝えといて！",
+    "translation": "兄さん！　ひどいじゃないか！[wait:001e]\nこんな宇宙空間に　置き去りにしないでよ！\\f\n…まぁいいや　[icon:0007][color:01]パワースター[color:00]も手に入れたし\n[color:02]ボク[color:00]が取ったって　[color:01]ロゼッタさん[color:00]に伝えといて！"
   },
   {
     "index": 1961,
     "key": "VsHugeBattleShipZone_LuigiEvent004",
-    "original": "もうっ、ボク！　ひどいじゃないか！[wait:001e]\nこんな宇宙空間に　置き去りにしないでよ！\f\n…まぁいいや　[icon:0007][color:01]パワースター[color:00]も手に入れたし\n[color:02]ボク[color:00]が取ったって　[color:01]ロゼッタさん[color:00]に伝えといて！",
-    "translation": "もうっ、ボク！　ひどいじゃないか！[wait:001e]\nこんな宇宙空間に　置き去りにしないでよ！\f\n…まぁいいや　[icon:0007][color:01]パワースター[color:00]も手に入れたし\n[color:02]ボク[color:00]が取ったって　[color:01]ロゼッタさん[color:00]に伝えといて！"
+    "original": "もうっ、ボク！　ひどいじゃないか！[wait:001e]\nこんな宇宙空間に　置き去りにしないでよ！\\f\n…まぁいいや　[icon:0007][color:01]パワースター[color:00]も手に入れたし\n[color:02]ボク[color:00]が取ったって　[color:01]ロゼッタさん[color:00]に伝えといて！",
+    "translation": "もうっ、ボク！　ひどいじゃないか！[wait:001e]\nこんな宇宙空間に　置き去りにしないでよ！\\f\n…まぁいいや　[icon:0007][color:01]パワースター[color:00]も手に入れたし\n[color:02]ボク[color:00]が取ったって　[color:01]ロゼッタさん[color:00]に伝えといて！"
   },
   {
     "index": 1962,

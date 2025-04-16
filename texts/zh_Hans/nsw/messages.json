@@ -43,14 +43,14 @@
   },
   {
     "key": "AstroDome_Butler012",
-    "original": "ギャラクシーで目にする　キラキラした[icon:000b][color:01]星くず[color:00]\n…お気づきですかな？\f\nあれは　[icon:000b][color:01]スターピース[color:00]と言いまして\nわれわれ[color:03]チコの好物[color:00]、言わば　力の源です\f\n[icon:0047]を画面に向け、[icon:000a][color:01]でポイント[color:00]して取ったり、\n[icon:000a]でねらって、相手を[icon:003f][color:01]で撃つ[color:00]こともできます\f\n直接、　[color:01]画面をタッチして[color:00]もあつめられますぞ！\n",
-    "translation": "注意到那些发光的[icon:000b][color:01]星屑[color:00]了吗？\f\n它们被称为[icon:000b][color:01]星之碎屑[color:00]，\n是琪琪[color:03]最喜爱的食物[color:00]，也是力量的来源。\f\n用[icon:000a][color:01]点示[color:00]拾取。\n用[icon:000a]瞄准目标，按[icon:004b][color:01]射击[color:00]对方。",
+    "original": "ギャラクシーで目にする　キラキラした[icon:000b][color:01]星くず[color:00]\n…お気づきですかな？\\f\nあれは　[icon:000b][color:01]スターピース[color:00]と言いまして\nわれわれ[color:03]チコの好物[color:00]、言わば　力の源です\\f\n[icon:0047]を画面に向け、[icon:000a][color:01]でポイント[color:00]して取ったり、\n[icon:000a]でねらって、相手を[icon:003f][color:01]で撃つ[color:00]こともできます\\f\n直接、　[color:01]画面をタッチして[color:00]もあつめられますぞ！\n",
+    "translation": "注意到那些发光的[icon:000b][color:01]星屑[color:00]了吗？\\f\n它们被称为[icon:000b][color:01]星之碎屑[color:00]，\n是琪琪[color:03]最喜爱的食物[color:00]，也是力量的来源。\\f\n用[icon:000a][color:01]点示[color:00]拾取。\n用[icon:000a]瞄准目标，按[icon:004b][color:01]射击[color:00]对方。",
     "untranslated": true
   },
   {
     "key": "AstroDome_Butler023",
-    "original": "よくぞ　参られました[wait:001e]\nここが　ワタシ達が[color:01] ドーム[color:00]と呼んでいるところ…\f\n様々な[color:03]ギャラクシー[color:00]を見ることができる、いわば\n目の役割を　果たす場所でございます\f\n[color:03]ギャラクシー[color:00]へは　この者が　案内いたします\f\n変身したら　[icon:0009][color:01]スターキャプチャー[color:00]を [icon:000a]で\nねらって、　[icon:0038]を　押してくだされ\f\n[icon:000a]を見失ったら、　[icon:003d]でリセットできますぞ\f\n[icon:0044]携帯モードなら、\n[color:01]画面を直接タッチして[color:00]くだされ",
-    "translation": "欢迎光临！[wait:001e]这个[color:01]圆顶[color:00]如同天文台的眼睛，\n我们可以从这里看到远处的[color:03]银河[color:00]。\f\n当这个琪琪变成[color:01][icon:0009]牵引星[color:00]之后，\n它将指引你前往那些遥远的[color:03]银河[color:00]。\f\n方法很简单，用[icon:000a]瞄准[color:01][icon:0009]牵引星[color:00]，[color:01]\n[color:00]按[icon:0049]就可以了。",
+    "original": "よくぞ　参られました[wait:001e]\nここが　ワタシ達が[color:01] ドーム[color:00]と呼んでいるところ…\\f\n様々な[color:03]ギャラクシー[color:00]を見ることができる、いわば\n目の役割を　果たす場所でございます\\f\n[color:03]ギャラクシー[color:00]へは　この者が　案内いたします\\f\n変身したら　[icon:0009][color:01]スターキャプチャー[color:00]を [icon:000a]で\nねらって、　[icon:0038]を　押してくだされ\\f\n[icon:000a]を見失ったら、　[icon:003d]でリセットできますぞ\\f\n[icon:0044]携帯モードなら、\n[color:01]画面を直接タッチして[color:00]くだされ",
+    "translation": "欢迎光临！[wait:001e]这个[color:01]圆顶[color:00]如同天文台的眼睛，\n我们可以从这里看到远处的[color:03]银河[color:00]。\\f\n当这个琪琪变成[color:01][icon:0009]牵引星[color:00]之后，\n它将指引你前往那些遥远的[color:03]银河[color:00]。\\f\n方法很简单，用[icon:000a]瞄准[color:01][icon:0009]牵引星[color:00]，[color:01]\n[color:00]按[icon:0049]就可以了。",
     "untranslated": true
   },
   {
@@ -61,14 +61,14 @@
   },
   {
     "key": "AstroGalaxy_SignBoard004",
-    "original": "もし　お休みしたい時は\n[icon:0040]を　押しましょう\f\n[color:01]「セーブしてやめる」[color:00]を選ぶと　[color:01]冒険を記録[color:00]して、\nお休みすることが　できます\f\n操作に迷った時は\n[icon:0041]を　押しましょう\f\n基本的な操作や特別なアクションを\n確認することができます",
-    "translation": "如果需要休息，请按[icon:0017]或[icon:0018]。\f\n可以选择[color:01]“保存后退出”[color:00]来[color:01]保存冒险进度[color:00]，\n并休息一会儿。",
+    "original": "もし　お休みしたい時は\n[icon:0040]を　押しましょう\\f\n[color:01]「セーブしてやめる」[color:00]を選ぶと　[color:01]冒険を記録[color:00]して、\nお休みすることが　できます\\f\n操作に迷った時は\n[icon:0041]を　押しましょう\\f\n基本的な操作や特別なアクションを\n確認することができます",
+    "translation": "如果需要休息，请按[icon:0017]或[icon:0018]。\\f\n可以选择[color:01]“保存后退出”[color:00]来[color:01]保存冒险进度[color:00]，\n并休息一会儿。",
     "untranslated": true
   },
   {
     "key": "CoCoTwinZone_Kinopio014",
-    "original": "[unk5:00]さん、ありがとう！[wait:001e]\nお礼に　ボクからの　とっておきヒント！\f\n[color:03]トゲトゲ[color:00]して　近づけないモノは、\n[icon:000c][color:03]ココナッツ[color:00]を[color:01][icon:0047]か[icon:003b]のスピン[color:00]で[color:01]ぶつけて[color:00]！",
-    "translation": "谢谢你，[unk5:00]先生！[wait:001e]\n作为回报，我告诉你一个秘密！\f\n挥动[color:01][icon:0003]旋转[color:03][icon:000c]椰子[color:00]，\n来[color:01]撞击[color:00]那些[color:03]带刺的玩意[color:00]！",
+    "original": "[unk5:00]さん、ありがとう！[wait:001e]\nお礼に　ボクからの　とっておきヒント！\\f\n[color:03]トゲトゲ[color:00]して　近づけないモノは、\n[icon:000c][color:03]ココナッツ[color:00]を[color:01][icon:0047]か[icon:003b]のスピン[color:00]で[color:01]ぶつけて[color:00]！",
+    "translation": "谢谢你，[unk5:00]先生！[wait:001e]\n作为回报，我告诉你一个秘密！\\f\n挥动[color:01][icon:0003]旋转[color:03][icon:000c]椰子[color:00]，\n来[color:01]撞击[color:00]那些[color:03]带刺的玩意[color:00]！",
     "untranslated": true
   },
   {
@@ -97,8 +97,8 @@
   },
   {
     "key": "Common_SurfingTutorial007",
-    "original": "あと、[color:03]スピード[color:00]は　[icon:0039][color:01]で調節[color:00]してね\f\nよし！　説明は　この辺にして、\nこの先のコースを一周してみよう！",
-    "translation": "[color:01]按住[color:00][icon:0039]可以[color:01]加速[color:00]。\f\n以上就是所有说明了。\n那么先练习一圈吧！",
+    "original": "あと、[color:03]スピード[color:00]は　[icon:0039][color:01]で調節[color:00]してね\\f\nよし！　説明は　この辺にして、\nこの先のコースを一周してみよう！",
+    "translation": "[color:01]按住[color:00][icon:0039]可以[color:01]加速[color:00]。\\f\n以上就是所有说明了。\n那么先练习一圈吧！",
     "untranslated": true
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "key": "Common_TamakoroTutorial006",
-    "original": "その[color:03]基本姿勢[color:00]から　[icon:0047]/　[icon:0044]　[color:01]を傾ける[color:00]と\n[color:03]タマコロ[color:00]を転がして　移動できるぞ\f\nあとは、[icon:0039][color:01]で　ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！\f\nまぁ、習うより慣れろだ[wait:001e]\nそれで　先まで進んでみな！",
-    "translation": "[color:01]倾斜[icon:0003][color:00]，控制[color:03]星星球[color:00]移动。\f\n然后，[color:01]按[color:00][icon:0049][color:01]跳跃[color:00]！[wait:001e]\n要是有东西挡了你的道，跳上去碾平它！\f\n在实践中你会学到更多。[wait:001e]\n祝你好运！",
+    "original": "その[color:03]基本姿勢[color:00]から　[icon:0047]/　[icon:0044]　[color:01]を傾ける[color:00]と\n[color:03]タマコロ[color:00]を転がして　移動できるぞ\\f\nあとは、[icon:0039][color:01]で　ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！\\f\nまぁ、習うより慣れろだ[wait:001e]\nそれで　先まで進んでみな！",
+    "translation": "[color:01]倾斜[icon:0003][color:00]，控制[color:03]星星球[color:00]移动。\\f\n然后，[color:01]按[color:00][icon:0049][color:01]跳跃[color:00]！[wait:001e]\n要是有东西挡了你的道，跳上去碾平它！\\f\n在实践中你会学到更多。[wait:001e]\n祝你好运！",
     "untranslated": true
   },
   {
     "key": "CubeBubbleExAZone_SignBoard001",
-    "original": "ヘイ！　さっき　言い忘れた事を伝えとくぜ！\f\n[color:03]オオアワ[color:00]に乗ってて　地面に降りたくなったら、\n[icon:003e][color:01]で　降りられる[color:00]からな！\f\nあと、[color:01]動くカベ[color:00]に　はさまれたら\n[color:03]オオアワ[color:00]は[color:01]割れちまう[color:00]からな！[wait:001e]　気をつけな",
-    "translation": "嘿！有一点我忘了说！\f\n如果你乘[color:03]大气泡[color:00]时想要回到地面，\n只要按[icon:003e]就能[color:01]降落[color:00]了！\f\n还有，如果你被[color:01]移动墙壁[color:00]夹到，\n[color:03]大气泡[color:00]就会[color:01]破裂[color:00]！[wait:001e]当心啊！"
+    "original": "ヘイ！　さっき　言い忘れた事を伝えとくぜ！\\f\n[color:03]オオアワ[color:00]に乗ってて　地面に降りたくなったら、\n[icon:003e][color:01]で　降りられる[color:00]からな！\\f\nあと、[color:01]動くカベ[color:00]に　はさまれたら\n[color:03]オオアワ[color:00]は[color:01]割れちまう[color:00]からな！[wait:001e]　気をつけな",
+    "translation": "嘿！有一点我忘了说！\\f\n如果你乘[color:03]大气泡[color:00]时想要回到地面，\n只要按[icon:003e]就能[color:01]降落[color:00]了！\\f\n还有，如果你被[color:01]移动墙壁[color:00]夹到，\n[color:03]大气泡[color:00]就会[color:01]破裂[color:00]！[wait:001e]当心啊！"
   },
   {
     "key": "CubeBubbleExAZone_SignBoard002",
@@ -125,44 +125,44 @@
   },
   {
     "key": "CubeBubbleExSZone_SignBoard001",
-    "original": "ヘイ！[wait:001e]　あの[color:01]オオアワ[color:00]に乗るなら\nこの[color:03]デンゴン・バーン[color:00]様の話を聞きな！\f\n[color:03]オオアワ[color:00]に乗ったら　[icon:0038]を押しな！[wait:001e]　そうすりゃ\n[icon:000a][color:01]ポインター[color:00]から　[color:03]空気が出る[color:00]からよ\f\nちなみに、[icon:0044]携帯モードの時は\n[color:01]タッチ[color:00]で[color:03]空気が出る[color:00]からな！\f\nその空気で　[color:03]オオアワ[color:00]を　[color:01]横から押して[color:00]いくんだ！[wait:001e]\nビミョーな調節が必要だが　なんとかなるだろ",
-    "translation": "嘿！[wait:001e]在你乘坐[color:01]大气泡[color:00]前，\n听你真诚的朋友，[color:03]板留言[color:00]说句话吧！\f\n乘上[color:03]大气泡[color:00]后按[icon:0049]，[wait:001e]\n[color:03][icon:000a][color:01]光标[color:00]里会有[color:03]空气出来[color:00]！\f\n利用空气从[color:01]一侧吹动[color:03]大气泡[color:00]！[wait:001e]\n这是很细微的操作，你会适应的。",
+    "original": "ヘイ！[wait:001e]　あの[color:01]オオアワ[color:00]に乗るなら\nこの[color:03]デンゴン・バーン[color:00]様の話を聞きな！\\f\n[color:03]オオアワ[color:00]に乗ったら　[icon:0038]を押しな！[wait:001e]　そうすりゃ\n[icon:000a][color:01]ポインター[color:00]から　[color:03]空気が出る[color:00]からよ\\f\nちなみに、[icon:0044]携帯モードの時は\n[color:01]タッチ[color:00]で[color:03]空気が出る[color:00]からな！\\f\nその空気で　[color:03]オオアワ[color:00]を　[color:01]横から押して[color:00]いくんだ！[wait:001e]\nビミョーな調節が必要だが　なんとかなるだろ",
+    "translation": "嘿！[wait:001e]在你乘坐[color:01]大气泡[color:00]前，\n听你真诚的朋友，[color:03]板留言[color:00]说句话吧！\\f\n乘上[color:03]大气泡[color:00]后按[icon:0049]，[wait:001e]\n[color:03][icon:000a][color:01]光标[color:00]里会有[color:03]空气出来[color:00]！\\f\n利用空气从[color:01]一侧吹动[color:03]大气泡[color:00]！[wait:001e]\n这是很细微的操作，你会适应的。",
     "untranslated": true
   },
   {
     "key": "CubeBubbleExSZone_SignBoard002",
-    "original": "[color:03]オオアワ[color:00]に乗ったら　[icon:0038]を押しな！[wait:001e]　そうすりゃ\n[icon:000a][color:01]ポインター[color:00]から　[color:03]空気が出る[color:00]からよ\f\n[icon:0044]携帯モードの時は、[color:01]タッチ[color:00]で[color:03]空気が出る[color:00]からな\f\nその空気で　[color:03]オオアワ[color:00]を　[color:01]横から押して[color:00]いくんだ！[wait:001e]\nビミョーな調節が必要だが　なんとかなるだろ",
-    "translation": "乘上[color:03]大气泡[color:00]后按[icon:0049]，[wait:001e]\n[color:03][icon:000a][color:01]光标[color:00]里会有[color:03]空气出来[color:00]！\f\n利用空气从[color:01]一侧吹动[color:03]大气泡[color:00]！[wait:001e]\n这是很细微的操作，你会适应的。",
+    "original": "[color:03]オオアワ[color:00]に乗ったら　[icon:0038]を押しな！[wait:001e]　そうすりゃ\n[icon:000a][color:01]ポインター[color:00]から　[color:03]空気が出る[color:00]からよ\\f\n[icon:0044]携帯モードの時は、[color:01]タッチ[color:00]で[color:03]空気が出る[color:00]からな\\f\nその空気で　[color:03]オオアワ[color:00]を　[color:01]横から押して[color:00]いくんだ！[wait:001e]\nビミョーな調節が必要だが　なんとかなるだろ",
+    "translation": "乘上[color:03]大气泡[color:00]后按[icon:0049]，[wait:001e]\n[color:03][icon:000a][color:01]光标[color:00]里会有[color:03]空气出来[color:00]！\\f\n利用空气从[color:01]一侧吹动[color:03]大气泡[color:00]！[wait:001e]\n这是很细微的操作，你会适应的。",
     "untranslated": true
   },
   {
     "key": "DesertDiskZone_Kinopio001",
-    "original": "[unk5:00]さん！　[color:01]竜巻[color:00]で　高いところの\n[icon:001e][color:05]パープルコイン[color:00]を　取れそうです！\f\n[color:01]竜巻[color:00]の中に入ったら　[icon:0047][color:01]を　ふるか、\n[icon:003b][color:01]を押して、[color:00]ください！",
-    "translation": "[unk5:00]先生！\n利用[color:01]龙卷风[color:00]拿高处的[color:05][icon:001e]紫色硬币[color:00]吧！\f\n走进[color:01]龙卷风[color:00]，[color:01]挥动[color:00][icon:0003]！",
+    "original": "[unk5:00]さん！　[color:01]竜巻[color:00]で　高いところの\n[icon:001e][color:05]パープルコイン[color:00]を　取れそうです！\\f\n[color:01]竜巻[color:00]の中に入ったら　[icon:0047][color:01]を　ふるか、\n[icon:003b][color:01]を押して、[color:00]ください！",
+    "translation": "[unk5:00]先生！\n利用[color:01]龙卷风[color:00]拿高处的[color:05][icon:001e]紫色硬币[color:00]吧！\\f\n走进[color:01]龙卷风[color:00]，[color:01]挥动[color:00][icon:0003]！",
     "untranslated": true
   },
   {
     "key": "DiskGardenZone_SignBoard001",
-    "original": "もし、つかれて　[color:03]天文台[color:00]に帰りたかったら、\n[icon:0040]を　押しましょう\f\n[color:03]「天文台に帰る」[color:00]を選ぶと　帰ることができます[wait:001e]\n[icon:000b][color:01]スターピース[color:00]は　[color:01]持って帰れない[color:00]から注意！",
-    "translation": "如果觉得疲劳，想回到[color:03]天文台[color:00]，\n就按[icon:0017]或[icon:0018]。\f\n选择[color:03]“返回天文台”[color:00]就能回去，但要注意，[wait:001e]\n所收集的[icon:000b][color:01]星之碎屑[color:00]将[color:01]不能带回[color:00]！",
+    "original": "もし、つかれて　[color:03]天文台[color:00]に帰りたかったら、\n[icon:0040]を　押しましょう\\f\n[color:03]「天文台に帰る」[color:00]を選ぶと　帰ることができます[wait:001e]\n[icon:000b][color:01]スターピース[color:00]は　[color:01]持って帰れない[color:00]から注意！",
+    "translation": "如果觉得疲劳，想回到[color:03]天文台[color:00]，\n就按[icon:0017]或[icon:0018]。\\f\n选择[color:03]“返回天文台”[color:00]就能回去，但要注意，[wait:001e]\n所收集的[icon:000b][color:01]星之碎屑[color:00]将[color:01]不能带回[color:00]！",
     "untranslated": true
   },
   {
     "key": "DiskGardenZone_Tico001",
-    "original": "ギャラクシーに落ちている　[icon:000b][color:01]スターピース[color:00]は\n[icon:000a][color:01]ポインター[color:00]で[color:03]触れるだけ[color:00]で集められます\f\n[color:01]50個[color:00]で[color:02]1UP[color:00]しますし、貯めて損はありません！[wait:001e]\nさあ、[icon:0047]を[color:03]画面に向け[color:00]、集めまくってください\f\n画面　を　[color:01]直接タッチしても[color:00]集められます",
-    "translation": "要捡起散落在银河中的[icon:000b][color:01]星之碎屑[color:00]，\n只要用[icon:000a][color:01]光标[color:03]接触[color:00]就可收集它们。\f\n每收集满[color:01]50个[color:00]会获得[color:02]1UP[color:00]，\n所以多收集一些总没坏处。\f\n尽可能的收集[color:01]星之碎屑[color:00]吧！",
+    "original": "ギャラクシーに落ちている　[icon:000b][color:01]スターピース[color:00]は\n[icon:000a][color:01]ポインター[color:00]で[color:03]触れるだけ[color:00]で集められます\\f\n[color:01]50個[color:00]で[color:02]1UP[color:00]しますし、貯めて損はありません！[wait:001e]\nさあ、[icon:0047]を[color:03]画面に向け[color:00]、集めまくってください\\f\n画面　を　[color:01]直接タッチしても[color:00]集められます",
+    "translation": "要捡起散落在银河中的[icon:000b][color:01]星之碎屑[color:00]，\n只要用[icon:000a][color:01]光标[color:03]接触[color:00]就可收集它们。\\f\n每收集满[color:01]50个[color:00]会获得[color:02]1UP[color:00]，\n所以多收集一些总没坏处。\\f\n尽可能的收集[color:01]星之碎屑[color:00]吧！",
     "untranslated": true
   },
   {
     "key": "DiskGardenZone_Tico003",
-    "original": "この先に　[color:03]食いしんぼう[color:00]な仲間が　いるんです…[wait:001e]\nよければ、彼の願いを　聞いてくれませんか？\f\n先に行くには[icon:0009]と[icon:0008]で向かってください！\n[icon:0044]携帯モードなら [color:01]タッチで操作[color:00]できます！",
+    "original": "この先に　[color:03]食いしんぼう[color:00]な仲間が　いるんです…[wait:001e]\nよければ、彼の願いを　聞いてくれませんか？\\f\n先に行くには[icon:0009]と[icon:0008]で向かってください！\n[icon:0044]携帯モードなら [color:01]タッチで操作[color:00]できます！",
     "translation": "我有个[color:03]贪吃[color:00]的朋友在前面……[wait:001e]\n你不介意分她一些甜点吧？",
     "untranslated": true
   },
   {
     "key": "DiskGardenZone_Tico006",
-    "original": "知ってますか？！[wait:001e]\n[icon:000b][color:01]スターピース[color:00]は[icon:003f]で撃てるんです！\f\n[icon:000a][color:01]ポインター[color:00]で　標的をじっくり狙って[icon:003f]！[wait:001e]\n[color:03]気絶[color:00]してる間に[color:01]体当たり[color:00]して、[color:03]敵[color:00]を　けちらして！",
-    "translation": "你知道吗？！[wait:001e]\n按[icon:004b]可以发射[icon:000b][color:01]星之碎屑[color:00]！\f\n只要用[icon:000a][color:01]光标[color:00]瞄准目标，按[icon:004b]！\f\n当敌人[color:03]晕眩[color:00]时，[color:01]冲向[color:00]他们结束战斗！",
+    "original": "知ってますか？！[wait:001e]\n[icon:000b][color:01]スターピース[color:00]は[icon:003f]で撃てるんです！\\f\n[icon:000a][color:01]ポインター[color:00]で　標的をじっくり狙って[icon:003f]！[wait:001e]\n[color:03]気絶[color:00]してる間に[color:01]体当たり[color:00]して、[color:03]敵[color:00]を　けちらして！",
+    "translation": "你知道吗？！[wait:001e]\n按[icon:004b]可以发射[icon:000b][color:01]星之碎屑[color:00]！\\f\n只要用[icon:000a][color:01]光标[color:00]瞄准目标，按[icon:004b]！\\f\n当敌人[color:03]晕眩[color:00]时，[color:01]冲向[color:00]他们结束战斗！",
     "untranslated": true
   },
   {
@@ -182,7 +182,7 @@
   },
   {
     "key": "FlowerRoadZone_HoneyBee000",
-    "original": "[color:03]花のクキ[color:00]につかまったら\n[icon:0047][color:01]ふってクルクル[color:00]であります\f\n[icon:003b][color:01]でもクルクル[color:00]できるであります",
+    "original": "[color:03]花のクキ[color:00]につかまったら\n[icon:0047][color:01]ふってクルクル[color:00]であります\\f\n[icon:003b][color:01]でもクルクル[color:00]できるであります",
     "translation": "抓住[color:03]花茎[color:01]挥动[color:00][icon:0003]可以往上升！",
     "untranslated": true
   },
@@ -223,8 +223,8 @@
   },
   {
     "key": "ForestHomeZone_SignBoard004",
-    "original": "ヘイ！　オレの名前は　[color:03]ケイジ・バーン[color:00]！[wait:001e]\nここの　[color:03]カベ[color:00]を登りたいなら聞きな\f\nジャンプ中に　[color:03]カベ[color:00]にくっついたら、\n[icon:0039]を押して　[color:01]カベキック[color:00]！\f\n連続で　[color:01]カベキック[color:00]すると\nすごく高いところまで　登れるから、覚えときな！",
-    "translation": "嘿！我就是大名鼎鼎的[color:03]板布告[color:00]！\f\n如果想翻过这堵[color:03]墙壁[color:00]，\n最好竖起耳朵听仔细了！\f\n当你跳起接触到[color:03]墙壁[color:00]时，\n按[icon:0039][color:01]踢墙跳[color:00]！\f\n连续施展[color:01]踢墙跳[color:00]可以跳到高处！",
+    "original": "ヘイ！　オレの名前は　[color:03]ケイジ・バーン[color:00]！[wait:001e]\nここの　[color:03]カベ[color:00]を登りたいなら聞きな\\f\nジャンプ中に　[color:03]カベ[color:00]にくっついたら、\n[icon:0039]を押して　[color:01]カベキック[color:00]！\\f\n連続で　[color:01]カベキック[color:00]すると\nすごく高いところまで　登れるから、覚えときな！",
+    "translation": "嘿！我就是大名鼎鼎的[color:03]板布告[color:00]！\\f\n如果想翻过这堵[color:03]墙壁[color:00]，\n最好竖起耳朵听仔细了！\\f\n当你跳起接触到[color:03]墙壁[color:00]时，\n按[icon:0039][color:01]踢墙跳[color:00]！\\f\n连续施展[color:01]踢墙跳[color:00]可以跳到高处！",
     "untranslated": true
   },
   {
@@ -315,43 +315,43 @@
   },
   {
     "key": "HeavensDoorMysteriousZone_Tico007",
-    "original": "こういう　[color:03]こわせそうなモノ[color:00]には\n[icon:0047]を[color:01]ふって[color:00]　[color:01]スピン！　[color:00]です！\f\n[color:01]スピン[color:00]を　敵に当てれば\n[color:03]気絶[color:00]させたりもできますよ！\f\nふれない時は[icon:003b]でも大丈夫！",
+    "original": "こういう　[color:03]こわせそうなモノ[color:00]には\n[icon:0047]を[color:01]ふって[color:00]　[color:01]スピン！　[color:00]です！\\f\n[color:01]スピン[color:00]を　敵に当てれば\n[color:03]気絶[color:00]させたりもできますよ！\\f\nふれない時は[icon:003b]でも大丈夫！",
     "translation": "[color:01]挥动[color:00][icon:0003][color:01]旋转[color:00]撞击[color:03]看上去易碎的东西[color:00]！\n你也可以[color:01]旋转[color:00]撞击敌人使他们[color:03]晕眩[color:00]。",
     "untranslated": true
   },
   {
     "key": "HeavensDoorMysteriousZone_Tico009",
-    "original": "これは　[icon:0008][color:01]スターリング[color:00]と言って、\n星を飛び出すための　発射台です\f\nそばで[icon:0047][color:01]を　ふって[color:00]ください[wait:001e]\nあなたを星の旅に　いざないます\f\nふれない時は[icon:003b]でも大丈夫！\f\nさあ！　[color:01]銀河の世界[color:00]へ！！[wait:001e]\nご武運を　お祈りしております…",
-    "translation": "这是[icon:0008][color:01]弹射星[color:00]。\f\n当你靠近它时，[color:01]挥动[color:00][icon:0003]，\n就可以像流星一样弹射出去！\f\n好了，现在就开始探索宇宙吧！[wait:001e]\n有很多[color:01]银河[color:00]等着你去发现呢！",
+    "original": "これは　[icon:0008][color:01]スターリング[color:00]と言って、\n星を飛び出すための　発射台です\\f\nそばで[icon:0047][color:01]を　ふって[color:00]ください[wait:001e]\nあなたを星の旅に　いざないます\\f\nふれない時は[icon:003b]でも大丈夫！\\f\nさあ！　[color:01]銀河の世界[color:00]へ！！[wait:001e]\nご武運を　お祈りしております…",
+    "translation": "这是[icon:0008][color:01]弹射星[color:00]。\\f\n当你靠近它时，[color:01]挥动[color:00][icon:0003]，\n就可以像流星一样弹射出去！\\f\n好了，现在就开始探索宇宙吧！[wait:001e]\n有很多[color:01]银河[color:00]等着你去发现呢！",
     "untranslated": true
   },
   {
     "key": "HeavensDoorMysteriousZone_Tico010",
-    "original": "さあ！　[icon:0008][color:01]スターリング[color:00]に近づいて、\n[icon:0047][color:01]を　ふって[color:00]ください！\f\nふれない時は[icon:003b]でも！",
+    "original": "さあ！　[icon:0008][color:01]スターリング[color:00]に近づいて、\n[icon:0047][color:01]を　ふって[color:00]ください！\\f\nふれない時は[icon:003b]でも！",
     "translation": "去吧！走到[color:01][icon:0008]弹射星[color:00]旁，\n然后[color:01]挥动[color:00][icon:0003]！",
     "untranslated": true
   },
   {
     "key": "HeavensDoorMysteriousZone_Tico104",
-    "original": "これは、アタイ達の力が宿る　[color:01]レッドスター[wait:001e][color:00]\n[color:03]空中でスピン[color:00]すれば[color:01]空を飛べる[color:00]し、\f\n[icon:0039]を押しながら[icon:0042]で\n進みたい[color:01]方向を決められる[color:00]わ\f\nこれで[icon:001e][color:05]パープルコイン　[color:01]100枚[color:00]取れたら、\nアタイも認めてあげる！",
-    "translation": "这是包含红色琪琪力量的[color:01]红色星星[color:00]。[wait:001e]\n[color:03]在空中旋转[color:00]的话，就能[color:01]飞向天空[color:00]。\f\n按住[icon:0039]用[icon:0042][color:01]选择飞行方向[color:00]。\f\n如果你能收集齐[color:01]100枚[icon:001e][color:05]紫色硬币[color:00]，\n我也会非常信任你的！"
+    "original": "これは、アタイ達の力が宿る　[color:01]レッドスター[wait:001e][color:00]\n[color:03]空中でスピン[color:00]すれば[color:01]空を飛べる[color:00]し、\\f\n[icon:0039]を押しながら[icon:0042]で\n進みたい[color:01]方向を決められる[color:00]わ\\f\nこれで[icon:001e][color:05]パープルコイン　[color:01]100枚[color:00]取れたら、\nアタイも認めてあげる！",
+    "translation": "这是包含红色琪琪力量的[color:01]红色星星[color:00]。[wait:001e]\n[color:03]在空中旋转[color:00]的话，就能[color:01]飞向天空[color:00]。\\f\n按住[icon:0039]用[icon:0042][color:01]选择飞行方向[color:00]。\\f\n如果你能收集齐[color:01]100枚[icon:001e][color:05]紫色硬币[color:00]，\n我也会非常信任你的！"
   },
   {
     "key": "HeavensDoorSmallZone_Tico002",
-    "original": "ココから出して！[wait:001e]\n敵のだれかが　[color:01]カギ[color:00]を持ってるはずです！！\f\n[icon:0047][color:01]をふるか、　[icon:003b]で　スピン[color:00]！[wait:001e]\n敵が[color:03]気絶したら　体当たり[color:00]です！",
-    "translation": "快救我出去！[wait:001e]\n其中一个敌人应该拿着[color:01]钥匙[color:00]！！\f\n[color:01]挥动[color:00][icon:0003][color:01]旋转[color:00]打昏敌人，[wait:001e]\n再[color:03]冲过去[color:00]撞击他们！",
+    "original": "ココから出して！[wait:001e]\n敵のだれかが　[color:01]カギ[color:00]を持ってるはずです！！\\f\n[icon:0047][color:01]をふるか、　[icon:003b]で　スピン[color:00]！[wait:001e]\n敵が[color:03]気絶したら　体当たり[color:00]です！",
+    "translation": "快救我出去！[wait:001e]\n其中一个敌人应该拿着[color:01]钥匙[color:00]！！\\f\n[color:01]挥动[color:00][icon:0003][color:01]旋转[color:00]打昏敌人，[wait:001e]\n再[color:03]冲过去[color:00]撞击他们！",
     "untranslated": true
   },
   {
     "key": "HellBallZone_SignBoard001",
-    "original": "ヘイ！　オレの名は[color:03]カン・バーン[color:00]！[wait:001e]\n…って　どっかで会った事、あったっけか？\f\nとにかく、ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]かまえろ[color:00]！\f\n[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\n間違っても　穴になんか落ちるなよ！",
-    "translation": "嘿！我的名字是[color:03]板告示[color:00]！[wait:001e]\n我们之前是不是在哪见过？\f\n不管怎样，在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，\f\n[color:01]倾斜[color:00][icon:0003][color:01]四处滚动[color:00]，按[icon:0049]可以[color:01]跳跃[color:00]！[wait:001e]\n可别掉到洞里去嘿！",
+    "original": "ヘイ！　オレの名は[color:03]カン・バーン[color:00]！[wait:001e]\n…って　どっかで会った事、あったっけか？\\f\nとにかく、ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]かまえろ[color:00]！\\f\n[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\n間違っても　穴になんか落ちるなよ！",
+    "translation": "嘿！我的名字是[color:03]板告示[color:00]！[wait:001e]\n我们之前是不是在哪见过？\\f\n不管怎样，在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，\\f\n[color:01]倾斜[color:00][icon:0003][color:01]四处滚动[color:00]，按[icon:0049]可以[color:01]跳跃[color:00]！[wait:001e]\n可别掉到洞里去嘿！",
     "untranslated": true
   },
   {
     "key": "HellBallZone_SignBoard002",
-    "original": "ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]かまえろ[color:00]！\f\nで、[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\n間違っても　穴になんか落ちるなよ！",
-    "translation": "在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，[color:01]\f\n倾斜[color:00][icon:0003][color:01]四处滚动[color:00]，按[icon:0049]可以[color:01]跳跃[color:00]！[wait:001e]\n可别掉到洞里去嘿！",
+    "original": "ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]かまえろ[color:00]！\\f\nで、[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\n間違っても　穴になんか落ちるなよ！",
+    "translation": "在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，[color:01]\\f\n倾斜[color:00][icon:0003][color:01]四处滚动[color:00]，按[icon:0049]可以[color:01]跳跃[color:00]！[wait:001e]\n可别掉到洞里去嘿！",
     "untranslated": true
   },
   {
@@ -423,8 +423,8 @@
   },
   {
     "key": "OceanRingZone_HoneyBee003",
-    "original": "[color:03]見たいところを変える[color:00]には[icon:0043]\n変えられないときは[color:01]ブッ！[color:00]と鳴るであります\f\nこれ、ミツバチ一族の　言い伝えであります",
-    "translation": "按[icon:0043][color:03]调整视角[color:00]。\n如果无法调整，会有[color:01]噗！[color:00]的声音。\f\n这是蜜蜂一族的提示。"
+    "original": "[color:03]見たいところを変える[color:00]には[icon:0043]\n変えられないときは[color:01]ブッ！[color:00]と鳴るであります\\f\nこれ、ミツバチ一族の　言い伝えであります",
+    "translation": "按[icon:0043][color:03]调整视角[color:00]。\n如果无法调整，会有[color:01]噗！[color:00]的声音。\\f\n这是蜜蜂一族的提示。"
   },
   {
     "key": "OceanRingZone_HoneyBee004",
@@ -443,13 +443,13 @@
   },
   {
     "key": "PeachCastleFinalGalaxy_Kinopio060",
-    "original": "[unk5:00]さん！　アナタに　[color:01]お祝いのお手紙[color:00]が\n届いています！[wait:001e]　　代わりに読みますね\f\nおめでとうございます！\f\n全てのパワースターを救ってくれたあなたに、\nギャラクシー級の感謝の気持ちを贈ります！\f\n最後の最後までプレイしてくれて、[wait:001e]\n本当にありがとう！\f\nそして、またいつか会いましょう！[wait:001e]　\nスーパーマリオギャラクシー　スタッフ一同",
+    "original": "[unk5:00]さん！　アナタに　[color:01]お祝いのお手紙[color:00]が\n届いています！[wait:001e]　　代わりに読みますね\\f\nおめでとうございます！\\f\n全てのパワースターを救ってくれたあなたに、\nギャラクシー級の感謝の気持ちを贈ります！\\f\n最後の最後までプレイしてくれて、[wait:001e]\n本当にありがとう！\\f\nそして、またいつか会いましょう！[wait:001e]　\nスーパーマリオギャラクシー　スタッフ一同",
     "translation": "[unk5:00]先生！这里有封给你的[color:01]祝贺信[color:00]！[wait:001e]",
     "untranslated": true
   },
   {
     "key": "PeachCastleFinalGalaxy_Kinopio061",
-    "original": "あれ？　お写真がついていたので、\n[color:01]本体のアルバム[color:00]に[color:03]　送っておきました！\f\nどんな内容か　楽しみですね～♪",
+    "original": "あれ？　お写真がついていたので、\n[color:01]本体のアルバム[color:00]に[color:03]　送っておきました！\\f\nどんな内容か　楽しみですね～♪",
     "translation": "祝贺你～！",
     "untranslated": true
   },
@@ -461,8 +461,8 @@
   },
   {
     "key": "PhantomSpaceGraveyardZone_Kinopio015",
-    "original": "助けて！　はなれないよー！\f\nボクに　[icon:000a][color:01]ポインター[color:00]を合わせて\n[icon:0038][color:01]で　ひっぱってー[color:00]！\f\nそれか、 画面を直接 [color:01]タッチしてひっぱってー[color:00]！",
-    "translation": "帮帮忙！我被粘住啦——！\f\n用[icon:000a][color:01]光标[color:00]瞄准我，\n[color:01]按[color:00][icon:0049]把我[color:01]拉出来[color:00]吧！",
+    "original": "助けて！　はなれないよー！\\f\nボクに　[icon:000a][color:01]ポインター[color:00]を合わせて\n[icon:0038][color:01]で　ひっぱってー[color:00]！\\f\nそれか、 画面を直接 [color:01]タッチしてひっぱってー[color:00]！",
+    "translation": "帮帮忙！我被粘住啦——！\\f\n用[icon:000a][color:01]光标[color:00]瞄准我，\n[color:01]按[color:00][icon:0049]把我[color:01]拉出来[color:00]吧！",
     "untranslated": true
   },
   {
@@ -497,19 +497,19 @@
   },
   {
     "key": "PuffballBZone_Rabbit000",
-    "original": "ボクらの土地を荒らす　[color:03]モグラ[color:00]に\n困ってるんだピョン…\f\n[color:03]モグラ[color:00]は　さわると痛いから\n[color:01]近く[color:00]で[color:01]ヒップドロップ[color:00]して　やっつけてほしいピョン",
-    "translation": "[color:03]土拨鼠[color:00]在我们的花园里到处打洞！\n真是太糟糕了……扑悠～\f\n一旦碰到[color:03]土拨鼠[color:00]就会受伤，\n试试在他们[color:01]附近撞地[color:00]吧！扑悠～",
+    "original": "ボクらの土地を荒らす　[color:03]モグラ[color:00]に\n困ってるんだピョン…\\f\n[color:03]モグラ[color:00]は　さわると痛いから\n[color:01]近く[color:00]で[color:01]ヒップドロップ[color:00]して　やっつけてほしいピョン",
+    "translation": "[color:03]土拨鼠[color:00]在我们的花园里到处打洞！\n真是太糟糕了……扑悠～\\f\n一旦碰到[color:03]土拨鼠[color:00]就会受伤，\n试试在他们[color:01]附近撞地[color:00]吧！扑悠～",
     "untranslated": true
   },
   {
     "key": "PuffballBZone_Rabbit001",
-    "original": "[color:05]フワフワ草[color:00]は　風に乗って[icon:0047][color:01]がブルブル[color:00]した時に\n[icon:0047][color:01]をふると　いっぱい飛べる[color:00]んだピョン！\f\n[icon:003b]でも飛べる[color:00]んだピョン！",
+    "original": "[color:05]フワフワ草[color:00]は　風に乗って[icon:0047][color:01]がブルブル[color:00]した時に\n[icon:0047][color:01]をふると　いっぱい飛べる[color:00]んだピョン！\\f\n[icon:003b]でも飛べる[color:00]んだピョン！",
     "translation": "使用[color:05]飘飘草[color:00]，你可以乘风而行！扑悠～\n在[icon:0003][color:01]振动[color:00]时[color:01]挥动[color:00][icon:0003]可以[color:01]飞得更高[color:00]！",
     "untranslated": true
   },
   {
     "key": "PuffballZone_Rabbit000",
-    "original": "[color:05]フワフワ草[color:00]は　[icon:0047][color:01]ふって[color:00]フワフワ♪[wait:001e]\n[icon:003b]でもフワフワ♪\f\nでも、フワフワできるのは　[color:01]３回[color:00]だけだピョン！",
+    "original": "[color:05]フワフワ草[color:00]は　[icon:0047][color:01]ふって[color:00]フワフワ♪[wait:001e]\n[icon:003b]でもフワフワ♪\\f\nでも、フワフワできるのは　[color:01]３回[color:00]だけだピョン！",
     "translation": "乘[color:05]飘飘草[color:00]时，[color:01]挥动[color:00][icon:0003]可以飘飘♪[wait:001e]\n不过只能用[color:01]３次[color:00]喔！扑悠～",
     "untranslated": true
   },
@@ -526,7 +526,7 @@
   },
   {
     "key": "SoramameZone_SignBoard000",
-    "original": "[color:02]ノビノビ草[color:00]に　つかまったら、\n[icon:0047][color:01]をふって[color:00]クルクル！\f\n[icon:003b][color:01]でも[color:00]クルクル！",
+    "original": "[color:02]ノビノビ草[color:00]に　つかまったら、\n[icon:0047][color:01]をふって[color:00]クルクル！\\f\n[icon:003b][color:01]でも[color:00]クルクル！",
     "translation": "抓住[color:02]长长草[color:00]之后，\n[color:01]挥动[color:00][icon:0003]就可以绕上去！",
     "untranslated": true
   },
@@ -549,14 +549,14 @@
   },
   {
     "key": "TamakoroExBZone_SignBoard001",
-    "original": "ヘイ！　オレの名は[color:03]カン・バーン[color:00]！[wait:001e]\n…って　どっかで会った事、あったっけか？\f\nとにかく、ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]立てろ[color:00]！\f\n[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！",
-    "translation": "嘿！我的名字是[color:03]板告示[color:00]！[wait:001e]\n我们之前是不是在哪见过？\f\n不管怎样，在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，[color:01]\f\n倾斜[icon:0003]四处滚动[color:00]，按[icon:0049]可以[color:01]跳跃[color:00]！[wait:001e]\n有东西拦路的话，就把它碾碎！",
+    "original": "ヘイ！　オレの名は[color:03]カン・バーン[color:00]！[wait:001e]\n…って　どっかで会った事、あったっけか？\\f\nとにかく、ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]立てろ[color:00]！\\f\n[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！",
+    "translation": "嘿！我的名字是[color:03]板告示[color:00]！[wait:001e]\n我们之前是不是在哪见过？\\f\n不管怎样，在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，[color:01]\\f\n倾斜[icon:0003]四处滚动[color:00]，按[icon:0049]可以[color:01]跳跃[color:00]！[wait:001e]\n有东西拦路的话，就把它碾碎！",
     "untranslated": true
   },
   {
     "key": "TamakoroExBZone_SignBoard002",
-    "original": "ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]立てろ[color:00]！\f\nで、[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！",
-    "translation": "在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，\f\n[color:01]倾斜[icon:0003]四处滚动[color:00]，按[icon:0049]可以[color:01]跳跃[color:00]！[wait:001e]\n有东西拦路的话，就把它碾碎！",
+    "original": "ここは　[color:03]タマコロ[color:00]でしか進めねぇ[wait:001e]\n乗ったら　[icon:0047]/[icon:0044]を[color:01]立てろ[color:00]！\\f\nで、[icon:0047]/[icon:0044]を[color:01]かたむけて移動[color:00]、[icon:0039]で[color:01]ジャンプ[color:00]！[wait:001e]\nジャマするヤツは　ふみつぶせ！",
+    "translation": "在这里只有乘[color:03]星星球[color:00]才能前进。[wait:001e]\n乘上去后，\\f\n[color:01]倾斜[icon:0003]四处滚动[color:00]，按[icon:0049]可以[color:01]跳跃[color:00]！[wait:001e]\n有东西拦路的话，就把它碾碎！",
     "untranslated": true
   },
   {
@@ -588,7 +588,7 @@
   },
   {
     "key": "TeresaHouseZone_Kinopio002",
-    "original": "[color:03]黒いオバケ[color:00]は [icon:0047]ふってクルクル！[wait:001e]\n[color:01]ぶつけて[color:00]ドカーン！\f\n[icon:003b]でもクルクル！",
+    "original": "[color:03]黒いオバケ[color:00]は [icon:0047]ふってクルクル！[wait:001e]\n[color:01]ぶつけて[color:00]ドカーン！\\f\n[icon:003b]でもクルクル！",
     "translation": "挥动[icon:0003]旋转[color:03]黑色幽灵[color:00]！[wait:001e]\n[color:01]碰到[color:00]东西后就会轰隆！",
     "untranslated": true
   },
@@ -600,8 +600,8 @@
   },
   {
     "key": "TeresaMario2DGalaxy_SignBoard002",
-    "original": "ヘイ！　オレの名前は　[color:03]カワラ・バーン[color:00]！[wait:001e]\nオバケの操作、覚えてるか？\f\n[color:03]クリスタル[color:00]は[icon:0047]を[color:01]ふるか、[icon:003b]で[color:00]、\n[color:03]スケスケ[color:00]状態で　ぬけられるぜ\f\n[color:01]風[color:00]に乗れば　速く移動できるが\nカベには　ぶつかんなよ！",
-    "translation": "嗨！嗨！我叫[color:03]板宣传[color:00]！[wait:001e]\n幽灵的操作方法记住了吗？\f\n[color:01]挥动[color:00][icon:0003]就会变[color:03]透明[color:00]，\n能够穿越[color:03]水晶[color:00]。\f\n乘[color:01]风[color:00]就能够快速移动，\n但要小心别撞墙了哟！",
+    "original": "ヘイ！　オレの名前は　[color:03]カワラ・バーン[color:00]！[wait:001e]\nオバケの操作、覚えてるか？\\f\n[color:03]クリスタル[color:00]は[icon:0047]を[color:01]ふるか、[icon:003b]で[color:00]、\n[color:03]スケスケ[color:00]状態で　ぬけられるぜ\\f\n[color:01]風[color:00]に乗れば　速く移動できるが\nカベには　ぶつかんなよ！",
+    "translation": "嗨！嗨！我叫[color:03]板宣传[color:00]！[wait:001e]\n幽灵的操作方法记住了吗？\\f\n[color:01]挥动[color:00][icon:0003]就会变[color:03]透明[color:00]，\n能够穿越[color:03]水晶[color:00]。\\f\n乘[color:01]风[color:00]就能够快速移动，\n但要小心别撞墙了哟！",
     "untranslated": true
   },
   {

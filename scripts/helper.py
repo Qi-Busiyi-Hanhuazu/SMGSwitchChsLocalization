@@ -1,7 +1,7 @@
 import re
 
 WII_CONTROL_REPLACER = {
-  re.compile(r"\[1:0001\]"): r"\f",
+  re.compile(r"\[1:0001\]"): r"\\f",
   re.compile(r"\[1:0002\]"): r"[unk1]",
   re.compile(r"\[1:0000([0-9a-f]{2})([0-9a-f]{2})\]"): r"[wait:\1\2]",
   re.compile(r"\[3:([0-9a-f]{2})([0-9a-f]{2})\]"): r"[icon:\1\2]",
@@ -14,7 +14,7 @@ WII_CONTROL_REPLACER = {
   re.compile(r"\[255:0002[0-9a-f]+\]"): "",
 }
 NSW_CONTROL_REPLACER = {
-  re.compile(r"\[1:0100\]"): r"\f",
+  re.compile(r"\[1:0100\]"): r"\\f",
   re.compile(r"\[1:0200\]"): r"[unk1]",
   re.compile(r"\[1:0000([0-9a-f]{2})([0-9a-f]{2})\]"): r"[wait:\2\1]",
   re.compile(r"\[3:([0-9a-f]{2})([0-9a-f]{2})\]"): r"[icon:\2\1]",

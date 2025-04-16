@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 from bmg import BMG
 from tbl import Tbl
@@ -18,6 +19,8 @@ FILE_LIST = {
     "platform": "wii",
   },
 }
+WII_RUBY_PATTERN = re.compile(r"\[255:0002[0-9a-f]+\]")
+NSW_RUBY_PATTERN = re.compile(r"\[255:0200[0-9a-f]+\]")
 
 for folder, config in FILE_LIST.items():
   input_folder = f"unpacked/{folder}/Message"
@@ -29,6 +32,10 @@ for folder, config in FILE_LIST.items():
   output = []
   for i, message in enumerate(bmg.messages):
     text = str(message)
+    if config["platform"] == "wii":
+      text = WII_RUBY_PATTERN.sub("", text)
+    elif config["platform"] == "nsw":
+      text = NSW_RUBY_PATTERN.sub("", text)
 
     item = {
       "index": i,

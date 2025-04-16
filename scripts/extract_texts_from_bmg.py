@@ -3,6 +3,7 @@ import os
 import re
 
 from bmg import BMG
+from helper import CONTROL_REPLACERS
 from tbl import Tbl
 
 FILE_LIST = {
@@ -19,11 +20,10 @@ FILE_LIST = {
     "platform": "wii",
   },
 }
-WII_RUBY_PATTERN = re.compile(r"\[255:0002[0-9a-f]+\]")
-NSW_RUBY_PATTERN = re.compile(r"\[255:0200[0-9a-f]+\]")
 
 for folder, config in FILE_LIST.items():
   input_folder = f"unpacked/{folder}/Message"
+  control_replacer = CONTROL_REPLACERS[config["platform"]]
 
   bmg = BMG.fromFile(f"{input_folder}/message.bmg")
   with open(f"{input_folder}/messageid.tbl", "rb") as reader:
@@ -32,10 +32,8 @@ for folder, config in FILE_LIST.items():
   output = []
   for i, message in enumerate(bmg.messages):
     text = str(message)
-    if config["platform"] == "wii":
-      text = WII_RUBY_PATTERN.sub("", text)
-    elif config["platform"] == "nsw":
-      text = NSW_RUBY_PATTERN.sub("", text)
+    for pattern, replacement in control_replacer.items():
+      text = pattern.sub(replacement, text)
 
     item = {
       "index": i,

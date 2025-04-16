@@ -4,9 +4,7 @@ import re
 
 from xzonn_mt_tools.helper import TranslationItem
 
-WII_RUBY_PATTERN = re.compile(r"\[255:0002[0-9a-f]+\]")
-NSW_RUBY_PATTERN = re.compile(r"\[255:0200[0-9a-f]+\]")
-CONTROL_PATTERN = re.compile(r"\[\d+:[0-9a-f]+\]")
+CONTROL_PATTERN = re.compile(r"\[[^\[\]]+\]")
 wii_control_to_nsw = {}
 different_key = set()
 
@@ -35,9 +33,6 @@ for key, item in nsw_dict.items():
   wii_item = wii_dict[key]
   wii_text = wii_item["original"]
 
-  wii_text = WII_RUBY_PATTERN.sub("", wii_text)
-  nsw_text = NSW_RUBY_PATTERN.sub("", nsw_text)
-
   wii_controls = CONTROL_PATTERN.findall(wii_text)
   nsw_controls = CONTROL_PATTERN.findall(nsw_text)
 
@@ -60,27 +55,51 @@ for key, item in nsw_dict.items():
 output = []
 for key, item in nsw_dict.items():
   key = item["key"]
-  text = item["original"]
+  nsw_text = item["original"]
+  if not nsw_text.strip():
+    continue
+  text = nsw_text
   translated = False
 
   if key in chs_dict:
-    text = chs_dict[key]["translation"]
+    chs_text = chs_dict[key]["translation"]
     translated = True
 
-    controls = CONTROL_PATTERN.findall(text)
-    for control in controls:
-      if control in wii_control_to_nsw:
-        text = text.replace(control, wii_control_to_nsw[control], 1)
+    wii_item = wii_dict[key]
+    wii_text = wii_item["original"]
+
+    if wii_text == nsw_text:
+      continue
+    else:
+      wii_controls = CONTROL_PATTERN.findall(wii_text)
+      nsw_controls = CONTROL_PATTERN.findall(nsw_text)
+
+      wii_text_without_controls = CONTROL_PATTERN.split(wii_text)
+      nsw_text_without_controls = CONTROL_PATTERN.split(nsw_text)
+
+      chs_controls = CONTROL_PATTERN.findall(chs_text)
+      if wii_text_without_controls == nsw_text_without_controls:
+        for i, (wii_control, nsw_control) in enumerate(zip(wii_controls, nsw_controls)):
+          if wii_control not in chs_controls:
+            print(f"Control {wii_control} not found in chs_controls")
+            translated = False
+          else:
+            chs_text = chs_text.replace(wii_control, nsw_control, 1)
       else:
-        print(f"Control {control} not found in wii_control_to_nsw")
-        translated = False
+        for control in chs_controls:
+          if control in wii_control_to_nsw:
+            chs_text = chs_text.replace(control, wii_control_to_nsw[control], 1)
+          else:
+            print(f"Control {control} not found in wii_control_to_nsw")
+            translated = False
+    text = chs_text
 
   if key in different_key:
     translated = False
 
   new_item: TranslationItem = {
     "key": key,
-    "original": item["original"],
+    "original": nsw_text,
     "translation": text,
   }
   if not translated:

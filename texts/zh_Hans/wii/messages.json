@@ -1870,7 +1870,7 @@
     "index": 305,
     "key": "BombTimeAttackZone_Caretaker003",
     "original": "哎！不行不行！\n动作再利索点！",
-    "translation": "哎！不行不行！\n动作再利索点！"
+    "translation": "哎！不行不行！[wait:001e]\n动作再利索点！"
   },
   {
     "index": 306,
@@ -2652,7 +2652,7 @@
     "index": 432,
     "key": "DiskGardenZone_Tico004",
     "original": "我的朋友们在前面……\n快去！快去！",
-    "translation": "我的朋友们在前面……\n快去！快去！"
+    "translation": "我的朋友们在前面……[wait:001e]\n快去！快去！"
   },
   {
     "index": 433,

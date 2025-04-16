@@ -62,7 +62,7 @@
   {
     "key": "AstroGalaxy_SignBoard004",
     "original": "もし　お休みしたい時は\n[icon:0040]を　押しましょう\\f\n[color:01]「セーブしてやめる」[color:00]を選ぶと　[color:01]冒険を記録[color:00]して、\nお休みすることが　できます\\f\n操作に迷った時は\n[icon:0041]を　押しましょう\\f\n基本的な操作や特別なアクションを\n確認することができます",
-    "translation": "如果需要休息，请按[icon:0040]。\\f\n可以选择[color:01]“保存后退出”[color:00]来[color:01]保存冒险进度[color:00]，\n并休息一会儿。\\f\n不知道该怎么操作的时候 ，\n请按[icon:0041]\\f\n可以确认基本操作和特殊动作。",
+    "translation": "如果需要休息，请按[icon:0040]。\\f\n可以选择[color:01]“保存后退出”[color:00]来[color:01]保存冒险进度[color:00]，\n并休息一会儿。\\f\n不知道该怎么操作的时候，\n请按[icon:0041]\\f\n可以确认基本操作和特别动作。",
     "untranslated": true
   },
   {
@@ -450,13 +450,13 @@
   {
     "key": "PeachCastleFinalGalaxy_Kinopio061",
     "original": "あれ？　お写真がついていたので、\n[color:01]本体のアルバム[color:00]に[color:03]　送っておきました！\\f\nどんな内容か　楽しみですね～♪",
-    "translation": "哎呀？有一张照片，\n已经[color:03]发送到[color:01]主机的相册[color:00]里了！\\f\n会是什么内容呢？敬请期待～♪",
+    "translation": "哎呀？有一张照片，\n已经[color:03]发送到[color:01]主机[color:00]里了！\\f\n会是什么内容呢？敬请期待～♪",
     "untranslated": true
   },
   {
     "key": "PeachCastleFinalGalaxy_Kinopio062",
     "original": "あれれ？　お写真もあったのですが、\n[color:01]本体のアルバム[color:00]の　　調子が悪いみたいです…",
-    "translation": "哎呀呀？好像有照片，但是\n[color:01]主机的相册[color:00]貌似有问题……",
+    "translation": "哎呀呀？好像有照片，但是\n[color:01]主机[color:00]貌似有问题……",
     "untranslated": true
   },
   {
@@ -2074,7 +2074,7 @@
   {
     "key": "RaceName_TeresaPhantom",
     "original": "テレサレース・ブルースターカップ",
-    "translation": "嘘嘘鬼竞速·蓝色星星杯"
+    "translation": "嘘嘘鬼竞速・蓝色星星杯"
   },
   {
     "key": "ReverseForestHomeZone_HoneyBee009",
@@ -4074,7 +4074,7 @@
   {
     "key": "Common_TicoFat002",
     "original": "キラリン♪　キラリン♪　[icon:000b][color:01]スターピース　[color:00]欲しい♪[color:01]\n[placeholder6:0003,00000000]コ[color:00]食べたら、だーい　へーん　しーん♪",
-    "translation": "晶铃♪　晶铃♪　晶铃♪\n我想要吃[icon:000b][color:01]星之碎屑[color:00]♪\\f\n吃到[color:01][placeholder6:0003,00000000]个[color:00]，就能大 · 变 · 身♪"
+    "translation": "晶铃♪　晶铃♪　晶铃♪\n我想要吃[icon:000b][color:01]星之碎屑[color:00]♪\\f\n吃到[color:01][placeholder6:0003,00000000]个[color:00]，就能大 ・ 变 ・ 身♪"
   },
   {
     "key": "ConfirmEndGame_Yes",
@@ -4814,7 +4814,7 @@
   {
     "key": "AstroGalaxy_TicoComet001",
     "original": "プルリン♪　プルリン♪[wait:001e]　[color:01]いたずらコメット[color:00]の事なら、\nボクに　オ ・ マ ・ カ ・ セ ！\\f\nじゃ、今日は　どうしようか？",
-    "translation": "卟铃♪　卟铃♪　卟铃♪[wait:001e]\n[color:01]淘气彗星[color:00]的事情就交 · 给 · 我 · 吧！\\f\n今天想知道些什么吗？"
+    "translation": "卟铃♪　卟铃♪　卟铃♪[wait:001e]\n[color:01]淘气彗星[color:00]的事情就交 ・ 给 ・ 我 ・ 吧！\\f\n今天想知道些什么吗？"
   },
   {
     "key": "AstroGalaxy_TicoComet002",
@@ -4829,12 +4829,12 @@
   {
     "key": "AstroGalaxy_TicoComet007",
     "original": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n違う姿に　変えてしまう　やっかい者さ～\\f\n[color:01]「レッドコメット」[color:00]は　いられる時間が決まってる～[wait:001e]\n「デスコメット」は　体力が1に　なっちゃうし～\\f\n[color:03]「シャドウコメット」[color:00]は　分身と勝負で～[wait:001e]\n[color:04]「クイックコメット」[color:00]は　敵の動きが　速くなる～\\f\nあとは　行ってみての　オ　・　タ　・　ノ　・　シ　・　ミ　♪",
-    "translation": "[color:01]淘气彗星[color:00]总是到处捣乱，\n把[color:03]银河[color:00]弄得一团糟～\\f\n[color:01]“红色彗星”[color:00]限制你在银河停留的时间。[wait:001e]\n“死神彗星”只让你保留1格体力。\\f\n[color:03]“影子彗星”[color:00]让你和分身一决胜负。[wait:001e]\n[color:04]“极速彗星”[color:00]让敌人加快移动速度。\\f\n体验不同的彗星正是乐 · 趣 · 所 · 在 ♪"
+    "translation": "[color:01]淘气彗星[color:00]总是到处捣乱，\n把[color:03]银河[color:00]弄得一团糟～\\f\n[color:01]“红色彗星”[color:00]限制你在银河停留的时间。[wait:001e]\n“死神彗星”只让你保留1格体力。\\f\n[color:03]“影子彗星”[color:00]让你和分身一决胜负。[wait:001e]\n[color:04]“极速彗星”[color:00]让敌人加快移动速度。\\f\n体验不同的彗星正是乐 ・ 趣 ・ 所 ・ 在 ♪"
   },
   {
     "key": "AstroGalaxy_TicoComet008",
     "original": "[color:01]いたずらコメット[color:00]は　[color:03]ギャラクシー[color:00]を\n違う姿に　変えてしまう　やっかい者さ～\\f\n[color:01]「レッドコメット」[color:00]は　いられる時間が決まってる～[wait:001e]\n「デスコメット」は　体力が1に　なっちゃうし～\\f\n[color:03]「シャドウコメット」[color:00]は　分身と勝負で～[wait:001e]\n[color:04]「クイックコメット」[color:00]は　敵の動きが　速くなる～\\f\n[color:05]「パープルコメット」[color:00]は　[color:05][icon:001e]パープルコイン[color:00]を、\nとにかく[color:01]100枚[color:00]集めまショ～\\f\nあとは　行ってみての　オ　・　タ　・　ノ　・　シ　・　ミ　♪",
-    "translation": "[color:01]淘气彗星[color:00]总是到处捣乱，\n把[color:03]银河[color:00]弄得一团糟～\\f\n[color:01]“红色彗星”[color:00]限制你在银河停留的时间。[wait:001e]\n“死神彗星”只让你保留1格体力。\\f\n[color:03]“影子彗星”[color:00]让你和分身一决胜负。[wait:001e]\n[color:04]“极速彗星”[color:00]让敌人加快移动速度。\\f\n[color:05]“紫色彗星”[color:00]让你收集[color:01]100[color:00]枚[color:05][icon:001e]紫色硬币[color:00]。\\f\n体验不同的彗星正是乐 · 趣 · 所 · 在 ♪"
+    "translation": "[color:01]淘气彗星[color:00]总是到处捣乱，\n把[color:03]银河[color:00]弄得一团糟～\\f\n[color:01]“红色彗星”[color:00]限制你在银河停留的时间。[wait:001e]\n“死神彗星”只让你保留1格体力。\\f\n[color:03]“影子彗星”[color:00]让你和分身一决胜负。[wait:001e]\n[color:04]“极速彗星”[color:00]让敌人加快移动速度。\\f\n[color:05]“紫色彗星”[color:00]让你收集[color:01]100[color:00]枚[color:05][icon:001e]紫色硬币[color:00]。\\f\n体验不同的彗星正是乐 ・ 趣 ・ 所 ・ 在 ♪"
   },
   {
     "key": "AstroGalaxy_TicoComet009",
@@ -7494,7 +7494,7 @@
   {
     "key": "RaceName_TeresaDeathPromenade",
     "original": "テレサレース・デスプロムナード",
-    "translation": "嘘嘘鬼竞速·死亡散步小径"
+    "translation": "嘘嘘鬼竞速・死亡散步小径"
   },
   {
     "key": "ReverseForestHomeZone_HoneyBee036",

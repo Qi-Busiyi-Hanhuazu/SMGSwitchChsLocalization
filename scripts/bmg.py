@@ -320,10 +320,29 @@ class BMG:
       FLI1len += 1
 
     # Pack section headers
-    struct.pack_into(se + "4sIHHI", INF1, 0, b"INF1", len(INF1), len(self.messages), inf1EntryLen, self.id)
-    struct.pack_into(se + "4sI", DAT1, 0, b"DAT1", len(DAT1))
-    struct.pack_into(se + "4sIHH", FLW1, 0, b"FLW1", len(FLW1), instructionsCount, labelsCount)
-    struct.pack_into(se + "4sIHH", FLI1, 0, b"FLI1", FLI1len, len(self.scripts), 8)
+    struct.pack_into(
+      se + "4sIHHI",
+      INF1,
+      0,
+      b"INF1" if self.magic_endianness == ">" else b"1FNI",
+      len(INF1),
+      len(self.messages),
+      inf1EntryLen,
+      self.id,
+    )
+    struct.pack_into(se + "4sI", DAT1, 0, b"DAT1" if self.magic_endianness == ">" else b"1TAD", len(DAT1))
+    struct.pack_into(
+      se + "4sIHH",
+      FLW1,
+      0,
+      b"FLW1" if self.magic_endianness == ">" else b"1WLF",
+      len(FLW1),
+      instructionsCount,
+      labelsCount,
+    )
+    struct.pack_into(
+      se + "4sIHH", FLI1, 0, b"FLI1" if self.magic_endianness == ">" else b"1ILF", FLI1len, len(self.scripts), 8
+    )
 
     # Insert the sections
     numSections = 2
@@ -344,7 +363,7 @@ class BMG:
       se + "8sIIB3I",
       data,
       0,
-      b"MESGbmg1",
+      b"MESGbmg1" if self.magic_endianness == ">" else b"GSEM1gmb",
       totalLen,
       numSections,
       _ENCODINGS.index(self.encoding.lower()),

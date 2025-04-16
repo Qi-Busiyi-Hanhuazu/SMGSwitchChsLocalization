@@ -2,15 +2,16 @@ import struct
 
 
 class RarcFile:
-  def __init__(self, name: str, data: bytes):
+  def __init__(self, name: str, header_offset: int, data: bytes):
     self.name = name
+    self.header_offset = header_offset
     self.data = data
 
 
 class Rarc:
   def __init__(self, data: bytes):
     self.data = data
-    self.files = []
+    self.files: list[RarcFile] = []
 
     magic = data[:4]
     if magic == b"RARC":
@@ -19,6 +20,8 @@ class Rarc:
       endianess = "<"
     else:
       raise ValueError("Invalid RARC magic number")
+
+    self.endianess = endianess
 
     file_size, header_size, data_offset, data_size, unk_1, _2, _3 = struct.unpack_from(f"{endianess}IIIIIII", data, 4)
     assert data_size == unk_1
@@ -37,7 +40,6 @@ class Rarc:
     offset = dir_offset + header_size
     for i in range(dir_count):
       index, name_hash, temp_1, file_offset, file_length, _1 = struct.unpack_from(f"{endianess}HHIIII", data, offset)
-      offset += 0x14
       file_name_offset = temp_1 & 0xFFFFFF
       file_type = temp_1 >> 24
       file_name = data[
@@ -48,9 +50,29 @@ class Rarc:
         continue
 
       file = RarcFile(
-        file_name, data[data_offset + file_offset + header_size : data_offset + file_offset + header_size + file_length]
+        file_name,
+        offset,
+        data[data_offset + file_offset + header_size : data_offset + file_offset + header_size + file_length],
       )
       self.files.append(file)
+      offset += 0x14
+
+  def save(self) -> bytes:
+    file_size, header_size, data_offset, data_size, unk_1, _2, _3 = struct.unpack_from(
+      f"{self.endianess}IIIIIII", self.data, 4
+    )
+    assert data_size == unk_1
+    output = bytearray(self.data[: data_offset + header_size])
+    offset = 0
+    for file in self.files:
+      output[file.header_offset + 0x08 : file.header_offset + 0x10] = struct.pack(
+        f"{self.endianess}II", offset, len(file.data)
+      )
+      zeros = b"\0" * ((0x20 - len(file.data) % 0x20) % 0x20)
+      output += file.data + zeros
+      offset += len(file.data) + len(zeros)
+
+    return bytes(output)
 
 
 if __name__ == "__main__":

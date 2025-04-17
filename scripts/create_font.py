@@ -14,6 +14,8 @@ class FontConfig(TypedDict):
   size: int
   font: str
   draw: Callable[[ImageFont.FreeTypeFont, str], Image.Image]
+  char_width: int
+  char_length: int
 
 
 def draw_message_font(font: ImageFont.FreeTypeFont, char: str) -> Image.Image:
@@ -30,13 +32,35 @@ def draw_message_font(font: ImageFont.FreeTypeFont, char: str) -> Image.Image:
   return tile
 
 
+def draw_cinema_font(font: ImageFont.FreeTypeFont, char: str) -> Image.Image:
+  tile = Image.new("L", (27, 27))
+  draw = ImageDraw.Draw(tile)
+  x, y = 0, 23
+  draw.text(
+    (x, y),
+    char + "　　黑鼠龙龟",
+    0xFF,
+    font,
+    "ls",
+  )
+  return tile
+
+
 FONT_CONFIG: dict[str, FontConfig | None] = {
   "messagefont26.brfnt": {
-    "size": 26,
+    "size": 27,
     "font": "files/fonts/DFFangYuanGB-W7.ttf",
     "draw": draw_message_font,
+    "char_width": 26,
+    "char_length": 25,
   },
-  "cinemafont26.brfnt": None,
+  "cinemafont26.brfnt": {
+    "size": 27,
+    "font": "files/fonts/DFFangYuanGB-W7.ttf",
+    "draw": draw_cinema_font,
+    "char_width": 26,
+    "char_length": 25,
+  },
   "menufont64.brfnt": None,
 }
 
@@ -88,12 +112,19 @@ def replace_font(font: brfnt.BRFNT, font_name: str, font_config: FontConfig) -> 
       new_image = font_config["draw"](ttf, char)
       new_tiles.append(new_image)
       new_char_codes.append(char_code)
-      new_cwdh_info.append(brfnt.CWDHInfo(font.finf.default_start, font.finf.default_width, font.finf.default_length))
+      new_cwdh_info.append(
+        brfnt.CWDHInfo(
+          font.finf.default_start,
+          font_config.get("char_width", font.finf.default_width),
+          font_config.get("char_length", font.finf.default_length),
+        )
+      )
 
   new_char_map = dict(zip(range(len(new_char_codes)), new_char_codes))
   font.cmaps = brfnt.BRFNT.compress_cmap(new_char_map)
   font.char_map = new_char_map
   font.cwdhs[0].info = new_cwdh_info
+  font.cwdhs[0].last_index = len(new_tiles)
   new_images = [
     get_blank_image(image_width, image_height, image_format) for _ in range(math.ceil(len(new_tiles) / char_per_image))
   ]

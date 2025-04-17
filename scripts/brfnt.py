@@ -204,7 +204,7 @@ class CWDH:
 
     first_code, last_code, next_offset = struct.unpack_from(f"{endianess}2HI", data, offset + 0x08)
     self.first_code: int = first_code
-    self.last_code: int = last_code
+    self.last_index: int = last_code
     self.cwdh_offset: int = next_offset
 
     self.info: list[CWDHInfo] = []
@@ -223,7 +223,7 @@ class CWDH:
       b"CWDH" if magic_endinaness == ">" else b"HDWC",
       0x10 + len(body),
       self.first_code,
-      self.last_code,
+      self.last_index,
       0,
     )
     return bytes(head + body)

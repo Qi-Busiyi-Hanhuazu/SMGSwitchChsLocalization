@@ -1,0 +1,41 @@
+import os
+import struct
+
+from helper import DIR_HAR, DIR_HAR_EXTRACTED, DIR_ORIGINAL_FILES_NSW
+
+
+def extract_har(input_root: str, output_root: str):
+  for file_name in os.listdir(input_root):
+    if not file_name.endswith(".har"):
+      continue
+
+    har_path = f"{input_root}/{file_name}"
+    hix_path = f"{input_root}/{file_name.removesuffix('.har')}.hix"
+    output_file_root = f"{output_root}/{file_name.removesuffix('.har')}"
+
+    if not os.path.exists(hix_path):
+      continue
+
+    os.makedirs(output_file_root, exist_ok=True)
+
+    har_reader = open(har_path, "rb")
+    hix_reader = open(hix_path, "rb")
+
+    hix_magic, hix_file_file_count = struct.unpack("<4sI", hix_reader.read(8))
+    assert hix_magic == b"HIDX"
+
+    har_magic, har_file_count, file_size = struct.unpack("<4sII", har_reader.read(12))
+    assert har_magic == b"HARC"
+
+    assert hix_file_file_count == har_file_count
+
+    for i in range(har_file_count):
+      hash, _1, offset, size = struct.unpack("<QBII", hix_reader.read(0x11))
+      assert _1 == 0
+      har_reader.seek(offset + 0x0C)
+      with open(f"{output_file_root}/{hash:08x}.png", "wb") as writer:
+        writer.write(har_reader.read(size))
+
+
+if __name__ == "__main__":
+  extract_har(f"{DIR_ORIGINAL_FILES_NSW}/{DIR_HAR}", DIR_HAR_EXTRACTED)

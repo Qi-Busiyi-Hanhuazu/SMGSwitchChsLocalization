@@ -260,7 +260,7 @@ class CMAP:
     elif self.type_section == 1:
       length = last_char_code - first_char_code + 1
       for i in range(length):
-        (char_index,) = struct.unpack_from(f"{endianess}H", data, offset + 0x14)
+        (char_index,) = struct.unpack_from(f"{endianess}H", data, offset + 0x14 + 2 * i)
         if char_index == 0xFFFF:
           continue
         self.index_map[first_char_code + i] = char_index

@@ -510,7 +510,7 @@
   {
     "key": "PuffballZone_Rabbit000",
     "original": "[color:05]フワフワ草[color:00]は　[icon:0047][color:01]ふって[color:00]フワフワ♪[wait:001e]\n[icon:003b]でもフワフワ♪\\f\nでも、フワフワできるのは　[color:01]３回[color:00]だけだピョン！",
-    "translation": "乘[color:05]飘飘草[color:00]时，[color:01]挥动[color:00][icon:0047]可以飘飘♪[wait:001e]\n[icon:003b]也可以飘飘♪\\f\n不过只能用[color:01]３次[color:00]喔！扑悠～",
+    "translation": "乘[color:05]飘飘草[color:00]时，[color:01]挥动[color:00][icon:0047]可以飘飘♪[wait:001e]\n[icon:003b]也可以飘飘♪\\f\n不过只能用[color:01]3次[color:00]喔！扑悠～",
     "untranslated": true
   },
   {
@@ -2849,7 +2849,7 @@
   {
     "key": "InformationObserverOneUp",
     "original": "[unk5:00]の残り人数が　[color:01]一人増えた[color:00]！",
-    "translation": "[unk5:00]的剩余人数[color:01]增加了１人[color:00]！"
+    "translation": "[unk5:00]的剩余人数[color:01]增加了1人[color:00]！"
   },
   {
     "key": "Layout_StoryDemoKameckTalk000",
@@ -4034,7 +4034,7 @@
   {
     "key": "AstroGalaxy_Rosetta072",
     "original": "[icon:0007][color:04]パワースター[color:00]を取りもどし、\n足元の数字が　０になった時\\f\n[color:03]ほうき星の天文台[color:00]は、あなたの[color:01]大切な人[color:00]の待つ\n[color:03]銀河の中心[color:00]に　近づくことができるでしょう",
-    "translation": "当你救出了剩下的[color:04][icon:0007]力量之星[color:00]，\n星盘上的数字会下降至０。\\f\n[color:03]长尾星天文台[color:00]就能够到达\n你[color:01]重要的人[color:00]所在的[color:03]银河中心[color:00]了。"
+    "translation": "当你救出了剩下的[color:04][icon:0007]力量之星[color:00]，\n星盘上的数字会下降至0。\\f\n[color:03]长尾星天文台[color:00]就能够到达\n你[color:01]重要的人[color:00]所在的[color:03]银河中心[color:00]了。"
   },
   {
     "key": "AstroGalaxy_Tico029",
@@ -4134,7 +4134,7 @@
   {
     "key": "HeavenlyBeachZone_Penguin009",
     "original": "[icon:0015][color:04]キラキラ[color:00]？　海に[color:01]５コ[color:00]、あるよな",
-    "translation": "[icon:0015][color:04]亮晶晶[color:00]？海里一共有[color:01]５个[color:00]喔！"
+    "translation": "[icon:0015][color:04]亮晶晶[color:00]？海里一共有[color:01]5个[color:00]喔！"
   },
   {
     "key": "HeavenlyBeachZone_Penguin031",
@@ -4639,7 +4639,7 @@
   {
     "key": "AstroGalaxy_Rosetta062",
     "original": "そして　０になった時、この[color:03]ほうき星の天文台[color:00]は\n[color:03]星船[color:00]としての力を取りもどし\\f\n[color:03]銀河の中心[color:00]に　近づくことができるでしょう",
-    "translation": "当数字到达０时，\n[color:03]长尾星天文台[color:00]将恢复[color:03]星船[color:00]的功能。\\f\n我们就能前往[color:03]银河中心[color:00]了！"
+    "translation": "当数字到达0时，\n[color:03]长尾星天文台[color:00]将恢复[color:03]星船[color:00]的功能。\\f\n我们就能前往[color:03]银河中心[color:00]了！"
   },
   {
     "key": "AstroGalaxy_Rosetta071",
@@ -4704,7 +4704,7 @@
   {
     "key": "AstroGalaxy_Tico005",
     "original": "アナタに与えられた[color:01]試練[color:00]は　[color:01]３つ[color:00]\\f\n真に[color:03]ギャラクシー[color:00]を救う者ならば\nこの試練、超えられるはず…",
-    "translation": "你可以尝试这[color:01]３[color:00]项[color:01]挑战[color:00]。\\f\n如果你真是拯救[color:03]银河[color:00]的人，\n一定会全部通过的……"
+    "translation": "你可以尝试这[color:01]3[color:00]项[color:01]挑战[color:00]。\\f\n如果你真是拯救[color:03]银河[color:00]的人，\n一定会全部通过的……"
   },
   {
     "key": "AstroGalaxy_Tico006",
@@ -5734,7 +5734,7 @@
   {
     "key": "GhostShipCaveZone_SyatiRing000",
     "original": "ケッ…[wait:001e]　ニンゲンのクセに　いまいましい！\\f\n[color:03]海[color:00]を返して欲しいなら、\n[color:01]リングを８つ[color:00]、くぐってみな！",
-    "translation": "咦……[wait:001e]地上走的来凑什么热闹！\\f\n要想把[color:03]海[color:00]夺回去，\n除非跟本大爷钻过[color:01]８个环[color:00]！"
+    "translation": "咦……[wait:001e]地上走的来凑什么热闹！\\f\n要想把[color:03]海[color:00]夺回去，\n除非跟本大爷钻过[color:01]8个环[color:00]！"
   },
   {
     "key": "GhostShipCaveZone_SyatiRing002",
@@ -5864,12 +5864,12 @@
   {
     "key": "HeavenlyBeachZone_Penguin066",
     "original": "[icon:001e][color:05]パープルコイン[color:00]なら\n[color:03]海の中[color:00]に[color:01]５枚[color:00]あったぞ",
-    "translation": "如果你是来找[icon:001e][color:05]紫色硬币[color:00]的，\n那么[color:03]海里[color:00]有[color:01]５枚[color:00]。"
+    "translation": "如果你是来找[icon:001e][color:05]紫色硬币[color:00]的，\n那么[color:03]海里[color:00]有[color:01]5枚[color:00]。"
   },
   {
     "key": "HeavenlyBeachZone_Penguin067",
     "original": "[icon:001e][color:05]パープルコイン[color:00]？　一番高い[color:02]ヤシの木[color:00]の\n[color:01]さらに高いところに　[color:00]１枚あったな",
-    "translation": "[icon:001e][color:05]紫色硬币[color:00]吗？\n我想在最高的[color:02]椰子树[color:01]顶上[color:00]有１枚。"
+    "translation": "[icon:001e][color:05]紫色硬币[color:00]吗？\n我想在最高的[color:02]椰子树[color:01]顶上[color:00]有1枚。"
   },
   {
     "key": "HeavenlyBeachZone_Penguin069",
@@ -6359,7 +6359,7 @@
   {
     "key": "Layout_RaceFth",
     "original": "th",
-    "translation": "第名"
+    "translation": "th"
   },
   {
     "key": "Layout_RaceGo",
@@ -6379,7 +6379,7 @@
   {
     "key": "Layout_RaceNd",
     "original": "nd",
-    "translation": "第名"
+    "translation": "nd"
   },
   {
     "key": "Layout_RaceOne",
@@ -6389,12 +6389,12 @@
   {
     "key": "Layout_RaceRd",
     "original": "rd",
-    "translation": "第名"
+    "translation": "rd"
   },
   {
     "key": "Layout_RaceRth",
     "original": "th",
-    "translation": "第名"
+    "translation": "th"
   },
   {
     "key": "Layout_RaceSecond",
@@ -6404,7 +6404,7 @@
   {
     "key": "Layout_RaceSt",
     "original": "st",
-    "translation": "第名"
+    "translation": "st"
   },
   {
     "key": "Layout_RaceThird",
@@ -6864,7 +6864,7 @@
   {
     "key": "OceanRingZone_SyatiRing000",
     "original": "なんだオメェ？[wait:001e]\nペンギンどもの　仲間か？！\\f\nこの[color:03]海[color:00]を　返してほしいなら、\nオレ様の出す[color:01]リングを８つ　[color:00]くぐってみろ！",
-    "translation": "哟呵？看看是谁来了？[wait:001e]\n那些企鹅的朋友啊？！\\f\n要想夺回这片[color:03]海[color:00]，\n除非跟着本大爷穿过[color:01]８个环[color:00]！"
+    "translation": "哟呵？看看是谁来了？[wait:001e]\n那些企鹅的朋友啊？！\\f\n要想夺回这片[color:03]海[color:00]，\n除非跟着本大爷穿过[color:01]8个环[color:00]！"
   },
   {
     "key": "OceanRingZone_SyatiRing001",
@@ -7334,7 +7334,7 @@
   {
     "key": "PictureBookChapter7_Page1_000",
     "original": "１００個目のほうき星が、そばを通りすぎた時\n女の子は思いました。\n「わたしの生まれた星は、今も青く光っているのかしら？」",
-    "translation": "在经过第１００颗长尾星时，\n一个念头突然从小女孩的脑袋里冒了出来。\n\n“不知道家乡的星球是否\n　还闪耀着蓝色的光芒呢？”"
+    "translation": "在经过第100颗长尾星时，\n一个念头突然从小女孩的脑袋里冒了出来。\n\n“不知道家乡的星球是否\n　还闪耀着蓝色的光芒呢？”"
   },
   {
     "key": "PictureBookChapter7_Page2_000",

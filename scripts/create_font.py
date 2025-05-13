@@ -81,7 +81,7 @@ FONT_CONFIG: dict[str, FontConfig | None] = {
     "font": "files/fonts/DFFangYuanGB-W7.ttf",
     "draw": draw_message_font,
     "char_width": 26,
-    "char_length": 25,
+    "char_length": 26,
     "hash_map": [
       "917685881c23eb0c",
       "f32da07026559e14",
@@ -96,14 +96,14 @@ FONT_CONFIG: dict[str, FontConfig | None] = {
     "font": "files/fonts/DFFangYuanGB-W7.ttf",
     "draw": draw_cinema_font,
     "char_width": 26,
-    "char_length": 25,
+    "char_length": 26,
     "hash_map": [],
   },
   "menufont64": {
     "size": 52,
     "font": "files/fonts/DFHaiBaoGB-W12.ttf",
     "draw": draw_menu_font,
-    "char_width": 59,
+    "char_width": 60,
     "char_length": 60,
     "hash_map": [
       "6562843e0fdea521",
@@ -126,7 +126,7 @@ FONT_CONFIG: dict[str, FontConfig | None] = {
 
 def filter_character(char: str):
   code = ord(char)
-  if code <= 0x80 or 0x2000 <= code <= 0x206F or 0x3000 <= code <= 0x303F or code >= 0xFF00:
+  if code <= 0x80 or 0x2000 <= code <= 0x206F or 0x2600 <= code <= 0x26FF or 0x3000 <= code <= 0x303F or code >= 0xFF00:
     return True
   if code == 0x30FB:
     return True
@@ -245,7 +245,7 @@ def get_characters(key_list: list[str] = []) -> set[str]:
       code = ord(char)
       if 0x4E00 <= code <= 0x9FFF:
         characters.add(char)
-      if 0x2000 <= code <= 0x206F or 0x3000 <= code <= 0x303F or 0xFF00 <= code <= 0xFFEF:
+      if 0x2000 <= code <= 0x206F or 0x2600 <= code <= 0x26FF or 0x3000 <= code <= 0x303F or 0xFF00 <= code <= 0xFFEF:
         characters.add(char)
 
   return characters

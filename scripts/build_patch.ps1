@@ -12,7 +12,7 @@ python scripts\convert_bmg_from_texts.py
 python scripts\create_font.py
 python scripts\import_arc.py
 
-New-Item -Path "temp\texture_replace" -ItemType Directory -Force
+New-Item -Path "temp\texture_replace" -ItemType Directory -Force | Out-Null
 Copy-Item -Path "files\images\*.png" -Destination "temp\texture_replace" -Force
 
 python scripts\replace_har.py

@@ -16,6 +16,9 @@
 
 ## 截图预览
 
+![截图](assets/images/screenshot-01.png)  
+![截图](assets/images/screenshot-02.png)
+
 ## 授权协议
 
 `scripts/bmg.py` 文件来自于 [ndspy](https://github.com/RoadrunnerWMC/ndspy)，对字节序相关的处理进行了修改，此文件按照 [GPL-3.0](LICENSE.ndspy.txt) 授权。

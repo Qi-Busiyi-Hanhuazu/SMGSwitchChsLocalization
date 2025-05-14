@@ -474,25 +474,25 @@
   {
     "key": "PointerGuidance_BlueStar",
     "original": "[icon:0009]をポイントし、　[icon:0038]またはタッチ",
-    "translation": "请点示[icon:0009]，[icon:0038]或点触",
+    "translation": "请点示[icon:0009]，按[icon:0038]或点触",
     "untranslated": true
   },
   {
     "key": "PointerGuidance_MarioLauncher",
     "original": "[icon:0021]でねらいを定め、[icon:0038]またはタッチ",
-    "translation": "请用[icon:0021]瞄准，[icon:0038]或点触",
+    "translation": "请用[icon:0021]瞄准，按[icon:0038]或点触",
     "untranslated": true
   },
   {
     "key": "PointerGuidance_StarPieceLecture",
     "original": "[icon:0034]　をポイントし、　[icon:003f]またはタッチ",
-    "translation": "将光标瞄准[icon:0034]，[icon:003f]或点触",
+    "translation": "将光标瞄准[icon:0034]，按[icon:003f]或点触",
     "untranslated": true
   },
   {
     "key": "PointerGuidance_TicoFat",
     "original": "[icon:0033]　をポイントし、　[icon:003f]またはタッチ",
-    "translation": "请点示[icon:0033]，[icon:003f]或点触",
+    "translation": "请点示[icon:0033]，按[icon:003f]或点触",
     "untranslated": true
   },
   {

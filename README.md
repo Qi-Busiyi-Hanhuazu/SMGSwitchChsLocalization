@@ -16,8 +16,8 @@
 
 补丁压缩包下载地址：
 
-- GitHub：https://github.com/Qi-Busiyi-Hanhuazu/SMGSwitchChsLocalization/releases/download/v1.0.0/SMGSwitchChsLocalization.v1.0.0.zip
-- 百度网盘：https://pan.baidu.com/s/1UUnXXwEMRAGTBoZBkF6QZA?pwd=smga
+- GitHub：<https://github.com/Qi-Busiyi-Hanhuazu/SMGSwitchChsLocalization/releases/download/v1.0.0/SMGSwitchChsLocalization.v1.0.0.zip>
+- 百度网盘：<https://pan.baidu.com/s/1UUnXXwEMRAGTBoZBkF6QZA?pwd=smga>
 
 ## 截图预览
 

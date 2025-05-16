@@ -18,5 +18,6 @@ Copy-Item -Path "files\images\*.png" -Destination "temp\texture_replace" -Force
 python scripts\replace_har.py
 
 Copy-Item -Path "files\romfs\data\" -Destination "out\010049900f546003\romfs\" -Recurse -Force
+New-Item -Path "out\010049900f546003\v1.0.0.txt" -ItemType "File" -Force | Out-Null
 
 Compress-Archive -Path "out\010049900f546003\" -Destination "out\patch-switch.zip" -Force

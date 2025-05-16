@@ -257,8 +257,6 @@ if __name__ == "__main__":
     if os.path.exists(f"files/fonts/keys_{font_name}.txt"):
       with open(f"files/fonts/keys_{font_name}.txt") as reader:
         characters = get_characters(reader.read().splitlines())
-      print(f"{font_name}: {len(characters)}")
-      print("".join(sorted(characters)))
     else:
       characters = full_characters
     with open(f"{DIR_FONT_EXTRACTED}/{font_name}.brfnt", "rb") as reader:

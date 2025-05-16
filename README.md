@@ -14,6 +14,11 @@
 
 需要一台能够运行 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) 自制固件（CFW）的 Nintendo Switch 主机。请下载补丁并解压，然后将 `010049900f546003` 文件夹移动到到 `SD:/atmosphere/contents/` 文件夹下。如果没有这个文件夹，请手动创建。
 
+补丁压缩包下载地址：
+
+- GitHub：https://github.com/Qi-Busiyi-Hanhuazu/SMGSwitchChsLocalization/releases/download/v1.0.0/SMGSwitchChsLocalization.v1.0.0.zip
+- 百度网盘：https://pan.baidu.com/s/1UUnXXwEMRAGTBoZBkF6QZA?pwd=smga
+
 ## 截图预览
 
 ![截图](assets/images/screenshot-01.png)  
